@@ -1,0 +1,3027 @@
+# @VGMT1.0 @GPOINT
+# @R-127.754117382/-97.3750879179/7.10619157222/30.0231964129             
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.2415	7.87214
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.14643	7.17954
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.78816	7.83156
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.88656	7.8216
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-105.08233	7.55487
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-104.71511	7.13486
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.13885	8.45456
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.00516	9.36452
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.47727	9.13134
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.48488	9.0737
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.08938	9.32781
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.08621	8.83123
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.12313	8.67895
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.19209	9.6308
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.37154	8.87803
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.89634	9.79669
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.67756	8.79458
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.44163	8.9435
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.35606	9.03094
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.0447	9.45362
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-105.21709	9.75838
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-105.32167	9.70179
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.64492	9.54611
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.21654	10.84344
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.21654	10.67951
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-105.71206	10.31962
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-105.36802	10.06886
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-105.71384	10.75884
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.29323	10.36198
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.70616	10.97698
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.15656	11.25396
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-105.72335	11.29502
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-108.2197	10.56924
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.69704	10.58335
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.77853	10.33398
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-111.15718	11.4246
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-110.91356	11.45098
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-113.26422	11.00046
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-113.64973	10.89735
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-114.58904	10.65859
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.01276	12.28787
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.27001	12.24287
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.62119	12.35331
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.6194	12.26742
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.35562	12.30774
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.31462	12.55652
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.76383	12.28144
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.03455	11.95097
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.65807	11.90041
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.70561	12.26532
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.77025	12.21108
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-105.48496	12.12807
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-105.77017	12.1725
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.22747	11.72551
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.04668	12.0214
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-105.4127	11.62804
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.21954	13.42345
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.51902	13.62578
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-107.67446	13.66413
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.21954	13.53859
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-106.97711	13.473
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-107.92831	13.73385
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.68049	13.38506
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.44162	13.70538
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.00904	13.60079
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-105.81058	13.54847
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.70307	13.76115
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-106.98234	13.8227
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-107.72628	13.97595
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.48099	13.92581
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.1972	13.87008
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-108.20116	13.80877
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.40926	13.3932
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.44313	13.57812
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-105.07056	13.77683
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.96182	13.23084
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-105.74617	13.18194
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-105.9476	13.22386
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.29339	12.82203
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-105.69091	12.80803
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-105.88699	12.80103
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.32729	12.79404
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.37543	13.09476
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.88161	12.83252
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-107.64499	14.23118
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.47576	13.96951
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-107.89681	14.48861
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-107.8166	14.49556
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.33533	14.47471
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-107.94435	14.38866
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-107.87732	14.3692
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-107.62633	14.28299
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.17775	14.80945
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.43203	14.49231
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.16108	14.49926
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-106.99173	14.49926
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.7493	14.50621
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.53717	14.50621
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.13786	14.49752
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-105.94891	14.49405
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.59952	14.4871
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-105.30183	14.48363
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-105.21091	14.48363
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-111.62553	13.38965
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-111.39261	13.44642
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-113.73209	13.24161
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.22646	13.4762
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-111.30562	12.2524
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-111.05629	12.18437
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-111.08838	12.30125
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-111.31774	12.28957
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-113.93637	12.5874
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-113.52459	12.58214
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.64585	14.69149
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.27792	14.85269
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.76635	15.01826
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.45915	15.22445
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-112.02341	14.53897
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-111.99489	14.46672
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-111.93024	14.30176
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.03608	14.119
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-113.74041	11.98045
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-109.35046	17.28751
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-109.31243	17.33774
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-109.49069	17.50431
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-110.12767	17.08647
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-110.09202	17.02474
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-110.33446	16.80509
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-110.4937	17.09561
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.67672	17.38796
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-110.26553	17.41306
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-109.90806	16.47284
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-110.00123	16.74785
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-110.30736	16.73136
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.87368	16.57189
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.9098	16.49302
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-109.15699	15.95753
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.81362	17.72391
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.92592	17.88613
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.95444	17.84345
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-111.35375	17.76661
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.58545	17.85199
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.27527	17.84687
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-110.13445	17.84516
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-109.72267	17.8554
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-109.91875	18.21693
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-109.74762	17.81272
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.36975	17.70341
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.66745	18.35997
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.52306	17.95609
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-111.06199	18.22545
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.89562	18.04081
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.34175	17.78472
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.37645	17.69521
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-109.0479	17.70944
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-109.29152	17.82046
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-109.17862	18.08207
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-109.39847	18.43689
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.57254	17.20472
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.5042	17.35315
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-109.63615	17.76639
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-109.38065	17.67242
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-109.51434	18.61601
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-109.7134	18.93296
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-109.40739	18.78305
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-109.80253	18.77173
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-109.95405	18.77173
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.01941	18.78022
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-109.95464	18.52137
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.04734	18.71399
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.14716	18.55538
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.30166	18.78871
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.19945	18.96292
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-109.83818	19.08499
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-109.23923	18.91995
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-108.87795	18.92674
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-108.71633	18.929
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.41686	18.39435
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.30277	17.8603
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-109.03958	18.31946
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.63108	19.27018
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.5208	19.46507
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.6596	19.69035
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.77559	19.4777
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.84404	19.35502
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.77559	19.02804
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.40671	18.83443
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.37058	18.88873
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.27171	19.06601
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-111.33972	19.76935
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-111.31714	19.92284
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-111.35517	20.02172
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.37177	20.02509
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.88991	19.77385
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.91249	19.87394
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-111.0248	19.55263
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-111.13235	19.46417
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.96894	19.10758
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.48051	19.52447
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-111.29575	20.4764
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-111.18214	20.39485
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.83228	20.38947
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.7315	20.3805
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.78379	20.28814
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.84844	20.36168
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.94161	20.202
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.88647	20.11132
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-111.27246	20.22623
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-111.39748	20.09516
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-111.68067	19.70037
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-111.18452	20.62695
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-111.85953	19.98869
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-111.5509	20.39507
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-111.12902	20.47013
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-111.17061	20.52611
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-111.23384	20.71139
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-111.42077	21.03196
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-111.2948	19.83774
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-109.92279	20.36369
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-109.79801	20.35529
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-109.68214	20.34968
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-109.53954	20.34688
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-109.56033	20.29644
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-109.69997	20.30765
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-109.11468	20.03834
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-109.39396	20.69954
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.10403	19.53354
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-109.87823	19.52509
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-109.48012	19.5279
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-109.26383	19.16186
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-109.08913	19.16355
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-109.79326	19.16016
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.08204	19.15339
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.22108	19.14661
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.69525	19.16016
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.69525	19.16016
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-108.26201	20.34066
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.51157	20.51878
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-108.12118	20.24311
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.78071	20.05625
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.69514	20.01076
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.68445	20.45159
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.53471	20.38941
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-108.07305	20.60105
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.4474	20.73694
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.61496	20.57755
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.69518	20.63629
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-108.82887	20.72688
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.87166	19.79494
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.94296	19.86916
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.7956	19.72519
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-108.37728	19.94335
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.70053	19.97257
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.8734	19.85792
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.66187	20.08488
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.32198	20.09162
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-107.22216	20.09387
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-107.1461	20.09611
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.06054	20.09611
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-106.66123	20.10958
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-106.68738	20.01975
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-106.76344	19.71843
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.15799	19.72744
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-107.25306	19.73194
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-107.33625	19.73194
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.43845	19.73194
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.46697	19.62477
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-107.36477	19.65855
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-107.26969	19.67881
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.177	19.68557
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.23642	19.44676
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.26613	19.34865
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-106.85613	19.31819
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-106.83831	19.39264
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-106.58518	19.30127
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-106.57092	19.34865
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-106.38196	19.28096
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-106.38196	19.28096
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.54422	20.7669
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.41943	20.65956
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.19554	20.46257
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-107.07385	20.3568
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-107.13089	20.407
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.0092	20.29941
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-106.88751	20.68282
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-108.18429	20.63808
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.48852	20.60944
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-108.39701	19.88828
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-108.96744	20.40902
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.80202	20.05187
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.86667	20.10756
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.68524	17.32262
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.69415	17.55362
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-106.96154	16.48746
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-106.33763	16.8111
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.62879	16.3613
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.74466	16.19486
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.01502	16.18912
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.74763	16.27523
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.62582	16.29244
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-106.32575	16.37277
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.12669	16.45019
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-106.03459	16.476
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.6543	16.58776
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.66322	16.75672
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-106.03162	16.83113
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.11778	16.81968
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.64662	16.82255
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.60502	15.65958
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-106.29901	15.65383
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.18017	15.6567
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-106.10293	15.6567
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.69887	15.64231
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.76843	15.6711
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.11306	15.68261
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.05067	15.9731
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.75952	15.98747
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.75952	15.87824
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.60799	15.87824
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-106.29604	15.90699
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-106.29604	15.86673
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.12966	15.85811
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-106.01974	15.85236
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.62459	15.8351
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.62162	16.11101
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-111.83041	14.00246
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-111.48578	14.00014
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-111.65691	14.47541
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-111.75911	14.76239
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-108.10597	10.96494
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-108.02278	11.24898
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.98238	11.37565
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.87542	11.73657
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.06597	11.83961
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.0018	11.90984
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.46765	11.41786
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.58174	12.43595
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.65779	12.7931
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.18244	12.62043
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.08974	12.59008
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-102.72371	12.46165
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.2745	12.36353
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-102.62864	11.54445
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.17467	11.7272
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.17356	11.91218
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.25675	12.3682
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.30666	12.66244
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.37559	13.03372
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.39936	13.14089
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.90561	13.34346
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.88422	13.21309
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.99356	13.37371
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.34651	13.071
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.78135	14.17286
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-102.51753	14.40001
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.44385	14.44634
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.46999	14.49034
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-102.56506	14.50192
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.91921	14.53897
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.92871	14.03368
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.20442	13.76899
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.33039	13.62258
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.39932	13.56446
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.36129	13.42025
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.28999	13.4598
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.10935	13.52958
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.76947	13.62026
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.56744	13.65047
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-102.16101	13.70625
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.06594	13.72252
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-102.09921	13.59468
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-102.02315	14.44634
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-98.72178	14.36711
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-99.06024	14.13715
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-99.55841	14.12045
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-99.32644	14.45051
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-99.58123	14.75233
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-99.8037	14.41345
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-99.90067	14.53758
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-99.70102	14.88921
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-100.09319	13.26583
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-100.11815	13.30249
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.97019	13.50492
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-100.12171	13.75249
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-98.63384	12.85491
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-98.69469	12.93512
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-98.07672	12.95937
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-97.48537	12.97615
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-97.37509	12.84558
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-97.42833	12.91087
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-98.55018	12.73175
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-98.38665	12.48524
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-99.59359	12.09585
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.37302	12.35582
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.50042	12.60992
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-99.75521	12.46609
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.09937	12.28103
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.18494	12.23054
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.39029	11.84686
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.44734	12.00602
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.33705	12.61179
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.24008	12.6454
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.22106	12.59872
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.31804	12.57257
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-99.84838	12.66968
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.4681	12.53708
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.62401	12.86191
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.09177	11.98356
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-99.97768	11.97607
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-99.49852	11.87683
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.2522	12.70001
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-99.96104	12.93908
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.34311	12.96997
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.4465	12.85631
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.43224	12.82657
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.80659	12.8738
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.77625	13.16395
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.80833	13.20063
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-99.79764	12.57105
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.90641	13.07776
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.94444	13.00552
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.52732	13.0428
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-101.11058	13.06051
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.96512	13.06471
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-101.26175	13.05772
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-101.17048	12.8731
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-101.01931	12.8717
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.88669	12.8773
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.85389	12.79894
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.77117	12.61132
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-100.91663	12.59872
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-101.04498	12.59312
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-101.33875	13.20727
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-101.25889	13.35393
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.60242	13.21099
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.64996	13.31436
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.5026	13.30412
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.95954	13.20389
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-101.03262	13.21088
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.82338	13.03476
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.72498	13.03337
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-101.52676	13.56271
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-101.37274	13.55434
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-101.21445	13.5362
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-101.1902	13.49434
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-101.1574	13.57108
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-101.13173	13.51806
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.27117	12.95226
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.29541	13.02218
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.78773	12.94806
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.93176	13.27165
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.30139	13.99515
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.85218	13.82334
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.61093	13.75598
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.40597	13.92203
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.47728	13.88837
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.45232	13.78966
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.35725	14.35808
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.4749	14.17727
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.34299	14.10189
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.05104	14.61952
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.66457	14.32494
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.69166	14.3875
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.62606	14.46394
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.79862	14.682
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.07528	14.72226
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.67217	15.10799
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-103.35725	15.24937
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-103.27703	15.29263
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-103.31375	15.14516
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-103.22676	15.19087
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-103.06419	15.43378
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-102.99217	15.29609
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.90162	15.33762
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-102.63494	15.46075
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-102.75069	15.64093
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-102.69935	15.66488
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-102.62139	15.68883
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-102.56435	15.71646
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-102.46547	15.81957
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-102.28294	15.7183
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-102.39512	15.72935
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-102.58527	15.74224
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-102.65752	15.74776
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.97126	15.46766
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.92198	14.99505
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.83831	15.03386
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-103.8269	15.75881
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-103.71282	15.76618
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-104.30797	15.75697
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.5504	15.76572
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.66092	15.76572
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-102.39762	15.49279
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-102.26392	15.5648
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-101.82421	15.70011
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-101.99356	15.62815
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-102.13617	15.55616
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-102.41841	15.39769
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-102.50754	15.37175
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-102.57291	15.35734
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.84327	15.2391
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-102.92645	15.19295
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-103.16116	15.06308
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-103.25326	15.0111
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.56225	14.858
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.13565	14.93312
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.66501	14.85511
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-102.66738	14.70121
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-102.30552	14.88979
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-102.15102	14.65852
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-102.06487	14.70479
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-101.99059	14.75973
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-101.94603	14.79153
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-101.73806	14.94468
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-101.67566	14.99089
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-101.5182	15.12946
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-101.37857	15.26506
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-100.97451	15.62239
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-100.77545	15.88422
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-100.60611	16.06816
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-101.0161	15.67133
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-101.33103	15.22468
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-101.6519	14.96201
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-102.18965	14.90712
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-102.09458	14.92157
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-102.0203	14.92446
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-102.35305	15.41787
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-101.15871	14.77997
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-100.99234	14.95912
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-100.67444	15.38904
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-100.84973	15.53023
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-102.59251	14.69843
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.1173	17.55384
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-106.41203	17.64046
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-106.40727	17.46718
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.10304	17.19553
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-106.01035	17.11784
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-106.02936	17.48543
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-106.03887	17.6792
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.12919	17.68604
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.71087	17.68376
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.72038	17.56524
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.17134	17.66097
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.18798	17.38733
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.84096	17.45806
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.77204	17.47175
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-104.65082	17.49456
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-104.42027	17.54016
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-104.46068	17.69743
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-104.67221	17.69971
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.80531	17.69971
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.88137	17.69971
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.16896	17.69971
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.75365	17.22009
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-106.14583	17.19153
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.10301	16.77412
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.76134	16.87141
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.66627	16.89144
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-104.18556	17.0424
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-104.25984	17.02239
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-104.53911	16.9595
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.66686	16.9452
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.77085	16.9452
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-104.01919	17.10527
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.6627	15.6909
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.53911	15.57113
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-103.81657	16.55934
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-104.01622	16.59601
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-104.12555	16.6281
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-104.47731	16.64643
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.62468	16.67392
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.74827	16.68767
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-103.8641	16.71515
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-104.03523	16.65101
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-104.47256	16.58685
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-104.60566	16.48597
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-104.71499	16.44469
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-99.101	14.77476
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-99.28995	13.78734
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-99.03326	13.42816
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-98.46283	13.45259
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-98.28457	13.82218
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-98.25248	13.79779
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-98.82291	14.49011
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-98.23822	13.16977
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-101.74281	14.50632
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-101.37203	14.50169
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-101.25794	14.49243
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-100.90618	14.52948
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-100.82061	14.42758
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-100.72554	14.71
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-100.89192	14.85338
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-101.16287	14.37198
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-101.2009	14.24219
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-101.39104	13.95453
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-101.44333	13.91275
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-101.94246	14.52948
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-101.88542	14.59893
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-101.83788	14.6591
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-101.66675	14.86263
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-101.61446	14.92735
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-101.55742	14.86263
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-101.40055	15.00129
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-101.2627	15.15371
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-100.54966	14.07521
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-100.4023	14.27001
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-100.05528	14.74238
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-99.99349	14.6591
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-99.84137	15.04287
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-99.52288	15.18141
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-99.38503	15.06134
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-100.33575	14.15872
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.77308	13.81057
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-100.86815	13.67116
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-101.00125	13.88488
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-101.04878	13.95918
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-101.66675	13.82915
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.83313	13.28503
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.87591	13.12202
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.04347	11.17764
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-102.53904	11.17412
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-102.47843	10.90293
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-102.50338	11.01214
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.06487	11.21988
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-101.826	11.35008
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.40174	11.62436
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.252	11.6595
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.10226	11.18116
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.27696	11.18116
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-101.78321	11.17412
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.53183	11.18468
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-100.55679	11.70519
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.74574	11.75437
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.77783	11.89485
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-100.61383	11.83516
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.43201	11.76842
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.33931	11.73329
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.2894	11.59624
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.40348	11.6349
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.42131	11.6841
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-99.92575	11.57164
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-99.8081	11.54703
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-99.88297	11.74383
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.90261	12.21768
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.41957	12.18963
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.39104	12.09842
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.35183	11.97209
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.50156	11.98964
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.55861	12.18261
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.49087	12.414
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.00069	12.01421
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.25026	12.01421
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-102.94547	11.25508
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-102.89912	11.37119
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-102.8813	10.84302
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-102.83138	11.05441
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-102.75651	10.69144
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-102.83495	10.61386
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-102.94547	11.17412
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-102.86347	11.1706
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.59196	12.50859
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.15938	12.51093
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.07619	12.51093
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-102.74106	12.52494
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.33463	12.55296
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.1326	12.55763
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.66913	12.58331
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.52652	12.58098
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.67039	12.86331
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.22355	12.87963
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.13799	12.88429
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-102.85277	12.88663
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.44396	12.89362
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.23956	12.89362
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.77133	12.89828
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.67388	12.90994
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.02866	9.26011
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.02866	9.31205
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.38042	9.50087
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.49451	9.52447
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.40894	9.77918
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.41845	9.90175
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.04767	9.5858
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.92233	9.65185
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.89856	9.33566
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.46298	9.02863
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-102.52002	9.4348
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.14924	8.88684
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.24431	9.44424
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.21104	9.26955
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-102.20628	9.19399
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.65962	9.11841
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.69765	9.27428
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.72617	9.46783
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-101.826	10.07139
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.65487	9.79804
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.67388	9.91118
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.52652	9.09951
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-101.5598	9.279
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.87528	9.29317
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.85626	9.19871
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.94183	9.57165
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-100.92281	9.49615
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.65621	9.11605
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-105.32821	9.15502
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-105.22838	9.16565
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-105.22838	9.09833
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-105.22125	9.25421
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-105.32821	9.26483
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.64908	9.27192
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.09473	9.27192
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.10899	9.03454
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.46907	9.279
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.01455	9.27192
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.28194	9.28254
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-108.0235	9.28608
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.99497	9.4348
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.41385	8.71898
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-106.42272	9.73556
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-106.08046	9.45958
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.64551	9.43126
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-105.64551	9.35691
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-105.32821	9.48435
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-105.22482	9.49497
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.68291	9.56221
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.67578	9.25775
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.67934	9.19399
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.68291	9.13022
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.83677	7.4859
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.7001	7.26642
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-102.35127	7.42659
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-101.83432	7.56892
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-101.75113	7.61635
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-101.44809	7.51555
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-101.49562	7.72898
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-100.98461	7.86527
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-100.72316	7.95414
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-100.43795	7.10619
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-100.80635	7.24862
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-101.82837	7.98376
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-101.94127	8.05483
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-100.52708	7.34948
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-100.85983	7.44439
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-100.93708	7.7112
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-100.86577	8.35675
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-100.12896	8.17918
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-100.22404	8.13773
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-102.47011	8.07852
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-102.46417	7.96599
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.2188	7.80009
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-99.76056	7.23082
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-99.88534	7.26049
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.70723	14.6621
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-103.05124	14.56027
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-103.15582	14.80089
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.4648	14.62045
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-103.1986	13.13437
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-103.27466	13.0738
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-103.01796	13.33927
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-103.05599	14.81014
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.21904	11.17975
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.13348	11.18445
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-100.68846	12.60362
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-117.4816	17.65778
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-118.02826	17.84909
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-117.11082	17.53013
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-117.04427	17.34761
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.53088	17.32022
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.81309	17.0552
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-115.68474	17.42977
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.04902	19.66485
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-116.89215	19.75039
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.07279	19.79989
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-117.56716	19.24551
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-116.51662	19.68737
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-120.50489	19.40346
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-120.5857	19.43954
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-120.657	19.48012
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-120.80912	19.54322
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.18164	19.20036
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-120.74732	19.03205
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-120.61362	19.04617
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-120.54529	19.04617
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-120.47399	19.05182
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-121.21971	18.7351
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-122.66064	19.41079
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-122.32195	19.28219
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-122.10804	19.21447
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-121.51265	18.99757
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-121.24526	18.8958
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-121.32726	19.82969
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-123.10986	19.63727
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-123.04925	18.9874
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-123.48064	18.99418
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-122.62142	18.99079
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-122.29699	18.99079
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-120.73544	18.82113
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-120.59639	18.8381
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-120.53222	18.8381
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-120.44665	18.8381
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.17213	19.05182
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-123.87875	20.3921
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-123.92153	20.94239
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-123.37606	20.96248
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-122.86267	21.06291
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-122.84484	20.95579
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-122.81632	20.71782
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-123.29762	20.197
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-122.31006	20.42235
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-122.48832	20.53994
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-122.53467	20.90889
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-122.34572	20.87874
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-121.84302	20.79495
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-121.58633	20.75807
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-121.21555	20.71111
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.0979	20.68427
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.02659	20.67756
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-120.85546	20.65743
+# @DC12n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.479|"Magnetic Anomaly"
+-127.17774	26.96821
+# @DC12n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.939|"Magnetic Anomaly"
+-127.75412	26.91495
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-126.86282	27.00547
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-126.25079	27.04272
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-126.2092	26.58688
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.52587	27.12516
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.51993	27.06666
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.46348	26.47464
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-125.1545	26.73637
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-125.205	27.1916
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-125.21094	27.29517
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-125.05942	27.2102
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-125.0208	26.83769
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.52167	27.20754
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.52762	27.27393
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.48899	26.88565
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-124.17407	27.15972
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-124.20378	27.43575
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-124.19486	27.32701
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.62206	26.98418
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.65414	27.36044
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.6684	27.43045
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.5151	27.41454
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.3618	27.43363
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.21919	27.45271
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.20493	27.33816
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.3404	27.22029
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.48301	27.09592
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.32258	27.00654
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.19067	27.06081
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-124.26617	27.94352
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.5799	27.71955
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-125.09329	27.41666
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.71832	27.83054
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.68504	27.60421
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.78724	28.28386
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.67791	28.35747
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.57095	28.42893
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.27148	28.15544
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.48777	27.99311
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.5971	27.90447
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.5662	27.71003
+# @DC12n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.939|"Magnetic Anomaly"
+-127.48197	28.39321
+# @DC12n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.479|"Magnetic Anomaly"
+-126.9977	28.46412
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-126.67981	28.49825
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-126.16582	28.54285
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.56568	28.58482
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-125.26858	28.62415
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-125.03387	28.63988
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.5086	28.70172
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-124.24299	28.741
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.77417	28.81324
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.67434	28.83679
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.57808	28.85563
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-124.17228	29.40967
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.77774	29.40759
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.56683	29.39718
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-125.05883	29.40134
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-125.23234	29.41383
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.49854	29.42007
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-126.03569	29.40759
+# @DC12n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.939|"Magnetic Anomaly"
+-127.30169	29.3977
+# @DC12n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.939|"Magnetic Anomaly"
+-127.31595	29.74053
+# @DC12n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.479|"Magnetic Anomaly"
+-126.86674	29.74676
+# @DC12n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.479|"Magnetic Anomaly"
+-126.83822	29.39562
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-126.57439	29.3977
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-126.60292	29.74883
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-126.06576	29.75298
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.53811	29.75505
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-125.28379	29.75298
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-125.13405	29.75713
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.63445	29.7592
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-124.23943	29.7592
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-123.83585	29.7592
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.68041	29.76169
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.55491	29.76169
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-126.05126	29.63474
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.54738	29.79077
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-125.3135	29.86537
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-125.16329	29.88857
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-124.67652	30.00118
+# @DC12n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.939|"Magnetic Anomaly"
+-127.291	29.26529
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-123.63192	29.41128
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.50785	29.41502
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.32246	29.42127
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-123.02584	29.42002
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.35669	29.76153
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-123.05151	29.75655
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-123.06006	29.89582
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.41931	28.8765
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-123.14836	28.91164
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-123.1398	28.72827
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-123.39507	28.58361
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-122.9758	28.39757
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-122.93694	27.44906
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-122.92981	27.30743
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-122.94051	27.49358
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-122.9512	27.5778
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-123.45746	27.79361
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-121.35162	27.87516
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-121.24324	27.87432
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-121.24134	27.70268
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-121.12155	27.87516
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-121.35162	28.10977
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-121.25084	28.10893
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-121.12428	28.11139
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.76063	28.13352
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-120.60733	28.13352
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-120.45759	28.14458
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-120.38272	28.14616
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-120.1385	28.16038
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.82298	28.17302
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.81942	28.11297
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-120.12959	27.86454
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-120.46115	27.86771
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-120.37381	27.86612
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-120.61267	27.87246
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.75706	27.87404
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.61624	27.65839
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-120.91393	27.67427
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-120.51641	27.65522
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-120.30963	27.64093
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-120.1795	27.62823
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-119.92637	27.60759
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-121.12464	28.35641
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.97442	28.36818
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-120.86794	28.57317
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.98013	28.57149
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-121.12464	28.5782
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.65284	28.56876
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-120.87032	28.36398
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.66175	28.36713
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-120.45497	28.37975
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-120.39971	28.3892
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-120.40684	28.56561
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-120.4621	28.56247
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-120.17154	28.56876
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.98258	28.56561
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.98258	28.77785
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-120.17511	28.54043
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-120.38367	28.25828
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-120.39971	28.35294
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.98258	28.46327
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-119.52446	28.50579
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-119.53872	28.81554
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-119.36402	28.19513
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-119.22498	28.20618
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-119.06276	28.20776
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-119.02176	27.86612
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-119.27418	28.56477
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-119.27228	28.52616
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-119.52897	28.56477
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.7146	27.66892
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-119.37234	27.66257
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-118.998	27.67845
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-118.79835	27.68797
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-119.3866	27.86554
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-121.09219	28.79068
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.98951	28.86268
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-121.09409	28.85765
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.98571	28.81077
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-120.86782	28.85263
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.52366	28.83924
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.51986	28.88611
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-120.05591	28.95302
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-119.7821	29.00068
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-119.67182	29.01906
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-119.36759	29.06919
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.1204	29.11261
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-120.98167	29.3332
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-120.78772	29.31633
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-120.78772	29.33882
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-120.79343	29.54354
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.85332	29.47867
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.85332	29.28133
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-119.79232	29.04308
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-119.70248	29.14955
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-119.75952	29.37339
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-119.86505	29.34715
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-119.47716	29.45579
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-119.44293	29.34715
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.17626	29.3409
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.23473	29.52441
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.32294	29.99837
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.30155	29.76847
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-120.19994	29.89281
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-120.05377	30.0232
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-120.18568	29.77935
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-120.16607	29.65332
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-119.93077	29.6502
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-119.83094	29.6502
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-119.5279	29.64242
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-119.58138	29.8462
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-119.88621	29.85086
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.30151	29.84465
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.28012	29.73114
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-119.2623	29.64553
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-118.83447	29.84154
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-118.78456	29.63774
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-119.75073	29.3383
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-120.23738	29.32424
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.85416	29.32112
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-120.86129	29.6611
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-121.00033	29.66888
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-118.70066	29.33611
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-118.3641	29.83304
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-118.30706	29.58904
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-118.31847	29.62394
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-118.19678	29.82475
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-118.15114	29.62394
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-118.25192	29.32778
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-118.096	29.32445
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-119.15035	28.79884
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-119.30187	28.80408
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.59707	28.33144
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.61787	28.63331
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.68026	27.92583
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.5941	28.24729
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.19302	28.24992
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.20193	28.42078
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.20787	28.45229
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.21976	28.57563
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.22273	28.6438
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.61193	28.55989
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.59707	28.36035
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.17816	27.92055
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.13954	27.7806
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.11874	27.65369
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.68585	28.04146
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.64592	27.65866
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.64021	27.61421
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.94682	27.65231
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.96679	27.91612
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.97962	27.99336
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-117.15503	27.96804
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-117.15503	27.92245
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.99067	28.27443
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.9978	28.41322
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-117.01028	28.60532
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.99067	28.24602
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-117.18141	28.24602
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-117.17784	28.45418
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.21643	28.50721
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.68069	26.64311
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.53809	26.67514
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.37409	26.70717
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.85357	26.81918
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.72166	26.85116
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.59331	26.27086
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.71453	26.23228
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.24574	26.0875
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.23148	26.00699
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.44539	26.0553
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.59869	26.12291
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.50418	25.30256
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.9587	25.35441
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.10488	25.29932
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.33305	25.22476
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.47209	25.19557
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.68062	25.44184
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.41679	25.52274
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.99967	25.65853
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.36332	26.60786
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.72697	26.50526
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.9694	26.4443
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-117.22609	26.37688
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.39722	26.32228
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.56835	26.88474
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-117.38653	26.9167
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-117.1334	26.96783
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.90879	27.01893
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.57723	27.08915
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.24923	27.16252
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-116.05671	26.70237
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-115.84922	26.75401
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-116.04316	27.20716
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.93181	25.49788
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.6258	25.62454
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.68819	25.76182
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-115.45051	25.83444
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-115.40891	25.71339
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.88431	24.51293
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.95205	24.83219
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.99127	25.0175
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.63831	25.1636
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.53136	24.71501
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.48501	24.4901
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.06257	24.4183
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.14813	24.95576
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.53318	24.75734
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.62231	24.72152
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.60448	24.14052
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.469	24.2092
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.43153	24.22228
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.06788	24.41177
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.72919	24.5912
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.80762	25.13764
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.22475	24.89725
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.50458	25.27387
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-115.26571	25.39699
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-115.07319	24.90635
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.32988	24.78403
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.72205	24.82276
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.55805	24.87318
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.33166	24.94796
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.24966	24.42352
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.49744	24.32229
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.64896	24.23732
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.47601	23.286
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.33044	23.27777
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.1742	23.32991
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.24253	23.79002
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.54138	23.73807
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.39877	23.72986
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.02739	23.70251
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.36731	23.35186
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.50992	23.35186
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.48864	22.75581
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.35198	23.07231
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-121.24799	23.31948
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.94198	24.02001
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.94792	24.07185
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-121.28959	23.95996
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.4114	23.92173
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.54806	23.89441
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-121.65205	23.8589
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-122.19277	23.67296
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-123.54754	23.28655
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-123.2445	23.36338
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-123.00385	23.42645
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-122.48393	23.57989
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-123.61885	24.08058
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-123.31283	24.27954
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-123.09892	24.39931
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-122.22901	24.94607
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-124.92252	23.27173
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-122.92066	22.35513
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-122.40252	22.36839
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-122.59742	21.51692
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-122.24565	22.21356
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-122.1173	22.35955
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-121.67522	22.33744
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.52786	22.33744
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.35673	22.32859
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-121.20461	22.32417
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.54687	22.50096
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.89088	22.31533
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.08376	20.0446
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.54256	20.59683
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.58534	21.13633
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-120.8456	20.0756
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.13962	20.84169
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-117.99701	20.82828
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-117.86866	20.82158
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.20197	20.73775
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-117.68327	19.94417
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-117.8544	19.99473
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.10515	22.24366
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.47292	22.22595
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.01896	22.22153
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-116.71235	22.20161
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.42777	21.92245
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-116.85377	21.40256
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-116.81812	21.23218
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.32437	21.40256
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-117.95541	21.39922
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.07663	21.40923
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-116.50438	21.25335
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.17163	21.27117
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-115.92206	21.28009
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-116.67313	20.50336
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-115.75212	20.46696
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.03734	22.19884
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.31958	22.21544
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.11756	22.5608
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-111.3087	21.34857
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-113.4086	21.22494
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-113.4193	21.40868
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-113.95051	21.47543
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-113.92912	21.38531
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.20364	21.36527
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.26068	21.66552
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-113.12695	21.09117
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-113.14834	21.42537
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.06816	20.84671
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-113.79721	20.91373
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-112.64208	21.05436
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-112.17861	20.95727
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-112.56721	21.50213
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-112.50661	21.95184
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-112.06238	21.4207
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.35774	21.30225
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.25887	21.51058
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.45662	21.56039
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.59733	21.24344
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.76465	21.43761
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-110.81979	21.5088
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-110.88254	21.57996
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-110.93958	21.64575
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-111.07649	21.2577
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-111.01754	21.23096
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-110.94719	21.206
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.87874	21.18103
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.66388	21.09183
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-110.49275	21.02044
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.13908	20.87933
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-110.07633	21.02401
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-110.00027	20.95615
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-110.05161	20.84895
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-109.86147	21.30047
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-109.93753	21.33788
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-111.15159	21.84426
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-111.65072	21.90582
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-111.84859	22.0621
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-111.94842	22.13353
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-112.47785	22.28624
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-111.98763	21.73771
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-111.99655	21.6844
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-111.89315	21.63441
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-111.68637	21.5227
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-113.23545	22.2597
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-113.21406	22.06044
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-113.45649	22.08038
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.00553	22.11028
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.24084	22.12689
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.3371	22.53486
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.13032	22.55142
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-113.5171	22.53486
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-113.27823	22.53155
+# @DC5An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|11.935|"Magnetic Anomaly"
+-113.37449	23.09672
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-113.57414	23.10002
+# @DC5An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|12.401|"Magnetic Anomaly"
+-113.51354	22.48517
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-112.4618	22.47855
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-112.45824	23.11321
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-111.80224	22.65735
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-111.8985	22.73012
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-111.89494	22.88877
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-111.80581	22.76319
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-111.57764	22.73012
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-111.59546	22.58453
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-111.61329	22.42221
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-111.07851	22.05712
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-110.86816	21.84426
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-110.80399	21.75103
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-110.72912	21.69107
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.6899	21.64441
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.50808	21.44095
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-110.26208	21.99396
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-110.47599	22.06709
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-110.57938	22.10364
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-110.66494	22.13021
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-110.7719	22.14018
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.6521	23.68248
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.71627	24.04969
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.39897	24.04969
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.3241	23.66934
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-115.99254	23.65292
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-115.89984	23.18244
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.2314	23.2154
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.56653	23.23517
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-116.9587	23.25164
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.00149	23.54779
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.31871	23.14948
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.7768	23.1165
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.48446	23.10002
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.66272	23.61351
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-114.9408	23.61679
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.45063	23.64307
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.56471	24.05297
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.07097	24.04315
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.00498	24.04969
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.74115	24.04315
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.62651	24.32332
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.61938	24.28085
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.01155	24.1795
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.10599	24.34619
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.15947	24.53223
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.94556	24.63329
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.85286	24.36252
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.12441	24.41966
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.88376	24.45502
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-109.89486	22.19253
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-109.63817	22.11726
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-109.53359	22.06853
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-109.26263	21.98432
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-109.02971	22.43138
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-109.29116	22.55065
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-109.17707	22.76242
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.90136	22.63451
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.77777	22.55948
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.69696	22.52415
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.04096	22.19253
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-107.97916	22.16597
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-107.88409	22.12169
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-107.68919	22.03751
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-107.77001	21.79355
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-107.98392	21.89562
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.07424	21.93997
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.14554	21.97988
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-108.32142	22.07296
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.80154	22.32528
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.90611	22.36065
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-109.61915	22.71833
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-109.38623	22.58155
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-109.50982	22.35181
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-109.75701	22.45347
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-109.41	22.30759
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-109.16281	22.19253
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-109.06774	22.16597
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.9584	22.11283
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-108.89185	21.80243
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-109.06298	21.87787
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-109.16281	21.90005
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-107.92687	21.38898
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-107.95064	21.30882
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-107.8223	21.32664
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-107.86032	21.24644
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.47528	21.20187
+# @DC3n.4n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.23|"Magnetic Anomaly"
+-107.53233	21.09485
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.26137	21.10377
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-107.3707	20.9163
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.18056	20.64583
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-107.10926	20.78895
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.06172	20.69057
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.02845	20.78895
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-108.0267	20.64135
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-108.75875	20.90066
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.58762	20.82471
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.51632	20.79342
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-109.2864	21.01676
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-109.41	21.08815
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-109.50507	21.13722
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-109.58683	21.19251
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-109.64863	21.78422
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-109.38718	21.6954
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-109.29983	21.66374
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-109.19288	21.6193
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-109.01759	21.55817
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.49707	21.14346
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.40794	21.1167
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.29742	21.08325
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-108.04785	21.00962
+# @DC3n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|4.18|"Magnetic Anomaly"
+-107.87316	20.97279
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-107.99081	21.207
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-108.22968	21.2939
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-108.33307	21.33399
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-108.4115	21.36739
+# @DC2An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|2.581|"Magnetic Anomaly"
+-109.75915	20.74267
+# @DC2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.95|"Magnetic Anomaly"
+-109.62605	21.04644
+# @DC2n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|1.77|"Magnetic Anomaly"
+-109.56425	21.00627
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-109.34083	20.91697
+# @DC2An.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|3.58|"Magnetic Anomaly"
+-108.19046	20.47861
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-121.12404	26.09017
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-121.09742	25.66186
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-121.38834	25.47215
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-121.42067	26.01632
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.52144	25.98883
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.49102	25.40654
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.65074	25.32016
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.68306	26.20996
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-115.75672	11.87839
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-115.07577	10.54793
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-115.53568	10.44561
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.07759	10.31148
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-116.21663	10.28323
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-116.64802	10.18082
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-116.78706	10.1455
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-117.48941	9.96883
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-117.61419	9.94409
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-117.80314	9.91228
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-120.84544	9.37972
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-121.17582	9.32071
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.30417	9.29946
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.50382	9.27349
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-121.69871	9.23335
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-122.32025	9.13179
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-122.51752	10.1309
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-121.97941	10.64669
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-121.82159	10.78961
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-121.66354	10.94537
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-121.54755	11.04306
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-121.23952	11.33593
+# @DC7n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|24.73|"Magnetic Anomaly"
+-121.7491	12.36883
+# @DC10n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.745|"Magnetic Anomaly"
+-125.04334	12.0925
+# @DC10n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|28.283|"Magnetic Anomaly"
+-124.71059	12.11121
+# @DC9n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.972|"Magnetic Anomaly"
+-124.46578	12.12992
+# @DC9n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|27.027|"Magnetic Anomaly"
+-123.78839	12.17669
+# @DC8n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|26.554|"Magnetic Anomaly"
+-123.38671	12.22111
+# @DC8n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.823|"Magnetic Anomaly"
+-122.65704	12.29358
+# @DC7An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.648|"Magnetic Anomaly"
+-122.40272	12.31695
+# @DC7An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.496|"Magnetic Anomaly"
+-122.25298	12.32863
+# @DC7n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|25.183|"Magnetic Anomaly"
+-122.17217	12.34265
+# @DC12n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.939|"Magnetic Anomaly"
+-126.63045	11.99541
+# @DC12n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.479|"Magnetic Anomaly"
+-126.29473	12.01296
+# @DC11n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|30.098|"Magnetic Anomaly"
+-126.03031	12.03343
+# @DC11n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|29.401|"Magnetic Anomaly"
+-125.54604	12.05682
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.58796	12.44849
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.35979	12.44102
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.15443	12.44102
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.52712	13.01686
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.35599	13.0877
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-118.48338	13.52159
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.68303	13.52717
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.89409	13.53089
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-118.70965	12.93854
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.60207	13.3969
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.48323	13.45274
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.59494	13.80608
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.71615	13.74568
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.13146	14.02896
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-117.01024	14.08
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.88903	13.71082
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.01737	13.65737
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.82723	13.51089
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.41905	12.44942
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-117.19658	12.46437
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-116.74594	12.48866
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-116.5615	12.49614
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-114.864	12.59841
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-115.46532	12.56572
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-115.98109	12.51669
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.33935	14.39391
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-115.92405	14.13428
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-115.867	13.99507
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.07141	14.51898
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.48022	14.3383
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.42793	14.18531
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.34236	13.94865
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.16173	15.02777
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-115.61982	15.26326
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.18724	15.47634
+# @DC5Bn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|14.8|"Magnetic Anomaly"
+-114.84498	15.64223
+# @DC5Dn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.615|"Magnetic Anomaly"
+-117.34834	16.13219
+# @DC5Dn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|17.277|"Magnetic Anomaly"
+-116.87774	16.14597
+# @DC5Cn.3n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.726|"Magnetic Anomaly"
+-116.46774	15.79073
+# @DC5Bn.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|15.155|"Magnetic Anomaly"
+-115.72618	16.80644
+# @DC5Cn.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|16.014|"Magnetic Anomaly"
+-116.43565	17.03295
+# @DC5En|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.281|"Magnetic Anomaly"
+-117.73338	16.11496
+# @DC5En|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|18.781|"Magnetic Anomaly"
+-118.07921	16.10806
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-118.21112	16.10806
+# @DC6n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.131|"Magnetic Anomaly"
+-119.04181	16.08394
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-119.3092	16.08738
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-119.51242	16.09428
+# @DC6n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|19.048|"Magnetic Anomaly"
+-117.82608	14.98654
+# @DC6An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|21.32|"Magnetic Anomaly"
+-119.04894	14.62234
+# @DC6An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|20.518|"Magnetic Anomaly"
+-118.83146	14.5529
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.67644	10.65179
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.48035	11.45592
+# @DC3Bn|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.091|"Magnetic Anomaly"
+-100.53832	11.98638
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-100.63102	11.89862
+# @DC3Bn|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.935|"Magnetic Anomaly"
+-100.37432	11.17789
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-100.436	15.16804
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-102.04747	15.9284
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-101.41049	15.93759
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-101.61965	16.11689
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-99.10024	11.79631
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.61337	13.90998
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.02868	15.11032
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-107.62581	15.06529
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-107.82903	14.63181
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-109.5938	16.93824
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.93678	14.04565
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-100.39962	13.10166
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-101.32182	14.94412
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-100.42339	13.86924
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-100.27603	13.6369
+# @DC5n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.74|"Magnetic Anomaly"
+-108.25375	13.66828
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-107.74274	13.4183
+# @DC4An|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.699|"Magnetic Anomaly"
+-107.58622	14.41539
+# @DC5n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|10.949|"Magnetic Anomaly"
+-108.49594	14.14593
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.14652	14.96198
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.22317	13.19769
+# @DC4n.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|7.432|"Magnetic Anomaly"
+-107.18039	14.13201
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.54962	13.32521
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.40499	14.80595
+# @DC4n.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|8.072|"Magnetic Anomaly"
+-107.44778	14.25027
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-107.98933	13.53751
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-108.02201	14.05145
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-107.96556	14.19353
+# @DC4An|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|9.025|"Magnetic Anomaly"
+-107.75688	14.66647
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.66866	13.04464
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-106.97836	13.10918
+# @DC3An.2n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|6.567|"Magnetic Anomaly"
+-106.98501	14.06798
+# @DC3An.1n|y|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|5.894|"Magnetic Anomaly"
+-106.71857	13.97609
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.96197	14.11125
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-103.7231	13.19547
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.0095	14.41724
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.5324	14.08341
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.675	14.621
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-104.06654	10.6351
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.07193	16.14004
+# @DC1n|o|2|N/A|Klitgord+Mammerickx_1982_JGR|10.1029/JB087iB08p06725|0.78|"Magnetic Anomaly"
+-105.07193	16.32948

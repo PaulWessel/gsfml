@@ -1,0 +1,48 @@
+#include "common_options.txt"
+.TH MLCONVERTER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.SH NAME
+mlconverter \- Convert chron strings to ages using a magnetic time scale
+.SH SYNOPSIS
+BD(mlconverter) [ IT(ML_data) ] [ OPT(A) ] [ OPT(G)[BD(s)] ] [ OPT(T)IT(scale) ] [ OPT(V) ]
+.SH DESCRIPTION
+BD(mlconverter) is a module developed as part of the Global Seafloor Fabric
+and Magnetic Lineation Project [see www.soest.hawaii.edu/PT/GSFML for a full
+description of the project].  It reads a magnetic pick data file (or stdin)
+and converts chron textstrings to ages using a selected magnetic time scale.
+The input data must be OGR/GMT data files of the form distributed by the
+GSFML project.
+.SH OPTIONS
+No space between the option flag and the associated arguments.
+.TP
+IT(ML_data_)
+A magnetic ML pick data OGR/GMT file.  If not given then we read standard input.
+.TP
+OPT(A)
+Append the metadata to the output records as additional columns [Default only
+writes IT(lon), IT(lat), IT(age) records].
+.TP
+OPT(G)
+Generate an extended OGR/GMT table by appending the crustal age.
+Append BD(s) to repair any lax chron nomenclature, if needed.
+.TP
+OPT(T)IT(scale)
+Select the magnetic time scale to use.  Choose from BD(g) (Gee and Kent, 2007),
+BD(s) (Gradstein, 2004), or BD(c) (Cande and Kent, 1995) [BD(g)].
+.TP
+OPT(V)
+Reports progress [quiet].
+.SH EXAMPLES
+To convert chrons to ages using the Cande and Kent, 1995 timescale, and append the
+metadata at the end of the record, try
+.br
+.sp
+gmt mlconverter -A -Tc ML_datafile.gmt > convertedfile.txt
+.SH "SEE ALSO"
+.IR fzanalyzer (1),
+.IR fzblender (1),
+.IR fzinformer (1),
+.IR fzmapper (1),
+.IR fzmodeler (1),
+.IR fzprofiler (1),
+.IR gmt (1),
+.IR grdtrack (1)

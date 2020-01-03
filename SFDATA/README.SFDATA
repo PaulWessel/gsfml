@@ -1,0 +1,18 @@
+# $Id: README.SFDATA 367 2015-03-24 02:02:44Z pwessel $
+Readme file for the SFDATA directory:
+Here, all sub-directories correspond to registered digitizers.
+Their DIR abbreviation is matched to their names via SF_Digitizers.txt
+The file SF_Master.txt contains information on all the currently committed
+FZ segments, including w/e/s/n box, version, date, digitizer, and FZ name, if known.
+
+When new data are submitted we must determine if some lines are revisions to older
+features or new features.
+Revisions:	Replace the contents of old file with that of new file, keeping the
+		name and header info the same.  After svn commit the version numbers
+		will increment.
+New:		Just add new files and svn add, svn commit
+Obsolete:	Sometimes a new segment may replace 2 or more older segments.  In
+		that case we move the old segment to OBSOLETE and check in the
+		new segment as a New file.
+
+See more instructions in the PREP folder.

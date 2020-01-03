@@ -1,0 +1,71 @@
+# @VGMT1.0 @GPOINT
+# @R107.328/114.132/-18.0114/-11.8413                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+108.423	-18.0114
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+107.328	-17.8863
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+107.742	-17.492
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+107.823	-17.4091
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+109.127	-17.2963
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+108.231	-16.8564
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+108.324	-16.1304
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+108.434	-16.0053
+# @DM4n|y|1|N/A|Muller++_1998_PESA|N/A|125.67|"Magnetic Anomaly"
+109.331	-15.96
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+107.715	-15.8402
+# @DM4n|y|1|N/A|Muller++_1998_PESA|N/A|125.67|"Magnetic Anomaly"
+109.589	-15.7165
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+107.627	-15.5456
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+107.714	-15.4675
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+108.784	-15.437
+# @DM4n|y|1|N/A|Muller++_1998_PESA|N/A|125.67|"Magnetic Anomaly"
+109.781	-15.4241
+# @DM4n|y|1|N/A|Muller++_1998_PESA|N/A|125.67|"Magnetic Anomaly"
+110.125	-15.2628
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+107.965	-15.1967
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+108.994	-15.1184
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+108.098	-14.9325
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+108.24	-14.8745
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+109.391	-14.7992
+# @DM2n|y|1|N/A|Muller++_1998_PESA|N/A|123.55|"Magnetic Anomaly"
+109.668	-14.5508
+# @DM0r|y|1|N/A|Muller++_1998_PESA|N/A|120.6|"Magnetic Anomaly"
+108.9	-14.4355
+# @DM10Nn.1n|y|1|N/A|Muller++_1998_PESA|N/A|129.63|"Magnetic Anomaly"
+111.48	-14.2754
+# @DM10n|y|1|N/A|Muller++_1998_PESA|N/A|128.93|"Magnetic Anomaly"
+111.132	-13.9839
+# @DM10Nn.1n|y|1|N/A|Muller++_1998_PESA|N/A|129.63|"Magnetic Anomaly"
+112.1	-13.8442
+# @DM10n|y|1|N/A|Muller++_1998_PESA|N/A|128.93|"Magnetic Anomaly"
+112.039	-13.4241
+# @DM9n|y|1|N/A|Muller++_1998_PESA|N/A|128.34|"Magnetic Anomaly"
+111.779	-13.3783
+# @DM10Nn.1n|y|1|N/A|Muller++_1998_PESA|N/A|129.63|"Magnetic Anomaly"
+112.684	-13.2903
+# @DM9n|y|1|N/A|Muller++_1998_PESA|N/A|128.34|"Magnetic Anomaly"
+111.85	-13.2449
+# @DM8n|y|1|N/A|Muller++_1998_PESA|N/A|127.79|"Magnetic Anomaly"
+111.618	-13.1807
+# @DM10Nn.1n|y|1|N/A|Muller++_1998_PESA|N/A|129.63|"Magnetic Anomaly"
+114.132	-11.8413

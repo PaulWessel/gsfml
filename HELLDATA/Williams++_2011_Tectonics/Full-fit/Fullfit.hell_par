@@ -1,0 +1,22 @@
+Results from Hellinger1 using Fullfit.hell 
+# Williams et al. 2011 Tectonics FullFit.hell 
+ Fitted rotation--alat,along,rho: 
+ -3.90776428  37.8962345  30.8609568
+ conf. level, conf. interval for kappa: 
+  0.949999988  0.808268502  1.30013027
+ kappahat, degrees of freedom,xchi
+  1.03983646  137.  7.70512819
+ Number of points, sections, misfit, reduced misfit
+ 148 4  131.751488  0.980657785
+ ahat: 
+  0.946172819  0.103266836  0.306745752
+  0.033350376  0.911584242 -0.409758371
+ -0.321939044  0.39793232  0.859072244
+ covariance matrix
+  2.84532512E-06 -2.68980494E-06  3.77227648E-06
+ -2.68980494E-06  4.00529597E-06 -6.93101227E-06
+  3.77227648E-06 -6.93101227E-06  1.37677865E-05
+ H11.2 matrix: 
+  1666398.01  2553369.32  828842.025
+  2553369.32  5850172.72  2245502.86
+  828842.025  2245502.86  975972.903

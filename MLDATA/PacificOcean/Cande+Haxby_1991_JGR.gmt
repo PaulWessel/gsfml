@@ -1,0 +1,677 @@
+# @VGMT1.0 @GPOINT
+# @R-148.029156636/-71.4620488815/-45.5926874055/-15.0831347265           
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-142.59509	-21.20142
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-142.481	-21.66207
+# @DC24n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|52.364|"Magnetic Anomaly"
+-143.56125	-20.7108
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-142.87792	-20.43772
+# @DC24n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|52.364|"Magnetic Anomaly"
+-143.59096	-20.08109
+# @DC25n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|55.904|"Magnetic Anomaly"
+-144.79956	-21.27551
+# @DC25n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|55.904|"Magnetic Anomaly"
+-144.60704	-20.26287
+# @DC25n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|55.904|"Magnetic Anomaly"
+-144.55	-20.72645
+# @DC26n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|57.554|"Magnetic Anomaly"
+-145.2773	-21.37573
+# @DC26n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|57.554|"Magnetic Anomaly"
+-145.15608	-20.35705
+# @DC26n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|57.554|"Magnetic Anomaly"
+-145.14182	-20.08783
+# @DC27n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|60.92|"Magnetic Anomaly"
+-146.11156	-21.4692
+# @DC27n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|60.92|"Magnetic Anomaly"
+-146.24703	-20.35032
+# @DC30n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|65.578|"Magnetic Anomaly"
+-147.47346	-20.2023
+# @DC30n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|65.578|"Magnetic Anomaly"
+-147.28094	-21.66929
+# @DC28n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|62.499|"Magnetic Anomaly"
+-146.43955	-21.00124
+# @DC28n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|62.499|"Magnetic Anomaly"
+-146.41103	-21.58262
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-75.44007	-17.19525
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-76.08847	-17.37966
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-84.05539	-22.15238
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-83.28547	-20.03145
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-84.33006	-18.00272
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-84.9267	-16.57529
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-84.23666	-20.04931
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-81.71348	-18.04723
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-81.75346	-17.9768
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-82.77186	-16.23427
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-82.93748	-16.05572
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-83.20017	-15.74734
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-83.35626	-15.41992
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-83.45905	-15.21624
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-80.67623	-17.99797
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-81.6756	-16.1301
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-81.71129	-16.01707
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-81.99088	-15.08313
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-81.09263	-16.1063
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-81.14617	-15.98733
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-131.00713	-29.91134
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-130.94058	-29.7721
+# @DC6Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|23.353|"Magnetic Anomaly"
+-129.90596	-29.49344
+# @DC6Bn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|22.588|"Magnetic Anomaly"
+-129.22857	-29.23839
+# @DC6n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|19.048|"Magnetic Anomaly"
+-128.1709	-29.93433
+# @DC6n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|19.048|"Magnetic Anomaly"
+-128.34916	-28.98271
+# @DC5En|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|18.281|"Magnetic Anomaly"
+-127.80249	-29.94985
+# @DC5En|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|18.281|"Magnetic Anomaly"
+-128.01046	-28.8677
+# @DC5Dn|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|17.277|"Magnetic Anomaly"
+-127.39368	-28.65774
+# @DC5Dn|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|17.277|"Magnetic Anomaly"
+-126.93021	-29.93898
+# @DC5Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|16.014|"Magnetic Anomaly"
+-126.6747	-28.38485
+# @DC5Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|16.014|"Magnetic Anomaly"
+-126.06862	-29.92863
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-131.15021	-28.23234
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-133.37846	-28.28496
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-133.12295	-29.94933
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-132.86151	-30.51226
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-132.0118	-29.9395
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-132.66423	-31.5719
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-133.45333	-31.02085
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-133.75185	-29.9335
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-134.3413	-31.13091
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-134.98589	-31.35269
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-134.15876	-28.22508
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-134.94192	-28.22192
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-135.8451	-28.23876
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-137.52169	-27.93628
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-138.65542	-27.50162
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-138.51404	-28.26301
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-139.02264	-27.90778
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-138.3777	-29.96738
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-137.02603	-29.96578
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-135.37675	-29.96381
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-137.90448	-31.47458
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-137.5451	-31.38165
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-136.65333	-31.31474
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-138.85306	-24.93752
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-137.90709	-25.4522
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-140.99693	-24.07197
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-142.85261	-24.5354
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-142.80805	-23.93059
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-142.37131	-24.32051
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-141.0504	-23.626
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-139.18759	-23.18839
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-139.14718	-22.59602
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-138.20122	-22.96628
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-138.20122	-22.75042
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-137.57683	-23.29546
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-137.53227	-22.58278
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-137.60001	-21.89962
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-136.22265	-24.59952
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-136.05034	-26.37913
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-139.80568	-26.17557
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-139.11462	-26.76276
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-137.80881	-26.38352
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-135.55798	-24.58474
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-135.59363	-24.77802
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-133.96137	-24.55431
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-133.95246	-25.38032
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-133.08195	-25.20476
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-133.09978	-24.59235
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-134.05585	-24.01456
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-133.27507	-23.56073
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-133.10572	-24.26267
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-135.91688	-22.30041
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-135.8741	-22.65383
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-135.76476	-23.62097
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-132.31746	-24.06791
+# @DC6Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|23.353|"Magnetic Anomaly"
+-131.46181	-24.49058
+# @DC6Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|23.353|"Magnetic Anomaly"
+-131.4523	-24.76129
+# @DC6Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|23.353|"Magnetic Anomaly"
+-131.4523	-25.03877
+# @DC6Bn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|22.588|"Magnetic Anomaly"
+-129.78926	-25.26159
+# @DC6Bn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|22.588|"Magnetic Anomaly"
+-129.77737	-25.02794
+# @DC6n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|19.048|"Magnetic Anomaly"
+-127.89495	-25.33506
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-132.44592	-21.87187
+# @DC25n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|55.904|"Magnetic Anomaly"
+-143.52584	-31.41262
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-78.20978	-33.75483
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-76.67206	-33.44075
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-75.96556	-32.85461
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-75.92273	-32.91647
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-75.90845	-33.02117
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-75.58484	-32.80702
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-75.53725	-32.92599
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-79.34617	-30.51322
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-79.41756	-30.37759
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-80.77385	-28.25035
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-81.14505	-27.51509
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-81.35206	-28.25035
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-80.67391	-29.29255
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-79.99577	-30.26337
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-79.81731	-30.50608
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-78.06127	-32.52481
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-77.77573	-32.88887
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-79.16058	-32.87221
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-79.21292	-32.81987
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-79.46991	-32.50102
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-80.95945	-30.49275
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-81.20215	-30.12156
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-82.33478	-28.26558
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-80.43835	-33.87873
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-80.53947	-33.70621
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-81.21167	-32.76633
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-81.61618	-32.27259
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-82.82971	-30.52487
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-83.14498	-29.79914
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-84.22169	-28.25606
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-84.17767	-29.57666
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-83.57329	-30.52844
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-82.63054	-32.1598
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-82.20224	-32.74039
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-81.36467	-33.84732
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-81.23618	-34.04243
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-81.87864	-34.49453
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-82.15941	-34.09954
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-82.45922	-33.86159
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-82.99698	-33.03354
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-83.20637	-32.70993
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-83.25396	-32.63379
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-83.68227	-31.97706
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-84.62882	-30.48561
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-84.87152	-31.63013
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-84.34685	-32.50399
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-84.23383	-32.70327
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-83.90962	-33.17916
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-83.50214	-33.93405
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-83.24338	-34.19579
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-82.99353	-34.54973
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-84.49557	-34.55568
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-84.64012	-34.31833
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-84.81858	-34.01852
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-79.81088	-28.26165
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-80.01016	-27.77684
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-81.18502	-25.25937
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-80.61395	-26.36582
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-81.22666	-24.96253
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-81.23261	-24.7692
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-78.08825	-28.26542
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-79.53378	-26.11141
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-80.06023	-24.99068
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-80.19408	-24.69623
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-73.24664	-31.36514
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-72.91828	-31.78869
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-72.69461	-32.0647
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-72.58991	-32.16464
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-72.45666	-25.01008
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-72.73744	-24.25817
+# @DC21n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|47.906|"Magnetic Anomaly"
+-71.54771	-24.98343
+# @DC22n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|49.037|"Magnetic Anomaly"
+-71.87132	-23.27783
+# @DC22n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|49.037|"Magnetic Anomaly"
+-71.91415	-23.18741
+# @DC22n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|49.037|"Magnetic Anomaly"
+-72.00457	-23.05416
+# @DC22n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|49.037|"Magnetic Anomaly"
+-72.34721	-22.63062
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-72.93731	-23.08747
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-73.06105	-22.91139
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-73.38941	-22.34032
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-74.34596	-20.8108
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-71.98077	-20.92026
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-71.91891	-20.99164
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-71.77138	-21.22483
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-71.50964	-21.74355
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-71.46205	-21.84349
+# @DC20n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|43.789|"Magnetic Anomaly"
+-75.8117	-21.76735
+# @DC20n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|43.789|"Magnetic Anomaly"
+-75.47858	-22.40504
+# @DC20n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|43.789|"Magnetic Anomaly"
+-75.26919	-23.22834
+# @DC20n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|43.789|"Magnetic Anomaly"
+-75.00269	-24.18964
+# @DC20n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|43.789|"Magnetic Anomaly"
+-74.85516	-24.80259
+# @DC20n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|43.789|"Magnetic Anomaly"
+-74.80281	-24.9977
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-75.92116	-25.08336
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-75.97351	-24.99295
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-76.32567	-24.32194
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-76.58265	-23.81749
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-76.92862	-23.19407
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-77.34265	-22.15377
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-78.28016	-22.12998
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-78.08028	-22.88189
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-77.59963	-24.02403
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-77.27126	-24.95678
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-73.24502	-18.20058
+# @DC22n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|49.037|"Magnetic Anomaly"
+-73.69117	-18.56939
+# @DC21n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|47.906|"Magnetic Anomaly"
+-74.01239	-18.91441
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-74.14921	-19.96733
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-74.52993	-19.46169
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-74.58941	-19.37246
+# @DC21n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|47.906|"Magnetic Anomaly"
+-73.39017	-19.959
+# @DC22n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|49.037|"Magnetic Anomaly"
+-72.79292	-19.95662
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-73.28416	-18.13157
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-80.37396	-22.59485
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-77.05081	-22.98198
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-127.96754	-35.05323
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-128.17099	-34.64725
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-129.21298	-34.03925
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-128.80607	-35.05948
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-129.56132	-35.07512
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-130.48162	-34.97188
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-130.09182	-33.62112
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-131.15435	-32.75218
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-132.50437	-34.20214
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-131.3578	-34.97267
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-132.09822	-35.02117
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-134.03244	-34.98634
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-136.56372	-34.98634
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-135.92793	-36.55041
+# @DC27n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|60.92|"Magnetic Anomaly"
+-138.03651	-42.67873
+# @DC27n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|60.92|"Magnetic Anomaly"
+-138.3752	-42.77336
+# @DC26n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|57.554|"Magnetic Anomaly"
+-137.44468	-42.52861
+# @DC25n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|55.904|"Magnetic Anomaly"
+-137.02043	-42.41248
+# @DC24n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|52.364|"Magnetic Anomaly"
+-136.368	-42.24052
+# @DC23n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|50.778|"Magnetic Anomaly"
+-135.95978	-42.16232
+# @DC22n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|49.037|"Magnetic Anomaly"
+-135.58543	-42.05347
+# @DC21n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|46.264|"Magnetic Anomaly"
+-134.64779	-41.89385
+# @DC20n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|42.536|"Magnetic Anomaly"
+-132.80636	-41.46487
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-132.00954	-41.23921
+# @DC18n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|38.426|"Magnetic Anomaly"
+-130.21268	-40.76113
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-129.17878	-40.49766
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-128.11278	-40.09089
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-128.45148	-40.27957
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-127.15731	-39.71747
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-125.97545	-39.41117
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-125.24458	-39.1868
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-124.5565	-38.93664
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-123.85309	-38.68559
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-122.84057	-38.35229
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-121.79716	-38.85027
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-122.22498	-38.09917
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-125.41702	-41.23741
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-132.33588	-40.64627
+# @DC19n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|41.257|"Magnetic Anomaly"
+-132.54979	-40.19942
+# @DC32n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|71.071|"Magnetic Anomaly"
+-144.70235	-42.46001
+# @DC33n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|73.619|"Magnetic Anomaly"
+-145.42252	-40.8776
+# @DC33n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|73.619|"Magnetic Anomaly"
+-148.02916	-41.99942
+# @DC31n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|67.735|"Magnetic Anomaly"
+-145.05436	-44.67415
+# @DC31n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|67.735|"Magnetic Anomaly"
+-145.74363	-44.81305
+# @DC31n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|67.735|"Magnetic Anomaly"
+-147.89701	-45.59269
+# @DC6n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|19.048|"Magnetic Anomaly"
+-84.16347	-38.04476
+# @DC6n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|19.048|"Magnetic Anomaly"
+-84.19441	-37.85441
+# @DC6n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|20.131|"Magnetic Anomaly"
+-83.35446	-36.57902
+# @DC6n|o|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|20.131|"Magnetic Anomaly"
+-83.00468	-37.64977
+# @DC6Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|23.353|"Magnetic Anomaly"
+-82.02434	-36.57902
+# @DC6Cn.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|23.353|"Magnetic Anomaly"
+-81.53417	-37.44038
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-80.96607	-37.32498
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-81.38486	-36.59924
+# @DC7n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|24.73|"Magnetic Anomaly"
+-82.02255	-35.78404
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-81.60139	-35.22391
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-81.25875	-35.58797
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-80.47114	-36.66111
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-80.01024	-37.19173
+# @DC8n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|25.823|"Magnetic Anomaly"
+-79.34875	-38.0707
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-78.36683	-37.4192
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-79.0188	-36.66254
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-80.13715	-35.22249
+# @DC9n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|27.027|"Magnetic Anomaly"
+-80.46075	-34.91316
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-79.4709	-34.70376
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-79.21868	-34.92743
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-77.88618	-36.65968
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-77.76245	-36.85956
+# @DC10n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|28.283|"Magnetic Anomaly"
+-77.68154	-36.95949
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-78.65712	-34.49437
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-78.4049	-34.65142
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-77.15806	-36.42173
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-77.07716	-36.51215
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-76.92963	-36.67872
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-76.36808	-37.34972
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-75.65424	-37.66381
+# @DC11n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|29.401|"Magnetic Anomaly"
+-75.38298	-37.96363
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-77.87666	-34.30211
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-77.59112	-34.45916
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-76.5394	-36.05339
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-75.81605	-36.71488
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-75.2075	-37.13129
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-75.06473	-37.28595
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-74.96955	-37.39303
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-74.82679	-37.61908
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-74.79704	-37.67857
+# @DC12n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|30.479|"Magnetic Anomaly"
+-74.71971	-37.7559
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-76.60662	-33.54782
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-76.45791	-33.70844
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-76.30919	-33.93448
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-76.19022	-34.11889
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-75.40499	-34.99334
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-75.25628	-35.15991
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-75.173	-35.23724
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-75.08972	-35.30862
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-74.66141	-35.70123
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-74.59598	-35.77262
+# @DC13n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|33.058|"Magnetic Anomaly"
+-74.477	-35.90349
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-75.67526	-33.31622
+# @DC15n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|34.655|"Magnetic Anomaly"
+-75.5896	-33.41616
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-73.95491	-33.55417
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-73.75861	-33.75047
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-73.60989	-33.94678
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-73.50936	-34.16212
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-73.43083	-34.28347
+# @DC16n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|35.343|"Magnetic Anomaly"
+-73.29164	-34.4655
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-73.24545	-33.16425
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-73.4953	-32.83946
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-73.42035	-32.95189
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-73.1705	-33.30488
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-73.0087	-33.49999
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-72.84214	-33.71415
+# @DC17n.1n|y|1|N/A|Cande+Haxby_1991_JGR|10.1029/91JB01991|36.618|"Magnetic Anomaly"
+-72.76599	-33.79981

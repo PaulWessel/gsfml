@@ -1,0 +1,553 @@
+# @VGMT1.0 @GPOINT
+# @R-134.2205/-81.7592/-34.85864/-11.39029                                
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433],AUTHORITY[\"EPSG\",\"4326\"]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-118.35147	-26.72981
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-118.67553	-29.47772
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-118.69967	-31.36183
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-118.69967	-31.98853
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-119.87531	-18.97817
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-120.04565	-19.99516
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-119.94426	-19.49893
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-120.24843	-20.45944
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-120.52329	-21.97444
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-120.53207	-22.12104
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-120.94508	-23.61078
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-118.66345	-13.96296
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.17062	-33.52184
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.10889	-34.26999
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-102.99776	-34.52469
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-102.87429	-34.75833
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-105.93057	-17.9915
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.102	-20.85719
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.135	-18.98168
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.18787	-20.02124
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.15766	-22.72208
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.36916	-23.4517
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.39938	-23.9773
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.36916	-23.75625
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.45225	-24.43202
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.80834	-30.0017
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.45424	-32.64889
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.14488	-34.06194
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.13522	-33.94172
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.62825	-31.49385
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-105.83984	-16.05755
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-106.36274	-25.28979
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-104.01023	-29.427
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.77563	-30.90011
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.55338	-31.99557
+# @DC4An|y|1|N/A|Wilder_2003_Thesis||8.699|"Magnetic Anomaly"
+-103.40522	-32.49682
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-121.43918	-18.96229
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-121.4892	-19.2516
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-121.54174	-19.52803
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-122.48982	-23.22109
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-122.05896	-21.85411
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-121.6782	-20.2203
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-121.3113	-18.26635
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-121.16434	-17.29352
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-121.10432	-31.44031
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-120.77507	-14.3511
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-120.89077	-14.63237
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-120.78742	-13.52396
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-120.78287	-26.39289
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-120.77307	-26.57304
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-120.88666	-28.16932
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-120.93772	-29.96958
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.94707	-29.37869
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.03039	-34.50742
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-104.03052	-18.00143
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.94878	-18.86762
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.98165	-23.38713
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.88779	-19.98807
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.83343	-20.46675
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.90806	-21.87511
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.94475	-22.6278
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.75561	-31.54566
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.73158	-31.95603
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.45285	-32.48635
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.22302	-34.01573
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.89364	-23.8399
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.95437	-24.00646
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.924	-24.63186
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-103.93615	-24.80841
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.39961	-32.64063
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.76883	-30.94176
+# @DC5n.2n|o|1|N/A|Wilder_2003_Thesis||10.949|"Magnetic Anomaly"
+-101.83248	-30.50397
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-123.01826	-18.37007
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-123.12932	-19.12731
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-123.39581	-24.90124
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-123.15154	-19.56745
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.57526	-15.32305
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.66284	-28.20839
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.51885	-14.83285
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.52956	-27.12636
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.49629	-14.62554
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.55177	-26.1435
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.45116	-14.21033
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.66262	-29.98025
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.38347	-13.99149
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.29322	-11.59327
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-122.70423	-31.54245
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-103.06944	-13.31063
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.42709	-29.32799
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.48263	-29.64703
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.57148	-30.01317
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.10532	-31.96742
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.03208	-32.68507
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-102.48117	-17.98263
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-102.51259	-18.82391
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-102.50847	-19.36695
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-102.39518	-20.29358
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-102.42056	-21.33323
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-102.47721	-22.73131
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-103.0063	-12.98931
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-102.34242	-23.2982
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-99.66473	-34.00624
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-99.67287	-34.24875
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-99.66473	-34.52409
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-99.6566	-34.85864
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-99.74611	-33.45807
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.12858	-32.44747
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.27506	-31.51565
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.35644	-31.02877
+# @DC5AAn|c|1|N/A|Wilder_2003_Thesis||13.065|"Magnetic Anomaly"
+-100.46223	-30.50434
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.55462	-18.47412
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.48754	-19.0011
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.39845	-25.81204
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.78286	-28.2526
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.63254	-27.76632
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.73913	-29.98475
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.28753	-15.39257
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.23821	-15.03563
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.79927	-30.45643
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.20122	-14.80926
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.07791	-13.94931
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-124.0101	-11.94867
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-100.35795	-19.99282
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-100.23763	-20.5732
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-100.46319	-17.96196
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-99.91107	-21.64745
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-100.43717	-18.64769
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-98.38392	-31.0529
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-97.87004	-33.14906
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-98.46381	-30.05365
+# @DC5Bn.2n|c|1|N/A|Wilder_2003_Thesis||15.0945|"Magnetic Anomaly"
+-98.56083	-29.57677
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.00504	-21.13023
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.08438	-21.27
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.69727	-28.12904
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.81342	-30.00634
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.82341	-29.91603
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.71689	-24.68843
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.70035	-28.25378
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.68158	-15.1561
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-126.07051	-18.52996
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-125.70895	-15.49924
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-96.66496	-29.41511
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-96.34449	-30.47674
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-95.92222	-31.74112
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-95.84658	-31.97239
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-95.51378	-34.00237
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-98.09332	-18.50807
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-97.90961	-19.69906
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-96.88981	-28.18801
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-96.91039	-28.33307
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-96.51539	-29.82186
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-95.8223	-32.67656
+# @DC5Dn|c|1|N/A|Wilder_2003_Thesis||17.446|"Magnetic Anomaly"
+-95.78056	-32.93379
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-131.32094	-21.23786
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-130.33232	-29.93006
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-131.26015	-21.82725
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-131.07682	-24.94456
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-131.05424	-24.63037
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-130.80298	-27.41324
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-127.85346	-15.60456
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-130.39093	-29.69679
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-127.94645	-15.41414
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-86.07472	-33.99274
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-86.01825	-34.09573
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-90.54201	-16.97418
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-86.35794	-33.1946
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-90.41297	-17.50271
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-85.81073	-34.46671
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-90.2714	-17.98706
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-86.82116	-32.29418
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-86.60428	-32.61481
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-88.77007	-20.00974
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-86.93738	-23.77365
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-87.06507	-23.40741
+# @DC6Cn.3n|c|1|N/A|Wilder_2003_Thesis||24.0585|"Magnetic Anomaly"
+-87.8565	-21.72228
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-131.49767	-21.84324
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-131.35445	-24.50824
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-128.42339	-15.62355
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-131.36276	-24.85548
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-128.16724	-16.43172
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-131.37937	-25.19423
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-131.04437	-27.30638
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-127.75488	-18.59695
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-130.6124	-29.94954
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-130.6275	-29.77704
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-130.81873	-28.26361
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-131.5079	-21.19117
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-128.29328	-12.78686
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-89.78697	-17.20868
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-90.02876	-16.84816
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-89.04481	-18.6392
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-87.45817	-21.7462
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-86.547	-32.27947
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-86.0893	-33.22042
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-85.68245	-34.06715
+# @DC7n.1n|y|1|N/A|Wilder_2003_Thesis||24.73|"Magnetic Anomaly"
+-85.53941	-34.35664
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-131.1966	-15.85521
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-131.83981	-11.39029
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-130.92661	-17.5361
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-130.67326	-18.57853
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-130.8835	-17.88201
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-130.64461	-18.7907
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-134.04035	-23.37323
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-130.64644	-18.82363
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-133.95662	-24.0822
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-130.62081	-18.95704
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-133.93569	-24.65419
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-134.2205	-21.93217
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-133.66548	-29.99333
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-133.86037	-25.40744
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-133.4889	-30.81337
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-133.99456	-28.27016
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-131.47784	-13.99871
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-131.54534	-13.40853
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-131.81533	-12.35576
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-84.09743	-29.54296
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-84.9357	-20.04603
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-87.08295	-16.04388
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-82.89944	-33.03135
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-87.16592	-15.75131
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-87.33185	-15.48496
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-87.06478	-16.11979
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-87.43494	-15.10516
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-86.63768	-16.87058
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-86.49531	-17.12246
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-86.38142	-17.33323
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-86.06821	-17.93021
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-86.06821	-18.01147
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-84.96012	-28.25438
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-83.52918	-31.98742
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-83.14199	-32.58361
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-83.07285	-32.70005
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-82.3538	-33.83308
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-82.06342	-34.07395
+# @DC10n.1n|y|1|N/A|Wilder_2003_Thesis||28.283|"Magnetic Anomaly"
+-81.7592	-34.46249
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.04743	-18.05654
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.13391	-19.15192
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.20391	-19.30486
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.19019	-19.47189
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.42999	-20.35067
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.86314	-21.39097
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.97845	-22.49447
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-119.19981	-24.01373
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.08454	-16.98551
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.01214	-18.0111
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.02678	-18.97307
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.21875	-20.07399
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.29684	-21.72824
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.4444	-22.29616
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.63111	-22.99468
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.7508	-23.96253
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.75431	-23.98719
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-117.03525	-14.24698
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-107.93774	-16.05988
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-116.54917	-28.22468
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-116.79321	-29.23629
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-116.90159	-29.75526
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-116.93246	-30.49015
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-116.77352	-31.98966
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.74472	-30.48686
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.83347	-30.90655
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.96658	-31.49482
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.87601	-31.99689
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.72185	-32.61282
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.1437	-34.27494
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-116.90951	-30.98594
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-116.86064	-31.49592
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.76418	-32.76479
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.62397	-29.63184
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-105.74555	-30.00104
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-117.87618	-16.96049
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-118.28531	-19.82112
+# @DC3An.2n|o|1|N/A|Wilder_2003_Thesis||6.567|"Magnetic Anomaly"
+-108.04391	-17.26496

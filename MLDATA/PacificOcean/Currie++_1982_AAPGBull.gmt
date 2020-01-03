@@ -1,0 +1,583 @@
+# @VGMT1.0 @GPOINT
+# @R-138.932/-126.1642/48.0747/55.078                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.682	48.0747
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-126.2237	48.0899
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-126.9423	48.1197
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.6506	48.176
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.6006	48.176
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-126.2142	48.176
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-126.1642	48.176
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-126.913	48.2111
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-126.863	48.2111
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-126.9254	48.4119
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.6133	48.4211
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-126.9876	48.5021
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-126.9376	48.5021
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.5928	48.5611
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.5428	48.5611
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.6257	48.798
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.6952	48.94
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-126.6452	48.94
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-129.4079	49.4631
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-129.6155	49.5229
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-129.2003	49.5313
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-129.1503	49.5313
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-129.4656	49.5844
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-129.4156	49.5844
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-129.0409	49.6889
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-130.0475	49.7079
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.9145	49.7524
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.8645	49.7524
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-128.8977	49.7576
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-128.8477	49.7576
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-129.3012	49.7802
+# @DC3n.4n|o|2|N/A|Currie++_1982_AAPGBull|N/A|5.23|"Magnetic Anomaly"
+-131.3136	49.8307
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-130.1681	49.8647
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-130.1181	49.8647
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-129.136	49.8694
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-129.086	49.8694
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.652	49.896
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.6901	49.9288
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.851	49.95
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.5344	50.0133
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.4844	50.0133
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-130.6988	50.0795
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-130.6488	50.0795
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.9978	50.0812
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.546	50.15
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.8735	50.1779
+# @DC1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|0.78|"Magnetic Anomaly"
+-129.8235	50.1779
+# @DC3n.4n|o|2|N/A|Currie++_1982_AAPGBull|N/A|5.23|"Magnetic Anomaly"
+-131.2032	50.1806
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-130.7953	50.1821
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-130.7453	50.1821
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.546	50.2
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.771	50.272
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-130.5387	50.2855
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.771	50.322
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.534	50.353
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-132.208	50.372
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-130.7047	50.3868
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-130.3662	50.3905
+# @DC2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|1.95|"Magnetic Anomaly"
+-130.3162	50.3905
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-132.156	50.49
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-130.5877	50.4975
+# @DC2An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|2.581|"Magnetic Anomaly"
+-130.5377	50.4975
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.77	50.532
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-132.156	50.54
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.426	50.563
+# @DC3n.4n|o|2|N/A|Currie++_1982_AAPGBull|N/A|5.23|"Magnetic Anomaly"
+-131.193	50.6109
+# @DC3n.4n|o|2|N/A|Currie++_1982_AAPGBull|N/A|5.23|"Magnetic Anomaly"
+-131.143	50.6109
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.426	50.613
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.619	50.85
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.421	50.851
+# @DC3n.4n|o|2|N/A|Currie++_1982_AAPGBull|N/A|5.23|"Magnetic Anomaly"
+-131.0789	50.8779
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.619	50.9
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-132.141	50.915
+# @DC3n.4n|o|2|N/A|Currie++_1982_AAPGBull|N/A|5.23|"Magnetic Anomaly"
+-130.9912	51.0196
+# @DC3n.4n|o|2|N/A|Currie++_1982_AAPGBull|N/A|5.23|"Magnetic Anomaly"
+-130.9412	51.0196
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.366	51.073
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.594	51.106
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.366	51.123
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.249	51.145
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-132.028	51.149
+# @DC3An.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|5.894|"Magnetic Anomaly"
+-131.249	51.195
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-132.028	51.199
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.121	51.212
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.121	51.262
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.453	51.286
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.407	51.306
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.453	51.336
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.482	51.353
+# @DC5n.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.74|"Magnetic Anomaly"
+-132.72	51.366
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-132.01	51.393
+# @DC3An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|6.567|"Magnetic Anomaly"
+-131.482	51.403
+# @DC5n.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.74|"Magnetic Anomaly"
+-132.72	51.416
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.163	51.444
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.524	51.447
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.228	51.469
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.528	51.474
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.524	51.497
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.361	51.554
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.239	51.562
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.852	51.59
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-131.956	51.593
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.361	51.604
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.239	51.612
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.852	51.64
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-137.769	51.643
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-131.956	51.643
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.517	51.66
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.594	51.672
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.151	51.676
+# @DC5n.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.74|"Magnetic Anomaly"
+-132.704	51.692
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.943	51.702
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.517	51.71
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.151	51.726
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.175	51.726
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.298	51.762
+# @DC5n.2n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.92|"Magnetic Anomaly"
+-133.292	51.767
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.175	51.776
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.369	51.802
+# @DC5n.2n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.92|"Magnetic Anomaly"
+-133.292	51.817
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.534	51.856
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.931	51.857
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.485	51.858
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.945	51.86
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-131.986	51.883
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.534	51.906
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.931	51.907
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.485	51.908
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-137.745	51.92
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.265	51.922
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.621	51.936
+# @DC5n.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.74|"Magnetic Anomaly"
+-132.647	51.945
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-137.745	51.97
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.878	51.976
+# @DC5n.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.74|"Magnetic Anomaly"
+-132.647	51.995
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-134.348	52
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.878	52.026
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.979	52.046
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.543	52.053
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.311	52.068
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.248	52.078
+# @DC5n.2n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.92|"Magnetic Anomaly"
+-133.267	52.104
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.29	52.112
+# @DC4An|y|2|N/A|Currie++_1982_AAPGBull|N/A|8.699|"Magnetic Anomaly"
+-132.311	52.118
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.616	52.121
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-131.902	52.125
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.248	52.128
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.91	52.133
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.254	52.136
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.622	52.142
+# @DC4n.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|8.072|"Magnetic Anomaly"
+-131.902	52.175
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.91	52.183
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.254	52.186
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.622	52.192
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-137.859	52.196
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-134.244	52.237
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.96	52.239
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-134.244	52.287
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.331	52.304
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.697	52.32
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.576	52.325
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.858	52.368
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.697	52.37
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.576	52.375
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.991	52.376
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.37	52.384
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.858	52.418
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.733	52.434
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-137.898	52.444
+# @DC5n.2n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.92|"Magnetic Anomaly"
+-133.176	52.465
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.311	52.485
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-137.898	52.494
+# @DC5n.2n|y|2|N/A|Currie++_1982_AAPGBull|N/A|9.92|"Magnetic Anomaly"
+-133.176	52.515
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.311	52.535
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.753	52.548
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.341	52.562
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.931	52.582
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.96	52.595
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.341	52.612
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.641	52.613
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.931	52.632
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.96	52.645
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.574	52.654
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.721	52.659
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.857	52.66
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-134.216	52.663
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.387	52.672
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.574	52.704
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.721	52.709
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.387	52.722
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.032	52.765
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.413	52.809
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.722	52.817
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-135.075	52.82
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.435	52.826
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-136.044	52.847
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.722	52.867
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.662	52.88
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-134.121	52.882
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.781	52.885
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-134.121	52.932
+# @DC5An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|12.401|"Magnetic Anomaly"
+-133.781	52.935
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.839	52.946
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.523	52.948
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.722	53.008
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.722	53.058
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.436	53.078
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.077	53.103
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.798	53.105
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.842	53.115
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.422	53.125
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.436	53.128
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.705	53.141
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.077	53.153
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-136.125	53.156
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.842	53.165
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.422	53.175
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-135.062	53.179
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.534	53.188
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.705	53.191
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-136.125	53.206
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-135.062	53.229
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.534	53.238
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-134.085	53.243
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.794	53.269
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.529	53.313
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.806	53.324
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.185	53.345
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.91	53.357
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.704	53.366
+# @DC5ADn|o|2|N/A|Currie++_1982_AAPGBull|N/A|14.612|"Magnetic Anomaly"
+-134.704	53.416
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-136.136	53.42
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.592	53.429
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-133.992	53.429
+# @DC5Ar.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|12.678|"Magnetic Anomaly"
+-133.992	53.479
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.491	53.502
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.816	53.525
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-135.081	53.525
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.816	53.575
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.842	53.633
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.842	53.683
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.498	53.695
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.186	53.705
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.952	53.721
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.932	53.735
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.498	53.745
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.186	53.755
+# @DC5Bn.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|15.155|"Magnetic Anomaly"
+-134.952	53.771
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.397	53.782
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.798	53.831
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.397	53.832
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.214	53.94
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.024	53.954
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.505	53.978
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.406	53.992
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.936	54.003
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.777	54.004
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.505	54.028
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.406	54.042
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.936	54.053
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.777	54.054
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.134	54.135
+# @DC5Cn.1n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.014|"Magnetic Anomaly"
+-135.134	54.185
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.553	54.21
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.041	54.213
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.518	54.215
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.739	54.23
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.873	54.234
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-136.015	54.247
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.041	54.263
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.546	54.364
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.15	54.407
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.489	54.422
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.859	54.425
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.759	54.441
+# @DC5Cn.3n|y|2|N/A|Currie++_1982_AAPGBull|N/A|16.556|"Magnetic Anomaly"
+-135.489	54.472
+# @DC6n|y|2|N/A|Currie++_1982_AAPGBull|N/A|19.048|"Magnetic Anomaly"
+-136.859	54.475
+# @DC6AAr.1n|o|2|N/A|Currie++_1982_AAPGBull|N/A|22.248|"Magnetic Anomaly"
+-138.759	54.491
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.338	54.557
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.133	54.587
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.95	54.589
+# @DC5En|y|2|N/A|Currie++_1982_AAPGBull|N/A|18.281|"Magnetic Anomaly"
+-136.338	54.607
+# @DC6An.2n|o|2|N/A|Currie++_1982_AAPGBull|N/A|21.32|"Magnetic Anomaly"
+-138.133	54.637
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.95	54.639
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.544	54.645
+# @DC6n|o|2|N/A|Currie++_1982_AAPGBull|N/A|20.131|"Magnetic Anomaly"
+-137.544	54.695
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.926	54.777
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.922	55.028
+# @DC5Dn|y|2|N/A|Currie++_1982_AAPGBull|N/A|17.277|"Magnetic Anomaly"
+-135.922	55.078

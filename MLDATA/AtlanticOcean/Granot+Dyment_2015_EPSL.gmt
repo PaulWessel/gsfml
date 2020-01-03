@@ -1,0 +1,271 @@
+# @VGMT1.0 @GPOINT
+# @R-55.7204/16.7598/-48.342/-9.9713                                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-36.6742	-48.342
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-36.7603	-48.2012
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-36.755	-48.0154
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+4.244	-42.8325
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+4.1496	-42.6072
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+4.0657	-42.4617
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+4.253	-42.8754
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.8938	-44.0404
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.7186	-44.0498
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.4946	-44.0281
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+2.1898	-39.9976
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+2.3728	-39.9674
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+2.5807	-39.9057
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.5015	-43.9064
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.4543	-43.8899
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.4836	-42.9879
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.5948	-43.2665
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+1.8009	-38.6423
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-36.905	-41.0531
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-36.9147	-40.9547
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-36.9077	-40.9174
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.0086	-39.6912
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.144	-39.1414
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.2587	-38.2228
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.2383	-37.9889
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.2342	-37.8388
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.2893	-37.6228
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.3854	-37.1109
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.4139	-36.9229
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-37.2158	-38.946
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+1.7756	-36.9324
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+1.6809	-36.7251
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+1.5743	-36.4978
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+1.3154	-36.1022
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+1.1029	-35.6629
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+0.8777	-35.2332
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+1.8879	-37.1402
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-29.4624	-18.7083
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-29.5866	-18.2855
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-29.5329	-18.5386
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-30.2389	-15.6478
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-30.4796	-14.6304
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-30.4715	-14.3877
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-30.4312	-15.0546
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-30.1823	-15.998
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+-29.8708	-17.3007
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+3.2018	-16.8308
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+2.694	-15.6842
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+0.6234	-11.0402
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+0.605	-10.9892
+# @DC33r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|79.075|"Magnetic Anomaly"
+0.3541	-10.4108
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.5759	-42.0043
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.5887	-41.6344
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.6323	-41.0142
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.625	-40.5523
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.6708	-39.9085
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.8809	-39.6901
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.795	-38.787
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.8906	-38.2052
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.8168	-37.9084
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.8992	-37.2528
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.827	-36.9677
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.862	-37.518
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-38.8788	-38.9036
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+3.2069	-36.5813
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+2.8393	-35.8617
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+2.6801	-35.4965
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+2.2668	-34.7876
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+2.0182	-34.3051
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+3.049	-36.1926
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-30.7137	-20.5631
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+3.5793	-14.5634
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+3.7904	-15.1695
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+3.9884	-15.55
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-30.7513	-19.1859
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-30.8356	-18.7
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-31.3173	-16.5199
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-31.4791	-15.9022
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-31.6411	-15.0126
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-31.6188	-15.1529
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-31.3871	-16.3608
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-31.1736	-17.2385
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+1.8347	-10.775
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+1.6336	-10.3636
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+1.3779	-9.9713
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+2.0755	-11.1178
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+2.6829	-12.383
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-39.2565	-43.1185
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+-39.2485	-42.9643
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+3.4172	-38.3533
+# @DC34n|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|83|"Magnetic Anomaly"
+3.8532	-39.1719
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.885	-45.326
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.816	-44.75
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.614	-44.364
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.59	-44.33
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.47	-44.202
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.434	-43.882
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+14.806	-36.349
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-51.151	-37.257
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-50.813	-36.656
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-51	-37.058
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-49.874	-35.01
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-49.717	-34.685
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-48.343	-32.003
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-49.778	-34.842
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+12.292	-29.41
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+12.055	-28.708
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+11.753	-27.672
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+11.588	-26.992
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+11.535	-26.654
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.7355	-47.3333
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+-54.8308	-47.8642
+# @DM0r|y|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|120.6|"Magnetic Anomaly"
+16.7598	-38.0507
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-55.7204	-44.7822
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-55.3415	-43.6637
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-55.3282	-43.4715
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+15.3722	-35.7409
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+14.9708	-35.2757
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+14.855	-35.0028
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+14.6286	-34.64
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-51.7983	-36.911
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-51.7297	-36.8567
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-51.642	-36.6473
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-51.9109	-37.0511
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-50.5544	-34.5591
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+-50.7776	-34.8502
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+12.5137	-28.4068
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+12.1912	-27.5109
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+12.0354	-26.8344
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+11.8452	-26.2304
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+11.7448	-25.8652
+# @DM2n|o|1|N/A|Granot+Dyment_2015_EPSL|10.1016/j.epsl.2015.01.015|124.05|"Magnetic Anomaly"
+11.7331	-25.6038

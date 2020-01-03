@@ -1,0 +1,3 @@
+# Used to format the website only
+ocean|Pacific Ocean
+ref|Granot, R., Cande, S. C., Stock, J. M., and Damaske, D., 2013, Revised Eocene-Oligocene kinematics for the West Antarctic rift system, <I>Geophys. Res. Lett., 40</I>, 279-284.

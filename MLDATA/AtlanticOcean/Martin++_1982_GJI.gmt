@@ -1,0 +1,23 @@
+# @VGMT1.0 @GPOINT
+# @R30.0305/32.3259/-32.226/-30.0508                                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM0r|y|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|120.6|"Magnetic Anomaly"
+30.0305	-32.226
+# @DM1n|o|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|123.19|"Magnetic Anomaly"
+30.2062	-31.6454
+# @DM7r|o|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|127.79|"Magnetic Anomaly"
+31.6759	-31.5133
+# @DM4n|o|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|126.57|"Magnetic Anomaly"
+30.7416	-31.2837
+# @DM9r|o|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|128.93|"Magnetic Anomaly"
+31.677	-30.8745
+# @DM10Nn.1n|y|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|129.63|"Magnetic Anomaly"
+31.7244	-30.7204
+# @DM11An.1n|y|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|131.91|"Magnetic Anomaly"
+32.1001	-30.3394
+# @DM12An|y|2|N/A|Martin++_1982_GJI|10.1111/j.1365-246X.1982.tb02784.x|133.73|"Magnetic Anomaly"
+32.3259	-30.0508

@@ -1,0 +1,3 @@
+# Used to format the website only
+ocean|Indian Ocean
+ref|Cande, S. C. and P. Patriat (2015), The anticorrelated velocities of Africa and India in the Late Cretaceous and early Cenozoic, <I>Geophys. J. Int., 200</I>, 227-243.

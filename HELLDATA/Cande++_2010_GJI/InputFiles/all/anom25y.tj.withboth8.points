@@ -1,0 +1,109 @@
+  15
+1 15     14.9523    59.9907   6.0   3  anom25y  rot ind to cap
+1 15     14.9614    60.5564  6.0   3  anom25y  rot ind to cap
+1 15     15.0200    61.8944  6.0   3  anom25y  rot ind to cap
+1 15     15.0243    62.6451  6.0   3  anom25y  rot ind to cap
+1 15     15.0699    63.2232  6.0   3  anom25y  rot ind to cap
+1 15     15.1099    63.4675  6.0   3  anom25y  rot ind to cap
+1 15     15.2663    63.8011  6.0   3  anom25y  rot ind to cap
+1 15     15.2791    64.1467  6.0   3  anom25y  rot ind to cap
+1 15     15.2942    64.6286  6.0   3  anom25y  rot ind to cap
+3 15  2.436800 53.694901   3.5   1  anom25y  carls jerome
+3 15  2.008100 54.452301   3.5   1  anom25y  carls jerome
+3 15  1.804600 54.855801   3.5   1  anom25y  carls jerome
+3 15  0.859600 56.835999   3.5   1  anom25y  carls jerome
+3 15  0.479700 57.596100   3.5   1  anom25y  carls jerome
+3 15  0.180200 58.770699   3.5   1  anom25y  carls jerome
+3 15  0.138000 58.914799   3.5  1  anom25y  carls jerome
+ 2  10 -58.241436 17.017131 5.0 3 digged 24 mar bainfz 1 
+ 2  10 -58.100732 17.012503 5.0 3 digged 24 mar bainfz 1 
+ 2  10 -57.861815 16.889604 5.0 3 digged 24 mar bainfz 1 
+ 2  11 -58.369124 21.051064 5.0 3 digged 24 mar bainfz 2 
+ 2  11 -58.255912 21.015203 5.0 3 digged 24 mar bainfz 2 
+ 2  11 -58.026993 20.991270 5.0 3 digged 24 mar bainfz 2 
+ 2  12 -57.544130 23.677979 5.0 3 digged 24 mar bainfz 3 
+ 2  12 -57.396604 23.617885 5.0 3 digged 24 mar bainfz 3 
+ 2  12 -57.177869 23.624961 5.0 3 digged 24 mar bainfz 3 
+ 2  13 -56.326854 25.919357 5.0 3 digged 24 mar bainfz 4 
+ 2  13 -56.157830 25.868029 5.0 3 digged 24 mar bainfz 4 
+ 2  13 -55.932371 25.843267 5.0 3 digged 24 mar bainfz 4 
+ 2  14 -54.866213 27.551941 5.0 3 digged 24 mar bainfz 5 
+ 2  14 -54.700163 27.508122 5.0 3 digged 24 mar bainfz 5 
+ 2  14 -54.473604 27.506856 5.0 3 digged 24 mar bainfz 5 
+ 3  10 -48.588657 24.598949 5.0 2 digged 24 mar bainfz 1 
+ 3  10 -48.738990 24.674964 5.0 2 digged 24 mar bainfz 1 
+ 3  10 -48.996774 24.732826 5.0 2 digged 24 mar bainfz 1 
+ 3  11 -48.460486 27.890349 5.0 2 digged 24 mar bainfz 2 
+ 3  11 -48.608489 27.974127 5.0 2 digged 24 mar bainfz 2 
+ 3  11 -48.929430 27.907469 5.0 2 digged 24 mar bainfz 2 
+ 3  12 -47.575545 29.521532 5.0 2 digged 24 mar bainfz 3 
+ 3  12 -47.706060 29.589052 5.0 2 digged 24 mar bainfz 3 
+ 3  12 -47.936809 29.681900 5.0 2 digged 24 mar bainfz 3 
+ 3  13 -46.233301 31.160822 5.0 2 digged 24 mar bainfz 4 
+ 3  13 -46.378140 31.254300 5.0 2 digged 24 mar bainfz 4 
+ 3  13 -46.584728 31.322787 5.0 2 digged 24 mar bainfz 4 
+ 3  14 -44.738979 32.212516 5.0 2 digged 24 mar bainfz 5 
+ 3  14 -44.860829 32.307608 5.0 2 digged 24 mar bainfz 5 
+ 3  14 -45.072731 32.471511 5.0 2 digged 24 mar bainfz 5  
+2  9  -57.313006 14.507534 5.0  3   dig based on Royer88 13 feb 09
+2  9  -57.359885 14.828370 5.0  3   dig based on Royer88 13 feb 09
+2  9  -57.771124 15.849669 5.0  3   dig based on Royer88 13 feb 09
+3  9  -47.865236 21.584032   5.0  2  dig based on Royer88 13 feb 09
+3  9  -47.888927 21.716297   5.0  2  dig based on Royer88 13 feb 09
+3  1  -25.011766 54.453197  3.49  1  mm a81af from jdy  seg 1
+3  1 -25.290998 54.397602  3.49  1  mm a81af from jdy  seg 1
+3  1 -25.441221 54.665443  3.49  1  mm a81af from jdy  seg 1
+3  2 -27.041193 54.649128  3.49  1  mm a81af from jdy
+3  2 -27.467165 55.216957  3.49  1  mm a81af from jdy
+3  2 -27.586872 55.488174  3.49  1  mm a81af from jdy
+3  2 -27.741411 55.584869  3.49  1  mm a81af from jdy
+3  2 -27.780998 55.674000  3.49  1  mm a81af from jdy
+3  8 -32.505112 51.350269  3.49  2  mm a81af from jdy  was 6.0
+3  8 -32.617702 51.118668  3.49  2  mm a81af from jdy  was 6.0
+3  8 -32.760166 50.362289  3.49  2  mm a81af from jdy  was 6.0
+3  8  -32.846360   49.809091     6.0  2   anom25y  dig 23 jan
+2  3  -39.070442 57.557823  3.49  1  mm a81an from jdy
+2  3  -39.189194 57.679001  3.49  1  mm a81an from jdy
+2  3 -39.557205 58.643303  3.49  1  mm a81an from jdy
+2  3 -39.622856 58.776192  3.49  1  mm a81an from jdy
+2  4  -40.973808 58.768299  3.49  1  mm a81an from jdy
+2  4 -41.307411 59.609474  3.49  1  mm a81an from jdy
+2  5  -41.964268 59.406498  3.49  1  mm a81an from jdy
+2  5  -42.248581 59.969265  3.49  1  mm a81an from jdy
+2  8 -42.914005 49.843964  3.49  3  mm a81an from jdy was 6.0
+2  8   -43.265539   47.616412      3.49  3  anom25y  dig 23 jan was 6.0
+2  8   -43.244087   47.704650      3.49  3  anom25y  dig 23 jan was 6.0
+2  8   -43.236949   47.739736      3.49  3  anom25y  dig 23 jan was 6.0
+2  8   -42.973719   49.293882      3.49  3  anom25y  dig 23 jan was 6.0
+2  8   -42.884895   50.038960      3.49  3  anom25y  dig 23 jan was 6.0
+1  2   -10.866175   73.901246    3.49  3  anom25y from plot was 5.0
+1  2  -10.937057 74.426277  3.49  3  mm a81in from jdy
+1  2 -11.029074 75.048279  3.49  3  mm a81in from jdy
+1  2 -11.138999 75.988304  3.49  3  mm a81in from jdy
+1  3 -11.213598 78.095955  3.49  2  mm a81in from jdy
+1  3 -11.226870 78.547661  3.49  2  mm a81in from jdy
+1  4 -12.409393 79.947060  3.49  2  mm a81in from jdy
+1  4 -12.464998 79.259705  3.49  2  mm a81in from jdy
+1  5 -13.421157 80.988144  3.49  2  mm a81in from jdy
+1  1  -9.424182 73.230957  3.49  3  mm a81in from jdy seg 1
+1  1 -9.480634 73.731133  3.49  3  mm a81in from jdy  seg 1
+1  6   -10.558556   73.696245    4.99  3  FZ C   anom25 
+1  6     -10.233465   73.743277    4.99  3  FZ C  anom25
+1  6     -9.892431   73.794554    4.99  3  FZ C  anom25
+1  6     -9.547116   73.847897    4.99  3  FZ C  anom25
+1  6     -9.310503   73.865571    4.99  3  FZ C  anom25
+1  7     -12.168647   78.856264    4.99  2  FZ A  anom25  seg 7 sub .2 from long
+1  7     -11.831281   78.883860    4.99  2  FZ A  anom25 seg 7 sub .2 from long
+1  7   -11.518703   78.909041    4.99  2  FZ A  anom25 seg 7 sub .2 from long
+1  7   -11.281186   79.004951    4.99  2  FZ A  anom25 seg 7 sub .1 from long
+1  7   -10.990393   79.025706    4.99  2  FZ A  anom25 seg 7 sub .05 from long
+3  6     -26.734716   53.973427      4.99   1  FZ C  anom25
+3  6     -26.367547   54.298683      4.99   1  FZ C  anom25
+3  6     -26.086209   54.596317      4.99   1  FZ C  anom25
+3  6     -25.908952   54.783616      4.99   1  FZ C  anom25
+3  6     -25.743926   54.951480      4.99   1  FZ C  anom25
+2  7  -40.966150   58.071251    4.99   1  FZ A anom25  seg 7
+2  7  -40.608212   58.268433    4.99   1  FZ A anom25 seg 7
+2  7  -40.288351   58.422303    4.99   1  FZ A anom25 seg 7
+2  7  -40.063707   58.579087    4.99   1  FZ A anom25 seg 7
+2  7  -39.802715   58.763349    4.99   1  FZ A anom25 seg 7

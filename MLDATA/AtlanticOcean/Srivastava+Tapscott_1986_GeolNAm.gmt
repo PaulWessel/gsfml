@@ -1,0 +1,3917 @@
+# @VGMT1.0 @GPOINT
+# @R-41.2/133/52.4/88.15                                                  
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30	52.4
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-31.98	52.93
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30.02	53.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30.02	53.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30.02	53.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-37.15	53.6
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30.02	53.6
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-31.95	53.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.56	53.67
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.9	54
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.35	54
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-32	54
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-31.97	54.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.8	54.28
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.99	54.33
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.96	54.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-37.05	54.63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.4	54.65
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.94	54.67
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-41.18	54.8
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-39.1	54.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-37.25	54.8
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.92	54.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.9	55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.7	55.05
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.88	55.16
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-31.8	55.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.4	55.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.85	55.33
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.14	55.55
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.82	55.55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.85	55.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.83	55.67
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-41.2	55.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-39	55.75
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.53	55.82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.7	55.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.7	55.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-32.93	56
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.68	56.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.65	56.04
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.45	56.07
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-38.98	56.12
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.55	56.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-41	56.16
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.45	56.22
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-40.88	56.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-36.5	56.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.4	56.42
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-40.9	56.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-32.3	56.5
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.38	56.52
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-28.5	56.52
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-28.4	56.65
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-40.9	56.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-35.8	56.73
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-40.91	56.77
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-38.71	56.8
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-28.3	56.81
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.86	56.9
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-38.68	56.94
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-28.22	56.94
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-40.92	56.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.65	57
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.82	57
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-40.92	57.02
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.73	57.1
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-39.93	57.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.52	57.22
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-39.87	57.23
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-39.81	57.26
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.35	57.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-35.4	57.28
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.9	57.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-39.73	57.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-36.88	57.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.1	57.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.85	57.4
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.95	57.42
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-39.65	57.5
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.75	57.5
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-36.8	57.57
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-39.7	57.58
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.88	57.58
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.67	57.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-34.9	57.66
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.58	57.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.82	57.75
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.17	57.75
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-36.27	57.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.5	57.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.05	57.87
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.77	57.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-34.53	57.92
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.95	57.97
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-39.05	58
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-34.3	58.07
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.45	58.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.05	58.12
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-36.08	58.14
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.6	58.14
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.39	58.18
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.83	58.27
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.5	58.27
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-38.28	58.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.27	58.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.7	58.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.44	58.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-38.2	58.42
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.7	58.43
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.58	58.43
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.2	58.43
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-38	58.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.5	58.5
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.75	58.53
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.38	58.55
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.13	58.55
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-35.15	58.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.34	58.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.28	58.64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.32	58.68
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.6	58.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.2	58.69
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-33.3	58.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-37.62	58.77
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.08	58.77
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.07	58.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29	58.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.42	58.86
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-34.8	58.9
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27	58.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.92	58.93
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-32.9	58.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.81	59
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26.83	59.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.7	59.07
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.25	59.07
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-37.02	59.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.6	59.13
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-34.77	59.18
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-32.6	59.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.53	59.2
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26.5	59.2
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24	59.26
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.4	59.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-36.9	59.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26.3	59.35
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-23.73	59.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-32.36	59.38
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-36.7	59.4
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-34.35	59.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.25	59.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-36.88	59.42
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-32.25	59.48
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.13	59.48
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-23.55	59.48
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26	59.52
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-36.55	59.56
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28	59.57
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.9	59.62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.92	59.63
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-23.27	59.63
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-34.15	59.65
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.75	59.69
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.7	59.72
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.8	59.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.62	59.81
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-23.08	59.82
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.47	59.84
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-36.18	59.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.5	59.91
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-33.77	59.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.53	59.96
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.35	59.98
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.33	60
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-23	60
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.27	60.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.22	60.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.5	60.05
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.23	60.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.36	60.11
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.1	60.12
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.03	60.18
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-22.4	60.2
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-33.35	60.22
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.98	60.22
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.9	60.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.91	60.25
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-22.32	60.25
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-22.2	60.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.79	60.32
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.74	60.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-31.05	60.36
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-33.12	60.38
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-35.48	60.4
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-33.08	60.42
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.9	60.5
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-32.97	60.52
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.87	60.52
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-22	60.52
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.48	60.55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.8	60.56
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.44	60.56
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.46	60.58
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.4	60.6
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-21.84	60.63
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-21.8	60.64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.3	60.67
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-32.82	60.69
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.6	60.71
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.17	60.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.54	60.77
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-35.1	60.8
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-34.83	60.82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.48	60.82
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-32.63	60.84
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-21.33	60.86
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.39	60.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.94	60.91
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-21.08	60.96
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-34.7	61
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.15	61.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.69	61.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.65	61.07
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-20.85	61.08
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.63	61.09
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-30.08	61.11
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.58	61.13
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.55	61.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-20.76	61.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-20.68	61.18
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-32.14	61.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.89	61.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.4	61.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.32	61.29
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-20.5	61.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.7	61.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.25	61.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.65	61.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.13	61.41
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-20.25	61.42
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.97	61.5
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-31.78	61.52
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-19.97	61.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.89	61.58
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-19.7	61.64
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-33.86	61.66
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.26	61.66
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.68	61.69
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-29.16	61.74
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-19.48	61.74
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-19.47	61.76
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.53	61.77
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.5	61.8
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-31.15	61.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-19.28	61.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.89	61.91
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-31.05	61.93
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-19.05	61.96
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.23	61.98
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.72	62
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.1	62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.15	62.03
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.63	62.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.09	62.05
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.02	62.05
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-30.82	62.06
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.56	62.09
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.85	62.09
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.02	62.1
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.95	62.1
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.8	62.12
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.5	62.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.95	62.13
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.89	62.14
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-33.06	62.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.88	62.18
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.81	62.19
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.71	62.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.82	62.21
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.73	62.21
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-32.95	62.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.34	62.25
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.6	62.26
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.7	62.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.25	62.29
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.55	62.29
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-30.45	62.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.6	62.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.62	62.32
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.45	62.33
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.62	62.35
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.51	62.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.55	62.37
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.38	62.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.48	62.4
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-30.24	62.41
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28.04	62.42
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.33	62.42
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.42	62.43
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.41	62.44
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-28	62.45
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.25	62.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.35	62.49
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.19	62.49
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.3	62.53
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.12	62.53
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.25	62.55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.83	62.57
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.24	62.58
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.03	62.58
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-32.3	62.59
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.75	62.61
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21	62.62
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-18.16	62.62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.18	62.63
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-29.91	62.64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.92	62.66
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.1	62.67
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-23.02	62.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.86	62.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.98	62.73
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.8	62.74
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.5	62.76
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.91	62.77
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.78	62.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.45	62.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.82	62.8
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.75	62.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.75	62.84
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-17.82	62.86
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.7	62.87
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.62	62.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.37	62.89
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-17.74	62.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.61	62.93
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-29.4	62.95
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-17.66	62.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.24	62.96
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.53	62.98
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.42	62.99
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-5.53	62.99
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-31.6	63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.19	63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-27.17	63.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.47	63.02
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-17.5	63.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.42	63.06
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.35	63.09
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-4.88	63.1
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-17.4	63.12
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-29.15	63.14
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.27	63.14
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-4.52	63.14
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-5.88	63.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.19	63.18
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.1	63.18
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-4.25	63.18
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-17.24	63.2
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-5.22	63.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.12	63.21
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-3.92	63.21
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-5.12	63.215
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-4.65	63.22
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-22.05	63.25
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-4.4	63.25
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-3.61	63.25
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-17.06	63.27
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-3.53	63.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.79	63.28
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20	63.3
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-3.27	63.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.95	63.31
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-4.18	63.33
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.86	63.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.87	63.35
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-16.95	63.36
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-2.95	63.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.82	63.38
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-3.9	63.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.72	63.42
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-3.55	63.42
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.52	63.43
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-19.84	63.43
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-31.06	63.45
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.71	63.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.68	63.45
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-19.8	63.47
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-2.6	63.48
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-2.5	63.51
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-3.25	63.52
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.26	63.59
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-2.9	63.61
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.23	63.62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.45	63.62
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-2.8	63.64
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-1.99	63.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26.15	63.66
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.32	63.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.22	63.75
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-3.3	63.76
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.3	63.77
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-26	63.78
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-2.2	63.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.15	63.79
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30.8	63.81
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-10.17	63.83
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.45	63.84
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-1.47	63.86
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-10.07	63.88
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.08	63.88
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-5.15	63.89
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.12	63.92
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.85	63.92
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30.56	63.93
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-10	63.94
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-1.7	63.96
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.05	63.97
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.64	63.97
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.61	63.98
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-9.94	64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28.01	64.02
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-2.55	64.02
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-0.95	64.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.53	64.03
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-9.87	64.04
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-3.92	64.04
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-28	64.05
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.26	64.05
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-30.36	64.08
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.43	64.1
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6.6	64.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.03	64.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.4	64.11
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-9.7	64.13
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-2.09	64.16
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6	64.17
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.8	64.17
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.82	64.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-25.23	64.21
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-8.5	64.21
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-3.2	64.22
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-9.3	64.24
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.7	64.25
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.45	64.25
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.73	64.29
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.25	64.29
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.5	64.3
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-7.3	64.31
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-0.24	64.31
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.37	64.33
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-9.04	64.35
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-6.7	64.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.65	64.36
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.25	64.36
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-2.51	64.37
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.15	64.38
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.7	64.39
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.99	64.4
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.66	64.4
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.95	64.45
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-8.85	64.45
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-0.53	64.45
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.88	64.46
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.82	64.47
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.45	64.47
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-5.85	64.48
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-0.45	64.48
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.72	64.49
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.87	64.5
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-8.7	64.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.6	64.52
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-8.6	64.53
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-1.15	64.53
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-6.72	64.54
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-7.35	64.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.15	64.55
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+0.05	64.55
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.5	64.56
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.52	64.57
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.07	64.59
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.47	64.6
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.37	64.62
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-0.9	64.63
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-0.23	64.63
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-5.37	64.64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-27.15	64.65
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.25	64.65
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-2.88	64.65
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-6.3	64.66
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-8.4	64.67
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-35	64.69
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-5.11	64.69
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.65	64.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-24.3	64.73
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.6	64.75
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-2.58	64.75
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.95	64.76
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-1.68	64.76
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-29.56	64.77
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26.98	64.78
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.55	64.8
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-4.75	64.82
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-5.48	64.83
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.73	64.83
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.5	64.84
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-0.3	64.84
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-2.3	64.85
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.66	64.86
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-32.25	64.87
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-1.39	64.87
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-34.8	64.88
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.45	64.9
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-34.75	64.92
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.45	64.92
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-32.32	64.93
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.4	64.94
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-4.42	64.95
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-6.92	64.98
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+0.05	64.98
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.07	65
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+0.2	65
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-34.67	65.02
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.15	65.02
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6.7	65.03
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.3	65.04
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-32.2	65.05
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26.5	65.06
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-4.08	65.06
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-1.93	65.07
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+0.35	65.07
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-34.6	65.08
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6	65.08
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-2.85	65.08
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-0.85	65.08
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-6.35	65.09
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-4.89	65.09
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.25	65.1
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.3	65.1
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-34.56	65.12
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-28.8	65.13
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.22	65.15
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26.35	65.15
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6.35	65.18
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.65	65.19
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-32.07	65.2
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.18	65.21
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-28.6	65.22
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6.25	65.22
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.8	65.23
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-32.02	65.25
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.96	65.25
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-4.6	65.25
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.15	65.26
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-26.15	65.26
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+1.15	65.26
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6.2	65.27
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-2.44	65.29
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.86	65.3
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-5.81	65.3
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.1	65.31
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.8	65.33
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-1.43	65.33
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+1.45	65.35
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.7	65.36
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34.04	65.37
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-28.28	65.37
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-31.77	65.38
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.98	65.38
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.66	65.39
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-6	65.39
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-3.52	65.39
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.96	65.41
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-34	65.42
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.56	65.43
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-33.93	65.45
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.86	65.46
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-0.4	65.47
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.7	65.48
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.82	65.49
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.78	65.52
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.4	65.53
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.57	65.55
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-4	65.55
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+1.15	65.55
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-3.09	65.56
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-31.48	65.57
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.77	65.57
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-25.24	65.6
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.3	65.62
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-5.5	65.62
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.6	65.63
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.65	65.64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.88	65.65
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-1.96	65.65
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.6	65.68
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-31.25	65.73
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.54	65.73
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-0.67	65.77
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-6.8	65.78
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-3.6	65.78
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-31.07	65.8
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.55	65.8
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-0.64	65.8
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+1.1	65.81
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.28	65.82
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-4.9	65.84
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-31.02	65.85
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.08	65.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.18	65.88
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.28	65.88
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-30.96	65.9
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.15	65.92
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-30.85	65.98
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.96	66
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.32	66.01
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-27.04	66.03
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-6.52	66.03
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-7.4	66.06
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-30.68	66.07
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-7.45	66.08
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24	66.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-30.45	66.13
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+1.12	66.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.85	66.14
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.85	66.19
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-4.61	66.19
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-24.02	66.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.86	66.2
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-0.9	66.21
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-30.2	66.22
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.88	66.25
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.74	66.27
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-7.2	66.27
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.87	66.28
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-7.21	66.28
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.88	66.3
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-30.1	66.31
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.7	66.32
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.9	66.34
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.66	66.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.7	66.39
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-5.08	66.39
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.9	66.41
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-6.23	66.43
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.6	66.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.9	66.45
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.56	66.45
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-4.48	66.45
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.58	66.49
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.56	66.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.88	66.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.7	66.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.85	66.55
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.48	66.58
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.74	66.58
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.38	66.59
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.58	66.59
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.8	66.6
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.15	66.6
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-6.65	66.61
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.73	66.63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.89	66.64
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26.18	66.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.9	66.69
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.65	66.69
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-4.12	66.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-26	66.73
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.58	66.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.68	66.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.92	66.74
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.66	66.74
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-6	66.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.27	66.75
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.56	66.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.68	66.78
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.94	66.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.96	66.79
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.56	66.79
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.78	66.82
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.38	66.82
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.5	66.82
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.53	66.83
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.63	66.83
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.98	66.84
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.28	66.87
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.46	66.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.57	66.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.99	66.89
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-3.9	66.89
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.54	66.9
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.46	66.93
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.55	66.93
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.98	66.94
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.75	66.95
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.45	66.98
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.53	66.99
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.44	67
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-6.35	67
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-5.9	67
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.9	67.01
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.26	67.03
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.42	67.03
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.38	67.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21	67.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.55	67.04
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.12	67.05
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+1.82	67.05
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-3.78	67.07
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.48	67.08
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.56	67.08
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+1.35	67.08
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.36	67.09
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.02	67.09
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.86	67.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5	67.1
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+1.4	67.12
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.44	67.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.57	67.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.01	67.14
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.4	67.15
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.3	67.15
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.4	67.18
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.56	67.18
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-5.8	67.18
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.02	67.19
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.44	67.2
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+2	67.2
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.33	67.22
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-6.31	67.22
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+1.6	67.22
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.54	67.23
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.2	67.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21.03	67.24
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.48	67.25
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.24	67.25
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.37	67.27
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.82	67.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.48	67.28
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-21	67.29
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+2.2	67.3
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.4	67.31
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.42	67.33
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.26	67.33
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-5.75	67.33
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.98	67.34
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+2.3	67.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.45	67.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.37	67.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.97	67.39
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+2.4	67.39
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.5	67.4
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+1.85	67.4
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.8	67.41
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.44	67.42
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.97	67.43
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.3	67.43
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.5	67.44
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.32	67.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.27	67.47
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.42	67.48
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.95	67.48
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.5	67.49
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+2.15	67.5
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+2.7	67.5
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-6.22	67.51
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.4	67.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.95	67.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.28	67.53
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5	67.53
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.29	67.53
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.54	67.54
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-14.04	67.55
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.3	67.57
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+2.9	67.57
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.38	67.58
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.9	67.58
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.26	67.58
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.56	67.59
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.06	67.59
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.35	67.62
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+3.26	67.62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.85	67.63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.2	67.63
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+2.42	67.63
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.52	67.65
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.98	67.65
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.28	67.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.15	67.67
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-3.5	67.67
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+3.56	67.67
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.3	67.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.8	67.68
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.22	67.71
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.78	67.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.1	67.73
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.45	67.75
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.95	67.75
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.9	67.75
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+2.8	67.75
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.25	67.77
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+3.02	67.77
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.76	67.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16.06	67.78
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.02	67.8
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+3.35	67.81
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.2	67.82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-16	67.82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.75	67.83
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.14	67.84
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.9	67.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.36	67.87
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.2	67.87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.99	67.87
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-5.75	67.87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.74	67.88
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.1	67.88
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.19	67.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.98	67.92
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.78	67.92
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.9	67.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.66	67.93
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.3	67.94
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.78	67.96
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-23.14	67.97
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.96	67.97
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.65	67.99
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-5.62	67.99
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.26	68
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+3	68
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.99	68.01
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.92	68.02
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-6.08	68.03
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.75	68.03
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+3.25	68.03
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.64	68.04
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.99	68.05
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+3.45	68.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.84	68.07
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.65	68.07
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.98	68.1
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+2.8	68.1
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+3.85	68.1
+# @DC18n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|40.13|"Magnetic Anomaly"
+-2.2	68.11
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.76	68.12
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.18	68.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.54	68.14
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.98	68.15
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7	68.15
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+3.05	68.15
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+4.2	68.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.68	68.16
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.48	68.16
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-6	68.16
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.5	68.17
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.8	68.17
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+3.25	68.18
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+4.5	68.18
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.5	68.19
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.97	68.2
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.9	68.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.62	68.21
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+4.7	68.21
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.14	68.23
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.44	68.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.44	68.24
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.94	68.25
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.85	68.25
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+5.8	68.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.54	68.26
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+5.4	68.26
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+6.1	68.26
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.35	68.27
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+5.05	68.27
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+3.6	68.28
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+5.3	68.28
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.4	68.29
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.9	68.3
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.4	68.3
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+6.4	68.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.47	68.31
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-25.04	68.32
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+6.55	68.32
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+6.65	68.33
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.38	68.34
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.86	68.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.36	68.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.4	68.35
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.76	68.35
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.42	68.35
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+3.85	68.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-13.1	68.36
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+6.95	68.37
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.98	68.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.3	68.39
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+7	68.39
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.82	68.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.34	68.4
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.38	68.4
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+4.15	68.4
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+4.8	68.4
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.7	68.42
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+5.1	68.42
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+7.18	68.42
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-4.2	68.43
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+5.2	68.43
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.26	68.44
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+5.45	68.44
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.8	68.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.28	68.45
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+5.75	68.46
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+7.35	68.46
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.97	68.47
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+4.6	68.47
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.22	68.49
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.78	68.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.24	68.5
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+6.1	68.5
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.78	68.53
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.8	68.53
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+6.4	68.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.18	68.54
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+7.55	68.54
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.74	68.55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.18	68.55
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.66	68.55
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+6.6	68.55
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+6.74	68.57
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+6.8	68.58
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.14	68.59
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.7	68.59
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.7	68.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.13	68.6
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.2	68.6
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+6.9	68.6
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+7.7	68.6
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.68	68.63
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.6	68.63
+# @DC20n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|43.789|"Magnetic Anomaly"
+-3.14	68.63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.07	68.64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.65	68.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-15.04	68.65
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.42	68.65
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.92	68.65
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+7.2	68.65
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.6	68.66
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.5	68.68
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+7.9	68.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-20.02	68.69
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+7.4	68.69
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.6	68.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.92	68.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.5	68.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-19.98	68.74
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.4	68.74
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.56	68.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.8	68.75
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+7.64	68.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+8.15	68.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.82	68.76
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.4	68.78
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+8.3	68.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-19.9	68.79
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.48	68.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.76	68.8
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.22	68.8
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+8.45	68.8
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+7.95	68.82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-19.8	68.84
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-12.1	68.84
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.42	68.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.62	68.85
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-5.5	68.86
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+8.7	68.86
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.3	68.87
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.55	68.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-19.7	68.89
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.36	68.9
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+8.1	68.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.54	68.91
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+8.95	68.91
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.13	68.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-19.62	68.94
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11.94	68.94
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-22.3	68.95
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+9.22	68.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.44	68.96
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-24.12	68.98
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+8.25	68.98
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-19.55	69
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-5.3	69
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-5.3	69
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+9.5	69
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+8.4	69.03
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+9.8	69.03
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.4	69.05
+# @DC22n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|49.714|"Magnetic Anomaly"
+-4.72	69.05
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+10.1	69.05
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+8.5	69.06
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.3	69.1
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11.64	69.1
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.38	69.1
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+10.4	69.1
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+8.75	69.12
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+10.52	69.12
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+10.65	69.14
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+11	69.15
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+9.1	69.16
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.75	69.17
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+4	69.18
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+9.3	69.18
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+11.25	69.18
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.2	69.2
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+9.5	69.2
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+9.75	69.22
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11.46	69.23
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+11.55	69.23
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+10.15	69.24
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+10.4	69.26
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.5	69.27
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+11.9	69.27
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-5.7	69.29
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-14.08	69.3
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+10.75	69.3
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+12	69.3
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+11.08	69.33
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11.3	69.34
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+5	69.35
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+11.4	69.35
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.19	69.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.98	69.4
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+11.75	69.4
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11.18	69.43
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+12.75	69.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.9	69.47
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6	69.48
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+5.5	69.48
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.54	69.5
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-2.4	69.53
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+13.55	69.53
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.42	69.56
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.8	69.57
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-18.8	69.6
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11.02	69.6
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+13.3	69.6
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-2.22	69.61
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+6.3	69.62
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.36	69.63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.66	69.65
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+14.32	69.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-18.7	69.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11	69.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.22	69.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.6	69.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-18.6	69.78
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+7.2	69.78
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11	69.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.54	69.81
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.25	69.83
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+15.25	69.83
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-21.04	69.84
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-18.48	69.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.45	69.9
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-10.98	69.9
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+7.9	69.9
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-20.94	69.95
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+15.76	69.95
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+8.5	69.96
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-18.38	69.98
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.36	69.98
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-11	70
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+9.25	70.01
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+10.2	70.06
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.3	70.07
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-18.25	70.08
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-10.96	70.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+10.8	70.11
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.25	70.15
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+11.25	70.17
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-18.15	70.22
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.12	70.24
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+1.6	70.28
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+11.85	70.28
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-13.05	70.35
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+1.85	70.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-2.96	70.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-17.98	70.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+2.25	70.4
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+12.5	70.41
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+2.6	70.42
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+13	70.46
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+13.25	70.49
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-17.88	70.5
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+3.2	70.54
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-2.26	70.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+13.5	70.55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-12.8	70.58
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-17.85	70.59
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.75	70.6
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+3.65	70.62
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+13.75	70.64
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-17.8	70.66
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.48	70.66
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-12.65	70.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.2	70.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+4.15	70.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-0.6	70.75
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+4.6	70.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-17.72	70.8
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+5	70.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-4.3	70.81
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-0.28	70.82
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+5.35	70.83
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-0.04	70.87
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+5.8	70.88
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+6.05	70.9
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+0.22	70.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-4.1	70.93
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+6.35	70.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-3.9	70.98
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+0.5	70.98
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-3.42	71
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+6.65	71.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-17.5	71.03
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-3.2	71.03
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+6.75	71.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.9	71.06
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+1.3	71.08
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+6.95	71.08
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.3	71.09
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+1.6	71.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.08	71.11
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.85	71.14
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+1.8	71.15
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+2	71.18
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+2.5	71.19
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+2.7	71.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.32	71.23
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+8.75	71.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-17.22	71.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.15	71.28
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+2.95	71.28
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+9.1	71.28
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+3.4	71.33
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+9.45	71.34
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+3.6	71.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.7	71.36
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+9.7	71.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.85	71.38
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+3.8	71.38
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+10.1	71.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.36	71.4
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+4.1	71.41
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+10.45	71.41
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.05	71.46
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+4.4	71.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.62	71.52
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+4.7	71.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.35	71.55
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+10.9	71.56
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.72	71.58
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.42	71.59
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+5.54	71.63
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.26	71.64
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.15	71.64
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.1	71.67
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-7.45	71.71
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-7.1	71.73
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+6	71.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.98	71.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.8	71.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.7	71.76
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.6	71.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.92	71.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.3	71.81
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.28	71.81
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.95	71.82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.55	71.84
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.1	71.87
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+6.7	71.87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.54	71.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.66	71.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.8	71.9
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-9.9	71.93
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+7.16	71.94
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-4.75	71.96
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.2	71.97
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+7.45	71.97
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.4	71.98
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-9.3	72.02
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+7.7	72.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.66	72.03
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-4.55	72.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.9	72.06
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-8.3	72.08
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.4	72.1
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+8	72.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-4.25	72.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.72	72.15
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-7.8	72.17
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+8.8	72.17
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-3.7	72.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.2	72.22
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+9.12	72.22
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-7.5	72.24
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+9.3	72.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-3	72.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.5	72.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.8	72.33
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.92	72.33
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+9.66	72.34
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-6.86	72.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+10.3	72.35
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-17	72.36
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-11.3	72.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.54	72.39
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.1	72.39
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-6.54	72.41
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.2	72.42
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+10.8	72.43
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-10.9	72.46
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-6.1	72.47
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.05	72.47
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.36	72.47
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.46	72.5
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-5.6	72.52
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.56	72.52
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+11.1	72.52
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-10.3	72.54
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.7	72.54
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+11.3	72.55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.65	72.56
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-5	72.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+7.1	72.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.4	72.61
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-9.85	72.62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+7.4	72.63
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-15.8	72.65
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-4.8	72.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.1	72.65
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+11.68	72.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+7.7	72.68
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-4.5	72.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.9	72.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+7.95	72.71
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-4.18	72.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8.2	72.75
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+12	72.75
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-9.35	72.76
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.4	72.77
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-3.9	72.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8.5	72.83
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-15.05	72.84
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-3.52	72.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-8.85	72.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.5	72.88
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-3.1	72.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8.92	72.91
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+12.38	72.92
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-14.5	72.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.14	72.96
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-2.82	72.97
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.15	73
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-8.1	73.01
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-2.5	73.02
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.4	73.05
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-7.6	73.07
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-2.12	73.08
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.98	73.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-13.8	73.12
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.7	73.12
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.8	73.13
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.6	73.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-6.7	73.16
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2	73.16
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.9	73.18
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.32	73.2
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+13	73.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10	73.22
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-5.9	73.28
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-1.04	73.29
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.7	73.29
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-0.8	73.33
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.3	73.35
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-12.95	73.36
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-0.6	73.36
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-17.26	73.37
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-5.35	73.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.36	73.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.4	73.4
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-17.22	73.44
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+13.34	73.44
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+-0.2	73.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.55	73.45
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-4.9	73.46
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-4.5	73.51
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+0.48	73.52
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.95	73.52
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-17.15	73.53
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-3.95	73.54
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+0.88	73.57
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-3.55	73.59
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-17.04	73.6
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+1.2	73.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.9	73.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.65	73.63
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+1.6	73.64
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-11.7	73.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+11.06	73.65
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-16.5	73.68
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-3.3	73.69
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+1.9	73.7
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+14	73.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+11.1	73.73
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.2	73.74
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-16.25	73.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-15.86	73.8
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+2.3	73.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.4	73.8
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-2.9	73.81
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-15.66	73.85
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+2.6	73.85
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-10.75	73.86
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.7	73.87
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+2.9	73.88
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-15.42	73.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.9	73.91
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-2.4	73.92
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+3.1	73.92
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.9	73.92
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-10.15	73.95
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-15.14	73.98
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+3.4	73.98
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.1	73.98
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-1.5	74.03
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-14	74.04
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+3.7	74.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.3	74.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.75	74.09
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-9.1	74.12
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+3.94	74.12
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-14.44	74.13
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-0.65	74.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.6	74.17
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.65	74.18
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+4.4	74.25
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-13.75	74.28
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+0.2	74.28
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.1	74.28
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-12.8	74.3
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-8	74.35
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+4.75	74.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.05	74.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.85	74.38
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-7.55	74.39
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+0.8	74.42
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+4.9	74.43
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-13.05	74.44
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.85	74.45
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-7.15	74.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.3	74.47
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+5.06	74.52
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.75	74.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.9	74.53
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.35	74.56
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6.2	74.57
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+1.3	74.6
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+5.1	74.61
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-12.35	74.62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.2	74.63
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-5.6	74.64
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+5.2	74.69
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6.96	74.72
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-11.8	74.73
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-11.25	74.78
+# @DC6n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|20.131|"Magnetic Anomaly"
+5.4	74.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.55	74.8
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.4	74.81
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+1.6	74.82
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-10.85	74.83
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-9.98	74.92
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-10.3	74.96
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-9.65	74.98
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.25	74.98
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-9.24	75.03
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+1.9	75.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.15	75.05
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-8.8	75.07
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-9.6	75.09
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-2.9	75.1
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-8.46	75.12
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-8.2	75.14
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-9.2	75.16
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.95	75.17
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.2	75.17
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-2.5	75.18
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-7.75	75.2
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-8.75	75.21
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-7.34	75.26
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.95	75.32
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.3	75.34
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6.62	75.35
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-1.7	75.35
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.66	75.36
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.4	75.42
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-6	75.43
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-7.1	75.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.9	75.48
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-5.6	75.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.1	75.5
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.7	75.52
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.5	75.55
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-5	75.61
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.25	75.61
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-6.2	75.62
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-5.95	75.65
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-4.65	75.68
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-5.62	75.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.65	75.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.45	75.71
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-4.02	75.77
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-5.23	75.78
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.7	75.79
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-3.62	75.84
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-4.8	75.85
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-3.02	75.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.7	75.88
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-4.3	75.93
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.1	75.94
+# @DC24n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|52.801|"Magnetic Anomaly"
+-2.6	75.95
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-3.9	75.98
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-3.42	76.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.9	76.07
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.2	76.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.4	76.29
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.5	76.36
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.35	76.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.65	76.48
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.9	76.59
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.95	76.64
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.2	76.72
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.95	76.77
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-1.5	76.87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.8	76.89
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.65	77.01
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10	77.02
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-0.8	77.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.4	77.13
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.85	77.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-0.3	77.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.1	77.34
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-0.15	77.37
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.17	77.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.2	77.54
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.2	77.65
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.98	77.69
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.4	77.81
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.5	77.87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+4.7	77.95
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4.19	78.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.1	78.09
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.75	78.16
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8.8	78.23
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8.8	78.32
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-3.5	78.37
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8.9	78.39
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8.9	78.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2	78.83
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.1	78.91
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.2	79
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.3	79.06
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+123	79.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5	79.14
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+126	79.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.1	79.21
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.2	79.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+5.3	79.33
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+122	79.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.2	79.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.3	79.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.4	79.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.3	80.03
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.5	80.04
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.5	80.11
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.6	80.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+120	80.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+124	80.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+1.7	80.3
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+108	80.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.8	80.6
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+105	80.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.8	80.68
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.8	80.77
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+111	80.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.2	80.87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.8	80.87
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+104	80.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+119	80.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.2	80.97
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.7	80.97
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+106	81
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.2	81.06
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.4	81.06
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+118	81.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.1	81.17
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.1	81.17
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+15.9	81.2
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+110	81.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.1	81.29
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+16.7	81.34
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.5	81.4
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+17.3	81.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+113	81.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+122	81.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.6	81.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.5	81.54
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+104	81.55
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+2.5	81.56
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.5	81.58
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+2.5	81.62
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.4	81.63
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+108	81.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.5	81.66
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+112	81.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+126	81.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.5	81.73
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+11.8	81.73
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+2.6	81.74
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.5	81.76
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.6	81.84
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+12.5	81.84
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+2.8	81.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-6.5	81.88
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+116	81.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+121	81.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.7	81.94
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+13.3	81.99
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+101	82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.7	82.03
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.5	82.06
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+24	82.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.6	82.13
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+2.2	82.15
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+100	82.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+110	82.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.1	82.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.6	82.21
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+26	82.25
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+2.6	82.26
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.6	82.3
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+98	82.3
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+3.2	82.35
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+24	82.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-9.6	82.4
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+28	82.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2	82.45
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+3.9	82.45
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+96	82.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-9.6	82.47
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+121	82.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-9.6	82.55
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+30	82.6
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+94	82.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-9.5	82.61
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+5.6	82.68
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+26	82.7
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+78	82.7
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+102	82.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.5	82.72
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+32	82.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+76	82.75
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+92	82.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+114	82.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.9	82.76
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+6.6	82.77
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+22	82.8
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+28	82.8
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+72	82.8
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+74	82.8
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+129	82.8
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+7.3	82.82
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.5	82.84
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+34	82.85
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+90	82.85
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+100	82.85
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+70	82.9
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+88	82.9
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+36	82.95
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+68	82.95
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+84	82.95
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+86	82.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-1.2	82.98
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+30	83
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+40	83
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+66	83
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+80	83
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+82	83
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+120	83
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-10.2	83.04
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+32	83.05
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+38	83.05
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+78	83.05
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+9.9	83.08
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+24	83.1
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+42	83.1
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+76	83.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+108	83.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.6	83.13
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+10.4	83.15
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+34	83.15
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+74	83.15
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+95	83.15
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+72	83.2
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+94	83.2
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+122	83.2
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+26	83.25
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+36	83.25
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+44	83.25
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+70	83.25
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+92	83.25
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+106	83.25
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+11	83.27
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-9.5	83.28
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+38	83.3
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+40	83.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+112	83.3
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+46	83.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.7	83.36
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+11.9	83.38
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+28	83.4
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+42	83.4
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+68	83.4
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+87	83.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+124	83.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.1	83.45
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+48	83.45
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+84	83.45
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+86	83.45
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-9.5	83.46
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+44	83.5
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+82	83.5
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+104	83.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+118	83.5
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+30	83.55
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+46	83.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+80	83.55
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+102	83.55
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+50	83.6
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+62	83.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+110	83.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.7	83.65
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+32	83.65
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+52	83.7
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+60	83.7
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+100	83.7
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+128	83.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-8.7	83.75
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+48	83.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+54	83.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+58	83.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+56	83.8
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+98	83.8
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+120	83.8
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+50	83.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+116	83.85
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+74	83.9
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+52	83.95
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+65	83.95
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+96	83.95
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+16	84
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+64	84
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+106	84
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+133	84
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+7	84.02
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+54	84.05
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+94	84.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-7.3	84.07
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+41	84.1
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+56	84.1
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+62	84.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+72	84.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+117	84.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+42	84.15
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+92	84.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+114	84.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+122	84.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.1	84.19
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-15.2	84.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-5.3	84.2
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+18	84.2
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+58	84.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+104	84.2
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+90	84.25
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+20	84.3
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+44	84.3
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+70	84.3
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+89	84.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+103	84.3
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+132	84.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+9.5	84.32
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-14.4	84.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+112	84.35
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+46	84.4
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+68	84.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-4	84.41
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+22	84.45
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+48	84.45
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+116	84.45
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+126	84.45
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-13.8	84.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10.5	84.5
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+50	84.5
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+66	84.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+110	84.5
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+24	84.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+52	84.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+54	84.55
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+84	84.55
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+120	84.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+56	84.6
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+58	84.6
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+60	84.6
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+62	84.6
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+64	84.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-2.6	84.62
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-16.6	84.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+12.8	84.65
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+26	84.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+97	84.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+108	84.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+14	84.7
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+28	84.7
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+80	84.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+96	84.7
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+114	84.7
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+30	84.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+16	84.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+94	84.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+106	84.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+-0.7	84.82
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-15.6	84.83
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-11.3	84.84
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+32	84.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+118	84.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+18	84.9
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+34	84.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+92	84.9
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+112	84.9
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+124	84.9
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+130	84.9
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+36	84.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+90	84.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+0.9	84.96
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-15	85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+20	85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+104	85
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+38	85.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+102	85.05
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+116	85.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+22	85.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+75	85.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+110	85.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+74	85.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+83	85.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+100	85.15
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-8.7	85.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+2.4	85.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+24	85.2
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+40	85.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+82	85.2
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+108	85.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+26	85.25
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+41	85.25
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+72	85.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+98	85.25
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+114	85.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+28	85.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+80	85.3
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+122	85.3
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+128	85.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+96	85.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+3.9	85.38
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+30	85.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+78	85.4
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+112	85.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+32	85.45
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-8.1	85.46
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+6	85.5
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+68	85.5
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+70	85.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+94	85.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+34	85.55
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+66	85.55
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+75	85.55
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+110	85.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+120	85.55
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+60	85.6
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+62	85.6
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+64	85.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+92	85.6
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+126	85.6
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-12.1	85.64
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-6.7	85.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+8	85.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+36	85.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+74	85.65
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-11	85.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+90	85.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+108	85.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+38	85.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+72	85.75
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+118	85.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+10	85.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+88	85.8
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+106	85.8
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-4.8	85.84
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+40	85.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+70	85.85
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+124	85.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-9.5	85.88
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-20	85.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+86	85.9
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+104	85.9
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+116	85.9
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+12	85.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+42	85.95
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+84	85.95
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-8.6	86
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-4	86
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+68	86
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+122	86
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+14	86.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+44	86.05
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+82	86.05
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+93	86.05
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+102	86.05
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-25	86.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+-2	86.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+92	86.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+114	86.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+16	86.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+46	86.15
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+66	86.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-8	86.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+18	86.2
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+100	86.2
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+120	86.2
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+125	86.2
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-29.4	86.23
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+0	86.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+20	86.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+22	86.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+48	86.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+64	86.25
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+90	86.25
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+112	86.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+24	86.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+50	86.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+56	86.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+58	86.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+60	86.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+62	86.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+98	86.3
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+124	86.3
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+2	86.35
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+26	86.35
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+88	86.35
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+110	86.35
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-6	86.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+28	86.4
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+78	86.45
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+86	86.45
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+96	86.45
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+122	86.45
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-28.6	86.49
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-18	86.5
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+4	86.5
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+30	86.5
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+108	86.5
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-4	86.55
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+94	86.55
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+6	86.6
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+32	86.6
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+84	86.6
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+106	86.6
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+120	86.6
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-24	86.65
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+-2	86.65
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+76	86.65
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+114	86.65
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+8	86.7
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+34	86.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+92	86.7
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+104	86.7
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+10	86.75
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+36	86.75
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+118	86.75
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-16	86.8
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+0	86.8
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+12	86.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+38	86.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+74	86.8
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+82	86.8
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+112	86.8
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+40	86.85
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+90	86.85
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+72	86.9
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+89	86.9
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+102	86.9
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+110	86.9
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+116	86.9
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-14	87
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+6	87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+42	87
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+114	87
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+70	87.05
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-28	87.1
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+12	87.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+68	87.1
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+79	87.1
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+100	87.1
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+44	87.15
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+16	87.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+46	87.2
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+66	87.2
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+112	87.2
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-10	87.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+48	87.25
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+64	87.25
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-22	87.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+53	87.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+56	87.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+58	87.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+60	87.3
+# @DC5n.1n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|9.88|"Magnetic Anomaly"
+62	87.3
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+78	87.3
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+98	87.3
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+110	87.3
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+22	87.35
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-6	87.45
+# @DC7n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|25.183|"Magnetic Anomaly"
+76	87.45
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-20	87.55
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+-4	87.6
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+82	87.6
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-18	87.7
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+80	87.75
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+0	87.8
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-16	87.85
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+2	87.9
+# @DC13n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|33.545|"Magnetic Anomaly"
+78	87.9
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-14	88
+# @DC21n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|47.906|"Magnetic Anomaly"
+6	88.05
+# @DC24n.3n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|53.347|"Magnetic Anomaly"
+-20	88.1
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-12	88.1
+# @DC23n.2n|o|1|N/A|Srivastava+Tapscott_1986_GeolNAm|N/A|51.743|"Magnetic Anomaly"
+-10	88.15

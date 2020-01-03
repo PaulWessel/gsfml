@@ -1,0 +1,135 @@
+# @VGMT1.0 @GPOINT
+# @R49.2278753846/60.5567401536/-6.86842722876/22.1993471094              
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM18n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|140.51|"Magnetic Anomaly"
+51.25532	5.35072
+# @DM18n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|140.51|"Magnetic Anomaly"
+52.18032	5.95171
+# @DM18n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|140.51|"Magnetic Anomaly"
+52.24825	5.96738
+# @DM18n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|140.51|"Magnetic Anomaly"
+52.57247	6.05037
+# @DM18n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|140.51|"Magnetic Anomaly"
+52.90359	6.87649
+# @DM21n|y|2|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|145.52|"Magnetic Anomaly"
+51.51304	6.20224
+# @DM21n|y|2|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|145.52|"Magnetic Anomaly"
+52.17265	6.55742
+# @DM21n|y|2|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|145.52|"Magnetic Anomaly"
+52.59125	6.68427
+# @DM21n|y|2|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|145.52|"Magnetic Anomaly"
+52.90203	7.62294
+# @DM21n|y|2|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|145.52|"Magnetic Anomaly"
+53.8851	8.7392
+# @DM26n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|155.32|"Magnetic Anomaly"
+52.05849	8.28889
+# @DM26n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|155.32|"Magnetic Anomaly"
+52.23608	8.31426
+# @DM26n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|155.32|"Magnetic Anomaly"
+52.32487	9.29733
+# @DM26n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|155.32|"Magnetic Anomaly"
+53.17475	9.95694
+# @DM26n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|155.32|"Magnetic Anomaly"
+54.03098	10.14721
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.89183	-6.86843
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.55389	-6.43109
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.49425	-5.38745
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.31534	-4.99981
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.6334	-3.52082
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.55389	-3.36179
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.40281	-3.03578
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+49.22788	-2.32014
+# @DC32r.1n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|73.374|"Magnetic Anomaly"
+53.25931	-3.48902
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+49.79514	-5.61367
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+49.784	-5.20137
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+49.4497	-4.59963
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+50.14058	-3.12872
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+49.98458	-2.85013
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+50.57517	0.08055
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+50.48602	1.93034
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+52.54753	-2.2484
+# @DC32n.1n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|71.071|"Magnetic Anomaly"
+52.94869	-4.0759
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+50.92766	-5.4901
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+50.14238	-4.83185
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+50.6967	-3.33056
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+50.59276	-3.11115
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+50.59276	-2.52218
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+51.33185	0.20322
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+51.19327	0.43419
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+52.71765	1.3927
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+51.22792	2.07405
+# @DC31n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|68.737|"Magnetic Anomaly"
+52.71765	3.21734
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+51.85261	-5.96966
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+51.69219	-3.45636
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+51.59594	-3.27455
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+51.11467	-2.49382
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+52.23763	0.83229
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+52.11999	1.03549
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+52.24832	2.0622
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+51.38204	2.77876
+# @DC30n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|65.578|"Magnetic Anomaly"
+52.19485	3.08891
+# @DC34n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|83|"Magnetic Anomaly"
+58.48266	17.94202
+# @DC34n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|83|"Magnetic Anomaly"
+58.6555	18.71525
+# @DC34n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|83|"Magnetic Anomaly"
+59.44692	19.80687
+# @DC34n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|83|"Magnetic Anomaly"
+59.53789	20.17984
+# @DC34n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|83|"Magnetic Anomaly"
+59.84719	20.85301
+# @DC34n|y|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|83|"Magnetic Anomaly"
+60.23835	22.19935
+# @DC33n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|79.075|"Magnetic Anomaly"
+59.07395	18.06028
+# @DC33n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|79.075|"Magnetic Anomaly"
+59.95635	19.85236
+# @DC33n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|79.075|"Magnetic Anomaly"
+60.0928	20.2981
+# @DC33n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|79.075|"Magnetic Anomaly"
+60.11099	20.74385
+# @DC33n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|79.075|"Magnetic Anomaly"
+60.393	21.38063
+# @DC33n|o|1|N/A|Gaina++_2015_Tectonics|10.1002/2014TC003780|79.075|"Magnetic Anomaly"
+60.55674	21.79909

@@ -1,0 +1,139 @@
+# @VGMT1.0 @GPOINT
+# @R-137.94/-77.4/-38.5/-12.72                                            
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-86.33	-22.71
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-83.53	-22.21
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-86.77	-21.88
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-83.78	-21.6
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-87.23	-21.21
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-84.61	-20
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-81.06	-20
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-87.62	-19.98
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-81.46	-19.54
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-88.29	-19.1
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-88.9	-18.04
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-85.82	-18.03
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-131.06	-17.64
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-89.35	-17.45
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-86.26	-17.36
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-89.49	-17.1
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-86.41	-16.88
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-131.26	-16.26
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-128.46	-16.24
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-86.71	-16.09
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-131.26	-16
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-86.88	-15.97
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-131.62	-14.06
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-134.45	-13.94
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-83.51	-13.88
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-131.67	-13.75
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-129.26	-12.72
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-85.3	-34.38
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-81.9	-34.1
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-78.43	-33.52
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-82.34	-33.41
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-85.77	-33.15
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-85.79	-33.01
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-82.66	-33
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-78.82	-32.8
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-82.98	-32.6
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-86.24	-32.33
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-136.7	-31.36
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-80.74	-30.49
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-87.05	-30.44
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-131.07	-30
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-133.74	-29.98
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-136.97	-29.97
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-81.19	-29.85
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-87.82	-29.23
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-131.28	-28.4
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-85.53	-28.3
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-81.99	-28.3
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-137.51	-27.93
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-137.69	-27.08
+# @DC13n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|33.545|"Magnetic Anomaly"
+-137.94	-24.64
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-80.03	-38.5
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-80.16	-38.23
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-80.7	-37.24
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-77.4	-37.15
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-77.54	-36.86
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-81.19	-36.65
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-77.91	-36.29
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-81.66	-35.84
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-78.79	-35.18
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-128.16	-35.08
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-130.68	-35.01
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-78.99	-34.85
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-79.33	-34.57
+# @DC7n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|25.183|"Magnetic Anomaly"
+-128.33	-34.55
+# @DC10n.2n|o|2|N/A|Pardo-Casas+Molnar_1987_Tectonics|10.1029/TC006i003p00233|28.745|"Magnetic Anomaly"
+-79.38	-34.49

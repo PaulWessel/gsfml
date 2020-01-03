@@ -1,0 +1,2449 @@
+# @VGMT1.0 @GPOINT
+# @R56.2718/61.8866/-33.9686/-27.93                                       
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.3189	-29.8048
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.5197	-29.7992
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.3829	-29.7871
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.5288	-29.7351
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.317	-29.7333
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.3903	-29.7077
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.6416	-29.7058
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.3216	-29.617
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.4059	-29.6005
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.6589	-29.5794
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.5509	-29.5665
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.219	-29.5346
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.3272	-29.497
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.5618	-29.4852
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.2271	-29.4576
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.6764	-29.4495
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.3253	-29.4211
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.5746	-29.3881
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.438	-29.3697
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.6884	-29.3642
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.152	-29.3633
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.3253	-29.3312
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.2446	-29.3129
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.4472	-29.2992
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.163	-29.2844
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.5894	-29.278
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.704	-29.2534
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.2511	-29.2378
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.3244	-29.214
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.6003	-29.1974
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.4609	-29.192
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.7149	-29.1644
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.2639	-29.1499
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.3225	-29.1122
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.328	-29.1095
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.4775	-29.0802
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.7314	-29.0528
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.3398	-29.038
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.1978	-29.0261
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.4865	-29.0188
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.624	-29.0169
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.2656	-29.0132
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.7414	-28.9839
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.293	-28.8995
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.2179	-28.8825
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.3633	-28.8638
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.6483	-28.8338
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.5132	-28.8244
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.2264	-28.8159
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.3071	-28.798
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+61.7647	-28.7953
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.3737	-28.7831
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.5432	-28.755
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.6587	-28.755
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.5245	-28.7504
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.2386	-28.7334
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.3192	-28.7185
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+61.7777	-28.7091
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.3867	-28.6987
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.5498	-28.6772
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.5349	-28.6725
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.7843	-28.6706
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+61.6728	-28.6557
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.3924	-28.6472
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.3313	-28.6415
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.2518	-28.6387
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.5432	-28.6134
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.5451	-28.6134
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.683	-28.5881
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.2601	-28.5751
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+61.7974	-28.5702
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.4054	-28.5544
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.5526	-28.5432
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.6896	-28.5366
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.2694	-28.5113
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.3539	-28.4944
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.5162	-28.4887
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.4196	-28.4815
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+61.8124	-28.4738
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.5639	-28.4653
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.2798	-28.4343
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.5705	-28.4062
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.7121	-28.3885
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+61.8283	-28.3481
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.4364	-28.3387
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.7205	-28.3283
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.2958	-28.3115
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+61.8424	-28.26
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.306	-28.2442
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.4111	-28.2283
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.5939	-28.2272
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.4532	-28.2049
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.6083	-28.123
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.7543	-28.0923
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+61.8715	-28.037
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.7647	-28.03
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+61.6268	-27.9985
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+61.8866	-27.93
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+61.3234	-29.9057
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+61.3638	-29.9021
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.5233	-29.7729
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.3178	-29.7637
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.6351	-29.7536
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.3867	-29.7399
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.3136	-29.6751
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.399	-29.6446
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.5429	-29.6245
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.6524	-29.6235
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.3289	-29.5794
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.4132	-29.5492
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.6636	-29.5428
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.5582	-29.519
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.4224	-29.4805
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.5682	-29.4393
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.6828	-29.408
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.3249	-29.3761
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.4416	-29.3396
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.5835	-29.3193
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.6961	-29.3051
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.3238	-29.2869
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.1686	-29.2381
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.5947	-29.2362
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.4558	-29.231
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.2559	-29.2088
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.7103	-29.2088
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.3249	-29.1773
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.4688	-29.148
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.6098	-29.1288
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.7224	-29.1106
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.3334	-29.0746
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.482	-29.0592
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.7331	-29.0335
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+61.2062	-28.9697
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+61.2781	-28.9584
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+61.3533	-28.9331
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+61.5003	-28.9241
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+61.6422	-28.8825
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+61.757	-28.8663
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.2218	-28.861
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.2994	-28.8497
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.369	-28.8225
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.653	-28.8027
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.2311	-28.7887
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.5209	-28.7774
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.3126	-28.7625
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.3792	-28.7438
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+61.7721	-28.7427
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.5462	-28.7231
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.6643	-28.7212
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+61.5283	-28.7166
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.246	-28.6791
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.3267	-28.6744
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.3913	-28.6585
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.5462	-28.6351
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.5405	-28.6312
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.79	-28.6157
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+61.6794	-28.6106
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.3379	-28.5976
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.2582	-28.5901
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.5471	-28.5808
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.5424	-28.5797
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.4037	-28.5761
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.6858	-28.5563
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.3473	-28.5414
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+61.8021	-28.5367
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.2658	-28.5348
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.412	-28.5197
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.5575	-28.5142
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+61.697	-28.4963
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.2741	-28.4814
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.3693	-28.478
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.5686	-28.428
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.2854	-28.3961
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.4307	-28.3802
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.5779	-28.3529
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.7168	-28.3521
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+61.8396	-28.2921
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.3013	-28.2742
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.4467	-28.2564
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.7328	-28.2461
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.4092	-28.2442
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+61.8489	-28.2115
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+61.4609	-28.1532
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.6055	-28.152
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+61.4252	-28.1513
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+61.6136	-28.0932
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+61.76	-28.0566
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+61.7749	-27.9564
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.733	-33.944
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.8325	-33.9176
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.9165	-33.8678
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.921	-33.8678
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.7334	-33.86
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.8066	-33.8427
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.0374	-33.8325
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.6494	-33.8304
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.8338	-33.8279
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.8441	-33.8279
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.0012	-33.8271
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.4672	-33.8148
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.5499	-33.8078
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.5499	-33.7312
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.7334	-33.7255
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.6494	-33.7242
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.4672	-33.723
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.9288	-33.721
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.9165	-33.7197
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.7762	-33.714
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.8951	-33.714
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.8	-33.7094
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.8486	-33.7094
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.9979	-33.7094
+# @DC11r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|30.098|"Magnetic Anomaly"
+58.4563	-33.6352
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.1134	-33.634
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.2518	-33.6272
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.2892	-33.6272
+# @DC11r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|30.098|"Magnetic Anomaly"
+58.3571	-33.6267
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.2279	-33.6096
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.9325	-33.6066
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.1423	-33.6028
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.9165	-33.5938
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.8498	-33.5737
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.8971	-33.5737
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.8531	-33.5724
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+57.2279	-33.5586
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+57.144	-33.5518
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+57.2535	-33.5518
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+57.2892	-33.5484
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.7334	-33.535
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.7832	-33.535
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.9113	-33.5348
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.9777	-33.5314
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.8603	-33.5263
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+58.0514	-33.5246
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+56.6494	-33.5193
+# @DC10r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.745|"Magnetic Anomaly"
+58.4563	-33.5053
+# @DC10r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.745|"Magnetic Anomaly"
+58.3571	-33.5002
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.937	-33.5
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.9922	-33.4988
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.8996	-33.4975
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.9165	-33.4975
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.8564	-33.4807
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.8498	-33.4794
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.7864	-33.4683
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.8	-33.4683
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.7334	-33.4638
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+56.6494	-33.4593
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.1463	-33.4543
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.2557	-33.4492
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.5274	-33.4492
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.2898	-33.4457
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.3754	-33.4435
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.2268	-33.435
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.4435	-33.4265
+# @DC9r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.972|"Magnetic Anomaly"
+58.4563	-33.4112
+# @DC9r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.972|"Magnetic Anomaly"
+58.3571	-33.4077
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.6108	-33.4043
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+57.9783	-33.3573
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.6494	-33.3564
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.9165	-33.3531
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.5511	-33.3519
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.9436	-33.3474
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.8498	-33.3449
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+58.1558	-33.3431
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.8622	-33.3428
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.7342	-33.3396
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.0341	-33.3383
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.8	-33.3371
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.9041	-33.3371
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+56.9889	-33.3358
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+58.0514	-33.3278
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.1491	-33.3017
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.4676	-33.2852
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.2892	-33.2847
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+58.4563	-33.2813
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.2586	-33.2796
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.2262	-33.2728
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+58.3571	-33.2694
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.9783	-33.2473
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+58.0514	-33.2456
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+58.1558	-33.2456
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.5523	-33.2453
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.6494	-33.2318
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+57.1531	-33.22
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.7346	-33.2194
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.74	-33.2174
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.0333	-33.2083
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.9844	-33.2001
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+57.2603	-33.1996
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.9177	-33.1968
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.9111	-33.1955
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.9494	-33.1955
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+57.2262	-33.1928
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+57.2875	-33.1928
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.8679	-33.1902
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.8498	-33.189
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.8091	-33.1844
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+56.8	-33.1832
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.5514	-33.1633
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.65	-33.1163
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.2642	-33.1089
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.7357	-33.1026
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.2268	-33.1009
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.2903	-33.1009
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.7527	-33.0947
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.3748	-33.0913
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.7998	-33.0885
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.8151	-33.0839
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.9183	-33.0663
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.8497	-33.0652
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.8712	-33.0635
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+56.9557	-33.0618
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.4452	-33.0539
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.9783	-33.0505
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.0317	-33.0465
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.5291	-33.0369
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.8603	-33.0369
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+58.1558	-33.0335
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.9113	-33.0266
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.5514	-33.0153
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+58.4546	-33.0062
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.65	-33.0057
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.7357	-32.9977
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+58.3554	-32.996
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+58.0514	-32.9909
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.7998	-32.9824
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.823	-32.9779
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+57.8603	-32.9773
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.7652	-32.9762
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+57.9783	-32.9756
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.8497	-32.9728
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+57.9113	-32.9688
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.6119	-32.9654
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.8758	-32.9637
+# @DC5Cr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.726|"Magnetic Anomaly"
+58.1558	-32.9586
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.9149	-32.9478
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.6958	-32.9404
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.0317	-32.9308
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.7537	-32.928
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.9291	-32.9263
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+56.962	-32.9229
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+56.7992	-32.9183
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+56.8276	-32.9172
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+56.8491	-32.911
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+56.8775	-32.8985
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.1582	-32.8917
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.2251	-32.8781
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.1865	-32.8747
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.8614	-32.8667
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.9113	-32.8667
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.2472	-32.8656
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.8115	-32.8656
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.2688	-32.8559
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.2988	-32.8389
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.3329	-32.8389
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+58.1575	-32.8327
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.9783	-32.831
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+58.0531	-32.8202
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+58.4546	-32.7618
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.2251	-32.7408
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.2501	-32.7363
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.2705	-32.7329
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.2926	-32.73
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.3141	-32.7266
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+58.6662	-32.7227
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.3329	-32.7159
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.4452	-32.7096
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.5746	-32.7068
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.6671	-32.7068
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.528	-32.7068
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.4674	-32.7034
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.8854	-32.6972
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.8491	-32.6926
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.8429	-32.6909
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.7992	-32.6677
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.3329	-32.6677
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.6119	-32.6677
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+58.2578	-32.6671
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+56.7947	-32.666
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+58.3577	-32.666
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.2705	-32.6631
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.3	-32.6614
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+58.158	-32.6609
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+56.5843	-32.6115
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.8115	-32.5956
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.7537	-32.5945
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.9783	-32.5945
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+56.6841	-32.5939
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+56.7981	-32.5939
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+56.8026	-32.5939
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+58.0531	-32.5866
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.9113	-32.5849
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.8614	-32.5803
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+58.158	-32.5803
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+58.2578	-32.5724
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+58.3571	-32.5554
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.2285	-32.5395
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.2705	-32.5395
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.3765	-32.5378
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.3329	-32.5316
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.1616	-32.5287
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.4174	-32.527
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.4452	-32.5253
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+58.1285	-32.4289
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.1644	-32.4119
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.2705	-32.4102
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.233	-32.4085
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+58.1875	-32.4085
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+58.6662	-32.3966
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.9783	-32.3926
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+56.2729	-32.3898
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.9363	-32.3864
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.3295	-32.3835
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+58.0531	-32.3694
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+58.128	-32.3365
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+58.2527	-32.3257
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.6244	-32.3212
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.6663	-32.32
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+58.1858	-32.3178
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+56.827	-32.3166
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+56.8508	-32.3075
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+58.3372	-32.3024
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+56.2769	-32.299
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.7412	-32.2917
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.7832	-32.2917
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+56.8695	-32.29
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.7412	-32.29
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.7837	-32.29
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.8302	-32.29
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+56.3671	-32.2888
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+56.6852	-32.2888
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.8302	-32.2888
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.8739	-32.2826
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.232	-32.2813
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.8739	-32.2803
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.1687	-32.2793
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+56.7663	-32.273
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.2707	-32.271
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.3839	-32.2657
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.325	-32.2618
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+56.5837	-32.2576
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+58.6662	-32.2213
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.4752	-32.2147
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.1201	-32.2114
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.0531	-32.1919
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.2345	-32.1912
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.1724	-32.19
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.525	-32.1875
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.2526	-32.1842
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.128	-32.1811
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.2707	-32.1694
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.1875	-32.1669
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.325	-32.1641
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.6258	-32.1546
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.3863	-32.1513
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+56.2786	-32.1505
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+56.6846	-32.1454
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+56.3671	-32.1402
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.4258	-32.1402
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+56.7652	-32.1351
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.4756	-32.1332
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+56.5843	-32.1283
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+56.8417	-32.1164
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+56.8525	-32.1164
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.5254	-32.1052
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.6262	-32.0834
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.6665	-32.0744
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.7422	-32.0731
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+58.1146	-32.0711
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.783	-32.0653
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+58.1858	-32.0538
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.9788	-32.053
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.2378	-32.0485
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.2526	-32.0485
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+58.6662	-32.0484
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.2707	-32.0472
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.9155	-32.0472
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.8397	-32.0369
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.325	-32.0336
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+58.2537	-32.0312
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.4756	-32.0155
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+56.3665	-32.0149
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.7426	-32.0057
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+56.2808	-31.9996
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.7834	-31.9954
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.4258	-31.9942
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.8422	-31.9909
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.5254	-31.9863
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.8751	-31.9748
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.9159	-31.9637
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.2703	-31.9625
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.2522	-31.9616
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.2399	-31.9604
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.3246	-31.9604
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+56.6846	-31.9593
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+56.7652	-31.9593
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+58.6662	-31.9582
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.98	-31.9489
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.1858	-31.9423
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.474	-31.939
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.0175	-31.9386
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.4254	-31.9345
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.179	-31.9308
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.2537	-31.9094
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.525	-31.9049
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+56.6869	-31.9043
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+56.5843	-31.8992
+# @DC9r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.972|"Magnetic Anomaly"
+56.282	-31.8958
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.7834	-31.8843
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.3364	-31.8835
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.8467	-31.8752
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.8751	-31.8707
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.9167	-31.8687
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.6246	-31.8666
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.0175	-31.8641
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+56.7635	-31.8618
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.9792	-31.8608
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.6665	-31.8576
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.1113	-31.8539
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+56.8542	-31.8329
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+56.8644	-31.8329
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.7422	-31.8189
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.783	-31.8053
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.8496	-31.8032
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.8747	-31.8008
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.2423	-31.7995
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.2538	-31.7942
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.2707	-31.7872
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.325	-31.786
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.9167	-31.7716
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.9788	-31.7658
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.3917	-31.7588
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+58.0175	-31.7543
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+58.1113	-31.7535
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+57.4258	-31.7452
+# @DC1r.2r-1n|o|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.211|"Magnetic Anomaly"
+58.187	-31.7354
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+56.9495	-31.7353
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.1835	-31.7349
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+56.9631	-31.7319
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+56.9104	-31.7302
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.2436	-31.7271
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.2538	-31.7271
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+56.8542	-31.7183
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.2765	-31.716
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.1135	-31.7115
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.1349	-31.7103
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+56.8746	-31.7098
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.325	-31.6922
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+58.6662	-31.6866
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+58.4541	-31.6837
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.3929	-31.6753
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.4744	-31.6753
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.4258	-31.6728
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.5377	-31.6683
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.1835	-31.621
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.2456	-31.621
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.2534	-31.621
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.1382	-31.6173
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.3246	-31.6173
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.943	-31.6173
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+57.9792	-31.6165
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+57.0283	-31.6111
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.4267	-31.6062
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.3937	-31.6049
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+57.0062	-31.6026
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.0175	-31.5992
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+56.9291	-31.5975
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+56.979	-31.5958
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.5618	-31.593
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.0788	-31.5893
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.483	-31.5765
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.6662	-31.5714
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.6077	-31.57
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.2876	-31.5617
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.1835	-31.5609
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+57.2469	-31.5584
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.5501	-31.5539
+# @DC8r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|26.554|"Magnetic Anomaly"
+56.8865	-31.55
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.6665	-31.5494
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.2537	-31.528
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.783	-31.5259
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.9426	-31.5189
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.8496	-31.5169
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.187	-31.5111
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+58.6667	-31.5054
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.9788	-31.5041
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.2489	-31.5039
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.0171	-31.5033
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.3952	-31.5022
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+57.8916	-31.5021
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.3249	-31.5005
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.4327	-31.4977
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.2926	-31.496
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.0784	-31.4943
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.4922	-31.4818
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+58.5458	-31.4782
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+58.2084	-31.4441
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.7837	-31.4336
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.7259	-31.4319
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.6669	-31.4291
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.617	-31.4284
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.6667	-31.4284
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.6091	-31.4274
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.3249	-31.4217
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.1848	-31.42
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.9425	-31.4132
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.2501	-31.4121
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.292	-31.4121
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.8915	-31.4121
+# @DC9r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.972|"Magnetic Anomaly"
+56.9518	-31.4109
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+57.9788	-31.4104
+# @DC9r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.972|"Magnetic Anomaly"
+56.9007	-31.4075
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.3952	-31.4058
+# @DC9r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.972|"Magnetic Anomaly"
+56.9795	-31.4041
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.0174	-31.4024
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.0832	-31.3996
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.4917	-31.3951
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.4389	-31.3905
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.5495	-31.3826
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.6091	-31.3718
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.6663	-31.3542
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.9425	-31.3531
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.7259	-31.3497
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.7837	-31.3417
+# @DC4r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.257|"Magnetic Anomaly"
+57.8909	-31.3406
+# @DC10r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.745|"Magnetic Anomaly"
+56.962	-31.3338
+# @DC10r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.745|"Magnetic Anomaly"
+56.907	-31.3202
+# @DC10r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.745|"Magnetic Anomaly"
+56.9756	-31.3168
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+57.6091	-31.3123
+# @DC10r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.745|"Magnetic Anomaly"
+57.017	-31.31
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.6667	-31.3095
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.1502	-31.3077
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+57.5495	-31.3049
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+57.7259	-31.3015
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.3861	-31.3005
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+57.6669	-31.2969
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+57.9425	-31.2924
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+57.7837	-31.2907
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.1843	-31.289
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+57.8915	-31.289
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+58.0174	-31.289
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+58.0894	-31.2799
+# @DC4Ar.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.025|"Magnetic Anomaly"
+58.2079	-31.2782
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.2529	-31.2607
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.4372	-31.2561
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.4917	-31.2419
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.1831	-31.2107
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.5495	-31.2107
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.2552	-31.2062
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.3969	-31.2011
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.3249	-31.1949
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.2926	-31.1886
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.4372	-31.1875
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.4922	-31.1716
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.7259	-31.1472
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.9425	-31.1472
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.5495	-31.1376
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.6663	-31.1359
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.8909	-31.1234
+# @DC5r.2r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.099|"Magnetic Anomaly"
+57.7832	-31.1223
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.3861	-31.098
+# @DC2r.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|2.14|"Magnetic Anomaly"
+58.661	-31.0775
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.1831	-31.07
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+58.2079	-31.0656
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.3981	-31.0639
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.3249	-31.061
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.292	-31.0593
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.6669	-31.0548
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.9414	-31.0485
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.7259	-31.044
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+58.0174	-31.0423
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+58.1002	-31.0406
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.8915	-31.0315
+# @DC5Ar.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|12.678|"Magnetic Anomaly"
+57.7837	-31.0253
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.3992	-31.0003
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.3255	-30.9952
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.2915	-30.9901
+# @DC2Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.58|"Magnetic Anomaly"
+58.6849	-30.959
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.4009	-30.8841
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.3255	-30.8705
+# @DC6r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.131|"Magnetic Anomaly"
+57.2915	-30.8654
+# @DC3r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|5.23|"Magnetic Anomaly"
+58.7462	-30.8615
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.9408	-30.858
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.8909	-30.8518
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+57.7837	-30.8455
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+58.0174	-30.8444
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+58.1093	-30.8444
+# @DC5Br|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|15.155|"Magnetic Anomaly"
+58.2079	-30.833
+# @DC6An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.996|"Magnetic Anomaly"
+57.4004	-30.7968
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+58.1115	-30.7814
+# @DC3Ar|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.567|"Magnetic Anomaly"
+58.7926	-30.7758
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+58.0174	-30.7695
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.9386	-30.7678
+# @DC5Dr|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.615|"Magnetic Anomaly"
+57.8909	-30.7644
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.727	-30.7321
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.5728	-30.7111
+# @DC6Cn.1r|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|23.535|"Magnetic Anomaly"
+57.3998	-30.7009
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.734	-33.9686
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.8321	-33.959
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.6675	-33.9098
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.7334	-33.9098
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.8329	-33.8917
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.9165	-33.8374
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.9235	-33.8374
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.7663	-33.8111
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.7334	-33.8045
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.893	-33.793
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.8342	-33.7818
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.8453	-33.7818
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.6494	-33.7806
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.4676	-33.7637
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.5499	-33.7547
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.1128	-33.7401
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.14	-33.735
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.2291	-33.7112
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.2512	-33.7112
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.2909	-33.7078
+# @DC12n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|30.479|"Magnetic Anomaly"
+58.3571	-33.6715
+# @DC12n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|30.479|"Magnetic Anomaly"
+58.4563	-33.663
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.9305	-33.6617
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.4668	-33.6555
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.9169	-33.6555
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.8967	-33.6428
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.7338	-33.642
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.9967	-33.6407
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.6498	-33.6399
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.7811	-33.6354
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.8	-33.6346
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.8494	-33.6325
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.8515	-33.6325
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+56.5507	-33.6304
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.9788	-33.6085
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.8626	-33.6017
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+58.1569	-33.6
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.9119	-33.5966
+# @DC11n.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|29.765|"Magnetic Anomaly"
+58.4563	-33.5926
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.254	-33.5909
+# @DC11n.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|29.765|"Magnetic Anomaly"
+58.3571	-33.5892
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+58.0525	-33.5881
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.2285	-33.5875
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.2898	-33.5824
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.1429	-33.5773
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.9346	-33.5601
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.9165	-33.5556
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.035	-33.551
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.8984	-33.5465
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.8494	-33.5395
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.8539	-33.5395
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+57.2552	-33.5087
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+57.2279	-33.507
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.7827	-33.5
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.7996	-33.4988
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+57.1457	-33.4968
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.733	-33.4955
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+57.2892	-33.4934
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+56.6494	-33.4864
+# @DC10n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.283|"Magnetic Anomaly"
+58.4563	-33.4594
+# @DC10n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.283|"Magnetic Anomaly"
+58.3571	-33.4543
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.5511	-33.4436
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.8498	-33.4321
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.8589	-33.4321
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.7334	-33.4218
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.9021	-33.4173
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.9165	-33.4173
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.6494	-33.4153
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.9403	-33.4128
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.9783	-33.4066
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+58.1558	-33.3998
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.0341	-33.3992
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.9113	-33.3981
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.9901	-33.3939
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.7943	-33.3902
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+56.8	-33.3902
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.2892	-33.3873
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+58.0514	-33.3862
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.1474	-33.3856
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.2262	-33.3856
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.2569	-33.3856
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.3748	-33.3788
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+58.3571	-33.3465
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+58.4563	-33.3414
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.4429	-33.3295
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.4676	-33.3268
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.5268	-33.3176
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.6494	-33.3079
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+58.1558	-33.2983
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.8498	-33.2943
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.7321	-33.2931
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.7346	-33.2931
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.5511	-33.2898
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+57.9783	-33.2881
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.6941	-33.2847
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+58.0514	-33.283
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.8646	-33.277
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.9066	-33.2717
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.9177	-33.2717
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.9473	-33.2671
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.6102	-33.2643
+# @DC5Dn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.277|"Magnetic Anomaly"
+57.1508	-33.2626
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.9868	-33.2614
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.8	-33.2523
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+56.8046	-33.2523
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.752	-33.2439
+# @DC5Dn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.277|"Magnetic Anomaly"
+57.2586	-33.2353
+# @DC5Dn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.277|"Magnetic Anomaly"
+57.2262	-33.2268
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+58.4563	-33.2229
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+58.3571	-33.2025
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.5514	-33.1979
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.8104	-33.1945
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.8597	-33.1894
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.9113	-33.1792
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.9777	-33.1792
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+58.0514	-33.1769
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.1548	-33.1696
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.6495	-33.156
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.2909	-33.1554
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.2625	-33.1525
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.2268	-33.1508
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.7357	-33.1463
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.7482	-33.1389
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.8117	-33.1389
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.8491	-33.1389
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.7992	-33.1355
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.4452	-33.1214
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.9177	-33.1202
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.9523	-33.1202
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.8695	-33.1168
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+58.1558	-33.1157
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+56.9835	-33.114
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.0334	-33.1077
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.5291	-33.1009
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+58.2561	-33.0936
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.5514	-33.0902
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.6119	-33.0851
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.7351	-33.0516
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.6947	-33.0476
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.6495	-33.0465
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.7572	-33.0437
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.7992	-33.0312
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.8196	-33.0232
+# @DC5Dn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.277|"Magnetic Anomaly"
+57.8603	-33.0198
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.8491	-33.0142
+# @DC5Dn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.277|"Magnetic Anomaly"
+57.9783	-33.0113
+# @DC5Dn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|17.277|"Magnetic Anomaly"
+57.9113	-33.0062
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.8741	-33.0045
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.7537	-33.004
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.9177	-32.9921
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.924	-32.9904
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.1593	-32.9796
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.2671	-32.9779
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+56.9586	-32.9767
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.2262	-32.9733
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.2983	-32.9699
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.3323	-32.9637
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.359	-32.9592
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.3748	-32.9592
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.4168	-32.9592
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+56.8259	-32.9456
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+56.7998	-32.9439
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+56.8497	-32.9439
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.9783	-32.9353
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+56.8758	-32.9314
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.4446	-32.93
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.9113	-32.928
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+58.0531	-32.9121
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+58.4546	-32.8985
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.5274	-32.8843
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.4674	-32.8576
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.6495	-32.8559
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.1576	-32.8406
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.1922	-32.8361
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.2251	-32.8327
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.6975	-32.8185
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.8338	-32.8174
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.2501	-32.8174
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+58.6662	-32.8168
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.8491	-32.8157
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.6119	-32.8123
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.9665	-32.8077
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.8803	-32.806
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.7357	-32.8015
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.2699	-32.8015
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.5531	-32.7987
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.9177	-32.7987
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.9364	-32.797
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.2966	-32.7907
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.7537	-32.7907
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.334	-32.7845
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.3573	-32.7783
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.7992	-32.7748
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+56.7856	-32.7703
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.9783	-32.7658
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.8614	-32.755
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.9113	-32.755
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.0531	-32.7499
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.8115	-32.7404
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.1575	-32.7363
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.2573	-32.7283
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.2251	-32.7113
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.3571	-32.7113
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.2472	-32.6989
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.2705	-32.6909
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.3051	-32.6881
+# @DC5r.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.476|"Magnetic Anomaly"
+57.3329	-32.6881
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+56.8474	-32.6552
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+56.8865	-32.6535
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+56.8457	-32.6489
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+58.3577	-32.641
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+56.7992	-32.6302
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.4452	-32.6268
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.2705	-32.6251
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+56.6835	-32.6223
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.2268	-32.6206
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.4174	-32.6178
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.3329	-32.6161
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+58.2578	-32.6144
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+58.0531	-32.6115
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+58.158	-32.6115
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.3748	-32.599
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+58.5471	-32.5962
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+58.6662	-32.5775
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.6119	-32.5741
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.528	-32.5599
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.9788	-32.5367
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.6964	-32.5253
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.2285	-32.5083
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.9113	-32.5021
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.2705	-32.5004
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.7463	-32.4992
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.1627	-32.4987
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.0537	-32.493
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.1285	-32.4896
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.4174	-32.4834
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.3329	-32.4817
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.3782	-32.4817
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.2533	-32.4817
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.4452	-32.4799
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+56.2718	-32.4782
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.4674	-32.4771
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.8115	-32.4743
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.5843	-32.4646
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.8614	-32.4646
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.1875	-32.4584
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.6858	-32.4442
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.8196	-32.396
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.8497	-32.396
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.8621	-32.396
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.7686	-32.3898
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+56.9087	-32.3818
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+58.128	-32.3807
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.1656	-32.3711
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.2705	-32.3648
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.6669	-32.3648
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.2313	-32.3614
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.7418	-32.3569
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.7837	-32.3569
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+58.1858	-32.3558
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.8274	-32.354
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+56.2752	-32.3455
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.1191	-32.3427
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.3249	-32.3212
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.3828	-32.3115
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+58.6662	-32.265
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+58.0537	-32.2576
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.938	-32.2463
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.1201	-32.2451
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.7418	-32.2435
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.2333	-32.2431
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.7837	-32.2401
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.9788	-32.2389
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+56.2752	-32.2344
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.8336	-32.2338
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.1699	-32.2328
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.8739	-32.231
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.2707	-32.2217
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+56.3671	-32.2191
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+56.7663	-32.2106
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+56.8366	-32.2089
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.3847	-32.2044
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.325	-32.1999
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+56.8508	-32.1981
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+56.8758	-32.1947
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+56.6869	-32.1936
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.4234	-32.1933
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+56.9257	-32.1919
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+56.5843	-32.1794
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.4752	-32.1772
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.1285	-32.151
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.525	-32.1435
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.0537	-32.1431
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.1875	-32.1261
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.6246	-32.1163
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.8739	-32.1153
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.8382	-32.1136
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.2707	-32.1052
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.2526	-32.1019
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.9788	-32.1011
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.6662	-32.1
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.1744	-32.0995
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.2353	-32.0974
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.9227	-32.0932
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.2533	-32.0932
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.3872	-32.0859
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.3259	-32.0838
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.4752	-32.0723
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.4254	-32.0645
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+56.3665	-32.0563
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.525	-32.053
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+56.2808	-32.0478
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.6258	-32.0452
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+56.7652	-32.0376
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.7422	-32.0304
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+56.8508	-32.0291
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.783	-32.0213
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.3246	-32.0147
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+58.6662	-32.0126
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+56.6846	-32.0104
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.2378	-32.0102
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.9155	-32.0098
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.9788	-32.0065
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+58.1113	-32.0065
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.2522	-32.0044
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.2703	-32.0032
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+58.187	-31.9929
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+56.3665	-31.9775
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.4752	-31.9728
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+56.2825	-31.9571
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.4254	-31.9559
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.7422	-31.9526
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+58.2537	-31.9509
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.525	-31.9477
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.783	-31.9444
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.6665	-31.9398
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.8443	-31.9398
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+56.6869	-31.9389
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.8747	-31.9217
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+56.7635	-31.9128
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.9155	-31.9106
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.0175	-31.9016
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.1113	-31.8958
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.9788	-31.8946
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.187	-31.8777
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.1279	-31.8711
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.2537	-31.8666
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.3246	-31.865
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.39	-31.8596
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.2699	-31.8584
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.4246	-31.8555
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.4744	-31.8522
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.253	-31.8489
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.1818	-31.8481
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.2415	-31.844
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.783	-31.8357
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.8476	-31.8345
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.8747	-31.8345
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.5246	-31.8333
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.9167	-31.8312
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.9788	-31.8312
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.4977	-31.8283
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+58.0175	-31.8246
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.6662	-31.8238
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+58.1113	-31.8156
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+56.8519	-31.7932
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+56.8656	-31.7932
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.6246	-31.7765
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.2534	-31.7613
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.6669	-31.7576
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.3246	-31.744
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.7414	-31.7271
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.3925	-31.7168
+# @DC2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|1.77|"Magnetic Anomaly"
+57.4254	-31.7123
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.7838	-31.7123
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.8751	-31.6987
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.8529	-31.6975
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.9163	-31.6934
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.0255	-31.69
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.0028	-31.6832
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+58.2528	-31.6798
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+57.9784	-31.6712
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+58.1854	-31.6704
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+58.0171	-31.6683
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+56.9211	-31.6639
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.246	-31.6617
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.1835	-31.6605
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.2538	-31.6592
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+56.9722	-31.6571
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.325	-31.6514
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+58.0771	-31.6502
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.1374	-31.6448
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+58.4836	-31.644
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.3929	-31.6436
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+56.8814	-31.6418
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.4271	-31.6391
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+58.749	-31.6349
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.4789	-31.6288
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.5501	-31.6276
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+58.6662	-31.6253
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.6077	-31.6197
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.2831	-31.6115
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.6665	-31.5905
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.325	-31.5901
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.3942	-31.5741
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.783	-31.5654
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+57.4304	-31.563
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.9788	-31.5621
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.0175	-31.5543
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.85	-31.5486
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+57.8916	-31.5453
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.2886	-31.5448
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.0784	-31.544
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.6662	-31.5431
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.2484	-31.5397
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.4745	-31.5193
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+56.941	-31.5
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+56.8933	-31.4898
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+56.9807	-31.4898
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+57.0096	-31.4898
+# @DC9n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|27.027|"Magnetic Anomaly"
+57.0351	-31.4898
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+58.2084	-31.4848
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+58.6672	-31.4589
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.3249	-31.4586
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.2501	-31.4557
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.292	-31.454
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+58.5832	-31.4523
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.9425	-31.4512
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.9783	-31.4512
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.3952	-31.4495
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+57.8909	-31.4461
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.0174	-31.4387
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.4355	-31.4382
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.0815	-31.4291
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.6085	-31.3934
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.6663	-31.3837
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.7259	-31.3837
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.9425	-31.382
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.9783	-31.382
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.7832	-31.3746
+# @DC10n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.283|"Magnetic Anomaly"
+56.9569	-31.3735
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+57.8909	-31.3729
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+58.0174	-31.3729
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.6667	-31.3651
+# @DC10n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.283|"Magnetic Anomaly"
+56.9778	-31.365
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.1848	-31.3639
+# @DC10n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|28.283|"Magnetic Anomaly"
+56.9041	-31.3599
+# @DC4n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|7.432|"Magnetic Anomaly"
+58.086	-31.3542
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+57.5495	-31.3372
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.2518	-31.3293
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+57.6085	-31.3293
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+57.6663	-31.3264
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+57.7259	-31.3213
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+57.9425	-31.3213
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+58.0174	-31.3213
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+57.8909	-31.3123
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.3969	-31.3077
+# @DC4An|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|8.699|"Magnetic Anomaly"
+57.7832	-31.306
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.2926	-31.2998
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.3249	-31.2952
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.4372	-31.2935
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.4922	-31.2907
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.6091	-31.2686
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.5495	-31.2578
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.7259	-31.2561
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.6669	-31.2516
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.7837	-31.2516
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.1848	-31.25
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.8915	-31.2453
+# @DC11n.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|29.765|"Magnetic Anomaly"
+57.0204	-31.2334
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.2546	-31.2283
+# @DC11n.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|29.765|"Magnetic Anomaly"
+56.916	-31.2176
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+57.9425	-31.2045
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+58.3866	-31.2001
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.0174	-31.2
+# @DC5n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|9.74|"Magnetic Anomaly"
+58.0922	-31.2
+# @DC1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|0|"Magnetic Anomaly"
+58.6663	-31.1919
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.1831	-31.1654
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.3249	-31.147
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.2926	-31.1455
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.4361	-31.1143
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.4922	-31.1126
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.3987	-31.1109
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+58.0174	-31.0911
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.6669	-31.0894
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.7259	-31.0894
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.9414	-31.0848
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.5495	-31.0752
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.8915	-31.0707
+# @DC5An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|11.935|"Magnetic Anomaly"
+57.7837	-31.0661
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.3249	-31.0332
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.2926	-31.0315
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.6091	-31.0281
+# @DC2An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|3.11|"Magnetic Anomaly"
+58.6667	-31.0005
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.6669	-30.9969
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.7259	-30.9782
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.1036	-30.9658
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.9414	-30.9595
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.0174	-30.9533
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.7837	-30.9504
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+57.8915	-30.947
+# @DC5ADn|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|14.178|"Magnetic Anomaly"
+58.2079	-30.9442
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.4004	-30.9215
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.3255	-30.9147
+# @DC3n.3n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|4.8|"Magnetic Anomaly"
+58.7145	-30.9133
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.2909	-30.9096
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+57.4009	-30.8467
+# @DC6An.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|20.518|"Magnetic Anomaly"
+57.2915	-30.833
+# @DC3An.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|6.269|"Magnetic Anomaly"
+58.7722	-30.8166
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+58.111	-30.8149
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.9408	-30.8132
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+58.0174	-30.8036
+# @DC5Cn.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|16.014|"Magnetic Anomaly"
+57.8909	-30.8024
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.7253	-30.7814
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.6675	-30.7729
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.3255	-30.7525
+# @DC6Bn.2n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|22.804|"Magnetic Anomaly"
+57.4009	-30.7525
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.7832	-30.7525
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+58.0174	-30.7304
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+58.1132	-30.7219
+# @DC6n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|19.048|"Magnetic Anomaly"
+57.8909	-30.6845
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.7837	-30.6034
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.4004	-30.5949
+# @DC8n.1n|y|1|N/A|Baines++_2007_G3|10.1029/2006GC001559|25.823|"Magnetic Anomaly"
+57.3249	-30.5778

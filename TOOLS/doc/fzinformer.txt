@@ -1,0 +1,77 @@
+#include "common_options.txt"
+.TH FZINFORMER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.SH NAME
+fzinformer \- Plot along-FZ statistical information
+.SH SYNOPSIS
+BD(fzinformer) [ OPT(D) ] [ OPT(F)IT(max) ] [ OPT(I)IT(profile) ] [ OPT(N)IT(max) ] 
+[ OPT(S)IT(max) ] [ OPT(T)IT(prefix) ] [ OPT(W)IT(max) ] [ OPT(V) ]
+.SH DESCRIPTION
+BD(fzinformer) is a script developed as part of the Global Seafloor Fabric
+and Magnetic Lineation Project [see www.soest.hawaii.edu/PT/GSFML for a full
+description of the project].  It make plots of statistical information obtained
+by BD(gmt fzanalyzer) as a function of position along a fracture zone (FZ).
+.SH OPTIONS
+No space between the option flag and the associated arguments.
+.TP
+OPT(D)
+Use the filtered output from BD(gmt fzblender) instead of the raw analysis file in making
+the plot.  This requires that you ran BD(gmt fzblender) with the OPT(D) option.
+.TP
+OPT(F)IT(max)
+Sets the maximum F-statistic amplitude for the plot [10000].  A logarithmic
+scale is used for this panel; all others are linear.
+.TP
+OPT(I)IT(profile)
+By default we plot all the cross-profiles in one stack.  To select a single
+profile only, append the running number of the profile, where 0 is the first profile.
+.TP
+OPT(N)IT(max)
+Sets the maximum range of VGG amplitudes (in Eotvos) for the plot [200].
+.TP
+OPT(S)IT(max)
+Sets the maximum (+/-) half-range of FZ offsets (in km) [25].
+.TP
+OPT(T)IT(prefix)
+Sets the file name prefix used when running BD(gmt fzanalyzer) and BD(gmt fzblender)
+[The default is fztrack].  The files used here are IT(prefix)_analysis.txt
+(or IT(prefix)_filtered.txt if OPT(D) is used) and IT(prefix)_blend.txt.
+.TP
+OPT(W)IT(max)
+Sets the maximum range of FZ widths (in km) [50].
+.TP
+OPT(V)
+Reports plotting progress [quiet].
+.SH PLOT FEATURES
+BD(fzinformer) packs much information into each plot by using different symbols and
+colors.  Empirical information obtained from raw data are shown in red.  Information
+derived from a forced trough FZ model are shown in green, while the information derived
+from the optimal blend model are shown in blue.  We present 7 panels for each FZ. Panel
+1 (top) shows how the F-statistic parameter varies with distance for the trough (green)
+and blend (blue) models. Panel 2 shows the reduction in variance for the same two models.
+Panel 3 shows the maximum amplitude for the two models and the empirical data (red).
+Panel 4 shows the width of the FZ signal for all three data.  Panel 5 presents the offset
+(in km) between the digitized trace and the optimal FZ locations (one curve for each type).
+Panel 6 shows which side (left is -1, right = +1) is the young side assuming a Pacific edge-anomaly model (it will tend
+to jump back and forth where the signal is close to symmetric and should only be used when
+we have clearly asymmetric signals). Finally, panel 7 shows
+the compression parameter C for the blend and trough models, as well as the blend parameter A
+(black line) for the optimal blend model.
+.SH EXAMPLES
+To look at the statistics for the 5th (0 is first) FZ analyzed as part of a larger group called traces,
+accepting default values except we override the maximum amplitude by using 100,
+try
+.br
+.sp
+fzinformer -Ttraces -N100 -I5
+.br
+.sp
+The statistical plot will be named IT(prefix)_stat.pdf.
+.SH "SEE ALSO"
+.IR fzanalyzer (1),
+.IR fzblender (1),
+.IR fzmapper (1),
+.IR fzmodeler (1),
+.IR fzprofiler (1),
+.IR gmt (1),
+.IR grdtrack (1)
+.IR mlconverter (1)

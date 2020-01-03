@@ -1,0 +1,291 @@
+# @VGMT1.0 @GPOINT
+# @R-55.6277/18.7364/-43.2908/-22.2521                                    
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+-54.2743	-43.2908
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+-55.6277	-43.237
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+-54.4802	-42.3159
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+18.2511	-38.4668
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+17.3681	-38.3431
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+17.1664	-38.1456
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+17.6225	-37.7883
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+16.6489	-37.5662
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+17.4354	-37.5639
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+18.1488	-37.5059
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+17.2454	-37.3829
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+17.8886	-37.2713
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+18.482	-37.2085
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+17.6517	-36.9939
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+18.675	-36.9659
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+16.8273	-36.8701
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+15.8157	-36.8303
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+17.4763	-36.7905
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+17.2629	-36.5678
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+16.3127	-36.5513
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+18.3446	-36.5466
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+17.9295	-36.5184
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+17.8008	-36.3679
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+15.2339	-36.3043
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+17.067	-36.2407
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+17.6664	-36.2336
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+18.7364	-36.2289
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+16.6519	-36.1534
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+16.9793	-36.1487
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+15.7982	-35.9832
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+17.9675	-35.9832
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+17.9119	-35.9217
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+14.7632	-35.8554
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+16.9091	-35.8175
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+18.3359	-35.77
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+16.2835	-35.706
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+16.1958	-35.5872
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+15.4298	-35.5681
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+17.6342	-35.5681
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+18.1897	-35.5658
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+17.0992	-35.5515
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+16.6928	-35.5301
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+14.4796	-35.4849
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+15.3245	-35.4777
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+16.646	-35.4563
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+18.0874	-35.4349
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+16.8974	-35.2679
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+14.2866	-35.2465
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+17.4149	-35.1939
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+15.8449	-35.1628
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+16.7893	-35.072
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+17.3009	-35.0504
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+14.9883	-35.0121
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+16.1958	-34.8923
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+17.2015	-34.8563
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+15.5087	-34.7819
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+16.4706	-34.6786
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+17.105	-34.6401
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+15.9736	-34.5342
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+13.7896	-34.4161
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+16.2835	-34.3896
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+14.5556	-34.3703
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.9735	-34.3679
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+15.1783	-34.2737
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+15.7397	-34.2133
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.8331	-34.1649
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+13.6288	-34.1504
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+16.0993	-34.1431
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.7279	-33.9954
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+14.3305	-33.9712
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.6168	-33.7332
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+14.848	-33.7186
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+15.8654	-33.7065
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+15.3187	-33.6116
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+15.2544	-33.519
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+14.7398	-33.4336
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+15.6403	-33.3922
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+14.0966	-33.3213
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.456	-33.3213
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+15.538	-33.1355
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+13.3335	-33.133
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+15.0672	-33.0889
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.3712	-33.0571
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+15.5233	-33.0203
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+14.5732	-33.0179
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+13.2751	-32.8977
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.2776	-32.8854
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+13.9738	-32.8412
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+14.5001	-32.7822
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+14.9912	-32.7503
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+13.2049	-32.7232
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+15.3655	-32.706
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.2016	-32.5829
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+13.1493	-32.5681
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+15.3187	-32.5238
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+14.8977	-32.4053
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.1812	-32.351
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+14.427	-32.272
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+14.8129	-32.2374
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+15.2047	-32.2176
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+13.0821	-32.1631
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+14.9912	-31.9302
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+16.0408	-31.9227
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+14.2223	-31.8657
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+14.9298	-31.7713
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+15.9677	-31.5971
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+-48.0369	-31.3925
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+13.9797	-31.2503
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+14.5878	-31.0702
+# @DM4n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|125.67|"Magnetic Anomaly"
+-48.846	-31.0173
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+15.8011	-30.9223
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+13.7282	-30.7164
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+15.7835	-30.6888
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+14.2165	-30.5076
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+13.6142	-30.3387
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+14.0878	-30.1771
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+15.3567	-30.1012
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+15.228	-29.8581
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+13.4066	-29.7668
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+13.8832	-29.6144
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+13.8247	-29.4465
+# @DM11An.1n|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|131.91|"Magnetic Anomaly"
+15.0088	-29.3446
+# @DM7r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|127.79|"Magnetic Anomaly"
+13.2868	-29.212
+# @DM9r|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|128.93|"Magnetic Anomaly"
+13.6464	-29.1022
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+12.5646	-28.8003
+# @DM0r|y|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|120.6|"Magnetic Anomaly"
+12.1641	-28.7055
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+12.5032	-28.5541
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+13.1757	-28.1837
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+12.2489	-27.553
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+12.857	-27.2753
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+12.0676	-26.9188
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+12.6903	-26.663
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+11.7752	-25.9685
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+12.4828	-25.7159
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+11.6086	-25.3941
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+12.2401	-24.7692
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+11.3191	-24.4742
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+12.1202	-24.2958
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+9.4217	-22.9619
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+10.0591	-22.6169
+# @DM4n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|126.57|"Magnetic Anomaly"
+10.0649	-22.3684
+# @DM2n|o|1|N/A|Rabinowitz+LaBreque_1979_JGR|10.1029/JB084iB11p05973|124.05|"Magnetic Anomaly"
+9.3983	-22.2521

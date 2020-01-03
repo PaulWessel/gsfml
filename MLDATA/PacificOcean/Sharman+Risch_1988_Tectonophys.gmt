@@ -1,0 +1,131 @@
+# @VGMT1.0 @GPOINT
+# @R164.5499/170.2731/34.926/43.6267                                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.9368	34.926
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.9868	34.926
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+170.2231	34.9488
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+170.2731	34.9488
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.9011	35.0134
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+170.1775	35.0443
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.6274	35.2635
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.6774	35.2635
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.841	36.4096
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.891	36.4096
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.3776	36.6238
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.5455	37.0526
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.484	37.0564
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.534	37.0564
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.5883	37.2761
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.6384	37.2761
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.5891	37.3939
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.5289	37.4002
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.3742	37.4589
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.4242	37.4589
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.3988	37.5454
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.4488	37.5454
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.0767	37.7226
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.5812	38.1187
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.4206	38.2044
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.4706	38.2044
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+167.9229	38.7141
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.4906	39.6619
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+167.5406	39.6619
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.6823	39.8068
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.7323	39.8068
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+168.6268	39.9846
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.86	40.3229
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+167.8316	40.5491
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+167.8817	40.5491
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.16	40.5582
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.21	40.5582
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+166.1124	40.6805
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.9042	40.7628
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.9542	40.7628
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+167.6175	40.8218
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.581	41.1244
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+167.3458	41.1641
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+167.3958	41.1641
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.3728	41.7452
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.4228	41.7452
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.004	41.8309
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.054	41.8309
+# @DM5r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|126.57|"Magnetic Anomaly"
+165.1685	41.9503
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+166.9155	41.9902
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+166.5725	42.7637
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+166.6225	42.7637
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+165.8685	43.4308
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+164.9822	43.4614
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+165.0322	43.4614
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+165.6901	43.5032
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+165.7401	43.5032
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+164.8315	43.5877
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+165.6068	43.6049
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+164.5499	43.615
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+164.6748	43.6267
+# @DM1r|y|3|N/A|Sharman+Risch_1988_Tectonophys|10.1016/0040-1951(88)90273-9|123.19|"Magnetic Anomaly"
+164.7248	43.6267

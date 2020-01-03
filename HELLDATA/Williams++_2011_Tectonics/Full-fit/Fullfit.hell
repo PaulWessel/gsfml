@@ -1,0 +1,153 @@
+# Williams et al. 2011 Tectonics FullFit.hell 
+# Col1 ant=1 aus=2; Col2 segment numbers; 
+# Col3 lats; Col4 longs; 
+# Col5 sigma_mag sigma_fz km; Col6 1=mag_picks 2=frac_zones
+ 1 1 -64.5254 103.2629  12.87 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.7763 104.0684  16.13 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.0700 104.8685  14.75 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.1465 105.6900  18.55 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2050 106.3583  18.47 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.1980 107.0740  19.88 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2050 107.9202  17.38 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3209 108.4595  18.02 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.4654 109.1992  19.54 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.5520 110.3310  15.80 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.4181 111.5066  14.77 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3640 112.2571  14.48 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3112 113.0173  15.29 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2978 113.5644  15.50 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2865 113.9837  15.37 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2483 114.5839  14.07 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2594 115.0944  13.51 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2627 115.4360  13.14 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2660 116.3096  12.77 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3723 117.1758  11.29 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.4910 117.8723  11.64 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.5721 118.6172  13.03 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.5510 119.3171  13.84 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.4805 119.9666  12.44 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3865 120.7413  10.79 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3564 121.3907  11.25 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3166 122.0647  11.70 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.3694 123.1151  12.48 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2958 124.1183  10.94 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2756 124.8381  10.19 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.2575 125.5611   9.77 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.0760 126.2310   6.32 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.0855 126.9801   7.99 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -65.0574 127.7609   7.47 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.8883 128.4940   6.54 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.7913 128.9498   6.68 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.7356 129.5372   7.41 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.5923 130.0797   7.81 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.5129 130.6518   9.27 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.4169 131.5280  10.13 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.3571 132.3334  10.12 1 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 1 -64.3740 133.2776   8.36 1 # Ant Bight Conj Average of NormThick and PoorThin    
+ 2 1 -35.9023 117.7490   5.96 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.9144 118.1802   5.85 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.8918 118.4586   6.09 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.6056 118.9386   6.92 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.3609 119.4287   9.68 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.1561 119.8851  10.94 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.0719 120.3813  11.04 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.0278 120.8191  10.78 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.0153 121.3806   7.56 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.9054 121.7101   4.72 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.8574 121.9683   2.53 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.8697 122.2736   0.58 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.9159 122.5770   2.79 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.9456 122.9701   4.63 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -35.0174 123.5351   5.40 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.8352 124.0795   6.00 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.6711 124.4521   8.25 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.6532 124.6905   9.31 1 # Aus Bight Average of NormThick and PoorThin 
+ 2 1 -34.6211 124.9263  10.26 1 # Aus Bight Average of NormThick and PoorThin 
+ 2 1 -34.5612 125.2808  10.05 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.4328 125.7092   9.70 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.3587 125.9529   9.09 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.3054 126.2902   8.38 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.2772 126.7851   7.72 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.2231 127.1102   8.39 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -34.0931 127.5727   8.56 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9964 128.0255   7.81 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9695 128.5858   8.90 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9595 129.1312  10.97 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9116 129.5352  12.30 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9040 129.9439  14.85 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9542 130.2425  15.57 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9953 130.6151  14.34 1 # Aus Bight Average of NormThick and PoorThin
+ 2 1 -33.9847 130.8812  13.86 1 # Aus Bight Average of NormThick and PoorThin
+ 1 2 -64.7398 134.3356  12.84 2 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 2 -64.7501 135.1876  18.56 2 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 2 -64.7176 136.7606  16.36 2 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 2 -64.8564 137.1683  21.07 2 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 2 -65.0599 137.8679  27.15 2 # Ant Bight Conj Average of NormThick and PoorThin
+ 1 2 -65.1245 141.6834  31.06 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -65.0762 142.0248  28.89 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -65.0681 143.7450  17.06 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -65.1845 144.4579  13.69 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -65.5099 145.4894  12.40 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -66.0122 146.9124  21.71 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -66.3538 148.6322  23.05 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -66.4192 150.3666  13.73 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -66.5996 151.7665  10.36 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -66.8268 153.0676   4.76 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -67.0594 154.6087   3.54 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -67.3164 155.3824   1.81 2 # Ant Otway Conj Average of NormThick and PoorThin
+ 1 2 -67.4614 157.1984   0.47 2 # Ant Otway Conj Average of NormThick and PoorThin      
+ 2 2 -34.0529 131.0895  14.30 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -34.1235 131.2592  14.02 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -34.1569 131.4474  13.59 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -34.3039 131.7719  12.54 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -34.3919 131.9856  12.78 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -34.6042 132.2539  12.22 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -34.9386 132.6942  10.21 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.0743 132.9541   9.24 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.2372 133.3838   7.74 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.2976 133.7618   7.34 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.3565 134.2758   7.42 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.4392 134.6125   8.49 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.6378 135.0110   8.71 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.7802 135.4145  11.34 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -35.9307 135.7336  11.19 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -36.3254 136.1696   6.10 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -36.8174 136.6644   3.06 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -36.9099 136.9695   2.98 2 # Aus Bight Average of NormThick and PoorThin
+ 2 2 -37.2720 137.8399   2.54 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.3941 138.0931   2.65 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.4577 138.2322   3.86 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.5648 138.3637   5.35 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.6763 138.5103   5.98 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.7904 138.7216   6.76 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.7916 138.7245   6.77 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.8337 139.2759   8.42 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.8379 138.9875   9.43 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.9345 139.6213  10.20 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -37.9814 139.7662  11.88 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -38.0310 139.8199  12.41 2 # Aus Otway Average of NormThick and PoorThin
+ 2 2 -38.0742 139.9440  13.62 2 # Aus Otway Average of NormThick and PoorThin
+ 1 3 -63.211257  102.651887 5 2 # Vincennes FZ     
+ 1 3 -63.444384  102.942445 5 2 # Vincennes FZ     
+ 1 3 -63.689326  103.277997 5 2 # Vincennes FZ     
+ 1 3 -64.050344  103.526127 5 2 # Vincennes FZ     
+ 1 3 -64.207025  103.980125 5 2 # Vincennes FZ     
+ 1 3 -64.412780  104.324780 5 2 # Vincennes FZ     
+ 1 3 -64.555712  104.630850 5 2 # Vincennes FZ     
+ 2 3 -34.622337  113.405228 5 2 # Leeuwin (Perth)     
+ 2 3 -34.724808  113.614559 5 2 # Leeuwin (Perth)     
+ 2 3 -34.967069  113.961899 5 2 # Leeuwin (Perth)     
+ 2 3 -35.129975  114.096024 5 2 # Leeuwin (Perth)     
+ 2 3 -35.302539  114.391055 5 2 # Leeuwin (Perth)     
+ 2 3 -35.498280  114.693089 5 2 # Leeuwin (Perth)     
+ 2 3 -35.627786  114.815697 5 2 # Leeuwin (Perth)     
+ 2 3 -35.771738  115.080085 5 2 # Leeuwin (Perth)     
+ 1 4 -64.405436  97.074643  5 2 # West Bruce Rise     
+ 1 4 -63.999026  96.704595  5 2 # West Bruce Rise     
+ 1 4 -63.518076  96.029317  5 2 # West Bruce Rise     
+ 1 4 -63.156077  95.656738  5 2 # West Bruce Rise     
+ 2 4 -35.356276  109.885676 5 2 # Naturaliste     
+ 2 4 -35.625296  110.172856 5 2 # Naturaliste     
+ 2 4 -35.873106  110.427658 5 2 # Naturaliste     
+ 2 4 -36.270367  110.807067 5 2 # Naturaliste     
+ 2 4 -36.429271  110.996718 5 2 # Naturaliste     

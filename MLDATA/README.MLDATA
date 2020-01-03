@@ -1,0 +1,52 @@
+# $Id: README.MLDATA 394 2016-06-18 22:08:40Z pwessel $
+#	Readme file for the MLDATA directory
+#	P. Wessel, October 9, 2014
+
+This file explains what is going on in the MLDATA directory.
+There are four main data directories:
+
+AtlanticOcean
+IndianOcean
+PacificOcean
+Marginal_BackarcBasins
+
+Each contains the OGR/GMT ascii files converted from the shapefiles
+provided via EarthByte (or possibly other sources in the future).
+From these we generate KML and shapefiles to be distributed.
+
+When new data is submitted, put the directories with new shapefiles
+in some directory (e.g., on the desktop), here called FROM.  We assume
+here that the new shapefiles have been given proper names using the
+author(s)_year_journal convention.  We also assume that these files
+are organized into sub-directories called
+AtlanticOcean IndianOcean Marginal_BackarcBasins PacificOcean.
+If that is not the case then add these directories manually and shuffle
+files into them.  Then cd to MLDATA and run
+
+shp2gmt.sh FROM NEW
+
+to convert individual data sets into archivable OGR/GMT files.  These are written
+to a new temporary directory called NEW.  If you are happy with result you can then
+add these to the corresponding basin directories and run svn add <new files>
+and svn commit -m "some comment".  If you are just updating already existing data
+then just overwrite the files in the main data directories and subversion will
+maintain the various versions.
+
+If there are new datasets added you need to edit the References.txt file within
+each basin directory and add the corresponding full reference.
+
+Also add an entry to the ML_news.html file.
+
+Since all files follow exactly the same format and order of metadata
+we can generate compilations for each of the four basin categories as well as
+a global file directly from the individual files.
+
+The raw repository data in MLDATA is used to build the final ML
+sub-site with its data products.
+To regenerate all the files in the ML directory you run
+build_ML_site.sh from inside the MLDATA directory.  This produces
+a new ML dir with html and data files.  The top-level Makefile
+also has targets that can be used instead:
+
+	make ML		: will create the ML directory
+	make place_ml	: will copy this directory to the web server.

@@ -1,0 +1,559 @@
+# @VGMT1.0 @GPOINT
+# @R5.5651/48.3649/-67.89/-0.6588                                         
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+42.6518	-8.669
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+42.7375	-8.6967
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+42.2672	-6.1909
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+42.2179	-6.1604
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+42.43	-6.2051
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+43.8091	-9.3809
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+43.5736	-9.3744
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+43.2318	-9.3812
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+43.8559	-7.8604
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+43.6334	-7.8768
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+43.426	-7.1481
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+43.1708	-7.1888
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+43.5976	-7.0419
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+43.208	-7.202
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+43.2739	-6.3788
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+43.5349	-6.1648
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+44.4574	-8.5674
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+44.6189	-8.5422
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+44.7645	-6.8918
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+44.5164	-6.9379
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+44.4244	-6.0079
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+44.7013	-6.0186
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+44.4608	-5.3437
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+44.3089	-4.5775
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+44.1285	-4.6282
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+45.4205	-8.9148
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+45.4853	-8.9018
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+45.1143	-7.1038
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+45.3486	-7.0075
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+45.1881	-5.9943
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+45.1546	-5.5681
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+45.1477	-4.8562
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+46.308	-5.8946
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+46.2018	-4.5541
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+46.3273	-4.5061
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+46.1505	-3.5289
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+45.6909	-3.6151
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+46.9352	-3.2794
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+46.1335	-2.9671
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+46.6829	-2.7979
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+46.0844	-2.0855
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+46.8379	-1.7188
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+47.8614	-4.7625
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+47.4857	-2.3617
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+47.5498	-1.7577
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+47.3146	-1.8862
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+46.9583	-1.9897
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+48.3649	-2.0156
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+48.0784	-2.1303
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+47.9169	-1.42
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+48.2107	-1.3608
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+47.848	-0.748
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+48.0417	-0.6588
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+17.6998	-46.2557
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+21.2846	-46.2983
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+21.7353	-46.2983
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+21.8992	-46.3693
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+22.0631	-46.4685
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+24.767	-46.8353
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+22.7611	-44.1751
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+23.0858	-44.4665
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+23.3698	-44.4374
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+23.6944	-44.6116
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+23.9379	-44.8142
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+23.9785	-45.2459
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+24.3437	-45.3032
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+24.9117	-45.5889
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+25.0335	-44.9585
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+25.6421	-45.5889
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+26.0885	-45.1023
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+9.3698	-59.1518
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+10.5405	-59.2186
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+10.8332	-59.3849
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+11.0934	-59.5669
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+11.321	-60.0421
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+11.7438	-60.4785
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+12.1015	-60.6226
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+12.2315	-60.6706
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+12.8358	-58.0248
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+13.5788	-58.2494
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+13.8972	-58.5836
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+38.8183	-24.8887
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+38.123	-24.9173
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+38.6667	-24.8802
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+39.2729	-23.2179
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+38.2679	-23.7272
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+38.4741	-22.886
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+38.3166	-22.8374
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+38.6499	-22.8634
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+37.9019	-22.4911
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+38.3632	-22.3124
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+37.0373	-22.6404
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+38.4006	-21.5707
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+37.7866	-21.6928
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+37.9335	-21.5728
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+22.2963	-64.5024
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+21.4658	-64.3822
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+21.546	-64.359
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+21.949	-64.456
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+21.8247	-65.0353
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+21.6264	-64.9451
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+21.3713	-64.8606
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+20.9316	-64.7514
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+20.8465	-64.7271
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+19.623	-66.37
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+19.252	-66.252
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+18.714	-66.161
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+18.373	-65.99
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+17.962	-65.926
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+17.282	-66.766
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+17.704	-66.772
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+18.253	-66.876
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+18.857	-66.906
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+17.2607	-67.4816
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+16.5305	-67.3155
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+21.6678	-65.4289
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+20.7612	-65.2641
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+38.8504	-27.5131
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+40.8849	-27.4985
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+41.0857	-27.5039
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+39.2673	-27.6046
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+40.1025	-27.6162
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+40.245	-25.8521
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+40.7876	-25.8473
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+39.0191	-26.0397
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+39.5659	-26.0389
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+39.1404	-25.4769
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+39.6848	-25.3304
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+39.8662	-25.3212
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+40.2897	-25.2387
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+40.8441	-24.9265
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+41.0054	-24.9725
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+41.0861	-24.9817
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+38.2785	-25.571
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+38.0326	-25.598
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+39.2631	-24.985
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+39.6543	-24.8691
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+40.7201	-24.4937
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+40.3779	-24.61
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+40.9842	-24.5206
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+41.2091	-24.4669
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+40.1628	-22.8635
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+40.3877	-22.9812
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+40.5344	-22.9631
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+40.9842	-22.8181
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+39.3932	-22.4866
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+40.2526	-22.3373
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+41.0648	-22.2406
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+39.4757	-21.9752
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+40.6141	-21.6263
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+41.1338	-21.3149
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+39.3131	-21.9918
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+21.1096	-66.9655
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+20.889	-66.9179
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+20.6941	-66.886
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+20.4735	-66.8093
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+20.2309	-66.7483
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+20.0103	-66.7075
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+19.8411	-66.6375
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+19.6205	-66.6126
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+20.589	-66.022
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+20.774	-66.067
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+20.927	-66.121
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+21.149	-66.155
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+21.318	-66.202
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+21.535	-66.24
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+21.709	-66.283
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+21.16	-65.539
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+21.353	-65.578
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+21.504	-65.643
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+21.693	-65.655
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+21.869	-65.697
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+22.149	-65.72
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+22.209	-65.787
+# @DM16n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|137.85|"Magnetic Anomaly"
+22.413	-65.818
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.9583	-64.823
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.7732	-64.7572
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.696	-64.7044
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.5263	-64.6779
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.3566	-64.6316
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.1714	-64.5918
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.0172	-64.5188
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.3081	-64.5034
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+23.3687	-64.5035
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+23.5634	-64.2531
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+24.5321	-64.5002
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+24.3071	-64.4354
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+24.1721	-64.3964
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+24.0521	-64.3574
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+23.9543	-63.8389
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+24.6219	-63.9008
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+24.8379	-63.9349
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+25.0384	-63.9688
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+25.239	-63.9825
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+26.6895	-62.8562
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+26.4581	-62.8631
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+26.3501	-62.8067
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+26.1804	-62.7642
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+25.0994	-62.5122
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+18.6782	-67.6964
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+18.9141	-67.7476
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+19.1019	-67.7677
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+19.3426	-67.7605
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+19.5593	-67.766
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+19.7518	-67.7788
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+19.9637	-67.8171
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+20.4162	-67.8372
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+20.6762	-67.8573
+# @DM25n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|154|"Magnetic Anomaly"
+21.1095	-67.89
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+37.1254	-36.158
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+37.6935	-36.1909
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+38.3427	-36.3552
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+33.748	-53.5925
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+34.4672	-53.7182
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+35.4402	-53.5421
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+34.7274	-51.7362
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+36.1868	-51.6207
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+37.7682	-27.4018
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+37.8256	-26.8507
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+37.9404	-26.184
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+37.6325	-26.2829
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+19.853	-63.623
+# @DC34n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|120.6|"Magnetic Anomaly"
+21.125	-63.825
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+19.16	-65.155
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+19	-65.132
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+18.558	-65.036
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+17.917	-64.854
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+17.556	-64.712
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+18.0569	-65.4241
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+18.4967	-65.5188
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+18.2555	-65.4714
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+17.319	-66.108
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+16.289	-65.873
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+16.236	-65.862
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+42.0053	-24.2342
+# @DM5r|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|126.57|"Magnetic Anomaly"
+42.7838	-24.1991
+# @DM9n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|128.62|"Magnetic Anomaly"
+41.8393	-23.3602
+# @DM10Nn.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|130.49|"Magnetic Anomaly"
+42.0491	-22.828
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+41.7885	-20.6523
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+41.4953	-20.6918
+# @DM19n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|143.07|"Magnetic Anomaly"
+41.8472	-20.7154
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+41.5858	-19.8652
+# @DM22n.3n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|148.79|"Magnetic Anomaly"
+40.934	-20.0834
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+36.9208	-51.9243
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+37.8938	-52.1591
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+38.613	-52.3668
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+39.2703	-36.4523
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+40.0283	-36.4192
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+40.3356	-36.4192
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+38.4954	-50.058
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+40.4325	-50.058
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+40.0876	-34.4614
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+40.4122	-34.4951
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+40.818	-34.4951
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+39.6818	-34.6629
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+41.0614	-34.6964
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+40.9397	-34.6964
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+41.5078	-34.8304
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+5.5651	-60.8139
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+6.0854	-60.5106
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+6.6382	-60.5106
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+7.3537	-60.5747
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+8.2187	-58.1233
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+9.1209	-57.813
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+10.2353	-58.067
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+10.5007	-58.2354
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+27.7116	-45.8163
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+17.8244	-59.5269
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+18.2224	-59.7954
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+17.0769	-61.6138
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+20.1988	-61.2555
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+29.01	-45.0448
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+29.3346	-45.0736
+# @DC34n|y|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|83|"Magnetic Anomaly"
+21.5646	-61.0512
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+23.2642	-59.2561
+# @DC33n|o|1|N/A|Eagles+Koenig_2008_GJI|10.1111/j.1365-246X.2008.03753.x|79.075|"Magnetic Anomaly"
+23.9275	-59.4729

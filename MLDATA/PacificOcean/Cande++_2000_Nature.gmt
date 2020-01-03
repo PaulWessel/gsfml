@@ -1,0 +1,483 @@
+# @VGMT1.0 @GPOINT
+# @R150.021545/179.767044/-70.997/-48.583061                              
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+152.22023	-55.45922
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+153.93848	-55.31885
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+154.36423	-55.24923
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+155.53503	-55.03258
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+152.08072	-54.8189
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+156.43112	-54.78265
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+156.94298	-54.76011
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+157.19897	-54.75469
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+157.61932	-54.61951
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+153.87524	-54.60071
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+153.93234	-54.58576
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+154.77185	-54.38815
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+154.9276	-54.37303
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+155.56998	-54.22826
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+155.62726	-54.22304
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+151.4422	-54.17058
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+156.29665	-54.0518
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+156.13312	-54.04979
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+153.50108	-53.9031
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+158.4108	-53.85163
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+153.80702	-53.81386
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+156.65674	-53.65099
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+154.59686	-53.55165
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+152.21774	-53.34742
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+155.27406	-53.32403
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+157.81496	-53.20429
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+155.51752	-53.19483
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+157.96078	-53.18599
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+155.55939	-53.1758
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+155.5975	-53.17123
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+153.01123	-53.14555
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+153.54971	-52.99222
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+156.07962	-52.96441
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+153.7823	-52.90587
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+154.42418	-52.6548
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+157.01833	-52.41028
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+157.26099	-52.32328
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+154.69093	-52.25748
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+150.02154	-52.22693
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+158.49783	-52.19967
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+154.84183	-52.19882
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+155.16074	-52.06766
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+151.36908	-52.03566
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+155.59766	-51.91595
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+152.2123	-51.80416
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+157.57478	-51.66855
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+156.39827	-51.65264
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+157.73724	-51.62823
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+156.6794	-51.58681
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+158.18925	-51.28952
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+150.86362	-51.24911
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+153.81326	-51.23944
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+158.47871	-51.18874
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+154.09061	-51.14589
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+154.14092	-51.14032
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+154.25446	-51.12243
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+151.70584	-50.98534
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+151.72128	-50.98375
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+155.00847	-50.83509
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+152.36662	-50.78655
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+155.62698	-50.76714
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+156.58784	-50.74343
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+156.67184	-50.71905
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+155.77985	-50.71448
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+155.94138	-50.69283
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+152.9686	-50.55858
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+157.44945	-50.54361
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+153.22081	-50.53489
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+157.70416	-50.44085
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+153.58099	-50.38443
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+153.55133	-50.38081
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+153.59547	-50.36928
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+153.98084	-50.26594
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+151.28271	-50.23666
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+155.05801	-50.01183
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+154.92818	-49.99796
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+155.3802	-49.97576
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+155.87987	-49.96148
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+155.58322	-49.9601
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+152.6067	-49.93847
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+156.82901	-49.90935
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+152.65408	-49.8716
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+157.2464	-49.84105
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+157.41518	-49.76928
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+153.11627	-49.74966
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+150.96863	-49.6832
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+153.18234	-49.61778
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+153.51944	-49.51618
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+152.28966	-49.4177
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+152.30473	-49.41293
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+153.82745	-49.4068
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+154.0778	-49.37409
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+152.76691	-49.23958
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+154.38858	-49.20715
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+152.93114	-49.15525
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+154.53361	-49.12032
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+154.6889	-49.0755
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+153.21359	-48.99075
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+155.01717	-48.98203
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+153.74644	-48.9481
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+153.86371	-48.92663
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+155.23404	-48.92512
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+154.15828	-48.83411
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+154.18709	-48.82594
+# @DC28n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|63.634|"Magnetic Anomaly"
+155.06015	-48.58306
+# @DC16n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|36.341|"Magnetic Anomaly"
+174.924	-70.997
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+174.424	-70.974
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+172.444	-70.965
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+175.202	-70.896
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.877	-70.877
+# @DC18n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|40.13|"Magnetic Anomaly"
+175.459	-70.844
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+175.151	-70.841
+# @DC16n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|36.341|"Magnetic Anomaly"
+174.744	-70.799
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+174.34692	-70.75665
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+172.13488	-70.74828
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+172.736	-70.748
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.772	-70.729
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+174.219	-70.727
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+172.174	-70.692
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.712	-70.676
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+174.23204	-70.671
+# @DC18n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|40.13|"Magnetic Anomaly"
+175.301	-70.632
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+174.869	-70.584
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+172.561	-70.578
+# @DC16n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|36.341|"Magnetic Anomaly"
+174.603	-70.566
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+172.033	-70.546
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+172.555	-70.546
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+174.10281	-70.51239
+# @DC16n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|36.341|"Magnetic Anomaly"
+174.553	-70.511
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+174.055	-70.501
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+172.017	-70.485
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+171.95871	-70.47748
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.467	-70.44
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+174.699	-70.44
+# @DC18n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|40.13|"Magnetic Anomaly"
+175.04	-70.391
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+174.59	-70.342
+# @DC16n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|36.341|"Magnetic Anomaly"
+174.344	-70.332
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+172.303	-70.329
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+173.89377	-70.29932
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+173.829	-70.289
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+171.812	-70.279
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+171.76181	-70.2742
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.285	-70.242
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+172.157	-70.165
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+174.354	-70.16
+# @DC16n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|36.341|"Magnetic Anomaly"
+174.115	-70.149
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+171.57443	-70.12005
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+171.613	-70.12
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+173.69164	-70.11252
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+173.638	-70.11
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+171.60373	-70.09404
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+179.21539	-70.08811
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.082	-70.084
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+174.185	-70.04
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+172.041	-70.016
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+174.105	-69.97
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+179.4512	-69.90827
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+172.866	-69.906
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+176.722	-69.85945
+# @DC24n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|53.347|"Magnetic Anomaly"
+179.6508	-69.76472
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+169.5815	-69.63282
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+170.0528	-69.50105
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+170.1022	-69.48771
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+177.7496	-69.2965
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+167.6671	-69.2788
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+168.93961	-68.98805
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+169.30786	-68.96956
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+178.23912	-68.96256
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+166.3392	-68.79568
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+173.39836	-68.78619
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+170.9267	-68.75043
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+166.81987	-68.74835
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+178.42059	-68.73211
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+170.66608	-68.73103
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+167.8642	-68.58145
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+176.28136	-68.41147
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+168.51776	-68.38948
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+168.81158	-68.3233
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+176.3981	-68.29377
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+168.83614	-68.25873
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+172.03626	-68.24963
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+176.52049	-68.1883
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+176.52229	-68.1314
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+174.8864	-67.78503
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+170.5526	-67.76056
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+172.92378	-67.73129
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+179.76704	-67.63716
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+170.98904	-67.59798
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+179.76	-67.5483
+# @DC20n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|43.789|"Magnetic Anomaly"
+179.57642	-67.53986
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+169.40131	-67.2884
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.63448	-67.27265
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.69897	-67.27143
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.68124	-67.26972
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+177.91501	-67.2525
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.85957	-67.15952
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+178.14947	-67.1589
+# @DC17n.3n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|38.113|"Magnetic Anomaly"
+178.1198	-67.15361
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+172.09099	-67.15074
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+172.6423	-67.06695
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+172.23331	-67.06498
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+170.10513	-67.024
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+175.46091	-67.0139
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+172.46391	-66.99404
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+170.28886	-66.95832
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+172.71223	-66.87682
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+175.59	-66.8683
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.71339	-66.79188
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+173.72572	-66.78219
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+171.02151	-66.70511
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+171.15375	-66.66265
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+176.13792	-66.64396
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+174.0567	-66.6267
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+177.17964	-66.60559
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+171.37302	-66.5742
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+176.23331	-66.5667
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+176.31905	-66.5593
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+174.22945	-66.532
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+172.05788	-66.41155
+# @DC13n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|33.545|"Magnetic Anomaly"
+177.59332	-66.34006
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+172.28958	-66.32922
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+172.15665	-66.31915
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+174.64577	-66.28147
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+174.68706	-66.18436
+# @DC8n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|26.554|"Magnetic Anomaly"
+173.2711	-65.94998
+# @DC6n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|20.131|"Magnetic Anomaly"
+167.48115	-65.92244
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+176.39963	-65.76506
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+174.2558	-65.69831
+# @DC6n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|20.131|"Magnetic Anomaly"
+168.2283	-65.6917
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+173.82346	-65.68584
+# @DC6n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|20.131|"Magnetic Anomaly"
+168.82565	-65.48081
+# @DC6n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|20.131|"Magnetic Anomaly"
+169.2744	-65.18302
+# @DC6n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|20.131|"Magnetic Anomaly"
+169.93333	-64.92321
+# @DC6n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|20.131|"Magnetic Anomaly"
+170.06702	-64.89382
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+160.5054	-67.64392
+# @DC12n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|30.939|"Magnetic Anomaly"
+161.0043	-67.56102
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+159.8736	-66.99488
+# @DC10n.2n|o|1|"RV Ewing 9513; RVIB Palmer 9602, 9702"|Cande++_2000_Nature|0.1038/35004501|28.745|"Magnetic Anomaly"
+160.64893	-66.91594

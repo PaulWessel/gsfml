@@ -1,0 +1,3261 @@
+# @VGMT1.0 @GPOINT
+# @R58.047/73.1285/-26.1846/9.6608                                        
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+60.94	8.125
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+61.119	8.018
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+61.458	7.765
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+61.745	7.612
+# @DC5Bn.2n|c|1|117|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+59.0355	5.4229
+# @DC5Bn.2n|c|1|3407|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+59.2243	5.2012
+# @DC5Bn.2n|c|1|1503|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+59.4479	5.077
+# @DC5Bn.2n|c|1|802|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+59.519	4.9341
+# @DC5Bn.2n|c|1|4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+59.7626	4.8645
+# @DC5Bn.2n|c|1|827|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+62.4757	7.0696
+# @DC5Bn.2n|c|1|3408|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+62.7526	6.8552
+# @DC5Bn.2n|c|1|5072.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+62.945	6.7307
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+62.856	6.691
+# @DC5Bn.2n|c|1|3408|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+60.6116	4.0156
+# @DC5Bn.2n|c|1|827|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.4005	5.48
+# @DC5Bn.2n|c|1|1707|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.5134	5.3974
+# @DC5Bn.2n|c|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.5712	5.3958
+# @DC5Bn.2n|c|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+63.0313	1.9868
+# @DC5Bn.2n|c|1|1707|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+63.1235	1.9113
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.715	4.818
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.934	4.631
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 2.9N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.6147	1.468
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+65.821	4.845
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 3.15N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+63.5746	1.6776
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+63.63	1.6049
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+67.172	4.533
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+67.334	4.402
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+67.49	4.244
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 2.6N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+67.66	4.1315
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+67.821	3.986
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 2.6N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+65.1633	1.0301
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 1.45N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.1127	3.2103
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 1.45N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+65.6808	-0.0734
+# @DC5Bn.2n|c|1|3406|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+65.8001	-0.2082
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 1.05N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.2588	2.5461
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 1.05N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+65.7887	-0.7927
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+65.8491	-0.8621
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 1.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.9077	0.1435
+# @DC5Bn.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+69.0085	0.0645
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 1.7S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+69.1227	0.0038
+# @DC5Bn.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.1616	-3.1946
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 1.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.2473	-3.2237
+# @DC5Cn.3n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+60.1524	9.6608
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+60.16	9.554
+# @DC5Cn.3n|o|1|50-03|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+58.047	6.669
+# @DC5Cn.3n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+58.0713	6.6391
+# @DC5Cn.3n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+58.2891	6.4091
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+61.212	8.215
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+61.353	8.125
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+61.551	8.031
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+61.809	7.914
+# @DC5Cn.3n|o|1|117|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+59.0331	5.1435
+# @DC5Cn.3n|o|1|3407|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+59.1734	4.9902
+# @DC5Cn.3n|o|1|4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+59.5545	4.7901
+# @DC5Cn.3n|o|1|3408|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+62.8881	7.0421
+# @DC5Cn.3n|o|1|6.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+62.9383	6.9855
+# @DC5Cn.3n|o|1|5072.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.1087	6.8832
+# @DC5Cn.3n|o|1|6.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+60.4093	3.8474
+# @DC5Cn.3n|o|1|3408|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+60.4969	3.8013
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.052	5.022
+# @DC5Cn.3n|o|1|802.5N|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.1648	4.9392
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.284	4.859
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 3.15N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.4351	1.5053
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 2.6N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+67.8293	4.3377
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 2.6N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.9779	0.8015
+# @DC5Cn.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.0912	0.715
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 1.45N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.2387	3.3974
+# @DC5Cn.3n|o|1|3406|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.3605	-0.2036
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 1.45N"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.4853	-0.3078
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 0.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.5948	1.1607
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.8313	0.9362
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 0.9S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.8875	0.8442
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 0.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.6086	-2.5526
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 1.5S RE-PICK 8-10-94"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+69.0812	0.3669
+# @DC5Cn.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+69.1955	0.2987
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 1.7S RE-PICK 8-10-94"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+69.3601	0.195
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+69.3355	0.184
+# @DC5Cn.3n|o|1|"115 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.82	-3.226
+# @DC5Cn.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.9864	-3.3648
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 1.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.0826	-3.4306
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 1.7S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.2938	-3.6356
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.3265	-10.2154
+# @DC1n|o|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.3702	-10.2437
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.3759	-10.2725
+# @DC1n|o|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.4358	-10.2964
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.4384	-10.3216
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.4775	-10.4046
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 13.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.4836	-10.4178
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5135	-10.4636
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 13.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5357	-10.4885
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.6016	-10.5202
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 13.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5863	-10.5474
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.6221	-10.5674
+# @DC1n|o|1|"15 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.143	-10.374
+# @DC1n|o|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.1741	-10.4261
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.1635	-10.4562
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.2349	-10.4668
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.2898	-10.5384
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.2791	-10.5592
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 13.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.3324	-10.6243
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.8173	-12.1791
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.8642	-12.2075
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.5404	-12.3185
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.6368	-12.3733
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5278	-12.8053
+# @DC1n|o|1|728.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5377	-12.8367
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.2897	-12.932
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.9716	-13.8806
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.9788	-13.9001
+# @DC1n|o|1|237.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.0418	-13.9779
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 14.1S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.0522	-14.0064
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.8387	-14.1162
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 14.1S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.8788	-14.1278
+# @DC1n|o|1|237.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.8987	-14.1669
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.272	-14.3765
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.3225	-14.4475
+# @DC1n|o|1|"1991 rc1706"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.379	-14.512
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.528	-14.6346
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.0431	-14.4984
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.1145	-14.5911
+# @DC1n|o|1|"1991 rc1706"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.316	-14.822
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.3343	-14.8349
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.9771	-14.8988
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.1599	-15.0451
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.7488	-15.0573
+# @DC1n|o|1|9905.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.763	-15.074
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.9158	-15.2075
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.4319	-15.8015
+# @DC1n|o|1|3.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.4618	-15.9032
+# @DC1n|o|1|237|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.176	-15.9627
+# @DC1n|o|1|3.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.1786	-16.0015
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.7881	-16.6801
+# @DC1n|o|1|237|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.8259	-16.7058
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.8658	-16.7625
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5481	-16.8286
+# @DC1n|o|1|9905.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5779	-16.8343
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5526	-16.8499
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.5867	-16.8961
+# @DC1n|o|1|2410|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.3009	-18.0399
+# @DC1n|o|1|06.1a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.3469	-18.2143
+# @DC1n|o|1|"11 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.433	-18.255
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.4792	-18.3712
+# @DC1n|o|1|"2410 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+64.974	-18.129
+# @DC1n|o|1|06.1a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.0552	-18.1704
+# @DC1n|o|1|"11 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.074	-18.255
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.2179	-18.5171
+# @DC1n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.6858	-18.9508
+# @DC1n|o|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.6943	-19.0445
+# @DC1n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.3732	-18.9972
+# @DC1n|o|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.5106	-19.2262
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.9784	-19.3847
+# @DC1n|o|1|9905.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.1924	-19.7065
+# @DC1n|o|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.2228	-19.7524
+# @DC1n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.6712	-19.5018
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.7083	-19.5451
+# @DC1n|o|1|7.9|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.8566	-19.7022
+# @DC1n|o|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+65.8308	-19.7771
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.9822	-20.1725
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.6708	-20.2057
+# @DC1n|o|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+66.8001	-20.4207
+# @DC1n|o|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.6731	-20.0536
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.7314	-20.0835
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.7735	-20.1681
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.7785	-20.275
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.4944	-20.3427
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.4917	-20.3757
+# @DC1n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.4648	-20.5739
+# @DC1n|o|1|7.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.5957	-20.678
+# @DC1n|o|1|7.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.1105	-20.6689
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.898	-21.403
+# @DC1n|o|1|1811|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9217	-21.4194
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.909	-21.424
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.927	-21.426
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9608	-21.4374
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.932	-21.47
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.968	-21.481
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.974	-21.489
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.958	-21.513
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.003	-21.531
+# @DC1n|o|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.0532	-21.5336
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.992	-21.554
+# @DC1n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.6461	-21.5347
+# @DC1n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.0713	-21.5516
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.107	-21.609
+# @DC1n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.1121	-21.6261
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.1293	-21.6481
+# @DC1n|o|1|"23 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.106	-21.656
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.1649	-21.677
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.204	-21.7114
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.183	-21.747
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.284	-21.862
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.2109	-21.7357
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.2408	-21.772
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.2533	-21.7975
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.2718	-21.8164
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.2872	-21.8458
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.298	-21.8536
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.313	-21.8776
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.3297	-21.9043
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.3499	-21.9184
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.333	-21.928
+# @DC1n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.7518	-21.7168
+# @DC1n|o|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.7789	-21.771
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.8349	-21.8028
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.8565	-21.8019
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.8569	-21.8522
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.8913	-21.8766
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9233	-21.8911
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9408	-21.9136
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9365	-21.9293
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9455	-21.9484
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9505	-21.9858
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9624	-22.017
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9929	-22.0321
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9691	-22.0471
+# @DC1n|o|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9951	-22.0561
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.0168	-22.0664
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.0374	-22.0796
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.335	-22.873
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.332	-22.929
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.363	-22.9508
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.3691	-23.0732
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.0296	-23.0626
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.018	-23.144
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.049	-23.153
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.333	-23.192
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.415	-23.236
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.4433	-23.2522
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.9619	-23.3316
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.1029	-23.4357
+# @DC1n|o|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.103	-23.464
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7351	-23.7527
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7538	-23.8001
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.8351	-24.0267
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.3737	-23.8586
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.3944	-23.9175
+# @DC1n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.9678	-24.699
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.981	-24.7115
+# @DC1n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.6412	-24.8326
+# @DC1n|o|1|4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1085	-24.8806
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1007	-24.8813
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.0993	-24.8827
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1191	-24.9202
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1356	-24.954
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1634	-25.0345
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.737	-24.9843
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7292	-25.005
+# @DC1n|o|1|"1991 at56"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.737	-25.043
+# @DC1n|o|1|"1991 cd23"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.734	-25.054
+# @DC1n|o|1|"1991 at56"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.735	-25.124
+# @DC1n|o|1|"1991 jc03"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.764	-25.172
+# @DC1n|o|1|"1991 jc02"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.772	-25.195
+# @DC1n|o|1|"1991 rc1706"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.788	-25.227
+# @DC1n|o|1|"1991 jc02"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.794	-25.248
+# @DC1n|o|1|"1991 at56"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.777	-25.254
+# @DC1n|o|1|"1991 md61"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.796	-25.261
+# @DC1n|o|1|"1991 jc02"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.801	-25.276
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.0791	-25.2075
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.0748	-25.2099
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.0752	-25.2106
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1111	-25.2208
+# @DC1n|o|1|1er.10|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.0815	-25.2224
+# @DC1n|o|1|7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.0894	-25.2338
+# @DC1n|o|1|1er.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.0853	-25.2525
+# @DC1n|o|1|1er.12|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1486	-25.2451
+# @DC1n|o|1|1er.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1625	-25.2804
+# @DC1n|o|1|1er.14|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.154	-25.2958
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1653	-25.3047
+# @DC1n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1614	-25.3455
+# @DC1n|o|1|1er.16|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.1551	-25.3322
+# @DC1n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+70.2029	-25.4206
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7395	-25.3299
+# @DC1n|o|1|1er.9|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7911	-25.3429
+# @DC1n|o|1|"1991 jc02"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.761	-25.356
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7549	-25.3889
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7463	-25.3937
+# @DC1n|o|1|1er.10|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7413	-25.3955
+# @DC1n|o|1|7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7681	-25.4195
+# @DC1n|o|1|1er.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7661	-25.4104
+# @DC1n|o|1|1er.12|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.7797	-25.4313
+# @DC1n|o|1|1er.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.8022	-25.452
+# @DC1n|o|1|1er.14|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.8039	-25.4766
+# @DC1n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.8069	-25.4917
+# @DC1n|o|1|1er.16|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+69.8206	-25.5075
+# @DC1n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.3453	-15.3129
+# @DC1n|o|1|6.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.3564	-15.3563
+# @DC1n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.1016	-15.4584
+# @DC1n|o|1|6.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.0648	-15.4616
+# @DC1n|o|1|237|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.3521	-15.682
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.3427	-15.702
+# @DC1n|o|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+67.1054	-15.8493
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.8449	-21.2185
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.835	-21.224
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.8837	-21.2975
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.867	-21.308
+# @DC1n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.4841	-21.2409
+# @DC1n|o|1|1811|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.5581	-21.376
+# @DC1n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.564	-21.3765
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.556	-21.381
+# @DC1n|o|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|0.78|"Magnetic Anomaly"
+68.567	-21.493
+# @DC2n|c|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.5105	-10.1571
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.539	-10.1702
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 13.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.5919	-10.2612
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.6157	-10.2971
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 13.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.6333	-10.3409
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.6431	-10.3411
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 13.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.6897	-10.4003
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.7375	-10.4141
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 13.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.7488	-10.4696
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.7476	-10.4825
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 12.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.0952	-10.5516
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 12.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.1484	-10.5918
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.1589	-10.6506
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.1905	-10.6757
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 13.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.2331	-10.7652
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.2741	-10.7821
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.284	-10.8234
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 13.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.2775	-10.8551
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.3162	-10.8655
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.412	-12.4824
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.6696	-12.7307
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.8805	-12.8274
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.4931	-14.2417
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.5142	-14.3046
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.6746	-14.4811
+# @DC2n|c|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.1093	-14.884
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.1783	-14.9979
+# @DC2n|c|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.263	-15.072
+# @DC2n|c|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.0031	-14.6292
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.1502	-14.7757
+# @DC2n|c|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.5172	-15.2102
+# @DC2n|c|1|6.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.5295	-15.289
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.6191	-15.1513
+# @DC2n|c|1|9905.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.7363	-15.2895
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.7846	-15.3025
+# @DC2n|c|1|6.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.8751	-15.5302
+# @DC2n|c|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.9155	-15.5701
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.9731	-16.5601
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.0615	-16.6569
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.3074	-16.7339
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.3973	-16.9214
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.4423	-16.977
+# @DC2n|c|1|"11 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.616	-18.256
+# @DC2n|c|1|06.1a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.6233	-18.2559
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.6466	-18.2775
+# @DC2n|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.0228	-18.6329
+# @DC2n|c|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.0656	-18.7767
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.1786	-19.2706
+# @DC2n|c|1|9905.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.2392	-19.3744
+# @DC2n|c|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.4025	-19.5054
+# @DC2n|c|1|7.9|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.6157	-19.6713
+# @DC2n|c|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.6108	-19.7844
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.1188	-19.9583
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.0901	-20.0129
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.187	-20.163
+# @DC2n|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.576	-20.5104
+# @DC2n|c|1|7.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+66.5768	-20.5349
+# @DC2n|c|1|7.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.0116	-20.086
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.8961	-20.0993
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.0375	-20.2204
+# @DC2n|c|1|19-Jan|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.2227	-20.4245
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.3093	-20.4528
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+67.3243	-20.5704
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.0431	-21.0948
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.0937	-21.1662
+# @DC2n|c|1|1811|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.2672	-21.3414
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.3631	-21.4971
+# @DC2n|c|1|"43 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.403	-21.588
+# @DC2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.2292	-21.3323
+# @DC2n|c|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.2764	-21.3475
+# @DC2n|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.2908	-21.438
+# @DC2n|c|1|1811|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.3193	-21.4787
+# @DC2n|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.5821	-21.8049
+# @DC2n|c|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.6339	-21.9053
+# @DC2n|c|1|"2009 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.682	-21.934
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.6913	-21.9471
+# @DC2n|c|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.7217	-21.9489
+# @DC2n|c|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.6881	-21.963
+# @DC2n|c|1|"03 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.491	-22.079
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5502	-22.1912
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5959	-22.2775
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.6289	-22.3096
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.6463	-22.3568
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.839	-22.6167
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.9052	-22.7028
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.9462	-22.7881
+# @DC2n|c|1|"61 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.986	-22.837
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5721	-22.8355
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5819	-22.9456
+# @DC2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.836	-23.272
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+68.849	-23.377
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.9683	-23.6345
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.994	-23.755
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.0123	-23.751
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.0881	-23.9171
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.053	-23.926
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.1619	-24.0375
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.078	-23.991
+# @DC2n|c|1|7.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.1637	-24.1736
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.1661	-24.1702
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.198	-24.352
+# @DC2n|c|1|"23 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.22	-24.397
+# @DC2n|c|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.3521	-24.4338
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.4118	-24.6267
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.386	-24.656
+# @DC2n|c|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.1537	-24.4782
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.1308	-24.5106
+# @DC2n|c|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2013	-24.6088
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.18	-24.618
+# @DC2n|c|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2401	-24.6894
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2707	-24.7257
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2677	-24.7285
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2866	-24.7611
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2962	-24.7978
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2916	-24.7546
+# @DC2n|c|1|"61 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.276	-24.816
+# @DC2n|c|1|4a.5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3288	-24.8197
+# @DC2n|c|1|"61 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3	-24.838
+# @DC2n|c|1|"61 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.262	-24.853
+# @DC2n|c|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.4063	-24.9209
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.381	-24.926
+# @DC2n|c|1|237.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.418	-24.9531
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.493	-25.139
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5012	-25.1349
+# @DC2n|c|1|4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.4568	-25.1649
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2935	-24.9432
+# @DC2n|c|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3173	-24.9684
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.2709	-24.9356
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.297	-24.9441
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.321	-24.993
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3384	-25.0275
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3383	-25.0357
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3441	-25.0545
+# @DC2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3643	-25.0762
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3592	-25.0858
+# @DC2n|c|1|7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3494	-25.0838
+# @DC2n|c|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+70.3721	-25.0908
+# @DC2n|c|1|1er.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5128	-25.325
+# @DC2n|c|1|1er.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5219	-25.3424
+# @DC2n|c|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5187	-25.3451
+# @DC2n|c|1|"56 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.49	-25.353
+# @DC2n|c|1|1er.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5347	-25.3812
+# @DC2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+69.5391	-25.4054
+# @DC2n|c|1|2410|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.4675	-17.995
+# @DC2n|c|1|"Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+64.712	-18.202
+# @DC2n|c|1|"11 Dyment 1991"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+64.778	-18.241
+# @DC2n|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.9046	-18.9256
+# @DC2n|c|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.9126	-18.9406
+# @DC2n|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.1539	-19.0183
+# @DC2n|c|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.3354	-19.2152
+# @DC2n|c|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|1.86|"Magnetic Anomaly"
+65.314	-19.2873
+# @DC2An.1n|y|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.5891	-10.1077
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.5863	-10.1024
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.6535	-10.1681
+# @DC2An.1n|y|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.6752	-10.1782
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.7165	-10.2136
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.7157	-10.2187
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.7388	-10.2936
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.7478	-10.3178
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.8159	-10.3524
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.8071	-10.3862
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.8123	-10.3952
+# @DC2An.1n|y|1|6.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.9227	-10.4917
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.9578	-10.5922
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.0231	-10.6486
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.0732	-10.7001
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.0628	-10.7248
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.1197	-10.774
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.1927	-10.8495
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.1705	-10.8546
+# @DC2An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.1931	-10.8877
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.0728	-12.0569
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.0435	-12.0645
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.1981	-12.2104
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.3749	-12.5659
+# @DC2An.1n|y|1|728.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.5134	-12.6867
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.519	-12.7038
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.4401	-13.7722
+# @DC2An.1n|y|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.5979	-14.1424
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.6675	-14.2416
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 14.1S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.6812	-14.2605
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.7037	-14.3133
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 14.25S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.7868	-14.4674
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.8769	-14.5924
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.5263	-13.9646
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.5389	-13.9905
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.6388	-14.1422
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.6447	-14.2218
+# @DC2An.1n|y|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.1291	-14.594
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.2478	-14.7086
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.342	-14.8997
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.4892	-15.2508
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.6273	-15.4122
+# @DC2An.1n|y|1|6.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.0163	-16.3895
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.0959	-16.4825
+# @DC2An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.1678	-16.6016
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.2888	-16.9888
+# @DC2An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.3364	-17.0333
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.753	-18.219
+# @DC2An.1n|y|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.8995	-18.5468
+# @DC2An.1n|y|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+64.8892	-18.7085
+# @DC2An.1n|y|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+64.9148	-18.8207
+# @DC2An.1n|y|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.0296	-19.0284
+# @DC2An.1n|y|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.0217	-18.8886
+# @DC2An.1n|y|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.0377	-18.909
+# @DC2An.1n|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.1066	-18.9786
+# @DC2An.1n|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.23	-19.1062
+# @DC2An.1n|y|1|9905.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.2648	-19.141
+# @DC2An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.3004	-19.2023
+# @DC2An.1n|y|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.2857	-19.507
+# @DC2An.1n|y|1|7.9|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+65.4882	-19.7196
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.1627	-19.8878
+# @DC2An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.2486	-19.8868
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.3094	-20.0374
+# @DC2An.1n|y|1|7.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.3896	-20.5178
+# @DC2An.1n|y|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.4415	-20.5642
+# @DC2An.1n|y|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.0063	-19.8973
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.9853	-19.9751
+# @DC2An.1n|y|1|7.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.1589	-20.0608
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.1314	-20.097
+# @DC2An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.1902	-20.5285
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.1618	-20.5324
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.2373	-20.6675
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.2399	-20.6762
+# @DC2An.1n|y|1|5022|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.9768	-20.9897
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.0581	-21.0952
+# @DC2An.1n|y|1|1811|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.1581	-21.3284
+# @DC2An.1n|y|1|7.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.0469	-20.6888
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.4684	-21.9519
+# @DC2An.1n|y|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.527	-22.0033
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.5953	-22.1318
+# @DC2An.1n|y|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.603	-22.165
+# @DC2An.1n|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.4005	-21.3812
+# @DC2An.1n|y|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.597	-21.664
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.7122	-22.0998
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.8329	-22.284
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.7366	-22.672
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.7974	-22.746
+# @DC2An.1n|y|1|"61 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.803	-22.831
+# @DC2An.1n|y|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.871	-22.923
+# @DC2An.1n|y|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.7323	-22.7261
+# @DC2An.1n|y|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.777	-22.8341
+# @DC2An.1n|y|1|"61 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.77	-22.848
+# @DC2An.1n|y|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.683	-23.2155
+# @DC2An.1n|y|1|"56 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.701	-23.326
+# @DC2An.1n|y|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.7418	-23.326
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.8922	-23.9514
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.0185	-24.118
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.0625	-23.5852
+# @DC2An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.2078	-23.7137
+# @DC2An.1n|y|1|"2093/Indomed 06"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.2277	-23.9562
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.2811	-24.1075
+# @DC2An.1n|y|1|7.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.306	-24.1122
+# @DC2An.1n|y|1|"2093/Indomed 06"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.3736	-24.285
+# @DC2An.1n|y|1|"06 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.121	-24.423
+# @DC2An.1n|y|1|"Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.142	-24.507
+# @DC2An.1n|y|1|"2093/Indomed 06"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.2406	-24.7032
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.2732	-24.7132
+# @DC2An.1n|y|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.3506	-24.4894
+# @DC2An.1n|y|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.384	-24.5465
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4032	-24.5981
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4002	-24.601
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4157	-24.6413
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4159	-24.6802
+# @DC2An.1n|y|1|4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.3058	-25.2027
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.3672	-25.2038
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4369	-24.706
+# @DC2An.1n|y|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4082	-24.7439
+# @DC2An.1n|y|1|4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4206	-24.7944
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.3939	-24.8207
+# @DC2An.1n|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.3574	-25.3697
+# @DC2An.1n|y|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.3518	-25.4069
+# @DC2An.1n|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.5888	-15.1675
+# @DC2An.1n|y|1|6.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+67.6274	-15.2429
+# @DC2An.1n|y|1|9905.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.695	-15.5873
+# @DC2An.1n|y|1|6.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.7145	-15.5881
+# @DC2An.1n|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+66.7731	-15.6575
+# @DC2An.1n|y|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.2733	-21.5523
+# @DC2An.1n|y|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+68.309	-21.646
+# @DC2An.1n|y|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.195	-21.005
+# @DC2An.1n|y|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.203	-21.059
+# @DC2An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.312	-21.1067
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4396	-24.8734
+# @DC2An.1n|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4682	-24.889
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4634	-24.9089
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4724	-24.9369
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+70.4904	-24.9731
+# @DC2An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|2.581|"Magnetic Anomaly"
+69.385	-25.4715
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 13.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.8498	-10.1719
+# @DC2An.3n|o|1|6.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.9278	-10.1959
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.8881	-10.217
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 13.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.9058	-10.2425
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.9518	-10.2434
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.9128	-10.2578
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 13.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.9578	-10.3039
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.8725	-10.7083
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.9158	-10.7883
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.9483	-10.8134
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.9757	-10.837
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.0276	-10.8946
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.0694	-10.9439
+# @DC2An.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.068	-10.9763
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.217	-11.9582
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.2063	-11.9808
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.3172	-12.1189
+# @DC2An.3n|o|1|6.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.1873	-12.5941
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.2736	-12.6374
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.3919	-12.7899
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.6011	-13.7744
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.6601	-13.873
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.684	-13.9048
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.77	-14.0457
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.5012	-14.3171
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.4903	-14.3354
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 14.1S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.5146	-14.3687
+# @DC2An.3n|o|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.5626	-14.4557
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 14.25S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.6478	-14.5622
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.7519	-14.6748
+# @DC2An.3n|o|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.3054	-14.5447
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.3138	-14.5573
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 15.2S.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.4804	-14.7981
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.3393	-15.431
+# @DC2An.3n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.7178	-15.0906
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.7673	-15.1772
+# @DC2An.3n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.616	-15.7528
+# @DC2An.3n|o|1|6.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.1937	-16.369
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.244	-16.4138
+# @DC2An.3n|o|1|6.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.2812	-16.4958
+# @DC2An.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.3565	-16.5066
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.1199	-17.0868
+# @DC2An.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.1725	-17.115
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.8997	-18.137
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.9598	-18.2577
+# @DC2An.3n|o|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.0868	-18.5065
+# @DC2An.3n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+64.7304	-18.7998
+# @DC2An.3n|o|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+64.7416	-18.8699
+# @DC2An.3n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+64.8389	-19.0478
+# @DC2An.3n|o|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.2242	-18.7921
+# @DC2An.3n|o|1|9905.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.2935	-18.8405
+# @DC2An.3n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.3034	-18.8734
+# @DC2An.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.4708	-19.1065
+# @DC2An.3n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.5438	-19.205
+# @DC2An.3n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.0638	-19.5099
+# @DC2An.3n|o|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+65.2337	-19.7971
+# @DC2An.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.4045	-19.8012
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.3992	-19.8465
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.4716	-19.8604
+# @DC2An.3n|o|1|7.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.2054	-20.6251
+# @DC2An.3n|o|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.2174	-20.6542
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.0911	-19.8199
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.257	-19.914
+# @DC2An.3n|o|1|7.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.3717	-20.0244
+# @DC2An.3n|o|1|19-Feb|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.9356	-20.5674
+# @DC2An.3n|o|1|19-Mar|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+66.9261	-20.5506
+# @DC2An.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.0249	-20.632
+# @DC2An.3n|o|1|07.8.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+67.0293	-20.6682
+# @DC2An.3n|o|1|5022|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.3029	-20.8201
+# @DC2An.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.4097	-20.8869
+# @DC2An.3n|o|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.05	-21.576
+# @DC2An.3n|o|1|"43 Dyment (1991)"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.083	-21.643
+# @DC2An.3n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.5917	-21.2864
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.2223	-21.9548
+# @DC2An.3n|o|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.3352	-22.1705
+# @DC2An.3n|o|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.3714	-22.2151
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.3741	-22.2476
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.9167	-21.9794
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.0489	-22.1912
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.5829	-22.7549
+# @DC2An.3n|o|1|7.5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.1954	-23.3344
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.2593	-23.4818
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.6636	-23.9528
+# @DC2An.3n|o|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.7552	-24.1473
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.8072	-24.236
+# @DC2An.3n|o|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+68.902	-24.4195
+# @DC2An.3n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.4295	-23.8963
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.4809	-23.996
+# @DC2An.3n|o|1|7.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.5043	-24.0247
+# @DC2An.3n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.5925	-24.2034
+# @DC2An.3n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.0226	-24.768
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.0814	-24.8374
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.5222	-24.4829
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.5714	-24.5013
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.5762	-24.5097
+# @DC2An.3n|o|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6144	-24.5311
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6109	-24.5443
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6213	-24.5901
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6335	-24.6111
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6602	-24.648
+# @DC2An.3n|o|1|4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.0793	-25.2593
+# @DC2An.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.652	-24.6578
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6711	-24.6987
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6842	-24.7344
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.7153	-24.7656
+# @DC2An.3n|o|1|4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.6965	-24.7202
+# @DC2An.3n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+70.7077	-24.7645
+# @DC2An.3n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.1395	-25.3175
+# @DC2An.3n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.1882	-25.4249
+# @DC2An.3n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|3.58|"Magnetic Anomaly"
+69.208	-25.461
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 13.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.9668	-10.0016
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.9737	-10.0111
+# @DC3n.4n|c|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.9889	-10.0279
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 13.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.02	-10.06
+# @DC3n.4n|c|1|6.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.0794	-10.0628
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.0341	-10.0834
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.0695	-10.1057
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.1064	-10.1219
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 13.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.0825	-10.13
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.679	-10.8527
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.3"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.7366	-10.9133
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.7604	-10.9627
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.7709	-10.9881
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.8329	-11.0388
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.9041	-11.073
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.8775	-11.0904
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.8793	-11.1075
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.9557	-11.1409
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 13.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.9538	-11.174
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.3652	-11.8474
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.4191	-11.8715
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.4205	-11.9922
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.0487	-12.7946
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.1733	-12.9517
+# @DC3n.4n|c|1|728.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.7827	-12.1644
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.7832	-12.1662
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.8395	-12.2866
+# @DC3n.4n|c|1|9905.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.9146	-12.35
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.3765	-13.0898
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.9098	-13.7002
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.9935	-13.8698
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.0204	-13.9531
+# @DC3n.4n|c|1|8.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.5505	-14.8146
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.6658	-14.9008
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.6429	-14.6821
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.1122	-15.608
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.2241	-15.6934
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.4316	-16.2784
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.8996	-17.2168
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.9172	-17.2441
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.0916	-18.0242
+# @DC3n.4n|c|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.1789	-18.1601
+# @DC3n.4n|c|1|9311|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.2358	-18.2558
+# @DC3n.4n|c|1|9905.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.3446	-18.4244
+# @DC3n.4n|c|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.3475	-18.4446
+# @DC3n.4n|c|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+64.4327	-18.9466
+# @DC3n.4n|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+64.4585	-18.9549
+# @DC3n.4n|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+64.5154	-19.0876
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.5905	-19.6614
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.6176	-19.6688
+# @DC3n.4n|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.9341	-20.7699
+# @DC3n.4n|c|1|7.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+65.9434	-20.7904
+# @DC3n.4n|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.4016	-19.7299
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.7376	-20.783
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.7231	-20.8554
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.7775	-20.8767
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+69.5242	-20.5926
+# @DC3n.4n|c|1|7.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+69.5317	-20.6069
+# @DC3n.4n|c|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+69.8248	-20.8547
+# @DC3n.4n|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+69.9222	-21.1194
+# @DC3n.4n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.6914	-21.5447
+# @DC3n.4n|c|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.702	-21.641
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+67.9378	-21.9529
+# @DC3n.4n|c|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.1365	-22.2727
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.1466	-22.3728
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.2425	-22.8273
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.5978	-23.297
+# @DC3n.4n|c|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.584	-23.382
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.3793	-23.9956
+# @DC3n.4n|c|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.354	-24.006
+# @DC3n.4n|c|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.3808	-24.0591
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.5636	-24.3754
+# @DC3n.4n|c|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.5782	-24.411
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.9108	-24.3544
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.9277	-24.4079
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.9417	-24.43
+# @DC3n.4n|c|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.9299	-24.3927
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.9639	-24.4769
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.9608	-24.5133
+# @DC3n.4n|c|1|3.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.8787	-25.4324
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.8585	-25.4523
+# @DC3n.4n|c|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.9002	-25.5397
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.909	-25.5941
+# @DC3n.4n|c|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.9027	-25.6307
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.9093	-25.6921
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+68.8985	-25.7466
+# @DC3n.4n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+70.9894	-24.5977
+# @DC3n.4n|c|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+71.0032	-24.5936
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+71.0139	-24.618
+# @DC3n.4n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+71.038	-24.6443
+# @DC3n.4n|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.6468	-18.8441
+# @DC3n.4n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+66.733	-18.9607
+# @DC3n.4n|c|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.105|"Magnetic Anomaly"
+64.9509	-19.8083
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.0732	-9.9326
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.0927	-9.9446
+# @DC3An.1n|y|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.1179	-9.9667
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.1073	-9.9777
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.1621	-10.0242
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.1819	-10.0273
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.2148	-10.0366
+# @DC3An.1n|y|1|6.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.244	-10.0494
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.6655	-11.0395
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.7854	-11.1665
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.7608	-11.1673
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.8329	-11.2402
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.4749	-11.7604
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.5361	-11.9061
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+64.917	-12.884
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.0565	-13.0369
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.221	-13.1929
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.3502	-12.3822
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.3502	-12.3822
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.5939	-12.5877
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.9312	-13.6686
+# @DC3An.1n|y|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.9642	-13.7141
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.4502	-14.8849
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.0438	-13.7785
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.116	-13.8812
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.5674	-14.4126
+# @DC3An.1n|y|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.5815	-14.4639
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.734	-14.6177
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.9758	-15.6692
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.0803	-15.8047
+# @DC3An.1n|y|1|"1402 Dyment [1991] sequence poorly def"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.9189	-14.9705
+# @DC3An.1n|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.1865	-16.0406
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.3011	-16.3373
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.6813	-16.3401
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.7706	-17.2943
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.7799	-17.3151
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.3187	-17.8848
+# @DC3An.1n|y|1|9905.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.3937	-18.0586
+# @DC3An.1n|y|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+64.339	-18.9675
+# @DC3An.1n|y|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+64.3625	-19.0104
+# @DC3An.1n|y|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+64.3818	-19.1008
+# @DC3An.1n|y|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.5257	-18.4
+# @DC3An.1n|y|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.8574	-18.8384
+# @DC3An.1n|y|1|03.3.|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+64.6783	-19.5153
+# @DC3An.1n|y|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+64.7941	-19.819
+# @DC3An.1n|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.6967	-19.5569
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.7239	-19.6022
+# @DC3An.1n|y|1|19-Jan|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.8017	-19.7435
+# @DC3An.1n|y|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+65.7699	-20.8368
+# @DC3An.1n|y|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.5793	-19.6498
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.5821	-20.8653
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.5633	-20.9024
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+66.6372	-20.9808
+# @DC3An.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+69.6108	-20.3902
+# @DC3An.1n|y|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.4582	-21.5297
+# @DC3An.1n|y|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.4853	-21.6247
+# @DC3An.1n|y|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+69.9801	-20.7489
+# @DC3An.1n|y|1|7.6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.6439	-21.8275
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.7687	-21.9556
+# @DC3An.1n|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+70.0914	-21.0318
+# @DC3An.1n|y|1|"2009 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+67.938	-22.304
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.0212	-22.4459
+# @DC3An.1n|y|1|"1811 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+70.327	-21.646
+# @DC3An.1n|y|1|"61 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+70.3468	-21.717
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.2051	-22.9823
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+70.4422	-22.7159
+# @DC3An.1n|y|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.2029	-24.0033
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.2272	-24.0514
+# @DC3An.1n|y|1|"56 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.214	-24.0516
+# @DC3An.1n|y|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.3248	-24.4028
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.3953	-24.4712
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+70.7219	-23.2236
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.7502	-25.5092
+# @DC3An.1n|y|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.7695	-25.5902
+# @DC3An.1n|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.7776	-25.5908
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+68.8068	-25.735
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1043	-24.1917
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1136	-24.236
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1334	-24.2567
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1528	-24.2909
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1503	-24.2958
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1556	-24.3179
+# @DC3An.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1868	-24.3582
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1732	-24.3853
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1824	-24.4107
+# @DC3An.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|5.894|"Magnetic Anomaly"
+71.1908	-24.4524
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.1638	-9.8981
+# @DC3An.2n|o|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.2212	-9.9164
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 13.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.224	-9.942
+# @DC3An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.2686	-9.9653
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.2873	-9.9777
+# @DC3An.2n|o|1|6.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.3637	-10.0396
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.5773	-11.1088
+# @DC3An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.6609	-11.2173
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.7077	-11.2289
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.767	-11.2913
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.2156	-10.5761
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 11.4S.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.6317	-11.87
+# @DC3An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.6827	-11.9438
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+66.634	-11.8455
+# @DC3An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.0237	-12.1653
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+64.8221	-12.9512
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+64.9563	-13.1085
+# @DC3An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.1175	-13.2699
+# @DC3An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.4646	-12.3185
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.6776	-12.5129
+# @DC3An.2n|o|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.8234	-13.7063
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.8372	-13.7222
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.6793	-14.352
+# @DC3An.2n|o|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.7192	-14.4227
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.8611	-14.5286
+# @DC3An.2n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.1116	-14.848
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.8645	-15.7361
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.9982	-15.8668
+# @DC3An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+66.0567	-16.0531
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.6582	-16.1301
+# @DC3An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.797	-16.2789
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 16.75S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.6514	-17.367
+# @DC3An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.6643	-17.3778
+# @DC3An.2n|o|1|06.1a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+66.3631	-17.6608
+# @DC3An.2n|o|1|9905.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+66.4303	-17.7928
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+66.4408	-17.8138
+# @DC3An.2n|o|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+64.2225	-18.9925
+# @DC3An.2n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+64.2616	-19.0706
+# @DC3An.2n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+64.2672	-19.1114
+# @DC3An.2n|o|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+66.6885	-18.3572
+# @DC3An.2n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.0395	-18.8393
+# @DC3An.2n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+64.5031	-19.5176
+# @DC3An.2n|o|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+64.6529	-19.8286
+# @DC3An.2n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.9555	-19.6416
+# @DC3An.2n|o|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.6655	-20.8795
+# @DC3An.2n|o|1|"1811 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+65.719	-20.982
+# @DC3An.2n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.3418	-21.5223
+# @DC3An.2n|o|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.345	-21.614
+# @DC3An.2n|o|1|7.6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.4196	-21.7968
+# @DC3An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+69.725	-20.2714
+# @DC3An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.6227	-21.9611
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+67.8742	-22.524
+# @DC3An.2n|o|1|5022.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+70.0755	-20.7162
+# @DC3An.2n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+70.1819	-20.987
+# @DC3An.2n|o|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.065	-23.959
+# @DC3An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.0881	-24.0819
+# @DC3An.2n|o|1|818|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+70.54	-22.313
+# @DC3An.2n|o|1|541|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+70.617	-22.613
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+70.6105	-22.6225
+# @DC3An.2n|o|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.1842	-24.3969
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.2676	-24.5411
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+70.8952	-23.1203
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.2505	-24.0642
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.2745	-24.0843
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.2992	-24.1117
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.3008	-24.1552
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.312	-24.1648
+# @DC3An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.3154	-24.2024
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.3316	-24.231
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.3466	-24.2568
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.3727	-24.2943
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+71.3636	-24.2982
+# @DC3An.2n|o|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.6142	-25.5429
+# @DC3An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.6072	-25.5822
+# @DC3An.2n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.6554	-25.6428
+# @DC3An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|6.567|"Magnetic Anomaly"
+68.6882	-25.7191
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.2644	-9.7598
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.2828	-9.7669
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 13.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.3205	-9.7989
+# @DC4n.2n|c|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.3458	-9.8166
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.4031	-9.8568
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.4168	-9.8589
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.4238	-9.8678
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.3702	-11.1298
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.4545	-11.2044
+# @DC4n.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.5172	-11.2892
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.5981	-11.3206
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.655	-11.3775
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.3297	-10.4741
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.4817	-11.9275
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 11.4S.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.5079	-11.9605
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.5888	-12.0619
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+66.798	-11.756
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+64.7094	-13.0306
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+64.8277	-13.2028
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.5687	-12.1634
+# @DC4n.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.6616	-12.2089
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.8159	-12.3958
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.826	-12.4315
+# @DC4n.2n|c|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.6441	-13.7338
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.7142	-13.8012
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.8535	-14.2541
+# @DC4n.2n|c|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.9571	-14.3517
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.7362	-15.8211
+# @DC4n.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.8118	-15.9681
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.8328	-15.9844
+# @DC4n.2n|c|1|2410|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+66.5565	-17.6841
+# @DC4n.2n|c|1|06.1a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+66.6001	-17.7307
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+66.5893	-17.7312
+# @DC4n.2n|c|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+64.0428	-19.0337
+# @DC4n.2n|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+64.0951	-19.1258
+# @DC4n.2n|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+64.1123	-19.1555
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.74	-19.1225
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.8393	-19.2189
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.8835	-19.272
+# @DC4n.2n|c|1|19-Jan|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.0035	-19.4208
+# @DC4n.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.029	-19.4222
+# @DC4n.2n|c|1|1811.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.3658	-20.8895
+# @DC4n.2n|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+65.4404	-20.9684
+# @DC4n.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+69.9585	-20.1612
+# @DC4n.2n|c|1|7.6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.1953	-21.7657
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.3998	-21.9681
+# @DC4n.2n|c|1|5022.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+70.3129	-20.677
+# @DC4n.2n|c|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.6456	-22.3108
+# @DC4n.2n|c|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.6617	-22.3644
+# @DC4n.2n|c|1|2009.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+70.7453	-21.4518
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+70.7494	-21.486
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.6566	-22.6463
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.9089	-23.1651
+# @DC4n.2n|c|1|818|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+70.835	-22.268
+# @DC4n.2n|c|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.8069	-23.8823
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.901	-24.1255
+# @DC4n.2n|c|1|541|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+70.881	-22.622
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.1151	-23.0006
+# @DC4n.2n|c|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+67.918	-24.3728
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.029	-24.6528
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.372	-23.494
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.4441	-23.5481
+# @DC4n.2n|c|1|3.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.3725	-25.2126
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.3675	-25.2619
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.4932	-23.8294
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.5047	-23.8422
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.5423	-23.8956
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.5581	-23.9222
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.5596	-23.9426
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.5854	-23.9796
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.619	-24.0035
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+71.6426	-24.0335
+# @DC4n.2n|c|1|5022|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.4583	-25.6148
+# @DC4n.2n|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.4806	-25.646
+# @DC4n.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|7.861|"Magnetic Anomaly"
+68.4888	-25.6934
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 13.6"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.3489	-9.5789
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 13.4"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.3828	-9.5913
+# @DC4An|c|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.4087	-9.6527
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 13.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.4091	-9.6617
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.4115	-9.6653
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.5534	-9.76
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.5402	-9.77
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.2566	-11.2435
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.3527	-11.2846
+# @DC4An|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.3923	-11.3519
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.4144	-11.3722
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.4714	-11.4202
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.5224	-11.4835
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.4284	-10.39
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.3057	-12.0571
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 11.4S.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.3278	-12.0961
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.8684	-11.4708
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.9563	-11.6577
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+64.6118	-13.0981
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+64.6992	-13.2962
+# @DC4An|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.8089	-12.1157
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.8573	-12.1625
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.9511	-12.2844
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.5838	-13.8962
+# @DC4An|c|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.621	-13.9381
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.9929	-14.1506
+# @DC4An|c|1|06.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.1198	-14.3031
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.1606	-14.3077
+# @DC4An|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.5236	-15.849
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.5954	-15.9106
+# @DC4An|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.7372	-16.0343
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.7312	-16.0536
+# @DC4An|c|1|5057|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.6533	-17.4851
+# @DC4An|c|1|06.1a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.634	-17.5057
+# @DC4An|c|1|2410|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.7207	-17.6325
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.7329	-17.649
+# @DC4An|c|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+63.8428	-19.0879
+# @DC4An|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+63.9037	-19.1385
+# @DC4An|c|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+63.9607	-19.2372
+# @DC4An|c|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+64.1293	-19.5226
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.9684	-19.1273
+# @DC4An|c|1|19-Jan|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.1149	-19.2361
+# @DC4An|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.202	-19.3101
+# @DC4An|c|1|1811.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.1308	-20.8341
+# @DC4An|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+65.3065	-21.0245
+# @DC4An|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+69.0892	-19.4579
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.0232	-20.9698
+# @DC4An|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.1051	-21.1343
+# @DC4An|c|1|5022|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+66.1156	-21.209
+# @DC4An|c|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+70.3288	-20.4172
+# @DC4An|c|1|5022.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+70.4679	-20.6595
+# @DC4An|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+70.5392	-20.824
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.1803	-22.029
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.4933	-22.7381
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+71.2398	-22.9287
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+67.8709	-24.729
+# @DC4An|c|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.0208	-25.0458
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.1771	-25.3888
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+71.564	-23.523
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+71.6081	-23.7261
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+71.6295	-23.7615
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+71.6367	-23.8045
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+71.635	-23.813
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+71.6494	-23.8304
+# @DC4An|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.1909	-25.7228
+# @DC4An|c|1|5090|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.2072	-25.7304
+# @DC4An|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.2077	-25.7723
+# @DC4An|c|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.2113	-25.7834
+# @DC4An|c|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|8.862|"Magnetic Anomaly"
+68.2314	-25.8167
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 13.5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.4686	-9.5711
+# @DC5n.1n|y|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.5072	-9.5967
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.4921	-9.6029
+# @DC5n.1n|y|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.5529	-9.6699
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.6134	-9.7075
+# @DC5n.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.6131	-9.7152
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.2463	-11.3654
+# @DC5n.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.2966	-11.4094
+# @DC5n.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.3108	-11.462
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.3527	-11.5141
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.4216	-11.5651
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.5039	-10.3228
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.1902	-12.1431
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 11.4S.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.2185	-12.1797
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.0568	-11.5865
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+64.4929	-13.1827
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+64.6075	-13.3659
+# @DC5n.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+64.7828	-13.5287
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+68.1037	-14.065
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+68.26	-14.2342
+# @DC5n.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.3338	-15.77
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.4817	-15.9775
+# @DC5n.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.5866	-16.0671
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.5656	-16.1655
+# @DC5n.1n|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.696	-16.3879
+# @DC5n.1n|y|1|5057|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+66.8118	-17.471
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+66.8362	-17.5874
+# @DC5n.1n|y|1|2410|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+66.8388	-17.5986
+# @DC5n.1n|y|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+63.7293	-19.1232
+# @DC5n.1n|y|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+63.779	-19.1447
+# @DC5n.1n|y|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+63.8489	-19.2467
+# @DC5n.1n|y|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.2792	-18.199
+# @DC5n.1n|y|1|"11 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.318	-18.238
+# @DC5n.1n|y|1|03.3.|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+64.0028	-19.5331
+# @DC5n.1n|y|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+64.1509	-19.8629
+# @DC5n.1n|y|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.9651	-18.7786
+# @DC5n.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+68.0556	-18.8515
+# @DC5n.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+68.0929	-18.9043
+# @DC5n.1n|y|1|19-Jan|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+68.2046	-19.0765
+# @DC5n.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+68.3259	-19.2305
+# @DC5n.1n|y|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.14	-21.0863
+# @DC5n.1n|y|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+65.2761	-21.3227
+# @DC5n.1n|y|1|5022.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+70.686	-20.6239
+# @DC5n.1n|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+70.6959	-20.7614
+# @DC5n.1n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|9.74|"Magnetic Anomaly"
+67.3481	-22.8197
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 13.5D"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.5892	-9.3908
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.6256	-9.4927
+# @DC5n.2n|o|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.6593	-9.5101
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7516	-9.5876
+# @DC5n.2n|o|1|"5073 1988"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7389	-9.6006
+# @DC5n.2n|o|1|"08 1971"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7371	-9.6271
+# @DC5n.2n|o|1|"8 1964"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0546	-11.482
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0398	-11.525
+# @DC5n.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0827	-11.5405
+# @DC5n.2n|o|1|"08 1971"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.1272	-11.6223
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.1864	-11.65
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.2159	-11.727
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 11.4Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.6461	-10.1978
+# @DC5n.2n|o|1|"5067.2 1986"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0009	-12.2583
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 11.4Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0207	-12.2693
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 11.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0196	-12.3202
+# @DC5n.2n|o|1|"9905 1970"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.067	-12.332
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.0949	-11.3018
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.2268	-11.4616
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.3446	-13.2877
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.4092	-13.5058
+# @DC5n.2n|o|1|"2 62"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.478	-13.542
+# @DC5n.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.5968	-13.6511
+# @DC5n.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.0251	-11.9698
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.165	-12.115
+# @DC5n.2n|o|1|"5067.2 1986"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0012	-13.8766
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.2365	-14.1202
+# @DC5n.2n|o|1|"24 1972"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.6324	-12.7464
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 14.10S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.6982	-12.8686
+# @DC5n.2n|o|1|"08.4 1971"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7837	-13.0781
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7992	-13.0824
+# @DC5n.2n|o|1|"24 1972"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.653	-14.7791
+# @DC5n.2n|o|1|"08.6 1971"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.7298	-14.8923
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 14.10S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.7498	-14.9083
+# @DC5n.2n|o|1|"06 1968"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.7854	-14.9881
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 14.50S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7905	-13.4111
+# @DC5n.2n|o|1|"08 1971"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.8664	-13.4025
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.7239	-15.1447
+# @DC5n.2n|o|1|"08.7 1971"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.7655	-15.2326
+# @DC5n.2n|o|1|"08.6 1971"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.7852	-15.4038
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 14.50S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.8277	-15.4787
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.268	-13.9373
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 15.20S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.4555	-14.0872
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.39	-16.0409
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 15.20S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.4442	-16.2487
+# @DC5n.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.404	-16.341
+# @DC5n.2n|o|1|"08 1964"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.5029	-16.3698
+# @DC5n.2n|o|1|5057|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.0337	-17.4537
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.0511	-17.4603
+# @DC5n.2n|o|1|"2410 1967"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.1002	-17.5285
+# @DC5n.2n|o|1|"06 1970"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.1665	-17.6311
+# @DC5n.2n|o|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.5188	-18.1341
+# @DC5n.2n|o|1|"05 1970"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+63.54	-19.1628
+# @DC5n.2n|o|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+63.5369	-19.1881
+# @DC5n.2n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+63.5821	-19.2467
+# @DC5n.2n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+63.8392	-19.5926
+# @DC5n.2n|o|1|196?|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+63.751	-19.631
+# @DC5n.2n|o|1|"07 1968"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+63.9155	-19.8789
+# @DC5n.2n|o|1|"20-3 Cruise data > 1985"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.18	-18.691
+# @DC5n.2n|o|1|"20-2 Cruise data > 1985"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.22	-18.74
+# @DC5n.2n|o|1|"05 1970"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.2235	-18.7703
+# @DC5n.2n|o|1|"20-1 Cruise data"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.3008	-18.8982
+# @DC5n.2n|o|1|196?|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.405	-19.109
+# @DC5n.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+68.5388	-19.1119
+# @DC5n.2n|o|1|"1811 1962"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.661	-20.7233
+# @DC5n.2n|o|1|"5067 1986"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.8176	-21.001
+# @DC5n.2n|o|1|"2903 1972"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+64.9404	-21.1533
+# @DC5n.2n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.0317	-21.3072
+# @DC5n.2n|o|1|"5022.1 1988"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.023	-21.3294
+# @DC5n.2n|o|1|"2903 1972"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+69.4694	-19.2909
+# @DC5n.2n|o|1|"5022.1 1988"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.6573	-21.2647
+# @DC5n.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+65.7764	-21.3228
+# @DC5n.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+70.4525	-19.8904
+# @DC5n.2n|o|1|"8 1964"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+70.7086	-20.0809
+# @DC5n.2n|o|1|"5022.1 1988"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+70.8969	-20.5983
+# @DC5n.2n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+70.9631	-20.6444
+# @DC5n.2n|o|1|"2093 1976"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+66.7839	-22.1664
+# @DC5n.2n|o|1|"2035 ? 76"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+66.89	-22.5
+# @DC5n.2n|o|1|"2009 1964"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+66.9514	-22.5201
+# @DC5n.2n|o|1|"05 ? 68"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+66.957	-22.769
+# @DC5n.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.1448	-22.9264
+# @DC5n.2n|o|1|"818 196?"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+71.495	-22.112
+# @DC5n.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+71.4574	-22.16
+# @DC5n.2n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.4066	-24.2331
+# @DC5n.2n|o|1|6|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.3453	-24.308
+# @DC5n.2n|o|1|"541 196?"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+71.518	-22.605
+# @DC5n.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+71.6029	-22.7703
+# @DC5n.2n|o|1|"2387-6 1987"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+71.8106	-23.1052
+# @DC5n.2n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.482	-24.7937
+# @DC5n.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.4916	-24.909
+# @DC5n.2n|o|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.6725	-25.2556
+# @DC5n.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7212	-25.4076
+# @DC5n.2n|o|1|"5022.2 1988"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.6983	-25.4108
+# @DC5n.2n|o|1|"4a 1960"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7739	-25.5821
+# @DC5n.2n|o|1|1988|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|10.949|"Magnetic Anomaly"
+67.7811	-25.5924
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.7756	-9.3504
+# @DC5An.2n|o|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.8025	-9.4285
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.8864	-9.4702
+# @DC5An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.909	-9.5018
+# @DC5An.2n|o|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.9097	-9.5267
+# @DC5An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.9087	-11.6727
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.8347	-11.6826
+# @DC5An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.8755	-11.7023
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.9358	-11.8479
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.983	-11.887
+# @DC5An.2n|o|1|6.8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.7379	-10.0092
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 11.4S.2"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.7926	-10.0624
+# @DC5An.2n|o|1|9905.4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.7831	-12.3442
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 11.4S.1"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.8047	-12.4769
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.3233	-11.135
+# @DC5An.2n|o|1|6.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.3659	-11.2144
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.4307	-11.3105
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.1799	-13.3918
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.2818	-13.5947
+# @DC5An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.4157	-13.7684
+# @DC5An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.0056	-11.6258
+# @DC5An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.1922	-11.8106
+# @DC5An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.3199	-11.9377
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.3602	-11.965
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+65.0271	-14.2612
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.6118	-13.9599
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+65.0867	-16.2558
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+65.1968	-16.4191
+# @DC5An.2n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.8734	-14.3426
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+69.0151	-14.5158
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+65.373	-16.9001
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.2105	-17.3646
+# @DC5An.2n|o|1|2410|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.3139	-17.4709
+# @DC5An.2n|o|1|"1990 Diego Garcia AeroSurvey 18.45S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+63.3292	-19.2517
+# @DC5An.2n|o|1|7.11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+63.5389	-19.9046
+# @DC5An.2n|o|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.9169	-18.0143
+# @DC5An.2n|o|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.105	-18.222
+# @DC5An.2n|o|1|19-Jan|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.4523	-18.6383
+# @DC5An.2n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.5582	-18.7534
+# @DC5An.2n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+68.7761	-18.9914
+# @DC5An.2n|o|1|1811.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.302	-20.6731
+# @DC5An.2n|o|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.6951	-21.2775
+# @DC5An.2n|o|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+64.719	-21.361
+# @DC5An.2n|o|1|"8 .5"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+70.9022	-19.9282
+# @DC5An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+66.5133	-22.2491
+# @DC5An.2n|o|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+66.7937	-22.5553
+# @DC5An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+71.4333	-21.6646
+# @DC5An.2n|o|1|1811|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+71.5416	-21.7823
+# @DC5An.2n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.0134	-24.3044
+# @DC5An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+71.6423	-22.0558
+# @DC5An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+71.947	-22.5974
+# @DC5An.2n|o|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.1574	-24.7836
+# @DC5An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.2985	-25.0032
+# @DC5An.2n|o|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.3185	-25.1475
+# @DC5An.2n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|12.401|"Magnetic Anomaly"
+67.4685	-25.3203
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+67.9846	-9.1454
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.1285	-9.2513
+# @DC5ADn|c|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.1073	-9.257
+# @DC5ADn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.155	-9.3234
+# @DC5ADn|c|1|5073|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.2195	-9.399
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.5398	-11.9085
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.7105	-12.0665
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+67.5929	-10.9322
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+67.7162	-11.1027
+# @DC5ADn|c|1|6.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+67.8757	-11.2454
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+63.8907	-13.5714
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.0183	-13.78
+# @DC5ADn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.1607	-13.9307
+# @DC5ADn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.3045	-11.4468
+# @DC5ADn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.4257	-11.6283
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.7294	-14.4428
+# @DC5ADn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.3402	-12.9372
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.2425	-15.5058
+# @DC5ADn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.4072	-15.6943
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.3999	-15.7709
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.8689	-13.7722
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.7815	-16.4801
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+64.901	-16.6297
+# @DC5ADn|c|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+69.0807	-14.2045
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+69.2295	-14.3422
+# @DC5ADn|c|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+65.0719	-17.0816
+# @DC5ADn|c|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.3168	-17.8886
+# @DC5ADn|c|1|"11 Dyment '91 midway between 5AD o"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.606	-18.246
+# @DC5ADn|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+68.9395	-18.7202
+# @DC5ADn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+69.1893	-19.0068
+# @DC5ADn|c|1|1811.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+63.8226	-20.6102
+# @DC5ADn|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+70.4639	-18.859
+# @DC5ADn|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+71.6743	-20.2914
+# @DC5ADn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+66.1206	-22.3769
+# @DC5ADn|c|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+66.4057	-22.6658
+# @DC5ADn|c|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+66.5373	-23.0562
+# @DC5ADn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+71.783	-21.5146
+# @DC5ADn|c|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+66.7975	-24.8528
+# @DC5ADn|c|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|14.395|"Magnetic Anomaly"
+66.9358	-25.0562
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.0567	-9.0736
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.216	-9.1724
+# @DC5Bn.2n|c|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.2066	-9.2027
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.2542	-9.2531
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.4629	-11.9671
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.5945	-12.1461
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.5726	-12.1464
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+67.7181	-10.8393
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+67.8496	-11.0052
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+63.922	-13.8479
+# @DC5Bn.2n|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.0481	-13.9952
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.3918	-12.8751
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.0659	-15.6187
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.2594	-15.7918
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.2687	-15.8563
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.9768	-13.6918
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.6125	-16.6013
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.7532	-16.7326
+# @DC5Bn.2n|c|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+69.1915	-14.1312
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+69.3114	-14.2767
+# @DC5Bn.2n|c|1|"1990 Diego Garcia AeroSurvey 15.8S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.9624	-17.1493
+# @DC5Bn.2n|c|1|70|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+68.525	-17.8266
+# @DC5Bn.2n|c|1|1811.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+63.7028	-20.5945
+# @DC5Bn.2n|c|1|43|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+64.1161	-21.216
+# @DC5Bn.2n|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+70.6178	-18.8148
+# @DC5Bn.2n|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+71.7927	-20.2289
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+65.9609	-22.4301
+# @DC5Bn.2n|c|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.2151	-22.7292
+# @DC5Bn.2n|c|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.4348	-23.0894
+# @DC5Bn.2n|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+71.9891	-21.4381
+# @DC5Bn.2n|c|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.6325	-24.8846
+# @DC5Bn.2n|c|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|15.0945|"Magnetic Anomaly"
+66.7422	-25.0177
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.1299	-8.9332
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.1657	-8.9676
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.3186	-9.0797
+# @DC5Cn.1n|y|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.3421	-9.1285
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.378	-9.1653
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 10.5Sg"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.3019	-12.0924
+# @DC5Cn.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.3274	-12.1213
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.4538	-12.2398
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.4872	-12.3011
+# @DC5Cn.1n|y|1|"Conrad 1706"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.5003	-12.306
+# @DC5Cn.1n|y|1|9905.4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.5584	-12.3551
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+67.8682	-10.7283
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+67.9911	-10.9011
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+63.7448	-13.6583
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+63.8218	-13.9182
+# @DC5Cn.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+63.9255	-14.0388
+# @DC5Cn.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.671	-11.223
+# @DC5Cn.1n|y|1|6.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.7344	-11.2971
+# @DC5Cn.1n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.8214	-11.3747
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.5873	-14.536
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+68.4789	-12.7726
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+63.9159	-15.7179
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.0988	-15.9183
+# @DC5Cn.1n|y|1|"1990 Diego Garcia AeroSurvey 14.5Sg"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+64.1243	-15.9558
+# @DC5Cn.1n|y|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+70.8799	-18.7417
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+65.8014	-22.4838
+# @DC5Cn.1n|y|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+66.0208	-22.7839
+# @DC5Cn.1n|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+71.9589	-20.138
+# @DC5Cn.1n|y|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+66.3479	-23.4575
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+66.369	-23.5554
+# @DC5Cn.1n|y|1|2009.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+72.0947	-21.1434
+# @DC5Cn.1n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+72.232	-21.3466
+# @DC5Cn.1n|y|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+66.4674	-24.9163
+# @DC5Cn.1n|y|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+66.5029	-24.9709
+# @DC5Cn.1n|y|1|5022|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+66.6263	-25.106
+# @DC5Cn.1n|y|1|5090|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.014|"Magnetic Anomaly"
+66.67	-25.2214
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.2188	-8.7801
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.2736	-8.8619
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.393	-8.9713
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.4264	-8.9815
+# @DC5Cn.3n|o|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.4685	-9.0594
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.4952	-9.0947
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.165	-12.1875
+# @DC5Cn.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.1881	-12.2148
+# @DC5Cn.3n|o|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.2582	-12.3129
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.2952	-12.3483
+# @DC5Cn.3n|o|1|9905.4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.3524	-12.3629
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.395	-12.474
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+67.9686	-10.6407
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.0629	-10.8469
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.5319	-13.7557
+# @DC5Cn.3n|o|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.6018	-13.9775
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.6719	-14.0264
+# @DC5Cn.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.7189	-14.1065
+# @DC5Cn.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.8219	-11.1283
+# @DC5Cn.3n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.9591	-11.2809
+# @DC5Cn.3n|o|1|6.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.9357	-11.3096
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+69.0784	-11.3399
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.4554	-14.619
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.5732	-12.6586
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 14.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.7863	-15.8044
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.9425	-16.0026
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+63.9554	-16.0573
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+68.936	-13.4591
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+69.0928	-13.6072
+# @DC5Cn.3n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+64.2405	-16.8595
+# @DC5Cn.3n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+71.0318	-18.6333
+# @DC5Cn.3n|o|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+71.0788	-18.6815
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.6295	-22.5478
+# @DC5Cn.3n|o|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+65.8263	-22.8386
+# @DC5Cn.3n|o|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.0931	-23.2009
+# @DC5Cn.3n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+72.0928	-20.0586
+# @DC5Cn.3n|o|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.0941	-23.372
+# @DC5Cn.3n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.2031	-23.5224
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.178	-23.5593
+# @DC5Cn.3n|o|1|2009.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+72.3015	-21.0938
+# @DC5Cn.3n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+72.4389	-21.2653
+# @DC5Cn.3n|o|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.3094	-24.9328
+# @DC5Cn.3n|o|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.3023	-24.9481
+# @DC5Cn.3n|o|1|5022|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.3837	-25.0399
+# @DC5Cn.3n|o|1|5090|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|16.726|"Magnetic Anomaly"
+66.4637	-25.151
+# @DC5Dn|c|1|8S.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.2815	-8.7222
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.3564	-8.7835
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.508	-8.9087
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.5731	-8.9974
+# @DC5Dn|c|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.559	-9.0104
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.5876	-9.0417
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.0471	-12.2679
+# @DC5Dn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.0761	-12.2888
+# @DC5Dn|c|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.0919	-12.3206
+# @DC5Dn|c|1|9905.4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.1098	-12.3741
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.1781	-12.4323
+# @DC5Dn|c|1|728.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.2116	-12.5117
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.3279	-12.5999
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.0909	-10.5291
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.2089	-10.7395
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+63.2969	-13.8307
+# @DC5Dn|c|1|8|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+63.5285	-14.1013
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+63.5503	-14.1133
+# @DC5Dn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+63.5743	-14.1538
+# @DC5Dn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.9229	-11.0748
+# @DC5Dn|c|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+69.0489	-11.2197
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+69.1437	-11.268
+# @DC5Dn|c|1|6.7|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+69.1369	-11.322
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.3529	-14.6821
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+68.6985	-12.6074
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+63.7787	-16.0746
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+63.8193	-16.1553
+# @DC5Dn|c|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+69.2714	-13.4477
+# @DC5Dn|c|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+69.6351	-13.8392
+# @DC5Dn|c|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.3383	-17.1278
+# @DC5Dn|c|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.3489	-17.1434
+# @DC5Dn|c|1|8.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+64.5485	-17.401
+# @DC5Dn|c|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+71.2456	-18.6262
+# @DC5Dn|c|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+71.2519	-18.6333
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+65.5021	-22.5991
+# @DC5Dn|c|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+65.6707	-22.8824
+# @DC5Dn|c|1|2009.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+72.5088	-21.0471
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+72.5818	-21.2125
+# @DC5Dn|c|1|1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+66.0931	-24.8901
+# @DC5Dn|c|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+66.1373	-24.9803
+# @DC5Dn|c|1|5022|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+66.1929	-24.9824
+# @DC5Dn|c|1|5090|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+66.2471	-25.0735
+# @DC5Dn|c|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+72.2457	-19.9678
+# @DC5Dn|c|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+65.9455	-23.2506
+# @DC5Dn|c|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+65.9478	-23.3225
+# @DC5Dn|c|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|17.446|"Magnetic Anomaly"
+66.0217	-23.5625
+# @DC5En|y|1|8S.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.3859	-8.6655
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.4403	-8.703
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.5754	-8.8507
+# @DC5En|y|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.6417	-8.9687
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.6658	-8.9948
+# @DC5En|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.8955	-12.3324
+# @DC5En|y|1|9905.4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.9039	-12.3623
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.9033	-12.365
+# @DC5En|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.9208	-12.3887
+# @DC5En|y|1|728.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+64.0274	-12.4883
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+64.0472	-12.5345
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.1835	-10.4449
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.3367	-10.6448
+# @DC5En|y|1|2902.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.2061	-13.8436
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.4237	-14.204
+# @DC5En|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.4224	-14.2028
+# @DC5En|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+69.0557	-10.9907
+# @DC5En|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+69.167	-11.1495
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+69.2201	-11.1808
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+64.214	-14.7727
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+68.8252	-12.5578
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.6265	-16.1391
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.6646	-16.2637
+# @DC5En|y|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.7515	-16.3155
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+69.1722	-13.2828
+# @DC5En|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+63.9616	-17.0453
+# @DC5En|y|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+64.1958	-17.1819
+# @DC5En|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+64.199	-17.2202
+# @DC5En|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+69.7475	-13.7685
+# @DC5En|y|1|8.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+64.3498	-17.4296
+# @DC5En|y|1|8.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+64.4444	-17.5777
+# @DC5En|y|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+71.4575	-18.5553
+# @DC5En|y|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+71.5481	-18.6225
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+65.3536	-22.6596
+# @DC5En|y|1|2009.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+65.4761	-22.9371
+# @DC5En|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+72.3697	-19.8937
+# @DC5En|y|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+65.7539	-23.2538
+# @DC5En|y|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+65.7751	-23.3079
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+65.8481	-23.566
+# @DC5En|y|1|2009.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+72.6806	-21.0054
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+72.7471	-21.1526
+# @DC5En|y|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+65.9422	-25.0184
+# @DC5En|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+66.326	-25.7908
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+66.3161	-25.9054
+# @DC5En|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+66.3763	-26.0169
+# @DC5En|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|18.281|"Magnetic Anomaly"
+66.4367	-26.1676
+# @DC6n|y|1|8S.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+68.4902	-8.6089
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+68.522	-8.6263
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+68.6762	-8.7638
+# @DC6n|y|1|15|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+68.7704	-8.9039
+# @DC6n|y|1|1706|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.6087	-12.3491
+# @DC6n|y|1|9905.4a|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.623	-12.3676
+# @DC6n|y|1|728.4|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.7587	-12.4533
+# @DC6n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.7796	-12.4797
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.883	-12.651
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+68.3215	-10.3201
+# @DC6n|y|1|2902.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.1777	-14.0453
+# @DC6n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.2835	-14.2446
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.3274	-14.2746
+# @DC6n|y|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+69.2262	-10.9004
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+69.3134	-11.0683
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+64.0869	-14.8549
+# @DC6n|y|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+64.1414	-14.9169
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+68.9753	-12.4941
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.4888	-16.202
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.5724	-16.3355
+# @DC6n|y|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.6389	-16.3749
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+69.2897	-13.1926
+# @DC6n|y|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.8133	-17.1435
+# @DC6n|y|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.9127	-17.2948
+# @DC6n|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+63.9606	-17.346
+# @DC6n|y|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+69.7475	-13.7685
+# @DC6n|y|1|5057|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+64.0996	-17.6603
+# @DC6n|y|1|8.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+64.1761	-17.69
+# @DC6n|y|1|"11 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+71.46	-18.271
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.1986	-22.7242
+# @DC6n|y|1|"56 Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.251	-22.969
+# @DC6n|y|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.313	-22.9844
+# @DC6n|y|1|"Dyment [1991]"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.224	-23.008
+# @DC6n|y|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.3025	-23.0837
+# @DC6n|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+72.5202	-19.7998
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.5354	-23.3244
+# @DC6n|y|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.6047	-23.3652
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.6397	-23.5693
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+72.8878	-21.0951
+# @DC6n|y|1|7.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+65.7921	-25.0477
+# @DC6n|y|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+66.085	-25.7781
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+66.1581	-25.9058
+# @DC6n|y|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+66.1658	-25.9283
+# @DC6n|y|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|19.048|"Magnetic Anomaly"
+66.2458	-26.1846
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+68.6492	-8.5108
+# @DC6n|o|1|8S.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+68.654	-8.52
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 10.6S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+68.8252	-8.6029
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 10.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.616	-12.5562
+# @DC6n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.6181	-12.5616
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 10.6Sp"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.7615	-12.7342
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 12.3S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+68.4289	-10.2205
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+68.5241	-10.4111
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+68.5904	-10.4715
+# @DC6n|o|1|2902.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.145	-14.278
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 12.4S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.1753	-14.3814
+# @DC6n|o|1|57|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+69.3601	-10.8336
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+69.4225	-10.9387
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 13.25S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.9187	-14.9616
+# @DC6n|o|1|6.13|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.9446	-15.0262
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+69.0356	-12.1483
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+69.189	-12.4065
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.3621	-16.256
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 14.5S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.4149	-16.4632
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.4511	-16.4739
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+69.4108	-13.0997
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 15.2S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+69.604	-13.243
+# @DC6n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+69.9456	-13.6472
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.52	-17.07
+# @DC6n|o|1|"1990 Diego Garcia AeroSurvey 15.03S"|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.6422	-17.2605
+# @DC6n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.7203	-17.3778
+# @DC6n|o|1|1402|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.7666	-17.4479
+# @DC6n|o|1|8.1|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.8489	-17.5379
+# @DC6n|o|1|5057|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.8912	-17.673
+# @DC6n|o|1|8.2|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+63.966	-17.7812
+# @DC6n|o|1|2903|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+71.8335	-18.4225
+# @DC6n|o|1|5|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+71.9744	-18.5729
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+64.9633	-22.8151
+# @DC6n|o|1|2093|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.0315	-22.9177
+# @DC6n|o|1|2708|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.1094	-23.0145
+# @DC6n|o|1|2009.3b|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.1251	-23.0318
+# @DC6n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+72.6989	-19.6882
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.2499	-23.3033
+# @DC6n|o|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.3773	-23.4417
+# @DC6n|o|1|11|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.35	-23.51
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.4486	-23.5724
+# @DC6n|o|1|4a.3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.6158	-23.9595
+# @DC6n|o|1|3|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.5684	-23.9558
+# @DC6n|o|1|23|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.9049	-25.7627
+# @DC6n|o|1|61|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+65.9631	-25.8488
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+73.06	-20.89
+# @DC6n|o|1|N/A|DeMets++_2005_GJI|10.1111/j.1365-246X.2005.02598.x|20.131|"Magnetic Anomaly"
+73.1285	-20.9967

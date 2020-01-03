@@ -1,0 +1,517 @@
+# @VGMT1.0 @GPOINT
+# @R-179.739/179.978/-33.811/-16.698                                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC16n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|36.341|"Magnetic Anomaly"
+166.782	-19.255
+# @DC16n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|36.341|"Magnetic Anomaly"
+167.026	-19.103
+# @DC16n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|36.341|"Magnetic Anomaly"
+167.231	-18.963
+# @DC17n.3n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|38.113|"Magnetic Anomaly"
+166.718	-18.591
+# @DC17n.3n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|38.113|"Magnetic Anomaly"
+166.865	-18.413
+# @DC17n.3n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|38.113|"Magnetic Anomaly"
+167.038	-18.364
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+164.635	-18.193
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+165.942	-18.052
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.359	-17.96
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.423	-17.935
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+165.308	-17.874
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.641	-17.874
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.724	-17.868
+# @DC19n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|41.521|"Magnetic Anomaly"
+164.526	-17.862
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.865	-17.855
+# @DC19n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|41.521|"Magnetic Anomaly"
+165.301	-17.487
+# @DC19n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|41.521|"Magnetic Anomaly"
+166.712	-17.401
+# @DC20n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|43.789|"Magnetic Anomaly"
+164.635	-16.827
+# @DC20n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|43.789|"Magnetic Anomaly"
+166.545	-16.772
+# @DC20n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|43.789|"Magnetic Anomaly"
+165.321	-16.698
+# @DC16n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|36.341|"Magnetic Anomaly"
+166.782	-19.255
+# @DC16n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|36.341|"Magnetic Anomaly"
+167.026	-19.103
+# @DC16n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|36.341|"Magnetic Anomaly"
+167.231	-18.963
+# @DC17n.3n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|38.113|"Magnetic Anomaly"
+166.718	-18.591
+# @DC17n.3n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|38.113|"Magnetic Anomaly"
+166.865	-18.413
+# @DC17n.3n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|38.113|"Magnetic Anomaly"
+167.038	-18.364
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+164.635	-18.193
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+165.942	-18.052
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.359	-17.96
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.423	-17.935
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+165.308	-17.874
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.641	-17.874
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.724	-17.868
+# @DC19n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|41.521|"Magnetic Anomaly"
+164.526	-17.862
+# @DC18n.1n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|39.552|"Magnetic Anomaly"
+166.865	-17.855
+# @DC19n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|41.521|"Magnetic Anomaly"
+165.301	-17.487
+# @DC19n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|41.521|"Magnetic Anomaly"
+166.712	-17.401
+# @DC20n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|43.789|"Magnetic Anomaly"
+164.635	-16.827
+# @DC20n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|43.789|"Magnetic Anomaly"
+166.545	-16.772
+# @DC20n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|43.789|"Magnetic Anomaly"
+165.321	-16.698
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.435	-33.811
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.25	-33.711
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+175.967	-33.484
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.891	-33.456
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.435	-33.429
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.609	-33.374
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.489	-33.256
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.728	-33.246
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.239	-33.201
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.413	-33.091
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.793	-33.073
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.359	-33.036
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.179	-32.992
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.641	-32.926
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.88	-32.917
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.446	-32.899
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.598	-32.871
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.328	-32.867
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+174.75	-32.789
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.565	-32.743
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.685	-32.724
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.418	-32.715
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.848	-32.568
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.418	-32.513
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+174.957	-32.504
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.75	-32.421
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+176.054	-32.328
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.098	-32.328
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.627	-32.196
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.837	-32.181
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+176.207	-32.125
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+175.239	-32.051
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.174	-32.042
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+176.315	-31.986
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.207	-31.847
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.674	-31.764
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.552	-31.751
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.957	-31.68
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.359	-31.513
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+174.978	-31.475
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+178.489	-31.419
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.597	-31.329
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.554	-31.289
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+176.054	-31.242
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.859	-31.233
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.217	-31.223
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+174.75	-31.027
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.326	-31.027
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+178.391	-31.027
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+178.609	-30.99
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.957	-30.924
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.209	-30.918
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.587	-30.877
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.25	-30.727
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.098	-30.718
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.489	-30.708
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.272	-30.52
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.62	-30.454
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.707	-30.407
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+178.174	-30.379
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.239	-30.322
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+178.652	-30.285
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.924	-30.266
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+174.896	-30.143
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+175.609	-30.134
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.565	-30.067
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.076	-30.011
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+174.925	-29.974
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+179.343	-29.845
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.261	-29.764
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.75	-29.755
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.815	-29.679
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+179.313	-29.624
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+178.848	-29.584
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+178.326	-29.556
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.62	-29.375
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+178.196	-29.222
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.967	-29.022
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.413	-29.022
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+178.641	-28.898
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.957	-28.879
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.663	-28.859
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+179.03	-28.588
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+178.663	-28.572
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.609	-28.562
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.359	-28.505
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+174.489	-28.284
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.174	-28.264
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.967	-28.236
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+178.731	-28.206
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+178.391	-28.197
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.435	-28.149
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+174.337	-28.081
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.228	-27.995
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+174.88	-27.975
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.174	-27.763
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.076	-27.55
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175	-27.395
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+174.685	-27.288
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.228	-27.269
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.109	-27.259
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+177.739	-27.259
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+178.209	-27.036
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.315	-27.016
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.489	-27.006
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+177.696	-26.753
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.109	-26.743
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.37	-26.596
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.946	-26.508
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+177.925	-26.5
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.391	-26.499
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.402	-26.352
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.217	-26.313
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+177.91	-26.244
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.467	-26.107
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.261	-26.087
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.967	-26.077
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+177.587	-26.058
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+177.925	-26.042
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+178.567	-26.002
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+173.652	-25.9
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+177.91	-25.853
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+177.565	-25.753
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.946	-25.704
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+174.141	-25.684
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.272	-25.654
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.62	-25.645
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+178.567	-25.542
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.37	-25.27
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.663	-25.26
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+173.739	-25.24
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.957	-25.23
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+177.533	-25.171
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+174.174	-25.141
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+177.716	-25.122
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.348	-25.002
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+173.793	-24.963
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.761	-24.943
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.12	-24.913
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+174.174	-24.903
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+177.533	-24.903
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+177.672	-24.85
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+178.38	-24.834
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.337	-24.784
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+173.851	-24.727
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.848	-24.635
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.098	-24.635
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+177.576	-24.625
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+178.228	-24.615
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+175.076	-24.586
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+175.848	-24.566
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+174.224	-24.482
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+177.821	-24.482
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+174.804	-24.436
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.022	-24.337
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+175.674	-24.317
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.609	-24.217
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+174.597	-24.208
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+174.978	-24.177
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.522	-24.078
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.207	-24.048
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+175.435	-24.028
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+178.098	-24.018
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+174.701	-23.961
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+174.851	-23.797
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.25	-23.768
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+176.413	-23.758
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+176.25	-23.648
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.011	-23.618
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.045	-23.439
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+175.967	-23.437
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.424	-23.437
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.696	-23.397
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.663	-23.277
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+178.478	-23.205
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+178.337	-23.196
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.565	-23.186
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.707	-23.146
+# @DC11n.1n|y|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|29.401|"Magnetic Anomaly"
+175.493	-23.067
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.033	-23.015
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+177.978	-22.995
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.5	-22.905
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+176.163	-22.754
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+177.696	-22.754
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+175.924	-22.471
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.891	-21.924
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+178.554	-21.833
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+178.891	-21.833
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+178.239	-21.803
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+177.804	-21.772
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.448	-21.693
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.739	-21.62
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.493	-21.315
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.337	-21.304
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+178.283	-21.284
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+179	-21.162
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.582	-21.106
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.978	-21.09
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+178.804	-21.07
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.457	-20.876
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.821	-20.755
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+179.098	-20.733
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+178.489	-20.723
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.543	-20.692
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+179.38	-20.631
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.717	-20.539
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+179.925	-20.53
+# @DC12n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|30.939|"Magnetic Anomaly"
+-179.739	-20.508
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+179.435	-20.395
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+178.707	-20.364
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+179.163	-20.313
+# @DC10n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|28.745|"Magnetic Anomaly"
+179.707	-20.282
+# @DC9n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|27.972|"Magnetic Anomaly"
+179.467	-20.2
+# @DC7An|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|25.648|"Magnetic Anomaly"
+178.783	-20.149
+# @DC8n.2n|o|1|N/A|Sdrolias++_2003_GeolSocAmSpVol|N/A|26.554|"Magnetic Anomaly"
+179.185	-20.087

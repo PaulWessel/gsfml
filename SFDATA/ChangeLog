@@ -1,0 +1,46 @@
+#	$Id: ChangeLog 371 2015-03-24 04:50:03Z pwessel $
+
+2015-03-24	pwessel
+	Incorporate Kara's latest revisions.  Using the 23.1 VGG grid she
+	added 85 new features, revised 156 existing ones, and deleted on
+	(FZ_KM_0001-0566).  The revised files were used to update the older
+	traces (retaining their file names), the new files were added but
+	renamed to start a new submission for KM (3) with IDs starting at 1,
+	and the FZ_KM_0001-0566 was moved to the OBSOLETE folder.
+	
+2014-01-21	pwessel
+	Name change.  Dir FZDATA (and FZ) are now SFDATA (and SF)
+	since FZ is just one of the seafloor fabric trends digitized.
+
+2014-01-06	pwessel
+	Added 9 FZ tracks from the Ellice Basin by Mike Chandler
+
+2011-07-18	pwessel
+	Added new category ER = Extinct Ridges and added Kara's 24 extinct
+	ridges to the database.  Also added 9 new FZs resulting from redoing
+	things with ERs in the mix.  All new items flagged as submission # 2.
+	Several FZs were modified due to the ERs.
+	We also deleted FZ_KM_0001-0178.txt
+	
+2011-04-19	pwessel
+	Modified Jo Whittaker's and Rob Myhill's files to have same type
+	of segment header records as finalized for Kara Matthews.
+	
+2011-04-19	pwessel
+	Checked in Kara Matthews's new global FZ data set.  No internal duplicates found.
+	A total of 1621 traces, split between the six feature types:
+	This has been renumbered to be KM submission 0001.
+	FZ: 1189 features. DZ: 286 features. FZLC: 53 features.
+	PR: 19 features.  UNCV: 67 features.  VANOM: 6 features.
+		
+2010-09-30	pwessel
+	Added Bob Myhill's 2010-09-01 Pacific and Indian/Sumatra effort to the database.
+	No internal (RM) duplicates found.
+
+2010-09-30	pwessel
+	Added Bob Myhill's 2010-09-01 Nakanishi Pacific effort to the database.
+	No internal (RM) duplicates found.
+
+2010-08-19	pwessel
+	Added Jo Whittaker's 2009-08-01 Indian Ocean effort; no duplicates
+	among the 101 FZ were found.

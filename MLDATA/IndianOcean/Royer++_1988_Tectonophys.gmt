@@ -1,0 +1,789 @@
+# @VGMT1.0 @GPOINT
+# @R8.79/60.79/-61.56/-27.2                                               
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+17.15	-61.56
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+20.44	-61.24
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+21.7	-61.04
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+17.87	-60.82
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+12.27	-60.72
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+17.53	-60.71
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+12.1	-60.61
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+11.81	-60.46
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+22.94	-60.24
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+22.28	-60.1
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+11.55	-59.92
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+13.38	-59.84
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+13.08	-59.74
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+12.76	-59.66
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+11.29	-59.54
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+18.4	-59.52
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+10.93	-59.28
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+12.75	-59.27
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+12.52	-59.05
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+9.55	-59.04
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+21.8	-59
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+10.54	-58.99
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+12.33	-58.98
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+23.53	-58.98
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+14.68	-58.79
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+11.42	-58.76
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+18.74	-58.64
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+10.96	-58.63
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+9.09	-58.56
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+10.5	-58.52
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+18.81	-58.44
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+9.57	-58.41
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+14.18	-58.39
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+18.27	-58.38
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+10.06	-58.35
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+18.86	-58.33
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+15.25	-58.26
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+18.33	-58.21
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+13.77	-58.15
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+18.38	-58.12
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+10.82	-58.11
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+8.99	-58.07
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+10.46	-58.04
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+10.4	-57.92
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+15.74	-57.92
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+18.3	-57.91
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+12.96	-57.86
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+18.42	-57.85
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+14.59	-57.8
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+26.1	-57.72
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+9.26	-57.69
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+22.01	-57.69
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+14.21	-57.64
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+18.37	-57.6
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+18.59	-57.59
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+26.04	-57.59
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+14.82	-57.55
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+16.19	-57.52
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+14.41	-57.43
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+10.82	-57.3
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+15.08	-57.21
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+22.08	-57.18
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+25.24	-57.17
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+9.28	-57.16
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+18.78	-57.16
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+25.79	-57.16
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+9.58	-57.15
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+13.03	-57.1
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+14.69	-57.09
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+16.68	-57.07
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+10.44	-56.98
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+10.55	-56.97
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+9.7	-56.94
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+9.28	-56.91
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+25.51	-56.9
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+10.61	-56.87
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+9.75	-56.86
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+10.22	-56.84
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+13	-56.82
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+9.3	-56.81
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+13	-56.74
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+22.18	-56.72
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+15.44	-56.67
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+17.21	-56.66
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+18.92	-56.63
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+10.38	-56.6
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+10.87	-56.52
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+12.96	-56.52
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+15.06	-56.51
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+9.47	-56.49
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+9.71	-56.49
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+9.98	-56.47
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+26.03	-56.38
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+22.23	-56.27
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+15.9	-56.16
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+12.9	-56.11
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+11.05	-56.06
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+9.63	-56.03
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+10.7	-56.03
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+26.47	-56.03
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+10.19	-56.02
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+15.45	-55.99
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+9.09	-55.97
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+8.79	-55.69
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+11.29	-55.64
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+9.8	-55.6
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+10.48	-55.6
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+12.83	-55.54
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+10.7	-55.2
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+11.98	-55.14
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+34.52	-53.6
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+33.72	-53.47
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+33.52	-53.43
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+32.46	-52.86
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+33.29	-52.77
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+34.71	-52.65
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+34.05	-52.59
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+38.7	-52.3
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+32.71	-51.86
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+36.96	-51.85
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+33.16	-51.66
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+34.71	-51.48
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+34.82	-51.48
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+39.36	-51.48
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+36.2	-51.39
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+38.6	-51.26
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+43.05	-51.25
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+42.88	-51.24
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+41.86	-51.14
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+37.74	-51.05
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+44.07	-50.82
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+35.03	-50.63
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+36.45	-50.44
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+42.44	-50.12
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+25.88	-50.1
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+40.45	-49.93
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+44.48	-49.93
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+35.13	-49.89
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+38.63	-49.85
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+36.52	-49.8
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+22.91	-49.65
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+22.12	-49.42
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+25.54	-49.3
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+34.71	-49.3
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+35.29	-49.29
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+21.28	-49.28
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+17.5	-49.27
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+17.39	-49.2
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+22.79	-49.15
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+36.64	-48.94
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+39.37	-48.91
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+17.51	-48.87
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+21.94	-48.85
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+40.83	-48.84
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+17.39	-48.82
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+34.54	-48.78
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+21.45	-48.73
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+25.45	-48.73
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+22.65	-48.62
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+36.69	-48.6
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+25.39	-48.39
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+21.47	-48.2
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+17.59	-48.17
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+43.85	-48.12
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+17.29	-48.1
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+25.35	-47.99
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+17.72	-47.89
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+30.49	-47.88
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+25.32	-47.86
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+17.24	-47.8
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+21.71	-47.74
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+21.67	-47.73
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+22.27	-47.69
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+25.23	-47.65
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+30.27	-47.54
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+22.12	-47.39
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+21.91	-47.36
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+21.57	-47.33
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+21.94	-47.23
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+22.04	-47.21
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+21.53	-47.18
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+30.12	-47.17
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+21.98	-47.11
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+30.07	-47.07
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+21.48	-47
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+21.37	-46.97
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+24.81	-46.91
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+20.91	-46.9
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+29.93	-46.75
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+26.95	-46.68
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+17.69	-46.5
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+21.99	-46.5
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+22.08	-46.5
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+21.61	-46.44
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+21.75	-46.43
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+21.34	-46.42
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+21.21	-46.4
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+16.99	-46.37
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+23.53	-46.23
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+20.64	-46.04
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+27.55	-45.89
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+22.96	-45.86
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+28.88	-45.83
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+24.81	-45.71
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+22.6	-45.59
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+22.28	-45.45
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+24.28	-45.45
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+24.18	-45.44
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+21.41	-45.41
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+22.04	-45.4
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+23.93	-45.38
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+21.96	-45.34
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+21.13	-45.3
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+52.55	-45.3
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+21	-45.27
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+20.86	-45.25
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+21.78	-45.22
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+20.54	-45.1
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+20.43	-45.09
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+29.36	-45.06
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+20.01	-45.01
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+24.13	-44.92
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+19.93	-44.9
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+19.84	-44.72
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+23.68	-44.7
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+23.46	-44.6
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+23.36	-44.52
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+19.87	-44.45
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+23.17	-44.43
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+19.84	-44.23
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+22.86	-44.22
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+22.7	-44.08
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+22.07	-43.87
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+19.5	-43.85
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+51.5	-43.63
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+48.34	-43.61
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+19.17	-43.51
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+52	-43.49
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+19.13	-43.43
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+50.13	-43.4
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+21.6	-43.37
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+51.68	-43.33
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+18.99	-43.27
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+52.5	-43.25
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+52	-43.24
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+47.37	-43.15
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+21.41	-43.12
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+47.53	-43.12
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+50.98	-43.07
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+51.37	-43.05
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+21.17	-42.86
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+52.39	-42.85
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+51.89	-42.84
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+49.74	-42.78
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+46.14	-42.73
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+46.33	-42.69
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+50.94	-42.69
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+32.97	-42.68
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+49.39	-42.13
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+50.78	-41.9
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+51.31	-41.87
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+49.15	-41.66
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+21.06	-41.59
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+50.64	-41.46
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+36.89	-41.38
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+51.06	-41.36
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+37.22	-41.34
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+33.69	-41.33
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+52.56	-41.33
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+37.5	-41.32
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+18.33	-41.3
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+37.76	-41.28
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+51.89	-41.26
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+38.23	-41.25
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+38.74	-41.19
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+37.2	-40.9
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+37.63	-40.87
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+38.4	-40.87
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+37.89	-40.85
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+52.68	-40.8
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+51.95	-40.77
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+38.89	-40.76
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+39.72	-40.69
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+17.97	-40.4
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+41.92	-40.39
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+52.7	-40.38
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+41.2	-40.31
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+52	-40.3
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+38.64	-40.21
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+38.01	-40.16
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+39.98	-40.08
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+42.12	-40
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+40.45	-39.65
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+42.33	-39.63
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+54.55	-39.53
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+54.67	-39.01
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+38.41	-38.61
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+54.53	-38.52
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+39.34	-38.48
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+36.97	-38.4
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+38.51	-38.13
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+39.48	-38.12
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+39.15	-37.93
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+38.61	-37.73
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+39.62	-37.73
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+56.72	-37.52
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+39.24	-37.5
+# @DC31n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|67.735|"Magnetic Anomaly"
+39.62	-37.32
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+57.57	-37.2
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+57.77	-37.17
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+39.56	-36.6
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+40.33	-36.6
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+39.11	-36.58
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+40.21	-36.58
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+41.25	-36.57
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+39.96	-36.53
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+57.47	-36.53
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+57.54	-36.52
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+39.88	-36.5
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+44.69	-36.34
+# @DC18n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|40.13|"Magnetic Anomaly"
+46.13	-36.29
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+37.83	-36.21
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+37.66	-36.17
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+57.35	-36.02
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+46.19	-35.91
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+44.66	-35.87
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+41.15	-35.85
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+40.99	-35.8
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+42.01	-35.78
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+40.76	-35.75
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+40.9	-35.75
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+40.48	-35.65
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+46.27	-35.58
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+42.46	-35.55
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+40.34	-35.54
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+39.97	-35.5
+# @DC32n.2n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|73.004|"Magnetic Anomaly"
+43.35	-35.45
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+58.5	-35.41
+# @DC33n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|79.075|"Magnetic Anomaly"
+39.64	-35.37
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+47.38	-35
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+41.47	-34.79
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+41.21	-34.75
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+41.08	-34.73
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+40.91	-34.7
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+40.75	-34.63
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+40.39	-34.52
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+49.03	-34.51
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+59.31	-34.44
+# @DC34n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|83|"Magnetic Anomaly"
+40.02	-34.43
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+47.67	-34.28
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+51.5	-33.95
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+52.4	-33.73
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+49.47	-33.71
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+60.79	-33.67
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+47.93	-33.48
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+52.29	-33.26
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+50.05	-33.07
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+50.6	-32.94
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+51.61	-32.75
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+51.04	-32.59
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+50.59	-32.55
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+51.28	-32.51
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+48.23	-32.49
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+48.86	-32.43
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+53.58	-32.37
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+48.07	-32.32
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+48.28	-32.24
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+49.12	-32.13
+# @DC26n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|57.911|"Magnetic Anomaly"
+51.91	-32.13
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+53.31	-32.09
+# @DC28n|y|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|62.499|"Magnetic Anomaly"
+50.77	-32.03
+# @DC29n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|64.745|"Magnetic Anomaly"
+50.56	-31.88
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+53.48	-31.86
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+53.4	-31.38
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+55.92	-30.83
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+54.83	-30.66
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+56.31	-30.48
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+55.67	-30.33
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+57.05	-30.03
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+56.1	-30.01
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+56.21	-29.98
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+54.96	-29.96
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+55.37	-29.77
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+57.08	-29.4
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+56.16	-29.36
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+57.63	-28.71
+# @DC24n.3n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|53.347|"Magnetic Anomaly"
+57.02	-28.66
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+58.26	-28.35
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+58.05	-27.87
+# @DC20n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|43.789|"Magnetic Anomaly"
+59.05	-27.83
+# @DC21n|o|1|N/A|Royer++_1988_Tectonophys|10.1016/0040-1951(88)90268-5|47.906|"Magnetic Anomaly"
+59.15	-27.2

@@ -1,0 +1,49 @@
+# @VGMT1.0 @GPOINT
+# @R152.939267/156.164887/-10.565709/-8.31738                             
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC1r.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.07|"Magnetic Anomaly"
+152.93927	-10.56571
+# @DC1r.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.07|"Magnetic Anomaly"
+153.14706	-10.00281
+# @DC1r.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.07|"Magnetic Anomaly"
+154.51359	-10.15599
+# @DC1r.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.07|"Magnetic Anomaly"
+155.00768	-10.0566
+# @DC1r.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.07|"Magnetic Anomaly"
+154.50496	-9.63143
+# @DC1r.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.07|"Magnetic Anomaly"
+155.02524	-9.51083
+# @DC1n|y|2|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|0|"Magnetic Anomaly"
+152.94448	-10.34377
+# @DC1n|y|2|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|0|"Magnetic Anomaly"
+154.50237	-9.91975
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+152.97652	-9.88795
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+153.45979	-9.79902
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+154.52835	-10.42324
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+155.01648	-10.29266
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+154.50137	-9.43077
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+154.77032	-9.33551
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+154.99437	-9.2686
+# @DC2An.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|3.04|"Magnetic Anomaly"
+154.99468	-10.53612
+# @DC2An.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|3.04|"Magnetic Anomaly"
+154.48496	-9.1147
+# @DC2An.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|3.04|"Magnetic Anomaly"
+154.88804	-8.99387
+# @DC2An.1n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|3.04|"Magnetic Anomaly"
+155.77774	-8.31738
+# @DC2n|o|3|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|1.95|"Magnetic Anomaly"
+156.16489	-8.54802
+# @DC1n|y|2|N/A|Weissel++_1982_Tectonophys|10.1016/0040-1951(82)90229-3|0|"Magnetic Anomaly"
+155.02077	-9.81835

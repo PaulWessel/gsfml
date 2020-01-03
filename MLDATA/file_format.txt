@@ -1,0 +1,50 @@
+#	Information file for Magnetic Pick data formats
+#
+#	Paul Wessel, Oct. 2014
+
+This directory contains the published magnetic picks used in the study plate tectonics.
+Typically, a subset of these picks have been selected and used in plate motion modeling;
+if available these subset have been reformatted into data suitable for the Chang et al
+modeling software; see the HELL subpage for further details.
+
+The magnetic pick data are distributed in three file formats:
+1) ESRI Shapefiles.  These can be ingested by most GIS tools
+2) GMT/OGR ASCII tables.  These can be used by GMT and other tools
+3) KML files.  These can be read by Google Earth and similar tools.
+
+All formats contain the same information.  The name of the file derives from the
+publication and uses the format <author(s)_<year>_<journal>.<extension>, where
+extensions are .shp (actually several sub-files as well), *.gmt, and *.kml.
+Because ESRI shapefiles actually consists of several separate files per dataset
+we distribute these in zip archives instead, hence files are called *.zip.
+
+The data files contain these observations:
+
+lon, lat:	The location of the magnetic pick.
+
+The data files also contain these metadata:
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+
+E.g.,
+
+# @DC13n|y|1|N/A|Cande++_1988_JGR|10.1029/JB093iB11p13479|33.058|"Magnetic Anomaly"
+
+Chron:		The chron name [e.g., C13n]
+AnomalyEnd:	End of anomaly being picked, i.e., young (y), old (o)
+		or center (c).
+AnomEndQua:	Confidence in the anomaly end assignment.  Ranges from
+		1 = anomaly end clearly listed in the original paper;
+		2 = some problem exist from original paper but there is
+		    confidence in the anomaly end assignment
+		3 = anomaly end unclear in the original paper and the end
+		    has been inferred by the data assembler.
+CruiseName:	Cruise name designation (NGDC) if known, otherwise N/A.
+Reference:	The publication reference [e.g., Cande et al. (1988)]
+DOI:		The DOI of the publication, if known, otherwise N/A.
+GeeK2007:	The assigned age based on the Gee and Kent [2007] time scale.
+		Note: Other time scales can be used via the Chron name.
+IDMethod:	Typically "Magnetic Anomaly" but could be other identifiers
+		such as "Abyssal Hill".	
+NOTES:
+
+The web page contains the full reference and DOI URL to all cited works.

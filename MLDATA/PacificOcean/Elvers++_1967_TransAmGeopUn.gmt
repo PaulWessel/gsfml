@@ -1,0 +1,817 @@
+# @VGMT1.0 @GPOINT
+# @R-164.0037/-155.9438/44.9895/54.6431                                   
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-159.9281	44.9895
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-159.8781	44.9895
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-158.7811	45.0149
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-158.7311	45.0149
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-161.5591	45.0373
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-162.2308	45.1288
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-157.0534	45.1702
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-157.0034	45.1702
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-161.6663	45.213
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-161.6163	45.213
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-158.2407	45.2497
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-158.1907	45.2497
+# @DC33n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.619|"Magnetic Anomaly"
+-163.2477	45.2632
+# @DC33n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.619|"Magnetic Anomaly"
+-163.1977	45.2632
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-160.4567	45.291
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-160.1029	45.4156
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-157.7338	45.4321
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-162.7594	45.5373
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-162.7094	45.5373
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-161.8113	45.5378
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-159.0791	45.599
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-157.2933	45.7425
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-157.9644	45.7816
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-157.9144	45.7816
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-158.6218	45.8074
+# @DC33n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.619|"Magnetic Anomaly"
+-163.5123	45.8368
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-158.7154	45.8882
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-158.6654	45.8882
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-160.2863	45.9856
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-160.2363	45.9856
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-162.0406	45.9878
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-161.9906	45.9878
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-160.7275	45.9878
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-160.6775	45.9878
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.0358	46.1075
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.0632	46.1509
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-158.167	46.2205
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-157.5486	46.2275
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-157.4986	46.2275
+# @DC33n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.619|"Magnetic Anomaly"
+-163.8166	46.3376
+# @DC33n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.619|"Magnetic Anomaly"
+-163.7666	46.3376
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-160.4846	46.3392
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-159.4392	46.4162
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-159.3892	46.4162
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.2502	46.4295
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.2002	46.4295
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-158.9856	46.4692
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.0008	46.5435
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.3024	46.5515
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.2524	46.5515
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-162.3021	46.5546
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-158.4911	46.6379
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-158.4411	46.6379
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-160.7281	46.6924
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-160.6781	46.6924
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-157.7654	46.7513
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.4813	46.8104
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.4313	46.8104
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.5345	46.8468
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.4845	46.8468
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-159.2254	46.888
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-159.1754	46.888
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.2381	46.9468
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.1881	46.9468
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-162.4973	46.9523
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-162.4473	46.9523
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.9963	46.9666
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.9463	46.9666
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.2807	46.9917
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.7694	47.0001
+# @DC32n.2n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|73.004|"Magnetic Anomaly"
+-163.7689	47.0002
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-159.7428	47.0534
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-160.9915	47.2003
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.5211	47.3018
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.4711	47.3018
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-158.0238	47.4135
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-157.9738	47.4135
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-162.7786	47.4198
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-159.9548	47.4386
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-159.9048	47.4386
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-159.477	47.4769
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.0005	47.5203
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-162.9505	47.5203
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.0493	47.5442
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-162.9993	47.5442
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.2115	47.5847
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.1615	47.5847
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.5442	47.6184
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-158.765	47.628
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.2352	47.7045
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.4992	47.7137
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.4492	47.7137
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.7665	47.7649
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.9864	47.7829
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.9364	47.7829
+# @DC32n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|71.587|"Magnetic Anomaly"
+-163.7372	47.8083
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-158.2339	47.8229
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.1369	47.8795
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156	47.9032
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-159.7323	47.9782
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-159.6823	47.9782
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-158.9918	48.0188
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-158.9418	48.0188
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.7351	48.1141
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.6851	48.1141
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-157.0033	48.1323
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-156.9532	48.1323
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.4228	48.1574
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-158.5338	48.2034
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-158.4838	48.2034
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.1747	48.3349
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.1247	48.3349
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.2497	48.3749
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.1997	48.3749
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-159.7459	48.3969
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-159.2285	48.5195
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.7692	48.5219
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-157.2406	48.713
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-158.7675	48.7273
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.4053	48.7932
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.5019	48.8593
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-158.7569	48.8717
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-158.7069	48.8717
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.0248	48.9161
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-159.9748	48.9161
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-159.4702	48.9328
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-159.4202	48.9328
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-163.4794	48.9371
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-163.4294	48.9371
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-163.0003	48.9713
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-162.9503	48.9713
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-163.2321	48.9778
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-163.9981	48.9782
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-163.9481	48.9782
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.9926	48.9815
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.9426	48.9815
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.996	48.989
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-161.946	48.989
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-163.7161	49.0128
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.7345	49.0223
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.6845	49.0223
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-162.4605	49.0364
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-162.4105	49.0364
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-162.7264	49.075
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.6042	49.0775
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.5542	49.0775
+# @DC31n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|68.737|"Magnetic Anomaly"
+-162.2027	49.0823
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-157.4736	49.123
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-157.4236	49.123
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-164.0037	49.1366
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-163.9537	49.1366
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.7769	49.155
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-162.4723	49.1873
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-162.4223	49.1873
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.9671	49.1901
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-161.9171	49.1901
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-162.9966	49.2011
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-162.9466	49.2011
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.7343	49.2129
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.6843	49.2129
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-163.4348	49.2217
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-163.3848	49.2217
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-162.7202	49.2389
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-163.2172	49.2701
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-162.207	49.2745
+# @DC31n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|67.735|"Magnetic Anomaly"
+-163.718	49.2887
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.7895	49.4399
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.0104	49.4629
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.3173	49.5278
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.7188	49.5644
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-159.7688	49.5749
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-157.5349	49.6705
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.997	49.7252
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-160.947	49.7252
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-161.3672	49.8196
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-161.3172	49.8196
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-161.0871	49.8328
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.2954	49.85
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.2454	49.85
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-161.9405	49.8611
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-161.8905	49.8611
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-162.4283	49.8707
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-162.3783	49.8707
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-162.9389	49.8863
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-162.8889	49.8863
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-161.6535	49.8868
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-162.1946	49.9083
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-162.7053	49.9343
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-163.4416	49.9418
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-163.3916	49.9418
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.6153	49.9502
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.5653	49.9502
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-163.1881	49.9627
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.9785	49.9868
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-156.9285	49.9868
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-163.9721	49.9924
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-163.9221	49.9924
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.7735	49.9996
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.7235	49.9996
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.6068	50.0001
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-160.0118	50.004
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-159.9618	50.004
+# @DC29n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|64.745|"Magnetic Anomaly"
+-163.6641	50.0121
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-157.7952	50.0243
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-157.7452	50.0243
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-161.2284	50.0462
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-161.1784	50.0462
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-160.9805	50.0791
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-162.4314	50.0991
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-162.3814	50.0991
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-161.5079	50.1097
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-162.9606	50.111
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-162.9106	50.111
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-161.8333	50.1118
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-161.7833	50.1118
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-163.4565	50.1479
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-163.4065	50.1479
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-162.7034	50.157
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-162.1308	50.1674
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-163.1453	50.1777
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-163.9963	50.2198
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-163.9463	50.2198
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-160.2758	50.2238
+# @DC28n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|63.634|"Magnetic Anomaly"
+-163.7217	50.244
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-160.7902	50.3164
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-160.7402	50.3164
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-161.8259	50.3706
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-161.7758	50.3706
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-162.5528	50.3971
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-162.5028	50.3971
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-161.3641	50.4088
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.6003	50.4253
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-162.1791	50.4424
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-163.1813	50.4484
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-163.1313	50.4484
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.0201	50.4597
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-157.1811	50.462
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-162.8795	50.4649
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-163.9696	50.5151
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-163.9196	50.5151
+# @DC28n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|62.499|"Magnetic Anomaly"
+-163.4521	50.5225
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.8017	50.5599
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.7517	50.5599
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.7961	50.625
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.9981	50.6418
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-159.9481	50.6418
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-160.4214	50.6642
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-160.3714	50.6642
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-161.0009	50.6949
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-160.9509	50.6949
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-160.2144	50.7107
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-160.6799	50.7209
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-161.4726	50.7313
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-161.4226	50.7313
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-162.0031	50.7576
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-161.9531	50.7576
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-161.2209	50.7645
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-162.4921	50.7753
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-162.4421	50.7753
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-161.7496	50.7853
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-162.9991	50.7952
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-162.9491	50.7952
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.2798	50.7959
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.2298	50.7959
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-162.2058	50.819
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.2801	50.8207
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.2301	50.8207
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-163.4645	50.8328
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-163.4145	50.8328
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-162.745	50.8401
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-163.2197	50.8554
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-164.0031	50.8622
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-163.9531	50.8622
+# @DC27n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|61.276|"Magnetic Anomaly"
+-163.7316	50.9051
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.4995	50.9771
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.8361	51.0063
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-158.7861	51.0063
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-157.5876	51.0132
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-157.5376	51.0132
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-159.4465	51.0924
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-159.3965	51.0924
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-159.2011	51.1023
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-159.9498	51.157
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-159.8998	51.157
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-159.692	51.1615
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-157.9808	51.1774
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-160.4512	51.1997
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-160.4012	51.1997
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-160.246	51.2311
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-161.0034	51.2626
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-160.9534	51.2626
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-160.7134	51.2792
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-158.2572	51.2971
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-158.2072	51.2971
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-161.5228	51.3254
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-161.4728	51.3254
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-162.0043	51.3494
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-161.9543	51.3494
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-161.265	51.3521
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-162.4692	51.3803
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-162.4192	51.3803
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-161.7031	51.3928
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-162.9972	51.4028
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-162.9472	51.4028
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-162.2064	51.4067
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-163.4317	51.4379
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-163.3817	51.4379
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-162.7158	51.4501
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-163.1751	51.4686
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-164.0031	51.4735
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-163.9531	51.4735
+# @DC26n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|57.554|"Magnetic Anomaly"
+-163.7149	51.5104
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-159.0363	51.5398
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-158.9863	51.5398
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-158.5968	51.554
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-159.754	51.588
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-159.7039	51.588
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-159.3356	51.6133
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-160.4376	51.6392
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-160.3876	51.6392
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-160.0992	51.668
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-160.6309	51.7026
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-160.8367	51.7037
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-160.7867	51.7037
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-156.2609	51.7135
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-161.3127	51.7575
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-161.2627	51.7575
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-161.1205	51.7791
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-161.7688	51.7797
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-161.7188	51.7797
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-162.3322	51.7989
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-162.2822	51.7989
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-161.5345	51.8167
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-162.8212	51.8464
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-162.7712	51.8464
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-162.0459	51.847
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-163.3375	51.8651
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-163.2875	51.8651
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-162.5609	51.8784
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-164.0031	51.8931
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-163.9531	51.8931
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-163.0133	51.9018
+# @DC25n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|55.904|"Magnetic Anomaly"
+-163.6728	51.9339
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-157.3589	52.355
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-157.3089	52.355
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-157.6985	52.656
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-158.1946	53.1469
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-158.1446	53.1469
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-158.255	53.1479
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-158.205	53.1479
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-159.0319	53.2623
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-158.9819	53.2623
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-160.0093	53.2861
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-159.9593	53.2861
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-159.4806	53.3105
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-161.0059	53.356
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-160.9559	53.356
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-158.5584	53.3575
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-160.4307	53.3631
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-157.1869	53.4569
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-157.1369	53.4569
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-157.5773	53.457
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-162.1413	53.4635
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-162.0913	53.4635
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-161.6108	53.4829
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-159.4751	53.5608
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-159.425	53.5608
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-156.7524	53.57
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-158.2919	53.5807
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-158.2419	53.5807
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-161.7397	53.5962
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-161.6897	53.5962
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-158.8602	53.6252
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-160.6446	53.6432
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-160.5946	53.6432
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-160.0793	53.6561
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-161.2073	53.6579
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-157.7626	53.6866
+# @DC24n.3n|o|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|53.347|"Magnetic Anomaly"
+-155.9895	53.7186
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-157.2439	53.7324
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-157.1939	53.7324
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-156.8138	53.8944
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-156.3706	53.8952
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-156.3206	53.8952
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-159.2408	53.9558
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-159.1908	53.9558
+# @DC24n.3n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.903|"Magnetic Anomaly"
+-156.018	53.9912
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-158.1537	54.0651
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-158.1037	54.0651
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-158.6762	54.0689
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-157.5073	54.1143
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-155.9938	54.1265
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-155.9438	54.1265
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-157.0561	54.1501
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-157.0061	54.1501
+# @DC24n.1n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|52.364|"Magnetic Anomaly"
+-156.5665	54.1896
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-158.251	54.5029
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-158.201	54.5029
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-157.4162	54.5766
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-157.3662	54.5766
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-156.6254	54.5766
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-156.5753	54.5766
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-157.8581	54.5949
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-157.1261	54.6143
+# @DC23n.2n|y|3|N/A|Elvers++_1967_TransAmGeopUn|N/A|51.047|"Magnetic Anomaly"
+-156.0725	54.6431

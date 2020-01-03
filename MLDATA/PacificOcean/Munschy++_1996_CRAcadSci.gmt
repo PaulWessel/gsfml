@@ -1,0 +1,1481 @@
+# @VGMT1.0 @GPOINT
+# @R-152.1286/-108.0204/-54.335/-5.271                                    
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-118.8351	-54.335
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-118.0482	-51.1472
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-118.0146	-51.104
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-118.0042	-51.0788
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-117.9772	-51.0607
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-117.8729	-50.9211
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-119.2646	-50.8292
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-119.1308	-50.699
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-117.7014	-50.5962
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-121.0039	-50.4225
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-117.4901	-50.0932
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-118.6796	-50.0846
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-120.8809	-50.069
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.8621	-49.6557
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.1513	-49.4312
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.5161	-47.5171
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.8693	-46.9926
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.4099	-46.4072
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.6697	-44.4751
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-115.4255	-44.4581
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.6676	-44.4546
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.2072	-43.267
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.0863	-43.2463
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-115.0159	-43.2368
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-114.2729	-41.9947
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-112.6548	-41.9714
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.6953	-41.9432
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.5971	-41.5007
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.7366	-41.372
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.2206	-39.9662
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-112.5785	-39.9631
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-114.2547	-39.9466
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-116.0971	-39.904
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-113.814	-39.2572
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-113.818	-38.0818
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-112.2789	-38.04
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.6813	-38.0283
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-113.32	-36.1897
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-111.9411	-35.9489
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.1147	-35.8649
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-113.5348	-35.81
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.1551	-35.5695
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-145.6165	-35.375
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-115.6658	-35.3286
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-144.8941	-35.0845
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-142.0881	-35.0806
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.2354	-35.0774
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-141.4844	-35.0636
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-142.6403	-35.0632
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-140.811	-35.043
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-143.7188	-35.0362
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-143.9238	-35.021
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-131.3393	-35.0161
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-140.215	-35.0157
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-139.486	-35.0009
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-113.4178	-34.9809
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-115.6732	-34.9798
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.3411	-34.9059
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-144.9661	-34.8847
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-145.8495	-34.8425
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-146.4425	-34.8126
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-144.0507	-34.7772
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-147.5965	-34.7678
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-148.2829	-34.7307
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-143.8737	-34.7061
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-110.9358	-34.7006
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-143.4951	-34.5536
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.3536	-34.4738
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.4336	-34.4679
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-143.0446	-34.3783
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.439	-34.3689
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-110.6562	-34.365
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.4687	-34.2961
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-110.5599	-34.2466
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.4815	-34.2327
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.5422	-34.1542
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-142.4444	-34.1537
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-110.4032	-34.1206
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.5373	-34.0921
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-110.3467	-34.0507
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-142.0327	-33.9887
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.5404	-33.8708
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.0408	-33.8588
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-141.5569	-33.7746
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-110.0159	-33.7305
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.3868	-33.6665
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-109.9205	-33.6183
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.3429	-33.6113
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-141.0328	-33.5282
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.0737	-33.431
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.805	-33.3195
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-109.7367	-33.2961
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-140.4136	-33.1068
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.0138	-32.9321
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.9437	-32.7138
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-133.2003	-32.2784
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-130.9202	-31.8497
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-136.6086	-31.3706
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.6044	-31.285
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.9304	-31.2843
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.2107	-31.1527
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.5391	-31.1432
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.8748	-31.0289
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.4819	-31.0068
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.4625	-30.8494
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.7951	-30.4833
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.4103	-30.4833
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.452	-30.1269
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.5013	-30.029
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.0214	-30.0257
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-136.9419	-30.0162
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-125.7153	-30.0029
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-142.799	-30.0015
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-150.1965	-30
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-131.3605	-29.9962
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-147.8896	-29.9952
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.1954	-29.9951
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-138.782	-29.9862
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.4055	-29.9812
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.0441	-29.963
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-145.1534	-29.9629
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-139.9912	-29.9577
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.3703	-29.787
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.7411	-29.6751
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.2862	-29.6523
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.3521	-28.5375
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-137.3789	-28.2833
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-150.3179	-28.2797
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.9014	-28.2748
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-131.4964	-28.2705
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.3133	-28.2649
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-139.2349	-28.264
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-147.6368	-28.2582
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-145.8601	-28.2531
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.2372	-28.252
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-146.5983	-28.2517
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-148.5647	-28.2491
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.8066	-28.2485
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-146.7793	-28.2481
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.3707	-28.2419
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-151.038	-28.2399
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-149.39	-28.2382
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-140.4092	-28.2307
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.3554	-28.2256
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.3571	-28.2254
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.0404	-28.2154
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.7497	-28.2151
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.3302	-28.1527
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-147.6704	-28.0139
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-146.6334	-27.9856
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-146.8103	-27.9821
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-148.6113	-27.9411
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-137.4596	-27.9345
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.9145	-27.7817
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.1721	-27.1209
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.114	-26.7006
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.7027	-26.5968
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.3278	-26.5432
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-151.6456	-26.4444
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-137.708	-26.4286
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.6627	-26.3544
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-139.5601	-26.3166
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.9371	-26.1725
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-143.0385	-26.1142
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-149.4314	-26.0759
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-118.987	-26.038
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-116.1936	-25.9863
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-116.4066	-25.7513
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-116.7523	-25.4902
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-140.6861	-25.4717
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-137.8072	-25.4631
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-116.8281	-25.417
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.6951	-25.4164
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-116.8613	-25.3432
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.4985	-25.3268
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-116.8886	-25.2586
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-140.9961	-25.2583
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.9671	-25.2293
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-131.2434	-25.0881
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-140.7136	-25.0875
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-143.478	-25.0708
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-131.2353	-24.8009
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-143.0043	-24.7041
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.5986	-24.6837
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-141.3105	-24.6266
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-145.0776	-24.5976
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-131.2538	-24.5721
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-129.5327	-24.4047
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-139.678	-24.2941
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.752	-24.1017
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-119.7369	-24.0279
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.8111	-23.9832
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.6021	-23.9179
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-119.7011	-23.9151
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-141.589	-23.8798
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-116.7498	-23.8645
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.8739	-23.8636
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-116.8395	-23.61
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-139.7195	-23.5436
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.9344	-23.5331
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-116.9333	-23.4385
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-116.9631	-23.2878
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-122.4882	-23.2636
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-137.8598	-23.2481
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.9331	-23.1896
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-141.7504	-23.174
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-145.9294	-23.151
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-134.716	-23.1099
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-115.6074	-22.9976
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-117.0408	-22.931
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-115.1734	-22.8613
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-115.1053	-22.7985
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-144.6482	-22.7718
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.2493	-22.6647
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.9778	-22.5541
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-115.1113	-22.5428
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-115.1671	-22.538
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.4838	-22.5143
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.5864	-22.5071
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-132.4803	-22.5045
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.3404	-22.4147
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-119.3448	-22.408
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-116.1446	-22.3592
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.1088	-22.3539
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-144.6097	-22.3459
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-146.8574	-22.2013
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-146.6316	-22.0944
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.3277	-22.0762
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.8735	-21.9827
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.9372	-21.9448
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.5774	-21.928
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.5002	-21.9054
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-132.4531	-21.9021
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.575	-21.8947
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.499	-21.8827
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.6625	-21.8821
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.5	-21.8664
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.9651	-21.8159
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.9614	-21.7896
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-140.3678	-21.787
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.1491	-21.7616
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-146.9655	-21.7195
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.4427	-21.7017
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-146.7376	-21.6797
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-145.9964	-21.5652
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-118.1839	-21.5037
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-115	-21.4722
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-142.8915	-21.4641
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.0796	-21.4473
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.9249	-21.4153
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-144.9148	-21.3833
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.0279	-21.3698
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.8716	-21.35
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.543	-21.35
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.4359	-21.35
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.9601	-21.3485
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.8987	-21.3481
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.777	-21.3474
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-138.8029	-21.3354
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.7611	-21.2918
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-138.8445	-21.1887
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-140.0771	-21.1499
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.6237	-21.1284
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-142.9763	-21.0835
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.6834	-21.0818
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.8493	-21.0577
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.9003	-21.0502
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-132.5179	-21.0342
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.6996	-21.0229
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.8431	-21.0208
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.8998	-21.02
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.375	-21.0123
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.499	-21.0104
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.826	-21.0057
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.3573	-20.9916
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.4706	-20.9692
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.7808	-20.9019
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.6876	-20.8636
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.8002	-20.8632
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.8551	-20.8625
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-118.0667	-20.806
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.702	-20.7522
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.4569	-20.7506
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.0379	-20.6854
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.3271	-20.6854
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.5987	-20.6731
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.7511	-20.6705
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.8122	-20.6696
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.2622	-20.6642
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.3713	-20.6635
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-136.0627	-20.6633
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.5058	-20.6465
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-151.7003	-20.5981
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.5811	-20.5829
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.7164	-20.5802
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.7782	-20.5787
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-147.2564	-20.5177
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.7098	-20.5119
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-151.7386	-20.4758
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-117.977	-20.4392
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.7413	-20.4324
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.3958	-20.3852
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.227	-20.3657
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.7159	-20.365
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.6526	-20.365
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.4253	-20.365
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.1977	-20.3609
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.307	-20.3598
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.5568	-20.3577
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.585	-20.3313
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-136.0702	-20.3293
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-147.2975	-20.313
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.2199	-20.2694
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.6838	-20.242
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.2695	-20.2298
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.6512	-20.1933
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.5644	-20.1933
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.4869	-20.1933
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.4061	-20.1933
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.29	-20.1933
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-117.9193	-20.1281
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-147.9982	-20.1205
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.2891	-20.0953
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.6652	-20.0811
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-139.3078	-20.0703
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.3113	-20.0653
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.3445	-20.057
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.5414	-20.0261
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-132.5791	-20.0147
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.1508	-20.005
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-115.0333	-20.005
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.5122	-20.005
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.447	-20.005
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.3831	-20.005
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.3331	-20.005
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.2088	-20.005
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.9394	-19.979
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.2883	-19.8541
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.6189	-19.8301
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-131.5119	-19.8155
+# @DC2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.95|"Magnetic Anomaly"
+-115.0267	-19.8148
+# @DC2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.77|"Magnetic Anomaly"
+-114.9117	-19.8141
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.4452	-19.8083
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.3886	-19.8075
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.3264	-19.8066
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.2742	-19.8059
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.1496	-19.8042
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-136.045	-19.7563
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-148.1015	-19.7148
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.1076	-19.713
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.4614	-19.6829
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-125.1118	-19.6302
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.1029	-19.6156
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.3047	-19.5857
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.2297	-19.583
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.095	-19.5784
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.8552	-19.5769
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.8836	-19.5635
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.2572	-19.5125
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.0768	-19.5015
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1973	-19.5009
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.2688	-19.5005
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-151.8981	-19.4999
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-117.6945	-19.4794
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.5306	-19.4761
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-142.0452	-19.4753
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.726	-19.4747
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.238	-19.4513
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1719	-19.4506
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.0439	-19.4492
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.4694	-19.4083
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-148.9556	-19.406
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.2692	-19.3741
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-117.6397	-19.3519
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.5383	-19.3212
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.6186	-19.2586
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1789	-19.2444
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1129	-19.2423
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.0014	-19.2386
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.2339	-19.2286
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.1758	-19.2026
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-136.0791	-19.2016
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.19	-19.169
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1169	-19.1678
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.0125	-19.1565
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1205	-19.1536
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1811	-19.1512
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.481	-19.1474
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-117.5903	-19.0925
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-145.1085	-19.0619
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.1481	-19.0586
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.6536	-19.0534
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.2261	-19.0518
+# @DC1r.1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|1.07|"Magnetic Anomaly"
+-114.1497	-19.0514
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-114.0167	-19.0506
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.523	-19.0471
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-148.9994	-19.0437
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-117.5597	-19.036
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-148.4651	-19.0229
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-139.7324	-19.0207
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-141.1221	-19.0048
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.9925	-18.9872
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.4439	-18.9739
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-131.64	-18.9633
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-142.2387	-18.9601
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-151.879	-18.9397
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.5188	-18.9088
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.3008	-18.8977
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.6775	-18.8961
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-149.6701	-18.8701
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.9298	-18.8678
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.9577	-18.862
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-147.7494	-18.8599
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-131.6136	-18.8598
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-115.1379	-18.8476
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.9098	-18.8209
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.7665	-18.8176
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-151.1045	-18.8144
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.733	-18.7341
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-148.509	-18.6852
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.8541	-18.6605
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.5066	-18.6486
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.4485	-18.6017
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.4348	-18.6016
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-131.6202	-18.5835
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.6245	-18.5795
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.6268	-18.5326
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.8437	-18.5315
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-151.1623	-18.5301
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-142.4234	-18.5256
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-143.0743	-18.5219
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.8267	-18.4988
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-149.7138	-18.4914
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.8992	-18.4886
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.844	-18.469
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-147.8152	-18.4496
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-145.3489	-18.4137
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.8475	-18.4094
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.8591	-18.4092
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.4225	-18.4091
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-142.5206	-18.3872
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-147.8669	-18.3717
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.6145	-18.3515
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.9571	-18.3337
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-143.2943	-18.327
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-151.2054	-18.2924
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-151.9955	-18.2722
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-121.0934	-18.2691
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.9109	-18.2658
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.5546	-18.2295
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-117.3438	-18.1997
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.8056	-18.1945
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-145.4627	-18.1249
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-151.2056	-18.0732
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.8941	-18.0712
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-152.0402	-18.0531
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.7805	-18.0369
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-149.8657	-18.0272
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-146.0443	-18.014
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.7601	-17.9871
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-151.2284	-17.923
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-145.5285	-17.8728
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-131.7832	-17.8694
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-147.0692	-17.8633
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.7145	-17.851
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.6593	-17.7957
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-147.0755	-17.7902
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-145.5552	-17.7721
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.8741	-17.766
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.934	-17.7616
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-149.9048	-17.7327
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-146.1402	-17.7296
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-144.1691	-17.6768
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-131.838	-17.6489
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-147.0859	-17.6474
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.5861	-17.6448
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.7196	-17.6419
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.5687	-17.6228
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-145.6388	-17.5954
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.7152	-17.5949
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-149.2667	-17.4588
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.9065	-17.4298
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.7542	-17.4106
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.8364	-17.3366
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-151.3732	-17.335
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.8766	-17.3316
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-148.1635	-17.3308
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.5752	-17.3195
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-146.2706	-17.3133
+# @DC34n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|83|"Magnetic Anomaly"
+-152.1286	-17.2983
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-150.1594	-17.2956
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.8546	-17.2844
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-147.1606	-17.2752
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.8664	-17.2706
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-146.3074	-17.2521
+# @DC33n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|79.075|"Magnetic Anomaly"
+-151.3535	-17.2453
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.8881	-17.2096
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.8879	-17.1857
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.706	-17.1695
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.8595	-17.0211
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.6882	-17.0022
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.9776	-16.8804
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.7763	-16.7109
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-138.1125	-16.6876
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-148.5408	-16.6622
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-138.5702	-16.5186
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-147.5209	-16.507
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-148.2853	-16.4449
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.755	-16.3936
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.7415	-16.2824
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.8169	-16.1576
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.8719	-16.1098
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.8544	-16.0438
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.705	-16.0084
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.8703	-16.0042
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.4918	-15.983
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-132.0565	-15.9686
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-133.9441	-15.9167
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.2394	-15.8213
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-132.0825	-15.8156
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.7872	-15.7915
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.7431	-15.7795
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.6376	-15.6914
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-142.58	-15.6196
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.6493	-15.5622
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.58	-15.5121
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-128.7908	-15.4762
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.1835	-15.3723
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.7619	-15.3339
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.2033	-15.3135
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.0287	-15.2621
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.5996	-15.2214
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.8986	-15.135
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.0896	-15.1013
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.9021	-15.0871
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-139.5567	-15.0605
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.3061	-15.0042
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.0809	-14.9542
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-142.7825	-14.9055
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.9528	-14.8416
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.1559	-14.8397
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-132.2465	-14.8124
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.8857	-14.8086
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-148.9459	-14.7303
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-113.2168	-14.7279
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.162	-14.6713
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.2306	-14.6463
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.9403	-14.5662
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-148.996	-14.5573
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-129.1569	-14.4532
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-147.0088	-14.4484
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.9624	-14.408
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-148.2759	-14.3731
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.442	-14.3605
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.854	-14.3592
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.3474	-14.341
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-147.0447	-14.2945
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.3989	-14.2735
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.728	-14.2445
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-149.0601	-14.2428
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-148.2816	-14.2351
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.6895	-14.2266
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-148.0097	-14.2164
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.538	-14.2104
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-119.7216	-14.1728
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.7805	-14.1177
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-129.268	-14.0834
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.3806	-14.0737
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.5854	-14.056
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.9345	-14.0159
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.6545	-14.0139
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-132.3798	-14.0133
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-139.8973	-13.9996
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.6265	-13.9885
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-114.271	-13.9885
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.4786	-13.9837
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.9677	-13.9711
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.1526	-13.9214
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-143.8538	-13.9205
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-148.9802	-13.8934
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.9653	-13.8823
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.3755	-13.8606
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-135.9186	-13.7868
+# @DC5Cn.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|16.014|"Magnetic Anomaly"
+-124.588	-13.7769
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-132.4179	-13.7638
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.2416	-13.7541
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-147.9382	-13.7335
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.432	-13.7195
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-147.6615	-13.7073
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.483	-13.6509
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.6926	-13.6217
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.9005	-13.6003
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.5709	-13.5952
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.8828	-13.5556
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.8247	-13.5026
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.6023	-13.4879
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.6285	-13.4394
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-112.8217	-13.4308
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-146.0686	-13.4171
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.6371	-13.3447
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.6395	-13.3033
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-145.2115	-13.2527
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.0624	-13.2508
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-129.4252	-13.1941
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.8318	-13.1853
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-144.625	-13.129
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-144.1416	-13.0214
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-113.7487	-12.9703
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-119.2943	-12.9525
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.754	-12.922
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-137.6335	-12.8883
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-143.5358	-12.8725
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-136.1033	-12.8094
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-145.4484	-12.7174
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-143.5564	-12.6734
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-140.0864	-12.6707
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-129.455	-12.6601
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-142.7724	-12.653
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.3864	-12.5743
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.5455	-12.5306
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-140.1601	-12.4792
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-141.7488	-12.303
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-141.8518	-12.2205
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.2592	-12.0302
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-116.4442	-12.0174
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-114.7592	-12.0036
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-119.1292	-11.9916
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-112.3751	-11.9913
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.5433	-11.8543
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-140.6994	-11.6621
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.1675	-11.6314
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-132.4903	-11.6279
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-143.7324	-11.5502
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-138.6978	-11.4415
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-139.9147	-11.3638
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-139.9193	-11.326
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-143.8064	-11.301
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-118.5954	-11.2549
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-111.0351	-11.1855
+# @DC18n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|40.13|"Magnetic Anomaly"
+-138.1963	-11.1439
+# @DC13n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|33.058|"Magnetic Anomaly"
+-134.584	-11.0218
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-140.8648	-11.0216
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-138.411	-11.0083
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-141.4446	-10.9798
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.9995	-10.9436
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-139.3122	-10.908
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-140.8982	-10.8697
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-142.971	-10.8546
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-138.451	-10.8458
+# @DC16n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|36.341|"Magnetic Anomaly"
+-136.7394	-10.815
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-117.9245	-10.7543
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-143.9702	-10.6343
+# @DC11n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|29.401|"Magnetic Anomaly"
+-132.526	-10.6096
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-140.0822	-10.5914
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.928	-10.5311
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-143.1281	-10.516
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-114.5311	-10.5052
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-142.3362	-10.4251
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.8225	-10.3591
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.0351	-10.3568
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-137.8079	-10.3381
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-141.5926	-10.3304
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-143.5501	-10.2327
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-140.2175	-10.1699
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.7885	-10.1056
+# @DC7n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|25.183|"Magnetic Anomaly"
+-129.5597	-10.0589
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-139.4404	-10.0576
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-141.719	-10.0187
+# @DC3An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|5.894|"Magnetic Anomaly"
+-114.3441	-9.9681
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.1445	-9.9657
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-142.5594	-9.878
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-135.7569	-9.843
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.6988	-9.7591
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-140.2897	-9.6625
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.1741	-9.6609
+# @DC2An.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|2.581|"Magnetic Anomaly"
+-112.0876	-9.5719
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.5846	-9.5539
+# @DC5n.2n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|9.92|"Magnetic Anomaly"
+-117.5046	-9.502
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.5741	-9.498
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-135.8172	-9.3889
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-138.0463	-9.3866
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-141.9134	-9.1628
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-110.4556	-9.1583
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-138.9919	-9.1045
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.9779	-9.0626
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-109.9286	-9.0513
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-143.5694	-9.0094
+# @DC20n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|43.789|"Magnetic Anomaly"
+-135.9069	-9.0035
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-138.1627	-8.9995
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-143.8645	-8.9956
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-141.9651	-8.9956
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.3794	-8.9795
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-142.7018	-8.9613
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-139.0287	-8.9506
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-143.8715	-8.9296
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-143.5699	-8.7967
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-141.9981	-8.7532
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.4443	-8.6508
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-138.3452	-8.3116
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-108.28	-8.2099
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-142.1295	-8.1765
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.569	-8.1067
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-146.2105	-8.0433
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-147.0143	-7.9971
+# @DC32n.1n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|71.071|"Magnetic Anomaly"
+-146.2298	-7.9795
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.5976	-7.9412
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-139.286	-7.8905
+# @DC31n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|67.735|"Magnetic Anomaly"
+-145.0569	-7.6594
+# @DC33n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|73.619|"Magnetic Anomaly"
+-147.1422	-7.6393
+# @DC1n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|0.78|"Magnetic Anomaly"
+-108.0204	-7.5254
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-140.6022	-7.5071
+# @DC29n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|64.745|"Magnetic Anomaly"
+-144.2624	-7.4595
+# @DC29n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|63.976|"Magnetic Anomaly"
+-143.9616	-7.3613
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-139.4522	-7.3415
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-139.9691	-7.2231
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-143.0267	-7.1861
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-140.7118	-7.1631
+# @DC27n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|60.92|"Magnetic Anomaly"
+-143.053	-7.1201
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-139.5469	-7.0439
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-140.0334	-7.0167
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-142.2365	-6.927
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.7251	-6.8047
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-138.7204	-6.8043
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-138.722	-6.6732
+# @DC26n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|57.911|"Magnetic Anomaly"
+-142.3175	-6.6473
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-140.1383	-6.5929
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-140.8799	-6.5746
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-139.5747	-6.5023
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-140.2166	-6.3745
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-140.9853	-6.3287
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-139.6044	-6.2138
+# @DC25n|y|1|N/A|Munschy++_1996_CRAcadSci|N/A|55.904|"Magnetic Anomaly"
+-141.7678	-6.2137
+# @DC22n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|49.714|"Magnetic Anomaly"
+-139.6385	-6.0288
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-140.3336	-5.8136
+# @DC24n.3n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|53.347|"Magnetic Anomaly"
+-141.1133	-5.7538
+# @DC23n.2n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|51.743|"Magnetic Anomaly"
+-140.4057	-5.47
+# @DC21n|o|1|N/A|Munschy++_1996_CRAcadSci|N/A|47.906|"Magnetic Anomaly"
+-138.959	-5.271

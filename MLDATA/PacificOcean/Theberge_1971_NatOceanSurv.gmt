@@ -1,0 +1,1003 @@
+# @VGMT1.0 @GPOINT
+# @R-126.6739/-121.2346/33.1957/39.7385                                   
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.164	33.1957
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.114	33.1957
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.1508	33.4025
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.1385	33.4186
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.0885	33.4186
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4929	33.4265
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4429	33.4265
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.9001	33.4327
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.8501	33.4327
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.7436	33.4599
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.6946	33.5899
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.6446	33.5899
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.1574	33.6376
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.0952	33.6485
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.2828	33.6501
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4976	33.6509
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4863	33.6825
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4363	33.6825
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.2846	33.6825
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.2346	33.6825
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.1197	33.6833
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.0697	33.6833
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.82	33.6904
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.77	33.6904
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.6692	33.7372
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.0763	33.7531
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.0263	33.7531
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.6145	33.7562
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.5645	33.7562
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.8106	33.8054
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.0801	33.807
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4845	33.8101
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.2941	33.8179
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4873	33.8361
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4373	33.8361
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.3252	33.8431
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.2752	33.8431
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.7766	33.8447
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.7266	33.8447
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.246	33.8494
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.196	33.8494
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.032	33.8494
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.982	33.8494
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.8435	33.8533
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.7935	33.8533
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.6579	33.8596
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.6079	33.8596
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6598	33.89
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.0283	33.8931
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.5693	33.8978
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.3713	33.901
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.8322	33.9088
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.4279	33.9127
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9576	33.9417
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9076	33.9417
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.5184	33.9425
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.4684	33.9425
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.328	33.9808
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.7578	33.9815
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.2271	33.9823
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122	33.9823
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7154	33.9957
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6654	33.9957
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.9802	34.0042
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.9302	34.0042
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.393	34.0097
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.343	34.0097
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.327	34.0152
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.277	34.0152
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.4609	34.016
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.4109	34.016
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.1206	34.016
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.0706	34.016
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.7304	34.0222
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.6804	34.0222
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.8077	34.023
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.7577	34.023
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.2026	34.0277
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1526	34.0277
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.8935	34.0613
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.4722	34.0628
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9435	34.0667
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.5118	34.0675
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.6588	34.0831
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4986	34.1003
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4486	34.1003
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9161	34.1011
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.8661	34.1011
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.557	34.1026
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.507	34.1026
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.3421	34.1456
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.935	34.1495
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.7172	34.1495
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.6946	34.1666
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.6446	34.1666
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.3421	34.1674
+# @DC5En|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|18.281|"Magnetic Anomaly"
+-121.2921	34.1674
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.8982	34.1713
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.8482	34.1713
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.9189	34.1728
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.8689	34.1728
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.6239	34.1783
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.5739	34.1783
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-126.0207	34.2018
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7191	34.208
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.0716	34.2096
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.4731	34.2127
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-121.4882	34.2189
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.7681	34.2244
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9076	34.2283
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.3968	34.2299
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1876	34.2322
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.5608	34.2338
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.7418	34.2578
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.6917	34.2578
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.4505	34.2687
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.4005	34.2687
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.5504	34.271
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.5004	34.271
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1989	34.2734
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1489	34.2734
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.902	34.2749
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.852	34.2749
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.6079	34.314
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.8501	34.3203
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.6626	34.3312
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.0273	34.3325
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-123.9773	34.3325
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.4958	34.3349
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.4458	34.3349
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.8162	34.3396
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.7662	34.3396
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7389	34.3442
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6889	34.3442
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.59	34.3489
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.54	34.3489
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.639	34.3497
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.589	34.3497
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-126.0019	34.3505
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.9519	34.3505
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4326	34.3528
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.3826	34.3528
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.7031	34.388
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.9548	34.3896
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.0038	34.3934
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.4317	34.3966
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1913	34.402
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9039	34.4067
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.6956	34.4329
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.6456	34.4329
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.4015	34.4337
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.3515	34.4337
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.901	34.4368
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.851	34.4368
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1753	34.4383
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1253	34.4383
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-121.6418	34.4806
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.5825	34.4837
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.9717	34.5191
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.9217	34.5191
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.5674	34.5261
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.5174	34.5261
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.3704	34.5544
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.6569	34.5575
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9067	34.566
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-123.9783	34.5722
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.508	34.573
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.6767	34.573
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7474	34.5815
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4477	34.5831
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.8878	34.5937
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.8378	34.5937
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.656	34.5952
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.606	34.5952
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.6456	34.6014
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.5956	34.6014
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9369	34.6138
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.8868	34.6138
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.5438	34.6506
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1527	34.6599
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7521	34.6604
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7021	34.6604
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.5146	34.6666
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.4646	34.6666
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.2941	34.6689
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.2441	34.6689
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4599	34.6712
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4099	34.6712
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-123.9189	34.6751
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-123.8689	34.6751
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1517	34.6751
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-123.1017	34.6751
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.5014	34.6782
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.4514	34.6782
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0047	34.7181
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.6409	34.7212
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9689	34.7251
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-121.8464	34.7274
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.6164	34.7282
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.6258	34.7394
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.5758	34.7394
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9981	34.7448
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9481	34.7448
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.6136	34.7719
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.5636	34.7719
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.2403	34.8056
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.1725	34.8369
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-122.1225	34.8369
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.476	34.8392
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.426	34.8392
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.5278	34.8745
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.606	34.883
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-122.6164	34.8916
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-122.9218	34.8931
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.6051	34.9096
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.5551	34.9096
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.18	35.3305
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.13	35.3305
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0613	35.3436
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0113	35.3436
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.7436	35.3782
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.5127	35.3797
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.9274	35.3836
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.8002	35.3874
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.1621	35.3951
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.7041	35.4189
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-123.6541	35.4189
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.885	35.4235
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.835	35.4235
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.82	35.4895
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.77	35.4895
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.6767	35.501
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.6267	35.501
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.0952	35.5095
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.0452	35.5095
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.8699	35.5595
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.1027	35.5695
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.868	35.5846
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-123.818	35.5846
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.8426	35.5877
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.7926	35.5877
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-123.0763	35.5992
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-123.0263	35.5992
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-123.3204	35.6735
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-123.2704	35.6735
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.115	35.675
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.065	35.675
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.8445	35.7005
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.5815	35.7043
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.6909	35.725
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-123.0434	35.7266
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.8162	35.7273
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.9519	35.7386
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.9019	35.7386
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.7842	35.7431
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.7342	35.7431
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-123.2441	35.7993
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.6513	35.8008
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-123.1697	35.8242
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-123.1197	35.8242
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.6221	35.8272
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.5721	35.8272
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6041	35.8349
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.5541	35.8349
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.8605	35.8395
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.8105	35.8395
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7182	35.844
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.6682	35.844
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.9378	35.8448
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.8878	35.8448
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.918	35.8727
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.7634	35.878
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.1357	35.8925
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.8812	35.9242
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.8312	35.9242
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.7474	35.9258
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.6974	35.9258
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.5561	35.9628
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-123.1056	35.9742
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.8982	35.9765
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.8549	36.0043
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.8048	36.0043
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.4882	36.0043
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.4382	36.0043
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.3459	36.0127
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.2959	36.0127
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-123.0302	36.0135
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.9802	36.0135
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.1404	36.0204
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0904	36.0204
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.8794	36.0398
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6249	36.0452
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.1517	36.0589
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.8247	36.0642
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.6626	36.0696
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.7399	36.0912
+# @DC6n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|20.131|"Magnetic Anomaly"
+-122.6899	36.0912
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.6202	36.095
+# @DC6n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|19.048|"Magnetic Anomaly"
+-122.5702	36.095
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.4147	36.1412
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.8077	36.142
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.9755	36.1465
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6569	36.1544
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6069	36.1544
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.8992	36.159
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.8492	36.159
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.3563	36.1635
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.3063	36.1635
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.7484	36.1658
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.6983	36.1658
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.0368	36.1704
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.9868	36.1704
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.9029	36.1803
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.8529	36.1803
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.361	36.2143
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.5853	36.2356
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.7172	36.2995
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.9981	36.3033
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.3025	36.3094
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.8068	36.3192
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.655	36.3361
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.605	36.3361
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.2187	36.3383
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.1687	36.3383
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.3977	36.3421
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.3477	36.3421
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.951	36.3421
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.901	36.3421
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.7785	36.3467
+# @DC6An.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|21.32|"Magnetic Anomaly"
+-122.7285	36.3467
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.4675	36.3543
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.4175	36.3543
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.9359	36.3868
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6777	36.3876
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.8935	36.4012
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.6164	36.4073
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.1744	36.4771
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.6136	36.4855
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.8916	36.4885
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.1065	36.5044
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.0565	36.5044
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.8567	36.5151
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.8067	36.5151
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.6296	36.5158
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.5796	36.5158
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.967	36.5211
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.917	36.5211
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.4854	36.5234
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.4354	36.5234
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7012	36.5241
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6512	36.5241
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.3648	36.5658
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4213	36.5756
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.2809	36.5953
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.2309	36.5953
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.0669	36.6423
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.8058	36.6438
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.8417	36.6641
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7917	36.6641
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.7597	36.683
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.7097	36.683
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.9811	36.6937
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7163	36.7066
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.6513	36.7209
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.3506	36.7255
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.2064	36.73
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.4401	36.7616
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.3901	36.7616
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.1291	36.7722
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-124.0791	36.7722
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.263	36.7775
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.213	36.7775
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.7163	36.8146
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4562	36.825
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4062	36.825
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-126.0019	36.8273
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.9519	36.8273
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7154	36.8288
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6654	36.8288
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.6532	36.831
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.6032	36.831
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.6805	36.8348
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-123.6305	36.8348
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0123	36.8644
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7889	36.8773
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.4053	36.8818
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.4854	36.8871
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.3949	36.9283
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.3449	36.9283
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0283	36.9652
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.9783	36.9652
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.771	36.9765
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.721	36.9765
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.1517	36.9805
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.1018	37.0051
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-124.0518	37.0051
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-126.0057	37.0415
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4647	37.0423
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7502	37.0438
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.3534	37.0453
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.6645	37.0566
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.2894	37.0871
+# @DC9n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.972|"Magnetic Anomaly"
+-124.2393	37.0871
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.7493	37.0886
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.6993	37.0886
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7474	37.148
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6974	37.148
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.509	37.148
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.459	37.148
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.9859	37.1532
+# @DC12n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.939|"Magnetic Anomaly"
+-125.9359	37.1532
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.6739	37.1855
+# @DC13n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|33.058|"Magnetic Anomaly"
+-126.6239	37.1855
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7719	37.2122
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0481	37.2137
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.6777	37.2235
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7568	37.2516
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7068	37.2516
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.59	37.2576
+# @DC6Bn.2n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|22.804|"Magnetic Anomaly"
+-123.54	37.2576
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-124.0735	37.2613
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-124.0235	37.2613
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0707	37.3183
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0207	37.3183
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.524	37.3743
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7455	37.3803
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7663	37.3818
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-124.0189	37.393
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.3214	37.396
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.2611	37.4134
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.2111	37.4134
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7729	37.4149
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7229	37.4149
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.9519	37.4269
+# @DC6Cn.3n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.118|"Magnetic Anomaly"
+-123.9019	37.4269
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.5052	37.4905
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4552	37.4905
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7314	37.4912
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6814	37.4912
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0952	37.524
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7813	37.5435
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.1282	37.5786
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.0509	37.6056
+# @DC7n.1n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|24.781|"Magnetic Anomaly"
+-124.0009	37.6056
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.8124	37.6586
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7624	37.6586
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7191	37.7011
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.5042	37.7063
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.8077	37.8033
+# @DC10n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.283|"Magnetic Anomaly"
+-124.3506	37.8107
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.1178	37.8114
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0678	37.8114
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.8077	37.8196
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7577	37.8196
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.5118	37.8315
+# @DC11n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.098|"Magnetic Anomaly"
+-125.4618	37.8315
+# @DC10n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.283|"Magnetic Anomaly"
+-124.361	37.8374
+# @DC10n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.283|"Magnetic Anomaly"
+-124.311	37.8374
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.7012	37.8397
+# @DC12n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|30.479|"Magnetic Anomaly"
+-125.6512	37.8397
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.1301	38.0577
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7955	38.0584
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.803	38.1642
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.753	38.1642
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.1122	38.1657
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0622	38.1657
+# @DC10n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.283|"Magnetic Anomaly"
+-124.1385	38.2239
+# @DC10n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.283|"Magnetic Anomaly"
+-124.1517	38.353
+# @DC10n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.283|"Magnetic Anomaly"
+-124.1017	38.353
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0679	38.3837
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7672	38.3904
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-125.0123	38.5065
+# @DC11n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|29.401|"Magnetic Anomaly"
+-124.9622	38.5065
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7531	38.511
+# @DC10n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|28.745|"Magnetic Anomaly"
+-124.7031	38.511
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-124.853	39.0034
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-124.803	39.0034
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-126.0971	39.0504
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-125.9378	39.06
+# @DC8n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.823|"Magnetic Anomaly"
+-125.2358	39.067
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-126.1442	39.2425
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-126.0942	39.2425
+# @DC8n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.823|"Magnetic Anomaly"
+-125.3787	39.2487
+# @DC8n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.823|"Magnetic Anomaly"
+-125.3287	39.2487
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-125.9746	39.2498
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-125.9246	39.2498
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-124.9359	39.2903
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-125.1734	39.5011
+# @DC7n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.183|"Magnetic Anomaly"
+-125.1234	39.5011
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-126.1433	39.5337
+# @DC8n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.823|"Magnetic Anomaly"
+-125.4313	39.5406
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-125.9859	39.5467
+# @DC8n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.823|"Magnetic Anomaly"
+-125.3242	39.7266
+# @DC8n.1n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|25.823|"Magnetic Anomaly"
+-125.2742	39.7266
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-125.9142	39.7335
+# @DC8n.2n|o|3|N/A|Theberge_1971_NatOceanSurv|N/A|26.554|"Magnetic Anomaly"
+-125.8642	39.7335
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-126.1056	39.7385
+# @DC9n|y|3|N/A|Theberge_1971_NatOceanSurv|N/A|27.027|"Magnetic Anomaly"
+-126.0556	39.7385

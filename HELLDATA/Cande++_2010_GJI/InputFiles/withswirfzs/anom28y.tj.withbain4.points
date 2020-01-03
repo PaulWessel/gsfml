@@ -1,0 +1,92 @@
+  14
+ 2  10 -58.729134 16.971702 5.0 3 digged 24 mar bainfz 1 
+ 2  10 -58.462335 17.015550 5.0 3 digged 24 mar bainfz 1 
+ 2  10 -58.351082 17.021364 5.0 3 digged 24 mar bainfz 1 
+ 2  11 -58.853650 21.055458 5.0 3 digged 24 mar bainfz 2 
+ 2  11 -58.623776 21.057626 5.0 3 digged 24 mar bainfz 2 
+ 2  11 -58.493283 21.072417 5.0 3 digged 24 mar bainfz 2 
+ 2  12 -58.042696 23.723997 5.0 3 digged 24 mar bainfz 3 
+ 2  12 -57.819273 23.729525 5.0 3 digged 24 mar bainfz 3 
+ 2  12 -57.692535 23.694267 5.0 3 digged 24 mar bainfz 3 
+ 2  13 -56.827576 26.023745 5.0 3 digged 24 mar bainfz 4 
+ 2  13 -56.587262 25.995937 5.0 3 digged 24 mar bainfz 4 
+ 2  13 -56.453820 25.948874 5.0 3 digged 24 mar bainfz 4 
+ 2  14 -55.342817 27.731930 5.0 3 digged 24 mar bainfz 5 
+ 2  14 -55.119941 27.665081 5.0 3 digged 24 mar bainfz 5 
+ 2  14 -54.998237 27.595358 5.0 3 digged 24 mar bainfz 5 
+ 3  10 -48.177955 24.311871 5.0 2 digged 24 mar bainfz 1 
+ 3  10 -48.375815 24.444349 5.0 2 digged 24 mar bainfz 1 
+ 3  10 -48.486898 24.539628 5.0 2 digged 24 mar bainfz 1 
+ 3  11 -48.035557 27.577653 5.0 2 digged 24 mar bainfz 2 
+ 3  11 -48.236270 27.771606 5.0 2 digged 24 mar bainfz 2 
+ 3  11 -48.351744 27.846936 5.0 2 digged 24 mar bainfz 2 
+ 3  12 -47.063215 29.349036 5.0 2 digged 24 mar bainfz 3 
+ 3  12 -47.316042 29.418330 5.0 2 digged 24 mar bainfz 3 
+ 3  12 -47.439142 29.477786 5.0 2 digged 24 mar bainfz 3 
+ 3  13 -45.745583 30.965160 5.0 2 digged 24 mar bainfz 4 
+ 3  13 -45.972627 31.055796 5.0 2 digged 24 mar bainfz 4 
+ 3  13 -46.105863 31.115308 5.0 2 digged 24 mar bainfz 4 
+ 3  14 -44.195883 32.054174 5.0 2 digged 24 mar bainfz 5 
+ 3  14 -44.418074 32.112800 5.0 2 digged 24 mar bainfz 5 
+ 3  14 -44.562414 32.146530 5.0 2 digged 24 mar bainfz 5 
+2  9 -57.577627 14.244348  5.0  3   dig based on Royer88 13 feb 09
+2  9 -57.648426 14.477946 5.0  3   dig based on Royer88 13 feb 094
+2  9 -58.133077 15.404430  5.0  3   dig based on Royer88 13 feb 09
+3  9  -47.320257 21.551307  5.0  2   dig based on Royer88 13 feb 09
+3  9  -47.384442 21.884814  5.0  2   dig based on Royer88 13 feb 09
+3  1  -27.605900 52.067787  3.5  1  mm a84yaf  from jdy
+3  1  -27.787228 52.499626  3.5  1  mm a84yaf  from jdy
+3  2  -29.348555 52.304321  3.5  1  mm a84yaf  from jdy
+3  2  -29.394085 52.391159  3.5  1  mm a84yaf  from jdy
+3  2  -29.825056 53.098240  3.5  1  mm a84yaf  from jdy
+3  2  -29.963968 53.154583  3.5  1  mm a84yaf  from jdy
+3  2  -30.097895 53.534496  3.5  1  mm a84yaf  from jdy
+3  8  -31.938700 51.425148   6.0  2  mm a84yaf  from jdy
+3  8  -31.990717 51.131924   6.0  2  mm a84yaf  from jdy
+3  8  -32.031017 50.761662   6.0  2  mm a84yaf  from jdy
+3  8  -32.425213 48.865738   6.0  2  mm a84yaf  from jdy
+3  8  -32.502174 48.228146   6.0  2  mm a84yaf  from jdy
+3  8  -32.250700   49.942017     6.0  2   anom28y  dig 23 jan
+2  3  -42.036304 55.145588  3.5  1  mm a84yan  from jdy
+2  3  -42.440556 56.089127  3.5  1  mm a84yan  from jdy
+2  4  -44.468506 56.427849  3.5  1  mm a84yan  from jdy
+2  5  -46.331879 57.569630  3.5  1  mm a84yan  from jdy
+2  5  -46.485294 57.863998  3.5  1  mm a84yan  from jdy
+2  8  -43.267483 51.962734   6.0  3  mm a84yan  from jdy
+2  8  -43.306633 52.359108   6.0  3  mm a84yan  from jdy
+2  8  -43.342274 50.075256   6.0  3  mm a84yan  from jdy
+2  8  -43.442909 51.460335   6.0  3  mm a84yan  from jdy
+2  8  -43.444561 50.839149   6.0  3  mm a84yan  from jdy
+2  8  -43.599160   48.160187      6.0  3  anom28y  dig 23 jan
+2  8    -43.585042   48.261396      6.0  3  anom28y  dig 23 jan
+2  8    -43.596707   48.325410      6.0  3  anom28y  dig 23 jan
+2  8    -43.459439   49.228215      6.0  3  anom28y  dig 23 jan
+2  8    -43.340381   50.025616      6.0  3  anom28y  dig 23 jan
+1  1   -6.315447   74.163962    3.5  3  anom28y dig 23 jan
+1  2  -7.610912 74.753899  3.5  3  mm a84yin  from jdy
+1  2  -7.574508 76.041740  3.5  3  mm a84yin  from jdy
+1  3  -7.329502 78.844803  3.5  2  mm a84yin  from jdy
+1  3  -7.518828 77.766075  3.5  2  mm a84yin  from jdy
+1  3  -7.568798 77.393204  3.5  2  mm a84yin  from jdy
+1  4  -8.966664 80.019951  3.5  2  mm a84yin  from jdy
+1  5   -10.243755   80.844673    5.0  2  anom28y  dig 23 jan
+1  6   -7.465123   74.274098    5.0  3  FZ C  anom28y
+1  6   -7.121244   74.329433    5.0  3  FZ C  anom28y
+1  6   -6.766932   74.368934    5.0  3  FZ C  anom28y
+1  6   -6.446101   74.421915    5.0  3  FZ C  anom28y
+1  6   -6.126244   74.428882    5.0  3  FZ C  anom28y
+1  7   -9.006640   79.062205    5.0  2  FZ A  anom28y
+1  7   -8.536868   79.039840    5.0  2  FZ A  anom28y
+1  7   -8.155275   79.034051    5.0  2  FZ A  anom28y
+1  7   -7.741629   79.020766    5.0  2  FZ A  anom28y
+1  7   -7.210421   78.963310    5.0  2  FZ A  anom28y
+3  6     -28.988223   51.945838      5.0   1  FZ C  anom28y
+3  6     -28.676865   52.206704      5.0   1  FZ C  anom28y
+3  6     -28.394173   52.409007      5.0   1  FZ C  anom28y
+3  6     -28.229095   52.580810      5.0   1  FZ C  anom28y
+3  6     -27.996013   52.778152      5.0   1  FZ C  anom28y
+2  7  -44.127800   56.023281    5.0   1  FZ A   anom28y
+2  7  -43.736653   56.305245    5.0   1  FZ A  anom28y
+2  7  -43.411691   56.526356    5.0   1  FZ A  anom28y
+2  7  -43.011568   56.774539    5.0   1  FZ A  anom28y
+2  7  -42.667855   57.005455    5.0   1  FZ A  anom28y

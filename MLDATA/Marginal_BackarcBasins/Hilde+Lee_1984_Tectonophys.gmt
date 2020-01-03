@@ -1,0 +1,531 @@
+# @VGMT1.0 @GPOINT
+# @R121.721504428/135.426842903/7.60406526661/23.9515971882               
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC26n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|57.554|"Magnetic Anomaly"
+128.04796	7.60407
+# @DC26n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|57.554|"Magnetic Anomaly"
+127.73863	8.02047
+# @DC25n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|56.1475|"Magnetic Anomaly"
+128.05986	8.43688
+# @DC25n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|56.1475|"Magnetic Anomaly"
+128.38108	7.93719
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+129.23769	8.68672
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+128.80939	9.28159
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+128.61903	9.53143
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+129.88014	9.42435
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+130.01101	9.2221
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+130.62967	9.72179
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+130.45121	9.88835
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+131.35541	10.87582
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+130.9509	11.06618
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+130.72485	11.28033
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+129.74701	11.20143
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+128.90468	12.00093
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+128.11946	12.27219
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+127.58646	12.95272
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+126.84323	13.24539
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+127.03835	13.81884
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+126.72426	14.27094
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+126.66715	14.31853
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+126.3959	14.64689
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+127.12687	14.92291
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+127.27915	14.83725
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+127.47903	14.77063
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+127.76456	14.5422
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+128.53551	14.11389
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+128.87815	13.78077
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+129.00188	13.68559
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+129.35404	13.2097
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+129.47777	13.14307
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+129.6491	12.97175
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+130.02981	12.84802
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+130.99111	12.61007
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+131.42893	12.44827
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+131.75254	12.34358
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+132.70432	12.01997
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+133.35154	11.80106
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+123.14672	20.49186
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+122.99206	20.7417
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+123.42084	21.70896
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+123.70637	21.44246
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+124.74382	20.70006
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+124.97224	20.51922
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+122.09786	22.07063
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+121.7215	22.06373
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+122.10222	22.53011
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+122.66853	22.52535
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+125.91078	23.18113
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+124.88286	22.63861
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+124.56877	22.66003
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+124.47597	22.21031
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+125.0399	22.16034
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+125.4682	21.79628
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+126.73098	22.45063
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+126.94514	22.37211
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+127.39485	22.14368
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+132.20898	18.31608
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+133.00134	18.07338
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+133.39395	17.93061
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+133.82939	19.18696
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+133.58669	19.26549
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+133.45106	19.35829
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+133.12269	19.44395
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+129.94611	21.29279
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+129.86045	21.38559
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+129.35125	22.37068
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+129.22751	22.4849
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+128.5803	23.17018
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+128.50416	23.26536
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+130.8741	21.82912
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+133.25356	20.72505
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+133.8627	20.90589
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+135.05362	21.56658
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+134.63722	21.70935
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+133.18575	21.91161
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+132.41445	22.26365
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+131.47218	22.80616
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+135.42684	22.23509
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+135.11275	22.49208
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+132.25145	23.74367
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+131.93736	23.80078
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+132.00518	17.34613
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+133.24845	17.08439
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+133.4388	17.0725
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+133.60537	16.50143
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+133.22465	16.57281
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+131.95759	16.80481
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+133.81357	15.7519
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+133.19491	15.79948
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+132.65358	15.86492
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+133.879	15.45446
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+132.61194	15.65672
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+132.54651	15.7162
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+132.40374	15.78164
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+131.91	15.87087
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+133.27224	15.12729
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+132.72496	14.68114
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+132.41564	14.78226
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+132.26692	14.82985
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+131.74939	14.97857
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+132.5584	14.48483
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+132.36805	14.52647
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+132.20743	14.55027
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+131.91595	14.59786
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+131.55308	14.68114
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+132.08846	13.91971
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+131.98138	13.93756
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+131.89215	13.94945
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+132.08846	13.44977
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+130.74406	13.73411
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+131.29134	13.68652
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+131.01175	14.79297
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+130.7857	14.85841
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+131.0296	15.22128
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+131.08909	16.66323
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+130.79403	16.7013
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+131.2033	17.14864
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+130.55252	18.36177
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+130.14801	18.43315
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+130.54062	17.58844
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+130.26698	17.62413
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+130.27888	17.12445
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+130.13611	17.13634
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+130.54062	16.83891
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+130.13611	16.8865
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+130.05283	14.06684
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+130.24319	14.0133
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+129.80299	14.06684
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+130.90825	17.84344
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+130.06473	15.45288
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+130.13016	14.76283
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+129.94575	14.81637
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+130.00167	19.60087
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+129.71019	19.64251
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+129.54957	18.86324
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+129.25214	18.89298
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+129.18671	18.21484
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+128.73461	18.22673
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+129.04989	17.95309
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+128.82979	17.94715
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+128.84168	17.71515
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+129.2224	17.69135
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+129.09099	17.13138
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+128.91253	16.96482
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+129.0315	16.33426
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+128.73407	15.60852
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+129.16237	15.50145
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+129.4717	15.29919
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+128.35335	16.35805
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+128.21059	16.36995
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+127.99644	16.40564
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+128.44853	16.73877
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+128.163	16.79826
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+127.66331	20.54829
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+127.96074	19.95342
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+127.91601	19.47991
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+128.2301	19.45135
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+127.30211	19.2372
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+127.89031	19.15154
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+127.1507	18.03637
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+127.90023	17.98283
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+127.74556	16.53136
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+127.10311	19.20825
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+126.12753	19.30343
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+126.28814	19.74363
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+126.34763	20.66091
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+122.70434	19.13834
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+122.61729	19.2712
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+124.40189	18.93807
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+124.28291	19.0392
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+123.85461	19.4913
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+123.74159	19.65786
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+123.58097	19.92555
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+123.31328	20.24202
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+122.94229	18.81712
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+123.00772	18.72194
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+122.10222	22.53011
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+122.66853	22.52535
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+122.65941	22.0516
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+122.52661	22.07482
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+121.88846	21.49004
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+122.62134	21.50908
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+122.09786	21.49956
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+122.05606	23.08833
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+122.6771	23.08833
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+124.25841	21.04271
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+123.96335	21.2521
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+124.3631	20.96656
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+125.36827	23.20254
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+125.75374	22.59578
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+128.14438	21.77963
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+128.30428	23.45572
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+129.12282	23.9516
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+129.55112	23.61847
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+126.65097	15.83662
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+125.82292	16.17927
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+126.19412	16.05553
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+126.27026	15.97939
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+126.86988	17.11392
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+128.54371	18.30921
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+129.29652	20.50899
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+131.18105	18.68014
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+131.27385	18.64445
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+131.99483	18.40888
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+129.93897	19.91651
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+130.13171	19.77374
+# @DC20n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|43.789|"Magnetic Anomaly"
+129.68199	20.2877
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+130.26734	21.04294
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+130.6314	20.96442
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+132.68725	19.65096
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+131.45945	20.37194
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+131.60935	20.20775
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+132.35175	19.80087
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+130.82413	20.92159
+# @DC21n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|46.264|"Magnetic Anomaly"
+131.54511	20.26486
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+134.30053	20.70165
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+134.22438	20.73457
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+132.34937	20.99155
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+131.81637	21.27708
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+131.60067	22.70623
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+132.20029	22.37786
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+134.32789	21.86402
+# @DC23n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|51.395|"Magnetic Anomaly"
+134.12563	21.89971
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+135.02471	22.57774
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+134.93429	22.60629
+# @DC24n.2n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|52.779|"Magnetic Anomaly"
+133.97299	22.8252
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+132.93912	17.17362
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+132.45728	17.27475
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+133.03429	17.12603
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+127.98454	20.5007
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+131.80292	13.43192
+# @DC19n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|41.389|"Magnetic Anomaly"
+131.678	13.44977
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+131.06053	17.16767
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+132.3383	16.73342
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+133.06404	16.61445
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+132.86773	16.66799
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+131.02365	14.4658
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+131.31513	14.42416
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+132.60004	15.92441
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+132.54651	15.972
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+131.93974	16.13261
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+128.163	17.17897
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+130.16585	15.42908
+# @DC17n.1n|y|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|36.618|"Magnetic Anomaly"
+128.31766	17.14328
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+128.41284	17.61917
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+127.97161	19.14877
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+130.17775	15.82764
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+133.19491	15.46041
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+129.99929	15.84549
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+128.21059	17.65486
+# @DC22n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|49.3755|"Magnetic Anomaly"
+130.95024	21.75298
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+131.8981	15.35928
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+130.40975	16.27974
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+127.84074	18.49441
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+127.48977	18.542
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+132.51676	15.2879
+# @DC18n.2n|o|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|40.13|"Magnetic Anomaly"
+126.93651	17.58981
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+131.56498	16.19685
+# @DC16n.1n|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|35.4345|"Magnetic Anomaly"
+131.07005	16.26348
+# @DC13r|c|2|N/A|Hilde+Lee_1984_Tectonophysics|10.1016/0040-1951(84)90009-X|34.1|"Magnetic Anomaly"
+126.43686	20.16599

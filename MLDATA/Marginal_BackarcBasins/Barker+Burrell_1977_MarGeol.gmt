@@ -1,0 +1,533 @@
+# @VGMT1.0 @GPOINT
+# @R-74.5635/-43.8217/-62.2337/-54.0328                                   
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-62.8485	-62.2337
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-62.255	-61.9719
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.5724	-61.7922
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.5796	-61.7824
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.1727	-61.585
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-64.8855	-61.5391
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-61.2316	-61.4163
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-62.7753	-61.3888
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-64.1886	-61.2837
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-65.4726	-61.2772
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-62.3398	-61.1818
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.7261	-61.0505
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-64.7267	-60.9389
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.2687	-60.8783
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.933	-60.8708
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.9328	-60.8605
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-66.6699	-60.8148
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.0192	-60.7923
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-64.2264	-60.7743
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-65.2868	-60.7016
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-65.2723	-60.6955
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-64.7794	-60.566
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-63.7114	-60.5386
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-63.617	-60.4999
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.887	-60.4592
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-67.1903	-60.4242
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-64.1928	-60.4054
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.8445	-60.3822
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.9741	-60.339
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.9981	-60.3149
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-61.9142	-60.2826
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-61.9377	-60.2743
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-64.7665	-60.2705
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-64.6244	-60.2343
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.516	-60.2274
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-67.8227	-60.1006
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.0847	-60.0344
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-68.4082	-59.9925
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.2907	-59.9373
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.0247	-59.8969
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-66.2806	-59.8961
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-61.0167	-59.7978
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-68.2595	-59.79
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-52.2828	-59.7658
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-52.2468	-59.7517
+# @DC9n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|27.972|"Magnetic Anomaly"
+-52.272	-59.7374
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.0499	-59.7344
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-52.6753	-59.7216
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-67.0033	-59.6907
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-53.3772	-59.6407
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.7365	-59.6403
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-53.3496	-59.6018
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-53.8778	-59.5695
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-53.8705	-59.5573
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.4266	-59.4747
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-51.7666	-59.4278
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-51.7534	-59.4096
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-67.8357	-59.4056
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-66.4689	-59.3733
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-52.3298	-59.3642
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-52.8974	-59.3165
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-69.1544	-59.3026
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.1549	-59.2969
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-52.9344	-59.2893
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-64.0262	-59.2581
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-53.8943	-59.2039
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-62.6502	-59.0933
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-53.5883	-59.0399
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-61.1232	-59.0369
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-53.1627	-59.0323
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-52.6637	-59.0244
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-52.17	-59.0132
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-64.6885	-59.0082
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-70.8559	-58.9738
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-68.5218	-58.9099
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-54.3903	-58.89
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-54.3717	-58.8815
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-54.3795	-58.8782
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-57.0387	-58.8344
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-57.0393	-58.8315
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-65.3247	-58.8294
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-63.5012	-58.8206
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-57.297	-58.7908
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-65.2671	-58.7849
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-54.8327	-58.7228
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-57.2182	-58.6786
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-57.6257	-58.608
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.4008	-58.5727
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-66.2494	-58.5616
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.4088	-58.5607
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-64.2381	-58.5523
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.5833	-58.5067
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.5239	-58.4624
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-57.3738	-58.4536
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-53.9879	-58.4217
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-62.5861	-58.3962
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-69.954	-58.3668
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-64.7341	-58.3436
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.9164	-58.336
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-57.1728	-58.3272
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.715	-58.315
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.719	-58.3104
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-54.3381	-58.3014
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.863	-58.2894
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-71.9354	-58.2855
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.1222	-58.2811
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.2764	-58.1605
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-73.1349	-58.1487
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-65.9287	-58.1353
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-63.097	-58.1245
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-56.5998	-58.1184
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.6915	-58.0872
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-66.979	-58.0545
+# @DC3n.4n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|5.23|"Magnetic Anomaly"
+-65.3509	-57.9831
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-56.41	-57.9564
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-56.8093	-57.901
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-71.3079	-57.8649
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-73.755	-57.8549
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-63.5213	-57.8515
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-65.658	-57.7494
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-53.0731	-57.7404
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-53.7038	-57.7358
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-54.6531	-57.6538
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-66.5767	-57.6535
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.3163	-57.633
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-68.3682	-57.6265
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-63.8459	-57.6121
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-74.103	-57.6063
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-56.3304	-57.5735
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-72.5805	-57.5332
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-64.1305	-57.4888
+# @DC9n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|27.972|"Magnetic Anomaly"
+-74.5635	-57.4152
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-73.2781	-57.3492
+# @DC4r.1n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|8.257|"Magnetic Anomaly"
+-66.4408	-57.281
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-73.7193	-57.2675
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.129	-57.234
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.3938	-57.1972
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.0613	-57.1766
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-74.3722	-57.129
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.8426	-57.0978
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-62.0123	-57.0953
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.0392	-57.084
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.3621	-57.0657
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-63.0477	-57.0321
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-63.0405	-57.0231
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-63.5816	-56.9686
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-67.9549	-56.9483
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-63.5928	-56.9394
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.2719	-56.9263
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-61.9035	-56.907
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.2807	-56.89
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-62.8021	-56.8084
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.2815	-56.7605
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-43.9517	-56.7162
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-43.9528	-56.6843
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.6445	-56.6798
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-43.9513	-56.6798
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-43.9515	-56.6727
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-62.534	-56.6391
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.9094	-56.6368
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-73.4291	-56.6351
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-44.8226	-56.6112
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-44.8016	-56.6032
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-63.486	-56.5807
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.135	-56.5386
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.2654	-56.5224
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-60.8895	-56.5092
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-60.8656	-56.5019
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.1428	-56.4898
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-63.8552	-56.4603
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-63.8337	-56.4475
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.1144	-56.4078
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-46.3131	-56.3627
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.4793	-56.3325
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-61.3179	-56.3079
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-46.2643	-56.3004
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-43.8217	-56.2998
+# @DC9n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|27.972|"Magnetic Anomaly"
+-64.4334	-56.2619
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-59.8481	-56.2505
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-63.2889	-56.2359
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-44.648	-56.2093
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-64.3888	-56.1861
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-60.1609	-56.1644
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-64.8648	-56.1442
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-60.6304	-56.1374
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-64.8504	-56.1142
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.0204	-56.1108
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-63.6296	-56.0858
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-63.0864	-56.054
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-62.1076	-56.0511
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-61.0483	-56.0225
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-64.2515	-55.973
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-63.5109	-55.9718
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-63.044	-55.913
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-63.4609	-55.8712
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-62.0005	-55.8467
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-64.1851	-55.8287
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-49.7845	-55.8002
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-49.7169	-55.7369
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-57.6417	-55.7312
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-57.6193	-55.7232
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-57.1867	-55.7171
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.7928	-55.7155
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-55.7492	-55.7139
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-64.0951	-55.7098
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-57.1536	-55.6977
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-56.3308	-55.6922
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-58.3179	-55.6896
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-56.3492	-55.6856
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-62.087	-55.683
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.107	-55.6755
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-62.9617	-55.6735
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.4	-55.6603
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-58.318	-55.6515
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-63.3115	-55.5986
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.0272	-55.5873
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.3852	-55.5529
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.5456	-55.5484
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.5367	-55.5304
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-64.0194	-55.5294
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.9405	-55.5287
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.6394	-55.5195
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.9067	-55.5064
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.6649	-55.5039
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-49.9102	-55.4567
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-51.1292	-55.451
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-51.1502	-55.4382
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-51.6622	-55.418
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-51.6374	-55.4116
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.3165	-55.4024
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-64.3361	-55.396
+# @DC9n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|27.972|"Magnetic Anomaly"
+-54.2112	-55.3923
+# @DC5n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|10.949|"Magnetic Anomaly"
+-50.6465	-55.3809
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-54.2151	-55.3785
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-53.5458	-55.3354
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.397	-55.3123
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-53.4616	-55.2829
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-51.5254	-55.2593
+# @DC10n.1n|y|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.283|"Magnetic Anomaly"
+-54.1101	-55.2293
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.7147	-55.2171
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-53.7119	-55.2133
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-53.2421	-55.1883
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.2182	-55.1123
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-53.6802	-55.0949
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-52.5937	-55.0595
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-50.8952	-55.0594
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-54.3768	-55.0538
+# @DC7n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|25.183|"Magnetic Anomaly"
+-53.1456	-55.0273
+# @DC8n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|26.554|"Magnetic Anomaly"
+-53.6217	-54.9977
+# @DC10n.2n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|28.745|"Magnetic Anomaly"
+-54.3765	-54.9772
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-47.4549	-54.5838
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.0071	-54.4337
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.4755	-54.4036
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-44.9169	-54.318
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-47.7991	-54.2981
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.4452	-54.2837
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.9705	-54.2834
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-45.9679	-54.2458
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-46.5715	-54.2335
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-46.5608	-54.1969
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-47.0398	-54.1679
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-48.1053	-54.1328
+# @DC6n|o|2|"RRS Shackleton, HMS Endurance, RRS Bransfield"|Barker+Burrell_1977_MarGeol|10.1016/0025-3227(77)90045-7|20.131|"Magnetic Anomaly"
+-48.026	-54.0328

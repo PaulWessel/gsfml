@@ -1,0 +1,19 @@
+# @VGMT1.0 @GPOINT
+# @R-155.1316/-154.0647/43.8629/47.3158                                   
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC26n|y|1|"RV Thomas Washington"|Caress++_1988_JGR|10.1029/JB093iB04p02813|57.554|"Magnetic Anomaly"
+-154.9915	43.8629
+# @DC25n|y|1|"RV Thomas Washington"|Caress++_1988_JGR|10.1029/JB093iB04p02813|55.904|"Magnetic Anomaly"
+-154.2854	43.9412
+# @DC25n|y|1|"RV Thomas Washington"|Caress++_1988_JGR|10.1029/JB093iB04p02813|55.904|"Magnetic Anomaly"
+-154.2354	43.9412
+# @DC25n|y|1|"RV Thomas Washington"|Caress++_1988_JGR|10.1029/JB093iB04p02813|55.904|"Magnetic Anomaly"
+-155.1316	46.045
+# @DC24n.3n|o|1|"RV Thomas Washington"|Caress++_1988_JGR|10.1029/JB093iB04p02813|53.347|"Magnetic Anomaly"
+-154.1147	47.3158
+# @DC24n.3n|o|1|"RV Thomas Washington"|Caress++_1988_JGR|10.1029/JB093iB04p02813|53.347|"Magnetic Anomaly"
+-154.0647	47.3158

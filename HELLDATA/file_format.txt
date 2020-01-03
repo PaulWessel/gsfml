@@ -1,0 +1,64 @@
+#	Information file for Hellinger data formats
+#
+#	Paul Wessel, Nov. 2013, Revised July 2015
+
+This directory contains the input data used for several published plate models.
+This modeling is done with software such as Ted Chang's hellinger[1|3] programs
+and the file formats reflect its expected input and output layout.
+To ensure a uniform system of nomenclature we have renamed all submitted files
+to follow a specific naming convention.  Each directory will have a top-level
+readme file called readme.<ref>.txt, which gives minimal information about the
+files in the directory, including full reference and DOI of the published paper.
+In addition there will sometimes be files that describe the data sets further.
+If present, these are called
+
+description.<ref>.<txt|docx>
+
+and will either be in text format or the Microsoft docx (xml-based) format.
+
+All additional files in this directory are called
+
+	<plates>.<chron>.<version>.<kind>.<ref>.<ext>
+
+where the various name-segments are:
+
+<plates>:	Hyphen-separated list of plates involved, starting with fixed plate
+		(typically 2 plates only, but sometimes 3 or even 4).
+<chron>:	The Chron being modeled (sometimes a tag if no specific chron was used)
+<version>:	Author-provided version if more than one solution, otherwise set to final.
+<kind>:		One of data, model, command, residual, lowerbound, upperbound, confregion.
+		All compilations have data files; only some will contain the other kinds.
+		* data: Input picks used to constrain the rotation.
+		* model: Solution using the listed data constraints
+		* command: Input arguments to the hellinger[1|3] programs
+		* residual: Misfits between input data and model predictions
+		* lowerbound: Lower bound angles needed to contour the lower hemisphere
+			confidence limits on the rotation angle
+		* upperbound: Upper bound angles needed to contour the upper hemisphere
+			confidence boundary on the rotation angle
+		* confregion: Polygon perimeter (lat,lon) for the confidence region
+			on the rotation pole
+<ref>:		Short reference tag to the original publication.
+<ext>:		File extension.  This is "pick" for <kind> = "data" and "txt" for others.
+NOTES:
+
+1. For most publications, only the data pick files are given.  The model, residual, lowerbound
+   upperbound, and confregion can be produced by running hellinger (1 or 3).  Command files
+   can usually be made by looking at the publication and they contain default answers to the
+   questions posed by the hellinger programs.  For reference, a command file may look like the
+   lines below (the # comment lines are just for information and not part of the file):
+
+NAM-AFR.C5.final.data.Muller++_1999_SedBasinWorld.pick		# Input data to be modeled
+77.42   31.57   2.56						# Initial guess of lat lon omega 
+10								# Search radius in degrees
+n								# Want grid search? y/n
+0.95								# Enter confidence level
+y								# Want an estimated kappa? y/n
+y								# Want to write three output files?
+NAM-AFR.C5.final.confregion.Muller++_1999_SedBasinWorld.txt	# Name of confidence region boundary file
+NAM-AFR.C5.final.upperbound.Muller++_1999_SedBasinWorld.txt	# Name of upper bounds on opening angle
+NAM-AFR.C5.final.lowerbound.Muller++_1999_SedBasinWorld.txt	# Name of lower bounds on opening angle
+
+2. The file extension ".txt" was chosen to avoid undesirable behaviors under operating systems
+   where file extensions can dictate which programs may open the file, etc.  However, for data
+   picks we have changed this to ".pick" so that such files can be read by GPlates.

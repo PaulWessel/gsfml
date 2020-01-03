@@ -1,0 +1,381 @@
+# @VGMT1.0 @GPOINT
+# @R118.439110397/153.569876614/-8.61769666305/7.001                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+141.966	0.678
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+141.932	0.767
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+141.961	0.778
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+147.434	1
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+137.962	1.178
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+141.935	1.232
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+138.983	1.269
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+139.162	1.332
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+141.912	1.639
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+142.973	1.646
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+136.987	1.675
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+140.477	1.732
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+140.652	1.772
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+140.84736	1.90068
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+147.171	1.865
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+144.393	1.9
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+144.74	1.908
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+148.754	1.986
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+137.96	1.998
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+147.989	2.01
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+148.424	2.027
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+139.16	2.112
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+139.016	2.123
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+142.991	2.201
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+136.96463	2.64123
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+140.5135	5.08915
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+139.161	2.306
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+139.014	2.353
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+146.26	2.394
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+146.629	2.417
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+146.997	2.444
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+145.711	2.452
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+145.83	2.465
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+147.5	2.544
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+140.20451	2.68608
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+140.46741	2.75372
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+147.771	2.613
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+135.93007	3.1783
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+135.015	2.807
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+148.27053	2.90418
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+145.991	2.857
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+148.459	2.864
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+148.22217	3.50828
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+137.975	2.908
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+146.5	2.997
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+146.91	3.055
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+145.177	3.056
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+139.002	3.147
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+136.12569	2.77405
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+139.165	3.174
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+147.559	3.186
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+135.97794	2.17004
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+137.96	3.33
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+140.04533	3.14618
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+135.031	3.43
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+136.224	3.465
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+145.575	3.467
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+137.956	3.481
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+143.692	3.494
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+136.489	3.499
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+136.185	3.559
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+142.992	3.571
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+135.035	3.577
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+145.575	3.584
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+136.44	3.595
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+135.97261	3.9029
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+146.888	3.678
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+142.994	3.684
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+144.657	3.685
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+147.338	3.712
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+140.511	3.927
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+138.985	3.933
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+147.88	3.964
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+139.15033	4.59559
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+139.735	4.027
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+138.986	4.035
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+148.012	4.125
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+146.811	4.236
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+147.081	4.299
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+144.27073	4.20975
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+147.696	4.53
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+147.832	4.614
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+143.01	4.684
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+143.956	4.695
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+146.864	4.793
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+146.705	4.796
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+147.561	4.899
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+137.99368	5.15982
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+135.81	4.963
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+147.698	4.974
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+137.04	5.049
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+146.371	5.381
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+146.595	5.421
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+147.316	5.501
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+147.496	5.524
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+143.047	5.659
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+143.38728	5.5248
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+145.982	6.123
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+146.623	6.13
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+147.049	6.159
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+147.276	6.196
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+136.712	6.484
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+137.025	6.703
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+138.631	6.809
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+138.633	6.813
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+137.997	6.949
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+139.163	6.986
+# @DC15r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+139.002	7.001
+# @DC21n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|46.264|"Magnetic Anomaly"
+120.02249	4.47071
+# @DC21n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|46.264|"Magnetic Anomaly"
+119.93672	4.4431
+# @DC21n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|46.264|"Magnetic Anomaly"
+118.78483	3.8663
+# @DC21n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|46.264|"Magnetic Anomaly"
+118.43911	3.70181
+# @DC21n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|46.264|"Magnetic Anomaly"
+121.45517	5.39684
+# @DC21n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|46.264|"Magnetic Anomaly"
+120.75232	4.77605
+# @DC21n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|46.264|"Magnetic Anomaly"
+122.61511	6.71584
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+120.43869	3.64096
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+120.06658	3.55386
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+119.48532	3.12323
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+121.31699	3.96289
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+120.9917	3.85493
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+122.05335	4.75531
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+123.79591	6.5277
+# @DC20n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|43.789|"Magnetic Anomaly"
+123.30433	6.05652
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+124.62253	5.82066
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+124.1011	4.97473
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+123.93598	4.85905
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+122.28384	3.50512
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+121.97039	3.37227
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+121.45683	3.04817
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+120.9428	2.96299
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+120.66737	2.88715
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+120.01287	2.55479
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+123.14513	3.50421
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+122.31364	3.16285
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+121.32938	2.60819
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+121.02099	2.51096
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+121.66984	2.73553
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+120.33237	2.24581
+# @DC17n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|36.618|"Magnetic Anomaly"
+124.8895	3.95384
+# @DC17n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|36.618|"Magnetic Anomaly"
+122.99975	2.74356
+# @DC17n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|36.618|"Magnetic Anomaly"
+121.97601	1.99008
+# @DC17n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|36.618|"Magnetic Anomaly"
+121.07787	1.54204
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+153.34513	-8.6177
+# @DC19n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|41.521|"Magnetic Anomaly"
+153.00393	-8.5982
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+153.40728	-8.26982
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+152.79234	-8.11702
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+152.3191	-7.99372
+# @DC18n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|40.13|"Magnetic Anomaly"
+152.15244	-7.95517
+# @DC17n.3n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|38.113|"Magnetic Anomaly"
+153.56988	-7.79638
+# @DC17n.3n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|38.113|"Magnetic Anomaly"
+152.54082	-7.56749
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+153.31228	-6.99283
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+152.37502	-6.86761
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+152.32736	-6.85242
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+139.58398	4.53861
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+142.99403	1.01165
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+141.35125	2.76936
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+135.01427	2.21613
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+135.34263	1.73358
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+137.96028	2.27669
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+140.07859	2.73355
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+140.17425	2.8035
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+145.38574	2.9402
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+145.16683	2.83551
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+146.32087	4.04189
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+145.13709	4.26675
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+144.91104	4.63795
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+148.24371	2.70154
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+146.40296	2.16854
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+146.18857	1.87492
+# @DC12r|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|33.058|"Magnetic Anomaly"
+144.63431	5.1117
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+145.57658	5.23781
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+142.70695	4.08318
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+139.02592	6.838
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+139.00213	6.36508
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+139.18356	0.68114
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+140.47144	1.17191
+# @DC16n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|35.343|"Magnetic Anomaly"
+136.98791	0.89886
+# @DC10n.2n|o|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|28.745|"Magnetic Anomaly"
+137.0825	6.17496
+# @DC11r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|30.098|"Magnetic Anomaly"
+139.17761	6.08097
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+144.99254	3.26797
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+145.68924	3.38599
+# @DC8n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|25.823|"Magnetic Anomaly"
+146.94988	4.06985
+# @DC8n.1n|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|25.823|"Magnetic Anomaly"
+146.70718	4.09841
+# @DC8r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|26.554|"Magnetic Anomaly"
+143.82137	3.4155
+# @DC16r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|36.341|"Magnetic Anomaly"
+139.19784	0.49447
+# @DC16r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|36.341|"Magnetic Anomaly"
+138.99796	0.6194
+# @DC16r|y|1|N/A|Gaina+Muller_2007_ESR|10.1016/j.earscirev.2007.04.004|36.341|"Magnetic Anomaly"
+140.47775	1.07792

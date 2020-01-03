@@ -1,0 +1,76 @@
+  10
+ 2  9 -58.351082 17.021364 5.0 3 digged 24 mar bainfz 1 
+ 2  9 -58.241436 17.017131 5.0 3 digged 24 mar bainfz 1 
+ 2  9 -58.100732 17.012503 5.0 3 digged 24 mar bainfz 1 
+ 2  10 -58.493283 21.072417 5.0 3 digged 24 mar bainfz 2 
+ 2  10 -58.369124 21.051064 5.0 3 digged 24 mar bainfz 2 
+ 2  10 -58.255912 21.015203 5.0 3 digged 24 mar bainfz 2 
+2  8  -57.419887 14.420322  3.49  3   dig based on Royer88 13 feb 09
+2  8  -57.474721 14.678999 3.49  3   dig based on Royer88 13 feb 092
+2  8  -57.898828 15.690521  3.49  3   dig based on Royer88 13 feb 09
+3 9 -48.4760 24.4516 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 9 -48.5781 24.5099 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 9 -48.7287 24.5845 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 10 -48.3545 27.7597 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 10 -48.4634 27.8021 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 10 -48.6118 27.8845 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 8 -47.6484 21.5615 6.0 2 dig based on Royer88 rot nubia-somalia
+3 8 -47.6761 21.6395 6.0 2 dig based on Royer88 rot nubia-somalia
+3  1 -27.809166 53.995819    3.49  1  mm a82yaf  from jdy
+3  1 -28.150444 54.479263    3.49  1  mm a82yaf  from jdy
+3  1 -28.195263 54.474972    3.49  1  mm a82yaf  from jdy
+3  1 -28.201670 54.595379    3.49  1  mm a82yaf  from jdy
+3  1 -28.511091 55.062099    3.49  1  mm a82yaf  from jdy
+3  1 -28.638844 55.207230    3.49  1  mm a82yaf  from jdy
+3  7 -32.385010 51.200859    3.49  2  mm a82yaf  from jdy was 6.0
+3  7 -32.449131 51.170231    3.49  2  mm a82yaf  from jdy was 6.0
+3  7 -32.587757 50.531193    3.49  2  mm a82yaf  from jdy was 6.0
+3  7 -32.959526 48.516273    3.49  2  mm a82yaf  from jdy was 6.0
+3  7 -33.027458 48.101162    3.49  2  mm a82yaf  from jdy was 6.0
+3  7  -32.686278   49.838827     6.0  2   anom26y  dig 23 jan
+2  2 -40.009705 56.957500    3.49  1  mm a82yan  from jdy
+2  2 -40.044632 57.236599    3.49  1  mm a82yan  from jdy
+2  2 -40.314304 57.720100    3.49  1  mm a82yan  from jdy
+2  2 -40.437206 58.028000    3.49  1  mm a82yan  from jdy
+2  3 -41.825497 57.773300    3.49  1  mm a82yan  from jdy
+2  3 -42.148388 58.712791    3.49  1  mm a82yan  from jdy
+2  7 -43.041580 49.912693    3.49  3  mm a82yan  from jdy was 6.0
+2  7  -43.367854   47.814072      3.49  3  anom26y  dig 23 jan was 6.0
+2  7  -43.353512   47.848198      3.49  3  anom26y  dig 23 jan was 6.0
+2  7  -43.357324   47.927277      3.49  3  anom26y  dig 23 jan was 6.0
+2  7  -43.135311   49.268996      3.49  3  anom26y  dig 23 jan was 6.0
+2  7  -43.017031   50.036283      3.49  3  anom26y  dig 23 jan was 6.0
+2  4 -43.186604 59.081841    3.49  1  mm a82yan  from jdy
+2  4 -43.266953 59.345215    3.49  1  mm a82yan  from jdy
+2  4 -43.453335 59.809830    3.49  1  mm a82yan  from jdy
+2  4 -43.469959 59.840477    3.49  1  mm a82yan  from jdy
+1  1 -10.019633 74.194862    3.49  3  mm a82yin  from jdy
+1  1 -10.062220 74.358246    3.49  3  mm a82yin  from jdy
+1  1 -10.138124 74.891937    3.49  3  mm a82yin  from jdy
+1  1 -10.215401 75.922096    3.49  3  mm a82yin  from jdy
+1  2 -10.254469 78.002243    3.49  2  mm a82yin  from jdy
+1  2 -10.262699 77.579704    3.49  2  mm a82yin  from jdy
+1  3 -11.581397 79.630699    3.49  2  mm a82yin  from jdy
+1  3 -11.586663 79.986580    3.49  2  mm a82yin  from jdy
+1  4 -12.338066 80.966820    3.49  2  mm a82yin  from jdy
+1  5   -9.762275   73.844546    5.0  3  FZ C  anom26
+1  5   -9.351691   73.868927    5.0  3  FZ C  anom26
+1  5   -9.086349   73.935017    5.0  3  FZ C  anom26
+1  5   -8.683499   74.005248    5.0  3  FZ C  anom26
+1  5   -8.306224   74.107070    5.0  3  FZ C  anom26
+1  6  -11.374538   79.099407    5.0  2  FZ A  anom26
+1  6   -11.041746   79.114903    5.0  2  FZ A  anom26
+1  6   -10.749499   79.129728    5.0  2  FZ A  anom26
+1  6   -10.414832   79.081170    5.0  2  FZ A  anom26
+1  6   -10.174357   79.075108    5.0  2  FZ A  anom26
+3  5    -27.405739   53.347339      5.0   1  FZ C  anom26
+3  5     -27.055160   53.665177      5.0   1  FZ C  anom26
+3  5     -26.767082   53.916298      5.0   1  FZ C  anom26
+3  5     -26.507433   54.147194      5.0   1  FZ C  anom26
+3  5     -26.331647   54.349085      5.0   1  FZ C  anom26
+2  6  -41.947598   57.498832    5.0   1  FZ A  anom26
+2  6  -41.551733   57.673711    5.0   1  FZ A  anom26
+2  6  -41.165274   57.882486    5.0   1  FZ A  anom26
+2  6  -40.928556   58.023213    5.0   1  FZ A  anom26
+2  6  -40.631519   58.185225    5.0   1  FZ A  anom26
+3  99   1.197100 54.331402  5.0   1  anom26y  carls jerome

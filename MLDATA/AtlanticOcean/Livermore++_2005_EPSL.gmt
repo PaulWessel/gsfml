@@ -1,0 +1,1513 @@
+# @VGMT1.0 @GPOINT
+# @R-40.9722/5.4566/-66.7933/-54.8346                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.2687	-56.6009
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.279	-56.6028
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.3457	-56.812
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.1494	-58.5047
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.3331	-58.7808
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.309	-58.8925
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-21.3115	-60.4522
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-21.4149	-60.5756
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-13.815	-59.3068
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-13.8678	-59.4775
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-14.4861	-59.7242
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-14.5014	-59.7766
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.5553	-60.3296
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.6016	-60.4349
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.6455	-60.5471
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-20.3747	-58.8252
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-21.8329	-59.7221
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-22.2557	-59.831
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-23.5689	-60.472
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+0.4652	-56.0286
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-12.6773	-59.7936
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-13.2411	-60.1392
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-14.2651	-60.579
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-21.9641	-58.8021
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-22.2028	-59.1645
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.0636	-59.3754
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.3639	-59.4902
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.3878	-59.5858
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-24.1197	-59.5906
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-5.4294	-58.2946
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-9.7653	-59.5106
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.5328	-60.3255
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.8377	-60.529
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.9844	-60.676
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-17.6904	-58.0258
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-18.3475	-58.1862
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.3557	-58.7604
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.5006	-59.0248
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-2.8226	-58.3392
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-4.0063	-58.5218
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-8.4076	-59.763
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.8772	-60.3359
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.9744	-60.5219
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.8568	-60.7995
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-18.8441	-57.7111
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-18.9423	-57.7987
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-19.4397	-57.8921
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-1.3569	-58.6106
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-2.6305	-58.8255
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-8.4479	-60.327
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-8.4982	-60.5043
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-11.7061	-62.092
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-19.9835	-57.2521
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.6233	-57.4515
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-19.6296	-61.9239
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.2762	-62.3178
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+3.2349	-60.0438
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+2.7334	-60.2682
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-24.4389	-55.8807
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-23.8568	-55.6935
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-23.8557	-55.6929
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+3.789	-60.6509
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+4.7442	-60.4516
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+4.7453	-60.4516
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.4814	-55.296
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.4814	-55.2953
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.7607	-55.1633
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.7607	-55.1627
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+4.4662	-60.8232
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4554	-60.687
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4554	-60.6859
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4566	-60.6859
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-26.0686	-54.9705
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-25.3055	-54.8346
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.4677	-63.7023
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.0761	-63.4687
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.0761	-63.4682
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-3.9916	-63.3515
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-4.2486	-63.5308
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-5.0703	-63.2044
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-5.2634	-63.3066
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-38.1705	-66.6892
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-37.5739	-66.6325
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-37.381	-66.6244
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-36.6078	-66.7007
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-35.8572	-66.7933
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-35.2785	-66.6728
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-34.2706	-66.6959
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.9477	-66.6792
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.8934	-66.6514
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.4641	-66.6885
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-32.623	-66.7206
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-32.3482	-66.6766
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-31.8214	-66.6077
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-31.0602	-66.587
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-30.6061	-66.4729
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-30.1016	-66.4948
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.9224	-66.4959
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.7868	-66.5096
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.1999	-66.4461
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-28.1125	-66.452
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-26.1569	-66.2952
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-25.5456	-66.1731
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-24.7158	-66.1107
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-24.3714	-66.0339
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-23.0599	-65.7876
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-21.029	-65.4644
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-20.0124	-65.2684
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-19.0111	-65.2616
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-18.338	-65.1626
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-38.4438	-66.4923
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-37.6671	-66.4057
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-37.5605	-66.4342
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-36.8755	-66.5061
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-36.1848	-66.5665
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-35.6435	-66.3889
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.5266	-66.4873
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.4194	-66.4667
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.3032	-66.4323
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-33.876	-66.347
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-32.7891	-66.5173
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-32.7232	-66.5149
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-31.9711	-66.4171
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-31.2566	-66.2698
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.7496	-66.2832
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.2174	-66.3153
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.0226	-66.2883
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-28.4226	-66.1803
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-26.6202	-66.0894
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-26.0303	-65.9343
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.2651	-65.9017
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.3351	-65.63
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-22.9718	-65.4941
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-21.022	-65.0421
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-19.9839	-65.0119
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-18.9997	-65.0002
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-18.3577	-64.7159
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-38.8704	-66.1467
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-37.2561	-66.2404
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-36.7361	-66.1835
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-36.0545	-66.1061
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-35.3605	-66.15
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-34.8759	-66.0343
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-34.6655	-65.9668
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-33.0369	-66.1468
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-32.2619	-65.9752
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-31.5709	-65.8966
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-30.5527	-65.853
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-29.0473	-65.7232
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-27.9509	-65.6397
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-26.7363	-65.5844
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-26.2513	-65.5483
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-25.223	-65.4084
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-24.2657	-65.185
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-21.0189	-64.6443
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-19.9157	-64.5527
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-18.9779	-64.176
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-18.3695	-64.0513
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-27.3544	-64.4022
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-21.9836	-63.4292
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-21.4812	-63.3009
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-40.1048	-65.177
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-39.3695	-65.16
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-38.5856	-65.2645
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-38.1154	-65.2701
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.9722	-65.2507
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.7542	-65.2233
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.4046	-65.1865
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.2206	-65.1594
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-36.6546	-65.1086
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-35.2775	-65.0303
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-34.1241	-64.9165
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-33.2615	-64.9039
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-32.5713	-64.7445
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-31.2014	-64.6528
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-30.8202	-64.5142
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-30.0256	-64.4476
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-28.4044	-64.2856
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-27.7446	-64.1726
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-22.4549	-63.1968
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-21.775	-62.9899
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.2706	-62.3147
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-39.5567	-65.0091
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.9017	-65.0177
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.6437	-65.0477
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.2673	-65.0078
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.1566	-64.9839
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.6355	-65.0078
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.5999	-65.0137
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.4056	-64.9709
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-36.8952	-64.9449
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-35.6642	-64.8063
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-34.275	-64.7322
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-33.3652	-64.7601
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-32.7383	-64.5353
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-30.3929	-64.2884
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-28.523	-63.9838
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-22.583	-63.0111
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-22.1376	-62.7251
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-20.6885	-62.116
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-39.804	-64.8345
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-39.1838	-64.8185
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.7326	-64.7683
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.5759	-64.768
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.1391	-64.7817
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-37.4236	-64.7446
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-37.326	-64.7018
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-35.9756	-64.6316
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-34.5324	-64.3865
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-34.4463	-64.3209
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-33.5894	-64.4222
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-33.0636	-64.1812
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-31.2153	-64.1052
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-29.2367	-63.7896
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-23.1737	-62.7358
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-22.9509	-62.6687
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-22.8149	-62.5939
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-21.5922	-61.9782
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-19.6087	-61.9306
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-40.427	-64.3973
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-40.3948	-64.3851
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.8353	-64.3493
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.7519	-64.3464
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.0988	-64.3449
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-38.2881	-64.2427
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-36.6255	-64.2575
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-35.7493	-64.2612
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-35.4158	-64.2147
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-32.6905	-63.7872
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-30.6542	-63.4369
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-30.6213	-63.3757
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-24.0797	-62.28
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.8282	-62.1508
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-22.6466	-61.6639
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-22.4008	-61.5689
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-17.0135	-61.0731
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.9722	-63.9822
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.9039	-63.9643
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.4888	-63.7868
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.3865	-63.7654
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-39.828	-63.7489
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-39.0306	-63.8522
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-37.307	-63.856
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-37.074	-63.8248
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-36.8625	-63.6761
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-34.3444	-63.4781
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-32.4539	-63.2984
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-25.6376	-62.0812
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-25.4957	-61.9367
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-33.4431	-63.1325
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-27.3484	-62.0552
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.2687	-56.6009
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.279	-56.6028
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.3457	-56.812
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.1494	-58.5047
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.3331	-58.7808
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.309	-58.8925
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-21.3115	-60.4522
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-21.4149	-60.5756
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-13.815	-59.3068
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-13.8678	-59.4775
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-14.4861	-59.7242
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-14.5014	-59.7766
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.5553	-60.3296
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.6016	-60.4349
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.6455	-60.5471
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-20.3747	-58.8252
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-21.8329	-59.7221
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-22.2557	-59.831
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-23.5689	-60.472
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+0.4652	-56.0286
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-12.6773	-59.7936
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-13.2411	-60.1392
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-14.2651	-60.579
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-21.9641	-58.8021
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-22.2028	-59.1645
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.0636	-59.3754
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.3639	-59.4902
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.3878	-59.5858
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-24.1197	-59.5906
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-5.4294	-58.2946
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-9.7653	-59.5106
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.5328	-60.3255
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.8377	-60.529
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.9844	-60.676
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-17.6904	-58.0258
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-18.3475	-58.1862
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.3557	-58.7604
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.5006	-59.0248
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-2.8226	-58.3392
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-4.0063	-58.5218
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-8.4076	-59.763
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.8772	-60.3359
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.9744	-60.5219
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.8568	-60.7995
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-18.8441	-57.7111
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-18.9423	-57.7987
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-19.4397	-57.8921
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-1.3569	-58.6106
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-2.6305	-58.8255
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-8.4479	-60.327
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-8.4982	-60.5043
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-11.7061	-62.092
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-19.9835	-57.2521
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.6233	-57.4515
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-19.6296	-61.9239
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.2762	-62.3178
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+3.2349	-60.0438
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+2.7334	-60.2682
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-24.4389	-55.8807
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-23.8568	-55.6935
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-23.8557	-55.6929
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+3.789	-60.6509
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+4.7442	-60.4516
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+4.7453	-60.4516
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.4814	-55.296
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.4814	-55.2953
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.7607	-55.1633
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.7607	-55.1627
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+4.4662	-60.8232
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4554	-60.687
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4554	-60.6859
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4566	-60.6859
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-26.0686	-54.9705
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-25.3055	-54.8346
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.4677	-63.7023
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.0761	-63.4687
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.0761	-63.4682
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-3.9916	-63.3515
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-4.2486	-63.5308
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-5.0703	-63.2044
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-5.2634	-63.3066
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+0.4652	-56.0286
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.2687	-56.6009
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.279	-56.6028
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-4.3457	-56.812
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-5.4294	-58.2946
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-4.0063	-58.5218
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-2.8226	-58.3392
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-1.3569	-58.6106
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-2.6305	-58.8255
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+3.2349	-60.0438
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+2.7334	-60.2682
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+3.789	-60.6509
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+4.7442	-60.4516
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+4.7453	-60.4516
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+4.4662	-60.8232
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4554	-60.687
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4554	-60.6859
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+5.4566	-60.6859
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-24.4389	-55.8807
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-23.8568	-55.6935
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-23.8557	-55.6929
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.4814	-55.296
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.4814	-55.2953
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.7607	-55.1633
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.7607	-55.1627
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-26.0686	-54.9705
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-25.3055	-54.8346
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-19.9835	-57.2521
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.6233	-57.4515
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-17.6904	-58.0258
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-18.3475	-58.1862
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-18.8441	-57.7111
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-18.9423	-57.7987
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-19.4397	-57.8921
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.1494	-58.5047
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.3331	-58.7808
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-14.309	-58.8925
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-20.3747	-58.8252
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.3557	-58.7604
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.5006	-59.0248
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-21.9641	-58.8021
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-22.2028	-59.1645
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-24.1197	-59.5906
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.0636	-59.3754
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.3639	-59.4902
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-23.3878	-59.5858
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-21.3115	-60.4522
+# @DC5n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|9.74|"Magnetic Anomaly"
+-21.4149	-60.5756
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-23.5689	-60.472
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-21.8329	-59.7221
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-22.2557	-59.831
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-14.4861	-59.7242
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-14.5014	-59.7766
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-13.8678	-59.4775
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-13.815	-59.3068
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.5553	-60.3296
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.6016	-60.4349
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-15.6455	-60.5471
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-12.6773	-59.7936
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-14.2651	-60.579
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-13.2411	-60.1392
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.5328	-60.3255
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.8377	-60.529
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-11.9844	-60.676
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-9.7653	-59.5106
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-17.0135	-61.0731
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-8.4076	-59.763
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.8772	-60.3359
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.9744	-60.5219
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-9.8568	-60.7995
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-8.4479	-60.327
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-8.4982	-60.5043
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-11.7061	-62.092
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.4677	-63.7023
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.0761	-63.4687
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-3.0761	-63.4682
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-3.9916	-63.3515
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-4.2486	-63.5308
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-5.0703	-63.2044
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-5.2634	-63.3066
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-25.6376	-62.0812
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-25.4957	-61.9367
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-27.3484	-62.0552
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-19.6296	-61.9239
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.2762	-62.3178
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.2706	-62.3147
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-21.775	-62.9899
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-22.4549	-63.1968
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-21.5922	-61.9782
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-19.6087	-61.9306
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-22.9509	-62.6687
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-22.8149	-62.5939
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-23.1737	-62.7358
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-22.6466	-61.6639
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-22.4008	-61.5689
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-24.0797	-62.28
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.8282	-62.1508
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-20.6885	-62.116
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-22.583	-63.0111
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-22.1376	-62.7251
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-21.9836	-63.4292
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-21.4812	-63.3009
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-18.9779	-64.176
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-18.3695	-64.0513
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-21.0189	-64.6443
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-19.9157	-64.5527
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-21.029	-65.4644
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-20.0124	-65.2684
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-19.0111	-65.2616
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-18.338	-65.1626
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-21.022	-65.0421
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-19.9839	-65.0119
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-18.9997	-65.0002
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-18.3577	-64.7159
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-34.3444	-63.4781
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-32.4539	-63.2984
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-33.4431	-63.1325
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-32.6905	-63.7872
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-30.6542	-63.4369
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-30.6213	-63.3757
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-29.2367	-63.7896
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-31.2153	-64.1052
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-31.2014	-64.6528
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-30.8202	-64.5142
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-30.0256	-64.4476
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-28.4044	-64.2856
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-27.7446	-64.1726
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-30.3929	-64.2884
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-28.523	-63.9838
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-27.3544	-64.4022
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-27.9509	-65.6397
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-26.7363	-65.5844
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-26.2513	-65.5483
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-25.223	-65.4084
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-24.2657	-65.185
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-26.1569	-66.2952
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-25.5456	-66.1731
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-24.7158	-66.1107
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-23.0599	-65.7876
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-24.3714	-66.0339
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-26.6202	-66.0894
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-26.0303	-65.9343
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.2651	-65.9017
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.3351	-65.63
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-22.9718	-65.4941
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-36.8625	-63.6761
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-37.074	-63.8248
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-37.307	-63.856
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-36.6255	-64.2575
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-35.7493	-64.2612
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-35.4158	-64.2147
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-33.0636	-64.1812
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-35.9756	-64.6316
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-34.4463	-64.3209
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-33.5894	-64.4222
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-34.5324	-64.3865
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-32.5713	-64.7445
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-35.2775	-65.0303
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-34.1241	-64.9165
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-33.2615	-64.9039
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-32.7383	-64.5353
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-35.6642	-64.8063
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-33.3652	-64.7601
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-34.275	-64.7322
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-33.0369	-66.1468
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-32.2619	-65.9752
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-29.0473	-65.7232
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-31.5709	-65.8966
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-30.5527	-65.853
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-32.623	-66.7206
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-32.3482	-66.6766
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-28.1125	-66.452
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-31.8214	-66.6077
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-31.0602	-66.587
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-30.6061	-66.4729
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-30.1016	-66.4948
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.9224	-66.4959
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.7868	-66.5096
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.1999	-66.4461
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-32.7891	-66.5173
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-32.7232	-66.5149
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-28.4226	-66.1803
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-31.9711	-66.4171
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-31.2566	-66.2698
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.7496	-66.2832
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.2174	-66.3153
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.0226	-66.2883
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-39.828	-63.7489
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-39.0306	-63.8522
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.4888	-63.7868
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.3865	-63.7654
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.9722	-63.9822
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.9039	-63.9643
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.8353	-64.3493
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.7519	-64.3464
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.0988	-64.3449
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-38.2881	-64.2427
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-40.427	-64.3973
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-40.3948	-64.3851
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-40.1048	-65.177
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-39.3695	-65.16
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-38.5856	-65.2645
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-38.1154	-65.2701
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.9722	-65.2507
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.7542	-65.2233
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.4046	-65.1865
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.2206	-65.1594
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-36.6546	-65.1086
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-39.5567	-65.0091
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.9017	-65.0177
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.6437	-65.0477
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.2673	-65.0078
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.1566	-64.9839
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.6355	-65.0078
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.5999	-65.0137
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.4056	-64.9709
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-36.8952	-64.9449
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-39.804	-64.8345
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-39.1838	-64.8185
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.7326	-64.7683
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.5759	-64.768
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.1391	-64.7817
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-37.4236	-64.7446
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-37.326	-64.7018
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.3032	-66.4323
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-33.876	-66.347
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.5266	-66.4873
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.4194	-66.4667
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-35.6435	-66.3889
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-36.8755	-66.5061
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-36.1848	-66.5665
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-36.0545	-66.1061
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-35.3605	-66.15
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-34.8759	-66.0343
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-34.6655	-65.9668
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-37.2561	-66.2404
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-36.7361	-66.1835
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-34.2706	-66.6959
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.9477	-66.6792
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.8934	-66.6514
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.4641	-66.6885
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-36.6078	-66.7007
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-35.8572	-66.7933
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-35.2785	-66.6728
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-38.8704	-66.1467
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-37.6671	-66.4057
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-38.4438	-66.4923
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-37.5605	-66.4342
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-37.381	-66.6244
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-38.1705	-66.6892
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-37.5739	-66.6325
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-38.1705	-66.6892
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-37.5739	-66.6325
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-37.381	-66.6244
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-36.6078	-66.7007
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-35.8572	-66.7933
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-35.2785	-66.6728
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-34.2706	-66.6959
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.9477	-66.6792
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.8934	-66.6514
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-33.4641	-66.6885
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-32.623	-66.7206
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-32.3482	-66.6766
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-31.8214	-66.6077
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-31.0602	-66.587
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-30.6061	-66.4729
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-30.1016	-66.4948
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.9224	-66.4959
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.7868	-66.5096
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-29.1999	-66.4461
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-28.1125	-66.452
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-26.1569	-66.2952
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-25.5456	-66.1731
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-24.7158	-66.1107
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-24.3714	-66.0339
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-23.0599	-65.7876
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-21.029	-65.4644
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-20.0124	-65.2684
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-19.0111	-65.2616
+# @DC34n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|83|"Magnetic Anomaly"
+-18.338	-65.1626
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-38.4438	-66.4923
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-37.6671	-66.4057
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-37.5605	-66.4342
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-36.8755	-66.5061
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-36.1848	-66.5665
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-35.6435	-66.3889
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.5266	-66.4873
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.4194	-66.4667
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-34.3032	-66.4323
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-33.876	-66.347
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-32.7891	-66.5173
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-32.7232	-66.5149
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-31.9711	-66.4171
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-31.2566	-66.2698
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.7496	-66.2832
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.2174	-66.3153
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-30.0226	-66.2883
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-28.4226	-66.1803
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-26.6202	-66.0894
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-26.0303	-65.9343
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-25.2651	-65.9017
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-24.3351	-65.63
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-22.9718	-65.4941
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-21.022	-65.0421
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-19.9839	-65.0119
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-18.9997	-65.0002
+# @DC33n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|73.619|"Magnetic Anomaly"
+-18.3577	-64.7159
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-38.8704	-66.1467
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-37.2561	-66.2404
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-36.7361	-66.1835
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-36.0545	-66.1061
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-35.3605	-66.15
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-34.8759	-66.0343
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-34.6655	-65.9668
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-33.0369	-66.1468
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-32.2619	-65.9752
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-31.5709	-65.8966
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-30.5527	-65.853
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-29.0473	-65.7232
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-27.9509	-65.6397
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-26.7363	-65.5844
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-26.2513	-65.5483
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-25.223	-65.4084
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-24.2657	-65.185
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-21.0189	-64.6443
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-19.9157	-64.5527
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-18.9779	-64.176
+# @DC32n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|71.071|"Magnetic Anomaly"
+-18.3695	-64.0513
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-27.3544	-64.4022
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-21.9836	-63.4292
+# @DC24n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|52.364|"Magnetic Anomaly"
+-21.4812	-63.3009
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-40.1048	-65.177
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-39.3695	-65.16
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-38.5856	-65.2645
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-38.1154	-65.2701
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.9722	-65.2507
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.7542	-65.2233
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.4046	-65.1865
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-37.2206	-65.1594
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-36.6546	-65.1086
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-35.2775	-65.0303
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-34.1241	-64.9165
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-33.2615	-64.9039
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-32.5713	-64.7445
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-31.2014	-64.6528
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-30.8202	-64.5142
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-30.0256	-64.4476
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-28.4044	-64.2856
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-27.7446	-64.1726
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-22.4549	-63.1968
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-21.775	-62.9899
+# @DC21n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|46.264|"Magnetic Anomaly"
+-20.2706	-62.3147
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-39.5567	-65.0091
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.9017	-65.0177
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.6437	-65.0477
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.2673	-65.0078
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-38.1566	-64.9839
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.6355	-65.0078
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.5999	-65.0137
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-37.4056	-64.9709
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-36.8952	-64.9449
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-35.6642	-64.8063
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-34.275	-64.7322
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-33.3652	-64.7601
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-32.7383	-64.5353
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-30.3929	-64.2884
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-28.523	-63.9838
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-22.583	-63.0111
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-22.1376	-62.7251
+# @DC20n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|42.536|"Magnetic Anomaly"
+-20.6885	-62.116
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-39.804	-64.8345
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-39.1838	-64.8185
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.7326	-64.7683
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.5759	-64.768
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-38.1391	-64.7817
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-37.4236	-64.7446
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-37.326	-64.7018
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-35.9756	-64.6316
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-34.5324	-64.3865
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-34.4463	-64.3209
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-33.5894	-64.4222
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-33.0636	-64.1812
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-31.2153	-64.1052
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-29.2367	-63.7896
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-23.1737	-62.7358
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-22.9509	-62.6687
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-22.8149	-62.5939
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-21.5922	-61.9782
+# @DC18n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|38.426|"Magnetic Anomaly"
+-19.6087	-61.9306
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-40.427	-64.3973
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-40.3948	-64.3851
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.8353	-64.3493
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.7519	-64.3464
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-39.0988	-64.3449
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-38.2881	-64.2427
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-36.6255	-64.2575
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-35.7493	-64.2612
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-35.4158	-64.2147
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-32.6905	-63.7872
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-30.6542	-63.4369
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-30.6213	-63.3757
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-24.0797	-62.28
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-23.8282	-62.1508
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-22.6466	-61.6639
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-22.4008	-61.5689
+# @DC13n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|33.058|"Magnetic Anomaly"
+-17.0135	-61.0731
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.9722	-63.9822
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.9039	-63.9643
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.4888	-63.7868
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-40.3865	-63.7654
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-39.828	-63.7489
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-39.0306	-63.8522
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-37.307	-63.856
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-37.074	-63.8248
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-36.8625	-63.6761
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-34.3444	-63.4781
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-32.4539	-63.2984
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-25.6376	-62.0812
+# @DC8n.1n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|25.823|"Magnetic Anomaly"
+-25.4957	-61.9367
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-33.4431	-63.1325
+# @DC6n|y|1|N/A|Livermore++_2005_EPSL|10.1016/j.epsl.2005.03.027|19.048|"Magnetic Anomaly"
+-27.3484	-62.0552

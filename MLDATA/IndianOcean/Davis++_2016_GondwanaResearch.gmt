@@ -1,0 +1,623 @@
+# @VGMT1.0 @GPOINT
+# @R42.7647/46.3338/-12.2409/-1.2571                                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+43.8921	-6.861
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+43.7565	-7.4906
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+44.8108	-6.8153
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+44.712	-7.5063
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+45.4162	-6.2869
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+45.4	-7.0011
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+44.377	-7.5166
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+46.3338	-6.8868
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+45.3422	-7.0296
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+43.5825	-7.0146
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+42.9785	-7.7357
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+43.0904	-7.1517
+# @DM0r|c|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|120.8|"Magnetic Anomaly"
+44.6085	-7.5094
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+46.3329	-6.92
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+44.6139	-7.5409
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+44.3725	-7.56
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+43.581	-6.9925
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+46.3275	-6.1679
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+45.2268	-6.2413
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+45.3474	-7.0613
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+44.8153	-6.7836
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+44.7074	-7.538
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+43.0965	-7.1217
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+43.9	-6.824
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+45.4	-7.0372
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+43.7485	-7.5276
+# @DM1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|121|"Magnetic Anomaly"
+45.4186	-6.251
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+43.9916	-6.3981
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+43.6398	-7.9322
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+44.8597	-6.3986
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+44.6634	-7.8448
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+45.4479	-5.9481
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+45.3945	-7.3798
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+44.3127	-7.9246
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+46.3218	-7.2521
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+46.3098	-5.8655
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+45.1878	-5.9427
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+45.4116	-7.3788
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+44.6194	-7.8391
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+43.6647	-7.9165
+# @DM2n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|123.55|"Magnetic Anomaly"
+43.1633	-6.8075
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.6152	-7.9456
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.4281	-6.068
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.4823	-6.092
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.2926	-8.0252
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+43.6558	-8.027
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+46.3023	-5.7636
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+45.1761	-5.8486
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.013	-8.0398
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+45.4257	-7.4631
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.8684	-6.2565
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.6547	-7.9397
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+43.1877	-6.6917
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+44.0115	-6.3055
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+45.3883	-7.4694
+# @DM2n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|124.05|"Magnetic Anomaly"
+43.6407	-8.0276
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+44.0752	-6.0092
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+43.5608	-8.3979
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+44.89	-5.925
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+44.6211	-8.2317
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+45.3678	-7.7195
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+44.2586	-8.3445
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+46.2731	-5.419
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+45.1317	-5.5062
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+45.4624	-7.7402
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+44.6154	-8.2201
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+43.708	-8.3709
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+42.7647	-8.7075
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+43.9014	-8.3847
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+44.5091	-5.8848
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+44.4392	-5.8819
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+43.3047	-6.2951
+# @DM4n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|125.67|"Magnetic Anomaly"
+43.3748	-5.9811
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+44.6193	-8.351
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+44.4457	-5.7295
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+44.5355	-5.7156
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+46.2564	-5.2472
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+45.1053	-5.31
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+45.4786	-7.8966
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+44.9306	-5.7089
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+44.6033	-8.3647
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+43.4048	-5.81
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+44.117	-5.8148
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+43.7292	-8.5396
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+43.8521	-8.5355
+# @DM4n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.57|"Magnetic Anomaly"
+44.2365	-8.5473
+# @DM6n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.91|"Magnetic Anomaly"
+45.0958	-5.2321
+# @DM6n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.91|"Magnetic Anomaly"
+44.1349	-5.7315
+# @DM6n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|126.91|"Magnetic Anomaly"
+44.4485	-5.6554
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+44.6251	-8.5257
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+44.4521	-5.5559
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+43.747	-8.6963
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+46.2337	-4.9957
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+45.1055	-5.1201
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+43.809	-8.6673
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+45.4931	-8.062
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+44.9561	-5.4542
+# @DM6n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.11|"Magnetic Anomaly"
+44.1647	-5.5926
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+44.6274	-8.5967
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+44.4526	-5.4828
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+46.2277	-4.9155
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+45.1165	-5.0292
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+43.7905	-8.7239
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+45.4994	-8.1395
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+44.9634	-5.3737
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+44.5911	-8.5944
+# @DM8n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|127.79|"Magnetic Anomaly"
+44.1778	-5.5156
+# @DM8n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.07|"Magnetic Anomaly"
+44.6296	-8.6622
+# @DM8n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.07|"Magnetic Anomaly"
+44.453	-5.4092
+# @DM8n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.07|"Magnetic Anomaly"
+46.2229	-4.8513
+# @DM8n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.07|"Magnetic Anomaly"
+45.1262	-4.949
+# @DM8n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.07|"Magnetic Anomaly"
+43.7659	-8.7992
+# @DM8n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.07|"Magnetic Anomaly"
+44.9722	-5.2887
+# @DM8n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.07|"Magnetic Anomaly"
+44.5882	-8.6533
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+44.6321	-8.7104
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+44.4475	-5.3186
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+44.2065	-8.9001
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+43.7654	-8.8912
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+46.2169	-4.7711
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+45.1365	-4.8719
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+43.7413	-8.8746
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+44.98	-5.2144
+# @DM9n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.34|"Magnetic Anomaly"
+44.5788	-8.7137
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+44.6381	-8.7889
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+44.4311	-5.2269
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+44.204	-8.9523
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+43.77	-8.9468
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+46.211	-4.6911
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+43.7166	-8.95
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+45.5157	-8.3409
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+44.9889	-5.1294
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+44.5661	-8.7942
+# @DM9n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.62|"Magnetic Anomaly"
+43.5233	-5.255
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+44.6441	-8.8673
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+44.4111	-5.1148
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+44.1966	-9.0156
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+43.7768	-9.0303
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+43.6854	-9.0437
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+45.5222	-8.4192
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+44.9981	-5.0309
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+44.5535	-8.8748
+# @DM10n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|128.93|"Magnetic Anomaly"
+43.552	-5.1607
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+44.6501	-8.9459
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+44.3902	-4.9976
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+44.6299	-5.0008
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+44.1881	-9.1015
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+43.7836	-9.1131
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+45.1722	-4.6052
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+43.6541	-9.1375
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+45.5178	-8.5211
+# @DM10n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.25|"Magnetic Anomaly"
+44.543	-8.9576
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+44.1787	-9.1989
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+46.1955	-4.4832
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+45.5096	-8.6286
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+44.6536	-9.0264
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+44.3719	-4.8789
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+43.7913	-9.2066
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+44.6547	-4.8864
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+43.6229	-9.2312
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+45.1874	-4.486
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+44.5323	-9.0562
+# @DM10Nn.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|129.63|"Magnetic Anomaly"
+43.6148	-4.9466
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+44.3359	-4.6664
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+44.6908	-4.6833
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+44.1631	-9.3415
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+43.8001	-9.3606
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+46.1784	-4.2543
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+45.2036	-4.2733
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+45.4937	-8.8651
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+44.5098	-9.2633
+# @DM10Nn.3n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.49|"Magnetic Anomaly"
+43.6976	-4.6645
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+44.1546	-9.4288
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+46.172	-4.1639
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+45.4882	-8.9452
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+44.5012	-9.3447
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+44.3172	-4.5672
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+43.8013	-9.4431
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+44.7087	-4.5781
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+43.7264	-4.5532
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+43.5354	-9.4937
+# @DM11n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|130.84|"Magnetic Anomaly"
+45.2042	-4.1707
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+44.7373	-4.4099
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+44.1305	-9.5883
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+43.8036	-9.6081
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+46.1642	-3.9837
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+45.2014	-3.999
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+43.4916	-9.625
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+45.479	-9.0782
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+44.4879	-9.4667
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+43.761	-4.4121
+# @DM11n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.5|"Magnetic Anomaly"
+44.2859	-4.3881
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+46.1583	-3.8471
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+44.6963	-9.533
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+44.2705	-4.2843
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+43.8033	-9.7019
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+43.785	-4.3015
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+45.4724	-9.1585
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+44.1157	-9.6719
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+43.4666	-9.7
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+45.1993	-3.8778
+# @DM11An.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|131.91|"Magnetic Anomaly"
+44.4758	-9.5786
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+44.2439	-4.0912
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+44.7672	-4.0722
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+44.0858	-9.8389
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+43.7969	-9.8676
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+46.1501	-3.6326
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+45.1919	-3.6867
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+43.4175	-9.8718
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+45.4609	-9.2977
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+44.4571	-9.7515
+# @DM12n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|132.76|"Magnetic Anomaly"
+43.8466	-4.075
+# @DM14n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.53|"Magnetic Anomaly"
+44.6691	-10.0293
+# @DM14n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.53|"Magnetic Anomaly"
+46.143	-3.305
+# @DM14n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.53|"Magnetic Anomaly"
+45.1758	-3.3841
+# @DM14n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.53|"Magnetic Anomaly"
+45.452	-9.6322
+# @DM14n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.53|"Magnetic Anomaly"
+44.4218	-10.0762
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+44.6647	-10.0911
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+44.2234	-3.5761
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+43.8022	-10.1707
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+46.1423	-3.2553
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+45.0047	-9.9774
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+45.4537	-9.6963
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+44.4163	-10.1278
+# @DM14n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|134.81|"Magnetic Anomaly"
+44.022	-10.134
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+46.1381	-3.1357
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+43.9845	-10.2692
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+44.657	-10.1992
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+44.7989	-3.3493
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+45.454	-9.8243
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+44.9874	-10.104
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+44.2395	-3.3797
+# @DM15n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.57|"Magnetic Anomaly"
+43.8205	-10.3052
+# @DM15n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.96|"Magnetic Anomaly"
+44.2362	-3.2752
+# @DM15n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.96|"Magnetic Anomaly"
+44.8024	-3.2571
+# @DM15n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.96|"Magnetic Anomaly"
+43.9694	-10.3451
+# @DM15n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.96|"Magnetic Anomaly"
+43.8294	-10.3712
+# @DM15n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.96|"Magnetic Anomaly"
+45.4517	-9.8989
+# @DM15n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|135.96|"Magnetic Anomaly"
+44.39	-10.2836
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+46.1333	-2.9982
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+43.9499	-10.4428
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+44.6672	-10.3245
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+43.8424	-10.4718
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+44.2217	-3.1672
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+45.4494	-9.9734
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+45.1614	-3.0287
+# @DM16n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|136.49|"Magnetic Anomaly"
+44.8036	-3.1543
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.6796	-10.4598
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.2046	-2.9946
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.8068	-2.9284
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+43.9366	-10.6188
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+43.8629	-10.6438
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+46.1245	-2.7522
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+45.1539	-2.8287
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.9694	-10.3617
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.6796	-10.4598
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.2046	-2.9946
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.8068	-2.9284
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+43.9366	-10.6188
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+43.8629	-10.6438
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+46.1245	-2.7522
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+45.1539	-2.8287
+# @DM16n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|137.85|"Magnetic Anomaly"
+44.9694	-10.3617
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+44.6888	-10.5391
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+44.1982	-2.9019
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+44.7978	-2.8468
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+43.87	-10.724
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+43.9289	-10.7163
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+46.1192	-2.6159
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+44.9721	-10.4523
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+45.432	-10.2729
+# @DM17n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.5|"Magnetic Anomaly"
+44.341	-10.6115
+# @DM17n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.89|"Magnetic Anomaly"
+44.1919	-2.8329
+# @DM17n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.89|"Magnetic Anomaly"
+44.7997	-2.8127
+# @DM17n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.89|"Magnetic Anomaly"
+44.6968	-10.6078
+# @DM17n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.89|"Magnetic Anomaly"
+46.1151	-2.5091
+# @DM17n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.89|"Magnetic Anomaly"
+44.9753	-10.5066
+# @DM17n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.89|"Magnetic Anomaly"
+45.4228	-10.3483
+# @DM17n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|138.89|"Magnetic Anomaly"
+44.332	-10.688
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+44.1618	-2.6628
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+46.0982	-2.2295
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+43.8895	-11.0038
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+44.8135	-2.5898
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+44.732	-10.8549
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+44.9938	-10.7623
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+45.4168	-10.5632
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+43.9475	-10.9948
+# @DM18n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|140.51|"Magnetic Anomaly"
+44.3216	-10.9
+# @DM18n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|141.22|"Magnetic Anomaly"
+44.1393	-2.5353
+# @DM18n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|141.22|"Magnetic Anomaly"
+43.8973	-11.1177
+# @DM18n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|141.22|"Magnetic Anomaly"
+46.0907	-2.1116
+# @DM18n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|141.22|"Magnetic Anomaly"
+45.004	-10.8532
+# @DM18n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|141.22|"Magnetic Anomaly"
+45.4177	-10.6571
+# @DM20r|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|144.7|"Magnetic Anomaly"
+46.0502	-1.6464
+# @DM20r|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|144.7|"Magnetic Anomaly"
+45.0268	-11.329
+# @DM20r|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|144.7|"Magnetic Anomaly"
+45.5299	-11.1905
+# @DM21n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|145.52|"Magnetic Anomaly"
+46.0293	-1.4792
+# @DM21n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|145.52|"Magnetic Anomaly"
+45.0207	-11.4495
+# @DM21n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|145.52|"Magnetic Anomaly"
+45.5597	-11.3196
+# @DM21n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|145.52|"Magnetic Anomaly"
+44.8296	-11.5043
+# @DM21n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|146.56|"Magnetic Anomaly"
+46.0066	-1.3305
+# @DM21n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|146.56|"Magnetic Anomaly"
+45.0108	-11.6042
+# @DM21n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|146.56|"Magnetic Anomaly"
+45.5868	-11.4506
+# @DM22n.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|147.06|"Magnetic Anomaly"
+45.9947	-1.2571
+# @DM22n.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|147.06|"Magnetic Anomaly"
+45.0062	-11.6728
+# @DM22n.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|147.06|"Magnetic Anomaly"
+45.6003	-11.5256
+# @DM24n.1n|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|151.4|"Magnetic Anomaly"
+44.9548	-12.1204
+# @DM24n.1n|o|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|151.72|"Magnetic Anomaly"
+44.9461	-12.172
+# @DM24Bn|y|1|"Argo, Glomar-Challenger, Jean Charcot, Gallieni, Vema, Marion Dufresne"|Davis++_2016_GondwanaResearch|10.1016/j.gr.2016.02.010|152.43|"Magnetic Anomaly"
+44.9344	-12.2409

@@ -1,0 +1,107 @@
+# @VGMT1.0 @GPOINT
+# @R101.018794625/113.851/-32.3444884428/-24.2169642316                   
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM2n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+102.14394	-25.82362
+# @DM2n|y|1|v1811|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+102.19528	-25.66245
+# @DM2n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+101.71861	-26.52955
+# @DM4n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+101.92497	-24.21696
+# @DM4n|y|1|dsdp26gc|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+101.81949	-24.60882
+# @DM4n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+101.70433	-24.97728
+# @DM4n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+101.51679	-25.50172
+# @DM4n|y|1|v1811|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+101.40561	-25.71261
+# @DM4n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+101.01879	-26.09738
+# @DM2n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+102.3008	-25.29949
+# @DM2n|y|1|dsdp26gc|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+102.35494	-25.15165
+# @DM2n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+102.52279	-24.61463
+# @DM0r|y|1|elt45|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+111.08423	-29.35554
+# @DM0r|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+110.85672	-29.68645
+# @DM0r|y|1|rc0909|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+110.60337	-30.06907
+# @DM0r|y|1|rc1105|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+110.18456	-30.54475
+# @DM0r|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+109.55583	-31.04629
+# @DM0r|y|1|dsdp26gc|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+109.34901	-31.47544
+# @DM0r|y|1|inm06|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+111.6262	-30.06475
+# @DM0r|y|1|rc0909|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+111.54507	-30.20334
+# @DM0r|y|1|elt48|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+110.55207	-31.70134
+# @DM0r|y|1|dsdp26gc|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+110.2404	-31.96146
+# @DM0r|y|1|rc2708|Williams++_2013_Tectonics|10.1002/jgrb.50239|120.6|"Magnetic Anomaly"
+110.30762	-31.9201
+# @DM2n|y|1|inm06|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+112.48956	-30.48271
+# @DM2n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+112.42235	-30.62748
+# @DM2n|y|1|rc1105|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+112.2207	-31.07731
+# @DM2n|y|1|rc908|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+111.55371	-31.70294
+# @DM2n|y|1|odp121jr|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+111.52268	-31.75982
+# @DM2n|y|1|eel48|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+111.32479	-32.01856
+# @DM2n|y|1|c2708|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+111.28229	-32.06106
+# @DM2n|y|1|c2708|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+111.22916	-32.11153
+# @DM2n|y|1|c2708|Williams++_2013_Tectonics|10.1002/jgrb.50239|123.55|"Magnetic Anomaly"
+111.18666	-32.162
+# @DM4n|y|1|c1106|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+112.06376	-32.34449
+# @DM4n|y|1|v3304|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+112.18595	-32.1612
+# @DM4n|y|1|eel48|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+112.24705	-32.08152
+# @DM4n|y|1|eel48|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+112.34799	-32.04167
+# @DM4n|y|1|odp121jr|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+112.51002	-31.81589
+# @DM4n|y|1|c0908|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+112.63221	-31.68573
+# @DM4n|y|1|rc1105|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+112.99878	-31.29791
+# @DM4n|y|1|ss2011_06|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+113.164	-31.04689
+# @DM4n|y|1|inm06|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+113.23306	-30.83705
+# @DM4n|y|1|rc0909|Williams++_2013_Tectonics|10.1002/jgrb.50239|125.67|"Magnetic Anomaly"
+113.35419	-30.63862
+# @DM10n|y|1|odp121jr|Williams++_2013_Tectonics|10.1002/jgrb.50239|128.93|"Magnetic Anomaly"
+113.783	-31.8486
+# @DM10n|y|1|eel48|Williams++_2013_Tectonics|10.1002/jgrb.50239|128.93|"Magnetic Anomaly"
+113.663	-31.9579
+# @DM9n|y|1|eel48|Williams++_2013_Tectonics|10.1002/jgrb.50239|128.34|"Magnetic Anomaly"
+113.14	-32.0012
+# @DM9n|y|1|odp121jr|Williams++_2013_Tectonics|10.1002/jgrb.50239|128.34|"Magnetic Anomaly"
+113.217	-31.8566
+# @DM9n|y|1|inm06|Williams++_2013_Tectonics|10.1002/jgrb.50239|128.34|"Magnetic Anomaly"
+113.851	-31.0932
+# @DM6n|y|1|inm06|Williams++_2013_Tectonics|10.1002/jgrb.50239|126.91|"Magnetic Anomaly"
+113.507	-30.9393
+# @DM6n|y|1|odp121jr|Williams++_2013_Tectonics|10.1002/jgrb.50239|126.91|"Magnetic Anomaly"
+112.761	-31.851
+# @DM6n|y|1|eel48|Williams++_2013_Tectonics|10.1002/jgrb.50239|126.91|"Magnetic Anomaly"
+112.628	-31.9994

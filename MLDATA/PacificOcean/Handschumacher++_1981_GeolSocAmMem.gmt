@@ -1,0 +1,161 @@
+# @VGMT1.0 @GPOINT
+# @R-116.858594901/-109.940367954/-27.26/-23.4734453934                   
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-112.22	-27.26
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-111.98	-27.23
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-113.46428	-27.25282
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-111.14708	-26.46948
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-113.26695	-27.23612
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-112.20283	-26.51855
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-113.05849	-26.52187
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-111.90572	-26.48518
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-113.25989	-26.5113
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-112.98264	-26.0146
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-112.12946	-26.00482
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-111.12064	-26.01862
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-112.84518	-26.02286
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-113.28649	-25.98643
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-111.91572	-26.01418
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-112.84093	-25.47443
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-114.53322	-25.46106
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-111.74884	-25.48884
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-111.61643	-25.49788
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-111.05631	-25.50572
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-110.26149	-25.4905
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-113.00476	-25.47666
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-112.67145	-25.48331
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-113.61759	-25.47138
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-111.2364	-25.50064
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-109.94037	-26.01036
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-110.77055	-24.48552
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-112.74771	-25.00733
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-113.93113	-25.96432
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-111.35016	-24.97443
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-115.73482	-25.03771
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-112.56905	-24.50375
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-110.98443	-24.9908
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-110.57212	-24.99148
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-111.02064	-24.49034
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-113.59897	-25.00621
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-113.04723	-25.01524
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-111.76926	-24.98145
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-112.49946	-25.00331
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-111.53354	-24.97778
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-112.33746	-24.49569
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-112.92631	-24.51196
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-111.34858	-24.48791
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-112.14855	-24.027
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-111.47215	-24.47575
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-112.1364	-24.48
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-111.37791	-23.96585
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-111.95048	-24.02887
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-115.07376	-23.98048
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-114.83	-23.98989
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-113.70232	-23.50366
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-115.85222	-23.97951
+# @DC2An.3n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|3.58|"Magnetic Anomaly"
+-113.49151	-23.98617
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-116.15167	-23.50398
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-114.5509	-23.9975
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-114.86435	-23.47947
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-115.12	-23.47512
+# @DC1r.1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.07|"Magnetic Anomaly"
+-116.06963	-23.97137
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-116.85494	-23.9424
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-114.55187	-23.48054
+# @DC2An.1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|2.581|"Magnetic Anomaly"
+-116.85859	-23.50255
+# @DC1n|o|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0.78|"Magnetic Anomaly"
+-115.91635	-23.49986
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-116.3818	-23.95529
+# @DC2n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|1.77|"Magnetic Anomaly"
+-116.44367	-23.50319
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-111.57053	-23.47345
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-111.67047	-24.03024
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-111.82751	-24.49423
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-112.04167	-24.99392
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-112.21299	-25.46505
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-112.42714	-26.02899
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-112.64843	-26.52867
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-112.72695	-27.25679
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-115.02551	-25.95046
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-115.42526	-25.53644
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-116.08199	-24.52993
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-115.37529	-23.98027
+# @DC1n|y|3|N/A|Handschumacher++_1981_GeolSocAmMem|10.1130/MEM154-p63|0|"Magnetic Anomaly"
+-115.4895	-23.49486

@@ -1,0 +1,9 @@
+# Maintains the log of actual submissions that have been added to the database
+# Digitizer	Submission	Date		Comment
+JW		1		2009-08-01	The Indian Ocean, Australia plate
+RM		1		2010-09-01	N Pacific based on Nakanishi 1992 paper
+RM		2		2010-09-01	Pacific basin and Sumatra/Indian Ocean
+KM		1		2011-03-24	Global database from EarthByte, see Matthews et al., JGR
+KM		2		2011-07-18	Additional 9 FZ and 24 ER from Matthews
+MC		1		2014-01-06	Added 9 FZs for the Ellice Basin
+KM		3		2015-03-24	85 new FZ, 156 revised FZ, 11 FZ deleted from Matthews

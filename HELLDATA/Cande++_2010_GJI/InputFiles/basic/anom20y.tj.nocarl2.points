@@ -1,0 +1,98 @@
+ 12
+2 12 -55.843451 15.515067 3.49 3 swirswanom20y.xy
+2 12 -56.039907 15.998732 3.49 3 swirswanom20y.xy
+2 12 -56.487903 17.257925 3.49 3 swirswanom20y.xy
+3 12 -49.194631 20.621563 3.49 2 swirnwanom20y.xy
+3 12 -49.345853 21.251879 3.49 2 swirnwanom20y.xy
+3 12 -49.535916 22.146559 3.49 2 swirnwanom20y.xy
+3 12 -49.802398 22.966448 3.49 2 swirnwanom20y.xy
+1  10   -15.451132   72.419022      3.49   3  20y  chagos20yextra.xy
+1  11 -15.804703   73.362494      3.48   3  fz c2  chagos20yextra.xy
+1  11 -15.700736   73.397945      3.48   3  fz c2  chagos20yextra.xy 
+1  11  -15.582469   73.468848      3.48   3  fz c2  chagos20yextra.xy 
+3 11  -22.834899   59.019391      3.48   1   fz c2 from maurit2021y.dig
+3 11   -22.786425   59.117916      3.48   1   fz c2 from maurit2021y.dig
+3 11   -22.713242   59.255732      3.48   1   fz c2 from maurit2021y.dig
+1  1    -15.674471   73.533623   3.49   3   20y    from chagos2021.xy
+1  1   -15.876770   73.958880   3.49   3   20y    from chagos2021.xy
+1  1   -15.933970   74.180253   3.49   3   20y    from chagos2021.xy
+1  1   -15.966446   74.293169   3.49   3   20y    from chagos2021.xy
+1  1   -15.983484   74.626361   3.49   3   20y    from chagos2021.xy
+1   2  -16.932485   75.803719   3.49   3   20y    from chagos2021.xy
+1   2  -16.989504   75.885295   3.49   3   20y    from chagos2021.xy
+1   3  -17.657918   76.919465   3.49   2   20y    from chagos2021.xy
+1   3  -17.677307   77.126573   3.49   2   20y    from chagos2021.xy
+1   3  -17.601537   77.387950   3.49   2   20y    from chagos2021.xy
+1   3  -17.686850   77.926306   3.49   2   20y    from chagos2021.xy
+1   4  -19.841628   79.999733   3.49   2   20y    from chagos2021.xy
+1   4  -19.859722   80.134675   3.49   2   20y    from chagos2021.xy
+1   4  -19.915420   81.011628   3.49   2   20y    from chagos2021.xy
+ 3  10  -22.258169   58.423630      3.49   1  20y  dig from mauritmag.ps
+ 3  10 -22.426147   58.519326      3.49   1  20y  dig from mauritmag.ps
+ 3  10 -22.547891   58.629366      3.49   1  20y  dig from mauritmag.ps
+ 3  10 -22.667364   58.750611      3.49   1  20y  dig from mauritmag.ps
+ 3  10 -22.773193   58.894413      3.49   1  20y  dig from mauritmag.ps
+ 3  1  -22.818400   59.329832      3.49   1  20y  dig from mauritmag.ps
+ 3  1  -22.876650   59.374922      3.49   1  20y  dig from mauritmag.ps
+ 3  1  -22.967230   59.428218      3.49   1  20y  dig from mauritmag.ps
+ 3  1  -23.137488   59.508877      3.49   1  20y  dig from mauritmag.ps
+ 3  1  -23.206428   59.674283      3.49   1  20y  dig from mauritmag.ps
+ 3  1  -23.327884   59.820246      3.49   1  20y  dig from mauritmag.ps
+ 3  2  -25.099154   61.121288      3.49   1  20y  dig from mauritmag.ps
+  3  2   -25.498129   61.479211      3.49  1  20y maurit2.dig
+  3  2   -25.625756   61.571038      3.49  1  20y maurit2.dig
+  2  3  -33.196567   61.838751   3.49  1  20y   digitize in kerg20extra
+    2  3  -33.244659 61.930420    3.49  1  20y  mm a74yan
+    2  4  -35.622631 62.427963    3.49  1  20y  mm a74yan
+    2  4  -35.659077 62.529346    3.49  1  20y  mm a74yan
+    2  4  -35.862507 63.026836    3.49  1  20y  mm a74yan
+    2  4  -36.355389 64.417679    3.49  1  20y  mm a74yan
+    2  4  -36.492073 64.803940    3.49  1  20y  mm a74yan
+    2  4  -36.176043   64.064439   3.49  1  20y   nbp0406 from kerg20extra
+3   5  -27.91859  59.60089   3.49  2   20y  pp c1105    c1105    
+3   5  -27.81693  59.50530   3.49  2   20y  pp ga05     ga05     
+3   5  -28.02044  59.00809   3.49  2   20y  pp jr119    jr119    
+2   5  -35.14027  58.79998   3.49  3   20y  pp th99a    th99a    
+2   5  -35.14502  58.62826   3.49  3   20y  pp c1401    c1401    
+2   5  -35.19257  58.34587   3.49  3   20y  pp ga03     ga03     
+2   5  -35.22546  58.19021   3.49  3   20y  pp md66     md66     
+3   6  -33.91901  52.39758   3.49  2   20y  pp ga04     ga04 
+3   6  -34.08992  51.35044   3.49  2   20y  pp gallieni gall-a 
+3   6  -34.13188  51.00721   3.49  2   20y  pp md47     md47 
+2   6  -41.34578  51.00365   3.49  3   20y  pp md47     md47 
+2   6  -41.29314  50.99846   3.49  3   20y  pp ga03     ga03-c 
+2   6  -41.42607  50.65222   3.49  3   20y  pp md01     md01 
+2   6  -41.42932  50.51667   3.49  3   20y  pp ag29     ag29-15 
+2   6  -41.46320  50.00000   3.49  3   20y  pp ag29     ag29-13 
+2   6  -41.57500  49.42500   3.49  3   20y  pp ag29     ag293  99  -24+ 
+3   7  -41.44330  37.78333   3.49  2   20y  pp r73ma    r73-1    
+3   7  -41.41353  38.20986   3.49  2   20y  pp r73ma    r733  99  -2    
+3   7  -41.42787  38.13333   3.49  2   20y  pp r70ma    r70-n    
+2   7  -48.67084  35.08889   3.49  3   20y  pp r76ma    r763  99  -2    
+2   7  -48.65558  35.30737   3.49  3   20y  pp r74ma    r74-s2   
+2   7  -48.71457  34.86967   3.49  3   20y  pp md11     md11     
+2   7  -48.69167  34.62776   3.49  3   20y  pp r74ma    r74-s1   
+2   7  -48.64141  35.36590   3.49  3   20y  pp md34     md34-s   
+2  8    -35.544066   61.389921      4.99   1   fz a 20y from kerg20extra.xy
+2  8    -35.167885   61.604358      4.99   1   fz a from kerg20extra.xy
+2  8    -34.803155   61.845624      4.99   1   fz a from kerg20extra.xy
+2  8    -34.466484   62.046867      4.99   1   fz a from kerg20extra.xy
+2  8    -34.271425   62.153046      4.99   1   fz a from kerg20extra.xy
+2  8    -33.941488   62.340162      4.99   1   fz a from kerg20extra.xy
+1 8  -19.379942   78.047460      4.99  2  fz  a from chagos20yextra.xy 
+1 8   -19.150520   78.116197     4.99  2  fz  a from chagos20yextra.xy 
+1 8   -18.825106   78.205581     4.99 2  fz  a from chagos20yextra.xy 
+1 8   -18.603482   78.288040     4.99  2  fz  a from chagos20yextra.xy 
+1 8   -18.368613   78.376230      4.99  2  fz  a from chagos20yextra.xy 
+1 8   -18.152840   78.448406     4.99  2  fz  a from chagos20yextra.xy 
+1 8   -17.956238   78.529718      4.99  2  fz  a from chagos20yextra.xy 
+1  9   -15.270206   72.359529      4.99   3  20y fzC  from chagos20yextra.xy 
+1  9    -15.055044   72.491021      4.99   3  20y fzC from chagos20yextra.xy 
+1  9    -14.806665   72.595069      4.99   3  20y fzC from chagos20yextra.xy 
+1  9    -14.615225   72.686548      4.99   3  20y fzC from chagos20yextra.xy 
+1  9    -14.433524   72.759733      4.99   3  20y fzC from chagos20yextra.xy 
+3  9  -21.914672   58.206605      4.99   1   fz c from maurit2021y.dig
+3   9  -21.817990   58.354027      4.99   1   fz c from maurit2021y.dig
+3   9  -21.711768   58.474727      4.99   1   fz c from maurit2021y.dig
+3   9  -21.636809   58.578748      4.99   1   fz c from maurit2021y.dig
+3   9  -21.551764   58.689860      4.99   1   fz c from maurit2021y.dig

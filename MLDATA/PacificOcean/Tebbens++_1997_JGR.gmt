@@ -1,0 +1,1797 @@
+# @VGMT1.0 @GPOINT
+# @R-97.8037/-75.141/-47.9609/-35.4982                                    
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC6An.2n|o|2|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|21.32|"Magnetic Anomaly"
+-88.7346	-35.5874
+# @DC6An.2n|o|2|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|21.32|"Magnetic Anomaly"
+-88.6118	-35.8368
+# @DC6Bn.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|22.9365|"Magnetic Anomaly"
+-86.9925	-35.4982
+# @DC6Bn.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|22.9365|"Magnetic Anomaly"
+-86.9155	-35.8519
+# @DC6Cn.3n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|24.0585|"Magnetic Anomaly"
+-85.651	-35.5838
+# @DC6Cn.3n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|24.0585|"Magnetic Anomaly"
+-85.6009	-35.8379
+# @DC6Cn.3n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|24.0585|"Magnetic Anomaly"
+-85.517	-36.0044
+# @DC7n.1n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|24.7555|"Magnetic Anomaly"
+-84.7933	-35.5621
+# @DC7n.1n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|24.7555|"Magnetic Anomaly"
+-84.7933	-35.7724
+# @DC7n.1n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|24.7555|"Magnetic Anomaly"
+-84.7543	-35.845
+# @DC6n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|20.131|"Magnetic Anomaly"
+-94.2699	-42.8479
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-93.4903	-42.8456
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-92.941	-42.8355
+# @DC5Dn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-92.3874	-42.8303
+# @DC5Cn.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-91.8459	-42.8078
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-91.4428	-42.8043
+# @DC5Bn.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-90.8493	-42.7939
+# @DC5ADn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-90.4427	-42.7801
+# @DC5AAn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-89.8805	-42.7489
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-96.871	-39.7483
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-96.7857	-39.9143
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-97.8037	-41.0064
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-89.6362	-42.736
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-96.2667	-39.9123
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-97.1752	-40.9849
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-88.9079	-42.7052
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-95.6614	-39.4249
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-97.4843	-38.4672
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-95.6546	-39.9125
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-96.5982	-40.7619
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-96.5939	-40.9964
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.3276	-42.1577
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.3387	-42.4867
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.3092	-42.6778
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.2901	-42.9386
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-97.2812	-38.428
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-95.1854	-39.4144
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-95.199	-39.9113
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-96.1211	-40.7766
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-96.0991	-40.9965
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.9043	-42.1266
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.8737	-42.4354
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.8478	-42.6429
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.8207	-42.8583
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-96.8713	-38.3465
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-94.6142	-39.4031
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-94.6143	-39.8963
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-95.7163	-38.8639
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-95.4898	-40.8012
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-95.4832	-40.9553
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.3214	-42.0771
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.2935	-42.3677
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.249	-42.5893
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.2115	-42.8086
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.1994	-42.92
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-96.2611	-38.2156
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-95.0698	-38.8422
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-93.9666	-39.3926
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-93.9359	-39.878
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-94.7916	-40.8006
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-94.7899	-40.9674
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.6859	-42.0215
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.5917	-42.3046
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.5601	-42.5207
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.4911	-42.738
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.4892	-42.8154
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.3858	-41.7416
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-93.6413	-39.3888
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-95.888	-38.1488
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-94.7062	-38.8157
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-93.6413	-39.3888
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-93.6219	-39.8714
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-94.4328	-40.8068
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-94.4363	-40.9894
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-94.4304	-41.1244
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.3604	-41.988
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.2477	-42.26
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.1715	-42.4779
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.1035	-42.6847
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.0936	-42.7567
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-88.0234	-41.7376
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-93.6365	-39.0206
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-95.5144	-38.0794
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-94.4509	-38.6872
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-94.4105	-38.7945
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-93.2868	-39.3777
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-93.2571	-39.8578
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-93.2901	-39.0021
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-93.9733	-40.8061
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-93.9756	-40.9601
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-86.0284	-41.9637
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.9293	-42.2301
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.7756	-42.4294
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.6988	-42.6405
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.6765	-42.6926
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-87.6941	-41.6896
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-95.2207	-38.0125
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-94.0054	-38.78
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-92.9655	-38.9957
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-92.976	-39.3621
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-92.9166	-39.8512
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-93.5865	-40.7961
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-93.5832	-40.8292
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.6317	-41.9092
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.5466	-42.1883
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.3946	-42.3895
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.2954	-42.5884
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.283	-42.6305
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-87.3238	-41.6456
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-93.8012	-38.7667
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-92.7533	-39.0039
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-92.7545	-39.3505
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-92.7275	-39.8504
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-93.2784	-40.7949
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-85.441	-41.8832
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-85.3038	-42.1537
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-85.1469	-42.3574
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-84.9841	-42.5512
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-87.1059	-41.6264
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-84.9569	-42.5884
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-93.4375	-38.7468
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-94.8321	-37.9237
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-92.4524	-39.0072
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-92.4491	-39.341
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-92.4339	-39.413
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-92.3969	-39.8339
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-92.7703	-40.576
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-92.8486	-40.7916
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-86.6893	-41.5941
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-85.0071	-41.8237
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.9872	-41.8584
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.856	-42.1064
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.7477	-42.3225
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.5733	-42.5014
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.5659	-42.5609
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-94.6869	-37.8961
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-93.159	-38.7313
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-92.2035	-38.9942
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-92.1854	-39.3206
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-92.1369	-39.831
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-92.5839	-40.5165
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-92.6547	-40.7823
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.5979	-42.0714
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.5516	-42.2914
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.3598	-42.2658
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.3367	-42.4792
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.3202	-42.5454
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-86.4437	-41.5725
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-92.8132	-38.7141
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.7845	-38.9929
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.7679	-39.3067
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.7283	-39.8226
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-92.1631	-40.3867
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-92.191	-40.7771
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-84.3798	-41.7516
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-84.1927	-42.0189
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.8945	-42.2184
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.8449	-42.4098
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.825	-42.5024
+# @DC8n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|26.554|"Magnetic Anomaly"
+-89.4351	-47.9173
+# @DC8n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|25.823|"Magnetic Anomaly"
+-89.0789	-47.9565
+# @DC6AAn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|21.8135|"Magnetic Anomaly"
+-87.272	-47.9217
+# @DC6An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|21.32|"Magnetic Anomaly"
+-86.8963	-47.9043
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-86.0965	-47.1409
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-86.0486	-47.3317
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-85.5654	-47.313
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-82.4243	-47.8912
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-82.3854	-47.9609
+# @DC5Dn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-87.1651	-46.5946
+# @DC5Dn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-87.0874	-46.6348
+# @DC5Dn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-85.0084	-46.9683
+# @DC5Dn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-81.9062	-47.8563
+# @DC5Cn.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-86.6735	-46.2777
+# @DC5Cn.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-84.0537	-46.9538
+# @DC5Cn.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-80.022	-47.698
+# @DC5Cn.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-80.0026	-47.8421
+# @DC5Cn.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-83.8929	-47.6615
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-89.7433	-44.3612
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-89.8275	-45.0356
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-86.3615	-46.0301
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-83.6791	-46.9878
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-83.4848	-47.6134
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-79.6021	-47.6528
+# @DC5Cn.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-79.6604	-47.797
+# @DC5Bn.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-89.1306	-44.324
+# @DC5Bn.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-89.2148	-44.9943
+# @DC5Bn.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-79.0984	-47.5995
+# @DC5Bn.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-79.0466	-47.722
+# @DC5ADn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-88.7316	-44.2909
+# @DC5ADn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-88.8524	-44.9508
+# @DC5ADn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-78.6616	-47.5552
+# @DC5ADn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-78.6422	-47.68
+# @DC5AAn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-88.3689	-44.2585
+# @DC5AAn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-88.2825	-44.8942
+# @DC5AAn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-78.0952	-47.4959
+# @DC5AAn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-77.9689	-47.8927
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-89.6405	-42.7551
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-89.6745	-43.1654
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-89.558	-43.2755
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-88.0659	-44.2384
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-87.9623	-44.8866
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-83.8691	-45.8702
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-79.916	-47.37
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-79.9063	-47.3997
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-77.7545	-47.459
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-77.7302	-47.6038
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-77.6525	-47.7547
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-88.8813	-42.7354
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-88.8554	-43.1288
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-88.8467	-43.2425
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-87.4046	-44.1821
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-87.3183	-44.8248
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-83.5878	-45.6121
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-83.3546	-46.3525
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-79.3165	-47.2883
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-79.3035	-47.3324
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.1436	-47.3808
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.1501	-47.5565
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.3074	-42.1609
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.3333	-42.5069
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.3074	-42.6982
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.2901	-42.9398
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.2901	-43.0792
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.2728	-43.3067
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-86.8134	-44.1334
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-86.7185	-44.7582
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-82.802	-45.858
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-82.6983	-46.3386
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-78.5706	-47.2048
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-76.601	-47.1671
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-76.5621	-47.3093
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-76.5524	-47.3787
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-76.5232	-47.4446
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.8917	-42.1438
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.8674	-42.4611
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.8383	-42.6586
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.814	-42.8769
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.8092	-43.0232
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.7169	-43.3148
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-86.2936	-44.0813
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-86.2645	-44.2421
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-86.1819	-44.559
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-86.1528	-44.7012
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-82.3227	-45.427
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-78.0439	-47.1214
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-78.0244	-47.1523
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-76.1373	-47.0899
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-76.1325	-47.1297
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-76.0693	-47.2489
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.2486	-42.6064
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.2826	-42.3979
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.3263	-42.0947
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.2146	-42.8213
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-87.2048	-42.9356
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-85.7501	-43.8653
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-85.6481	-44.1877
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-85.6189	-44.5049
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-85.5946	-44.6438
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-81.7318	-45.0142
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-81.667	-45.4535
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-77.4864	-46.944
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-77.4411	-47.0415
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-77.4087	-47.1211
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.3635	-41.7727
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.6828	-42.034
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.5905	-42.3194
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.5565	-42.5389
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.4982	-42.7469
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-86.4837	-42.8292
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-85.2645	-43.6336
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-85.1916	-43.9714
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-85.1527	-44.136
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-85.0119	-44.4187
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-84.9585	-44.5717
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-81.0434	-44.9161
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-80.9948	-45.3082
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-80.922	-45.6806
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-80.8248	-46.1113
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-78.486	-46.6726
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-76.7664	-46.8562
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-76.7324	-46.9361
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-88.0348	-41.7654
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.3544	-42.0066
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.2548	-42.2857
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.1693	-42.4933
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.1076	-42.7107
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-86.0886	-42.7772
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.9352	-43.4674
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.8829	-43.5157
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.8117	-43.8739
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.788	-43.9323
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.7405	-44.3817
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.6266	-44.5313
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.4889	-44.8293
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-84.4795	-45.0821
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.6132	-45.2164
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.5372	-45.5976
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.4186	-46.0952
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-79.2658	-46.1194
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-78.0633	-46.7016
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-76.4051	-46.793
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-76.3545	-46.8582
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-87.7059	-41.7185
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-86.0264	-41.9821
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.9334	-42.2518
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.7669	-42.4552
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.7032	-42.6579
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.6885	-42.7157
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.5917	-43.3104
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.4938	-43.5424
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.4595	-43.7805
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.3861	-43.8798
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.2735	-44.0354
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.3273	-44.3279
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.2343	-44.4788
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.1853	-44.783
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-84.1217	-45.0301
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.3343	-44.844
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.1874	-45.1255
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.1384	-45.5192
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-79.9426	-46.0911
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-79.9181	-46.1354
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-77.8221	-46.4843
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-77.7307	-46.7228
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-76.0398	-46.7452
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-75.9811	-46.8797
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-87.3312	-41.6765
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.6298	-41.9333
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.5453	-42.2076
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.2766	-42.6058
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-85.2617	-42.6499
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-84.1523	-43.4706
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-84.0777	-43.7381
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-83.9981	-43.8282
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-83.8886	-43.9991
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-83.8837	-44.2714
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-83.7792	-44.4284
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-83.7245	-44.7165
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-83.6698	-44.9678
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-79.8864	-44.7714
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-79.7869	-45.0648
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-79.7073	-45.4198
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-79.7521	-45.6296
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-79.6575	-46.0399
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-78.3591	-46.1161
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-77.4686	-46.4885
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-87.1118	-41.6546
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-85.4439	-41.9088
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-85.2892	-42.1788
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-85.1458	-42.3834
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-84.9798	-42.5733
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-84.9609	-42.6068
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.9496	-43.4332
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.9119	-43.7213
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.6817	-43.9671
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.6704	-44.2417
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.5157	-44.3988
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.4893	-44.6809
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.5043	-44.9414
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-79.647	-44.7266
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-79.5866	-45.0137
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-79.4998	-45.3606
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-79.4319	-45.6326
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-79.5866	-45.6406
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-79.4545	-46.0047
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-78.1112	-46.1124
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-77.3942	-46.1465
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-77.198	-46.5931
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-83.8306	-43.8002
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-86.6834	-41.6256
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.9844	-41.8528
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.8575	-42.1244
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.7472	-42.3376
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.5706	-42.5256
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-84.5706	-42.5827
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.6053	-43.3846
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.5005	-43.6816
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.3074	-43.9253
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.2633	-44.1918
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.164	-44.3563
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.186	-44.6445
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.2081	-44.9038
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-79.2335	-44.6484
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-79.0129	-45.2127
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-79.0018	-45.6516
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-78.9853	-45.9179
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-77.7331	-45.9198
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-76.8973	-46.1772
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-76.8753	-46.2231
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-86.4382	-41.6083
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-85.6778	-41.5552
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.5932	-42.0931
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.546	-42.3123
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.3338	-42.2904
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.3161	-42.4958
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-84.2984	-42.5612
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.3081	-43.3363
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.2492	-43.6538
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.2197	-43.7266
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-82.9957	-43.8824
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-82.9721	-44.1589
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-82.8778	-44.3199
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-82.7835	-44.5817
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-82.8425	-44.8591
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-78.9667	-44.5648
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-78.7545	-45.156
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-78.6425	-45.6542
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-78.5658	-45.8605
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-77.4753	-45.8708
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-77.4164	-45.9901
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-76.6383	-46.1338
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-76.5911	-46.2402
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-76.4496	-46.5989
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-84.3886	-41.7832
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-84.1921	-42.0474
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.8935	-42.2345
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.8149	-42.5259
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.8874	-43.2828
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.8324	-43.5978
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.5966	-43.823
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.5337	-44.1068
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.4551	-44.2539
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.3608	-44.5188
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.2822	-44.7713
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-78.3799	-45.1118
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-78.5529	-44.5413
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-78.1756	-45.6711
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-78.1284	-45.7702
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-77.0517	-45.7702
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.9731	-45.8746
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.2019	-45.9192
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.1783	-45.9973
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.1134	-46.1204
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.0368	-46.3045
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.0014	-46.3699
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-96.8211	-36.9513
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-93.888	-37.7272
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-93.5635	-38.1818
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-92.3697	-38.6879
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.3566	-38.9884
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.3196	-39.2901
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.2424	-39.7952
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.7172	-40.2614
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-91.6985	-40.7687
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.8211	-41.6733
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.5808	-41.9436
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.4009	-42.1524
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.3674	-42.3529
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.3423	-42.4659
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-96.534	-36.8941
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-93.482	-37.6501
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-93.1315	-38.0243
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-91.9283	-38.6659
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-90.9439	-38.9845
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-90.9354	-39.2778
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-90.8619	-39.7779
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.4126	-41.6108
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.3021	-41.8978
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.053	-42.1093
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-96.3003	-36.8573
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-93.2451	-37.6101
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-92.8255	-38.0251
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-91.6543	-38.6521
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-90.6928	-38.9864
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-90.6573	-39.2636
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-90.583	-39.7662
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-90.5736	-39.8195
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-90.9995	-40.7321
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-86.8905	-41.3147
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.1362	-41.5708
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-95.9342	-36.7943
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-92.8279	-37.5336
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-92.5251	-38.0291
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-91.3177	-38.6284
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-90.2714	-38.9872
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-90.2328	-39.232
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-90.2006	-39.6632
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-90.1717	-39.7446
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-90.7202	-40.734
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-86.5524	-41.2835
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-95.817	-36.7674
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-92.3082	-38.0302
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-91.1151	-38.6204
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-90.0741	-38.9873
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-90.0288	-39.2267
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-89.9761	-39.574
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-89.943	-39.7301
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-90.5285	-40.7348
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-86.349	-41.2517
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-95.5274	-36.7095
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-91.9671	-38.0273
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-90.8381	-38.5988
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-89.6962	-38.9873
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-89.6894	-39.2029
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-89.6538	-39.4602
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-89.5926	-39.7081
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-90.2483	-40.7306
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-85.9967	-41.2127
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-95.1979	-36.6269
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-92.1927	-37.4074
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-91.6744	-38.0211
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-90.471	-38.5802
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.3397	-38.9897
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.3485	-39.189
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.3095	-39.3228
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.269	-39.683
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.9879	-40.7166
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-85.6478	-41.1655
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-94.8898	-36.2409
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-94.8589	-36.5688
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-91.8529	-37.3367
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-91.3372	-38.019
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-90.1508	-38.5459
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.9944	-38.9886
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.9821	-39.1653
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.9821	-39.2113
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.9276	-39.6659
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-89.6979	-40.7065
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-85.2753	-41.1191
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-94.2401	-36.2735
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-94.2287	-36.4344
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-91.2991	-37.2264
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-90.7334	-38.0193
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-89.4482	-38.5051
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-88.3286	-38.9914
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-88.3044	-39.133
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-88.2614	-39.6213
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-89.019	-40.6599
+# @DC4n.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-84.6264	-41.0378
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-90.7911	-37.123
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-93.5999	-36.3138
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-93.5629	-36.5708
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-90.0714	-38.0253
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-88.8535	-38.478
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.6806	-38.9888
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.6806	-39.085
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.6425	-39.5817
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-88.428	-40.6184
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-86.7926	-40.8704
+# @DC4An|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-83.9968	-40.961
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-93.241	-36.2517
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-90.3936	-37.0422
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-88.4204	-38.4672
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-87.2679	-38.9838
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-87.2567	-39.0563
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-87.1977	-39.5447
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-87.9982	-40.5853
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-86.2934	-40.8276
+# @DC5n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-83.5583	-40.8891
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-87.6738	-38.417
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-86.7251	-39.0044
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-86.6247	-39.4865
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-87.4019	-40.539
+# @DC5n.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-85.721	-40.7834
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-87.8972	-37.9072
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-86.8184	-38.3433
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-86.7482	-38.4552
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-86.078	-38.966
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-85.9388	-39.4173
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-86.8165	-40.4832
+# @DC5An.2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-85.038	-40.7268
+# @DC5An.2n|c|2|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-83.9308	-40.6368
+# @DC5AAn|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-83.4993	-40.6042
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-84.8294	-38.1546
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-84.6912	-38.5393
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-84.654	-38.8143
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-84.6317	-38.9853
+# @DC5En|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-84.601	-39.3015
+# @DC5En|c|2|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-84.8338	-36.6755
+# @DC5Cn.1n|y|2|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-87.3378	-36.3817
+# @DC5Cn.1n|y|2|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-87.3043	-36.5546
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-84.3271	-36.6785
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-84.2657	-37.5175
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-84.2167	-37.8175
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-84.1876	-38.0958
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-83.9874	-38.7492
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-83.8321	-38.9902
+# @DC6n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-83.7428	-39.2289
+# @DC6n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|20.131|"Magnetic Anomaly"
+-83.3448	-37.2397
+# @DC6n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|20.131|"Magnetic Anomaly"
+-83.196	-37.6396
+# @DC6n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|20.131|"Magnetic Anomaly"
+-83.1079	-37.9707
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.8073	-41.7012
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.5794	-41.9657
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.3908	-42.3808
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-83.3515	-42.4856
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.424	-43.22
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.3454	-43.5353
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.3219	-43.6153
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.1018	-43.7693
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-82.0389	-44.0251
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-81.8739	-44.4432
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-81.7874	-44.7073
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-78.0384	-44.5079
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-77.6847	-45.6329
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.5844	-45.6439
+# @DC1n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|0.78|"Magnetic Anomaly"
+-76.4743	-45.7871
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.4188	-41.6492
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-83.293	-41.9256
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-82.9865	-42.3177
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-82.9629	-42.4517
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.9883	-43.1692
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.9019	-43.4619
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.8862	-43.5763
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.6818	-43.562
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.6268	-43.7047
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.5482	-43.9324
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.5089	-44.1195
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.4303	-44.3737
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-81.3989	-44.6493
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-77.5673	-44.5145
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-77.4416	-44.8789
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-77.3472	-45.102
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-77.2136	-45.5345
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-76.129	-45.54
+# @DC2n|c|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|1.86|"Magnetic Anomaly"
+-76.0897	-45.6724
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-86.8867	-41.3599
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-83.1436	-41.6081
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-82.9903	-41.8818
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-82.8488	-42.1017
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-82.6897	-42.2814
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-82.6248	-42.4257
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.7154	-43.1256
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.5739	-43.4127
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.4131	-43.5253
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.3733	-43.6634
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.276	-43.8813
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.2274	-44.0728
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.1169	-44.3273
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-81.2053	-44.6248
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-77.2576	-44.5309
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-77.1632	-44.8001
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-77.0768	-45.0681
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-77.0296	-45.4788
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-75.8507	-45.4732
+# @DC2An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|2.581|"Magnetic Anomaly"
+-75.7957	-45.5947
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-86.5604	-41.3207
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-82.7878	-41.5631
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-82.607	-41.8223
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-82.4656	-42.0395
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-82.3555	-42.2267
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-82.2691	-42.39
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-81.2945	-43.0507
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-81.208	-43.2808
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-81.1844	-43.3554
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-81.043	-43.4757
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-80.9644	-43.6072
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-80.9015	-43.7954
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-80.815	-44.0114
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-80.7757	-44.2717
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-80.7207	-44.5478
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-76.897	-44.6909
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-76.8656	-44.7357
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-76.7477	-45.0653
+# @DC2An.3n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|3.58|"Magnetic Anomaly"
+-76.7556	-45.3985
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-86.341	-41.2886
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-83.6176	-41.3242
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-82.5978	-41.5371
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-82.4682	-41.8023
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-82.3149	-42.0269
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-82.2265	-42.2024
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-82.1381	-42.3644
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-81.0652	-43.0102
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-80.965	-43.2778
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-80.9355	-43.3165
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-80.7528	-43.5742
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-80.7056	-43.7497
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-80.6349	-43.997
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-80.5701	-44.2433
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-80.5819	-44.535
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-76.6971	-44.5539
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-76.6677	-44.6087
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-76.6323	-44.6971
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-76.5733	-44.9236
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-76.5675	-45.07
+# @DC3n.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|4.18|"Magnetic Anomaly"
+-76.5498	-45.3409
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-89.6706	-39.2089
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-89.6391	-39.4531
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-89.592	-39.7146
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-86.0001	-41.2508
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-83.2022	-41.2686
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-82.2983	-41.4877
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-82.1883	-41.7648
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-81.9996	-41.9763
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-81.9446	-42.1637
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-81.8975	-42.3331
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.7107	-42.9366
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.6163	-43.2764
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.4356	-43.5113
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.412	-43.677
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.357	-43.9615
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.2548	-44.1882
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.2627	-44.3971
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.2155	-44.4646
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-80.1605	-44.594
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-76.435	-44.3942
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-76.3564	-44.6417
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-76.3093	-44.8769
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-76.2464	-44.9997
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-76.2307	-45.1055
+# @DC3n.4n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.23|"Magnetic Anomaly"
+-76.1757	-45.2612
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.3069	-39.1957
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.2833	-39.324
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-89.2519	-39.6954
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-85.6601	-41.2083
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-82.8149	-41.2321
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-81.9346	-41.4276
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-81.8167	-41.7109
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-81.7145	-41.9401
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-81.6517	-42.1159
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-81.5731	-42.2912
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.3784	-42.8807
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.2841	-43.2266
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.2212	-43.3471
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.0797	-43.599
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-80.0169	-43.9123
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-79.9304	-44.1335
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-79.899	-44.224
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-79.8282	-44.4102
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-76.201	-44.2551
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-76.0438	-44.6492
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-76.0045	-44.8228
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-75.9259	-45.0406
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-75.9024	-45.1241
+# @DC3An.1n|y|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|5.894|"Magnetic Anomaly"
+-75.9102	-45.2019
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.9624	-39.1621
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.9545	-39.211
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-88.931	-39.6802
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-89.6855	-40.7108
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-85.292	-41.1638
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-82.4625	-41.1875
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-81.6137	-41.3832
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-81.4958	-41.6726
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-81.4093	-41.8961
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-81.3464	-42.0779
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-81.315	-42.2533
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-80.0583	-42.8432
+# @DC3An.2n|o|1|"Charles Darwin"|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-79.9404	-43.2926
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-79.7439	-43.5161
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-79.6417	-43.8697
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-79.5553	-44.074
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-79.4924	-44.351
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-75.8848	-44.091
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-75.6648	-44.6379
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-75.6412	-44.7892
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-75.6019	-45.0461
+# @DC3An.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|6.567|"Magnetic Anomaly"
+-75.5705	-45.1296
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-88.2969	-39.1243
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-88.2497	-39.6367
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-89.0278	-40.6739
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-84.6186	-41.0796
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-81.7538	-41.0796
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-80.9049	-41.2755
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-80.8342	-41.5654
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-80.7792	-41.8011
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-80.7399	-41.9773
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-80.6692	-42.1588
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-79.3802	-42.7351
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-79.1523	-43.1393
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-79.0579	-43.3863
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-78.9558	-43.6894
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-78.9479	-43.7293
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-78.9165	-43.9341
+# @DC4n.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|7.861|"Magnetic Anomaly"
+-78.8772	-44.2174
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.6532	-39.0889
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-87.6119	-39.5833
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-88.4254	-40.6378
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-86.7867	-40.9022
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-83.9985	-40.9961
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-80.2347	-41.1545
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-80.2111	-41.4567
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-80.1227	-41.6957
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-80.0991	-41.8722
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-80.0579	-42.0658
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-78.7345	-42.6298
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-78.4928	-43.016
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-78.4044	-43.374
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-78.2924	-43.6057
+# @DC4An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|8.862|"Magnetic Anomaly"
+-78.2393	-44.0899
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-87.2798	-39.0642
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-87.1855	-39.5466
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-87.9793	-40.6032
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-86.2817	-40.8602
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-83.5387	-40.9199
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-79.8211	-41.0985
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-79.7503	-41.3833
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-79.6875	-41.6373
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-79.656	-41.808
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-79.5774	-42.0135
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-78.2138	-42.5301
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-78.0723	-42.9357
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-78.0173	-43.1202
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-77.8758	-43.5333
+# @DC5n.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|9.74|"Magnetic Anomaly"
+-77.868	-44.0344
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-86.616	-39.4968
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-87.3941	-40.5617
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-85.7083	-40.8219
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-82.7609	-40.8085
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-79.1622	-41.0231
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-79.0738	-41.5389
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-79.0679	-41.7291
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-79.003	-41.9363
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.4753	-42.7866
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.4832	-42.8271
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.436	-43.0062
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.3181	-43.4373
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.2395	-43.888
+# @DC5n.2n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|10.949|"Magnetic Anomaly"
+-77.1531	-44.1206
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-85.9175	-39.426
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-85.0137	-40.754
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-83.9291	-40.6703
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-82.2864	-40.7659
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-78.6278	-40.942
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-78.5256	-41.4644
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-78.557	-41.6709
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-78.5099	-41.8651
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-76.765	-42.2575
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-76.6786	-42.5371
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-76.6472	-42.6533
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-76.7258	-43.3054
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-76.6315	-43.4831
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-76.5608	-43.7343
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-76.435	-44.0243
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-86.8085	-40.5167
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-80.1524	-40.6381
+# @DC5An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|12.2925|"Magnetic Anomaly"
+-80.1288	-40.7995
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-83.4939	-40.6364
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-81.9355	-40.7503
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-79.8341	-40.6066
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-79.7751	-40.7368
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-78.2838	-40.9159
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-78.2602	-41.4104
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-78.2602	-41.6186
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-78.1835	-41.8174
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-76.4417	-42.1823
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-76.4004	-42.4186
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-76.3591	-42.5887
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-76.3945	-43.2408
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-76.2295	-43.6787
+# @DC5AAn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|13.065|"Magnetic Anomaly"
+-76.0762	-43.969
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-83.0359	-40.5804
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-79.1395	-40.504
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-77.6982	-40.8316
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-77.5744	-41.3001
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-77.5508	-41.5087
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-77.5155	-41.7254
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-75.8709	-42.0645
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-75.8296	-42.2181
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-75.7883	-43.1509
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-75.6351	-43.5596
+# @DC5ADn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|14.395|"Magnetic Anomaly"
+-75.7607	-42.4459
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-82.4831	-40.5257
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-78.7488	-40.4672
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-77.3341	-40.7906
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-77.2456	-41.2415
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-77.2338	-41.4547
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-77.2162	-41.6849
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-75.4949	-41.9781
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-75.4595	-42.1363
+# @DC5Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|15.0945|"Magnetic Anomaly"
+-75.3888	-42.3771
+# @DC5Cn.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-80.6242	-40.3481
+# @DC5Cn.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-78.0973	-40.4142
+# @DC5Cn.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-76.8791	-40.5402
+# @DC5Cn.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-76.8712	-40.7258
+# @DC5Cn.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-76.8084	-41.1609
+# @DC5Cn.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-76.8162	-41.4069
+# @DC5Cn.1n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.014|"Magnetic Anomaly"
+-76.8315	-41.6432
+# @DC5Cn.3n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-76.4753	-40.669
+# @DC5Cn.3n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-76.4438	-41.0985
+# @DC5Cn.3n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-76.436	-41.3359
+# @DC5Cn.3n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|16.726|"Magnetic Anomaly"
+-76.4281	-41.5783
+# @DC5Dn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-77.3398	-40.4232
+# @DC5Dn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-75.9487	-40.5972
+# @DC5Dn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-75.9251	-40.9795
+# @DC5Dn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-75.9094	-41.2351
+# @DC5Dn|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|17.446|"Magnetic Anomaly"
+-75.9015	-41.5015
+# @DC5En|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-84.5868	-39.3241
+# @DC5En|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-75.4251	-40.5162
+# @DC5En|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-75.4408	-40.8811
+# @DC5En|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-75.4172	-41.155
+# @DC5En|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|18.531|"Magnetic Anomaly"
+-75.4015	-41.4276
+# @DC6n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-83.7355	-39.2462
+# @DC6n|y|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|19.048|"Magnetic Anomaly"
+-82.6179	-40.1757
+# @DC6n|o|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|20.131|"Magnetic Anomaly"
+-82.6037	-39.1407
+# @DC6An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|21.158|"Magnetic Anomaly"
+-81.6959	-39.0397
+# @DC6An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|21.158|"Magnetic Anomaly"
+-81.4425	-39.4522
+# @DC6An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|21.158|"Magnetic Anomaly"
+-80.2812	-39.9802
+# @DC6An.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|21.158|"Magnetic Anomaly"
+-79.1435	-39.8577
+# @DC6Bn.2n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|22.9365|"Magnetic Anomaly"
+-78.1768	-39.7531
+# @DC6Cn.3n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|24.0585|"Magnetic Anomaly"
+-79.3027	-39.2875
+# @DC6Cn.3n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|24.0585|"Magnetic Anomaly"
+-79.2673	-39.6119
+# @DC7n.1n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|24.7555|"Magnetic Anomaly"
+-78.2446	-39.1637
+# @DC7n.1n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|24.7555|"Magnetic Anomaly"
+-75.8366	-39.4339
+# @DC7n.1n|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|24.7555|"Magnetic Anomaly"
+-75.6774	-39.744
+# @DC7An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|25.572|"Magnetic Anomaly"
+-75.365	-39.081
+# @DC7An|c|1|N/A|Tebbens++_1997_JGR|10.1029/96JB02581|25.572|"Magnetic Anomaly"
+-75.141	-39.3333

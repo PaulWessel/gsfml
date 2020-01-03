@@ -1,0 +1,2975 @@
+# @VGMT1.0 @GPOINT
+# @R-126.0798/-106.4714/19.9186/34.5626                                   
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.8216	19.9186
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.7716	19.9186
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.6725	19.9332
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.6225	19.9332
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-106.9732	19.9807
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-106.9232	19.9807
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.7834	19.9981
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.7334	19.9981
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.3435	20.0278
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.8943	20.0621
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.8443	20.0621
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.5431	20.0805
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.4931	20.0805
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.1186	20.0815
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.0686	20.0815
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.3043	20.1183
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.2543	20.1183
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-106.9402	20.1286
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.8829	20.1344
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-106.9381	20.1473
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-106.8881	20.1473
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.3306	20.1909
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.2806	20.1909
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.5539	20.1977
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.5039	20.1977
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-108.1666	20.2022
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.6153	20.2196
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-111.4446	20.2296
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-111.3946	20.2296
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.7499	20.2351
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.8824	20.2351
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-108.1336	20.2441
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-108.0836	20.2441
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-109.2713	20.2499
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-109.2213	20.2499
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.5343	20.2622
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.6988	20.2632
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.5627	20.2683
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.5127	20.2683
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-106.9247	20.3009
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.7891	20.3041
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.7391	20.3041
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.2496	20.3193
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.5802	20.3203
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.8267	20.336
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.7767	20.336
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.2321	20.3418
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.1821	20.3418
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.5688	20.3467
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.5188	20.3467
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.6895	20.3483
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.2738	20.3609
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.4755	20.3796
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.4255	20.3796
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.9154	20.4179
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-108.0438	20.4315
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.4198	20.4354
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.5008	20.4682
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.7365	20.476
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-111.0588	20.4779
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.4538	20.4876
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.2934	20.4917
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.2434	20.4917
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.6772	20.4926
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.6272	20.4926
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.3548	20.4975
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.3048	20.4975
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-111.0309	20.5158
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.9809	20.5158
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.9061	20.5245
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.8561	20.5245
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.475	20.5274
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.425	20.5274
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.8406	20.5467
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.7906	20.5467
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.1898	20.5591
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.7055	20.5736
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.6704	20.5786
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.6204	20.5786
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.1774	20.6192
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.1274	20.6192
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.9593	20.6211
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.9093	20.6211
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.5792	20.6267
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.9381	20.6385
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.8881	20.6385
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.6349	20.6421
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.9711	20.6423
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.9211	20.6423
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.9175	20.645
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.392	20.652
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.3419	20.652
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-110.0057	20.6587
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.9557	20.6587
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.7994	20.6634
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.5358	20.68
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.4858	20.68
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.1006	20.6809
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.0506	20.6809
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.655	20.6817
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6849	20.6886
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6349	20.6886
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0253	20.7222
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.3837	20.7232
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.5781	20.728
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-109.1908	20.7415
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.1913	20.7454
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.6323	20.7851
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.5823	20.7851
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.9474	20.7879
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.392	20.7888
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.6668	20.8063
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.6168	20.8063
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-111.2816	20.81
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.7581	20.8121
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.7081	20.8121
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.6854	20.8149
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.3522	20.8303
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.5121	20.8314
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.4621	20.8314
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.1325	20.8351
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-110.0284	20.838
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.59	20.8401
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.54	20.8401
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.1392	20.8602
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.8082	20.865
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.8938	20.869
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.8438	20.869
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.3342	20.8786
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.2842	20.8786
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.2027	20.8825
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.1527	20.8825
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-109.0474	20.8863
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.9974	20.8863
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.9056	20.8997
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.8917	20.9093
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.8742	20.9152
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.8242	20.9152
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.2702	20.9162
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.2202	20.9162
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.6168	20.9171
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.9685	20.9461
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.9185	20.9461
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-111.2063	20.947
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-111.1563	20.947
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.5652	20.9538
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.5152	20.9538
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.0645	20.9546
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.589	20.9575
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.6065	20.9615
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.5565	20.9615
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.3027	20.9692
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.2527	20.9692
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.5787	20.9778
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.5554	20.9817
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.5054	20.9817
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0335	20.9961
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-111.9835	20.9961
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-115.5745	21
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-115.5245	21
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.8927	21.0009
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-115.8314	21.0048
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-115.7814	21.0048
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.7158	21.0086
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.7122	21.0106
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.6622	21.0106
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.2171	21.0135
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.1671	21.0135
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.8706	21.0183
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.8205	21.0183
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.0273	21.0193
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.9773	21.0193
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.901	21.0202
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-106.851	21.0202
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.7463	21.0241
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.6963	21.0241
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.1186	21.026
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-107.0686	21.026
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.2259	21.0404
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.1759	21.0404
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.6117	21.0414
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.5617	21.0414
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.4729	21.051
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6508	21.0625
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.9515	21.0625
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.2207	21.0644
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.6818	21.0655
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.6318	21.0655
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.2842	21.0673
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.6209	21.0779
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.704	21.0789
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.5178	21.0837
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.5627	21.0876
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.1119	21.0886
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.0619	21.0886
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6405	21.0895
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.5905	21.0895
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.9634	21.0933
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.1356	21.1039
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.3136	21.1058
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.8551	21.1126
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0273	21.1193
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.5214	21.1222
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-106.4714	21.1222
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.1516	21.1299
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.015	21.1328
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.3956	21.1376
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.7009	21.1492
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.214	21.1569
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.164	21.1569
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.2393	21.1722
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.9675	21.1752
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.9175	21.1752
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.3239	21.1761
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-107.2739	21.1761
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-111.164	21.1799
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.5508	21.1848
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.5008	21.1848
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.6529	21.1876
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.4549	21.1886
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.4049	21.1886
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.3749	21.2136
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.3249	21.2136
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-109.0278	21.2194
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.9778	21.2194
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6292	21.2271
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0201	21.23
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-111.9701	21.23
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.8778	21.2415
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.8278	21.2415
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.6168	21.2492
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.5668	21.2492
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.6132	21.2655
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.5632	21.2655
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.6539	21.2732
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.3172	21.2857
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.2672	21.2857
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.7994	21.2963
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.7494	21.2963
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-115.8798	21.3117
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-115.5838	21.3348
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.8499	21.3357
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.7999	21.3357
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.8582	21.3415
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.1403	21.3492
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.7014	21.3607
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.6514	21.3607
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.5673	21.3636
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.1666	21.3713
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.5771	21.3895
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.5271	21.3895
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.2816	21.3962
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.2316	21.3962
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.3868	21.3972
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.918	21.4078
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.1181	21.4279
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.0681	21.4279
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-110.016	21.4376
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.984	21.4433
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.934	21.4433
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.556	21.4653
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-107.506	21.4653
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.7401	21.4769
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.5271	21.4779
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.3228	21.4826
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.2728	21.4826
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.7788	21.4952
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0542	21.5048
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.8871	21.5133
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.8371	21.5133
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.5111	21.523
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.2388	21.5288
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.2821	21.548
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.7684	21.5662
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.7457	21.5671
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-107.6957	21.5671
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.5575	21.5864
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.5028	21.593
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.4528	21.593
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.4724	21.5997
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.4224	21.5997
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.1821	21.6227
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.132	21.6227
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.7169	21.6304
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6669	21.6304
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.9263	21.6372
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.6761	21.6553
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.6261	21.6553
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.7184	21.6716
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.6684	21.6716
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-110.9783	21.6831
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-110.9283	21.6831
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.966	21.6986
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.2058	21.7166
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.1558	21.7166
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.8927	21.7406
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.8427	21.7406
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.1552	21.7436
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.6766	21.753
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.6266	21.753
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.3718	21.7569
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.3218	21.7569
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.3342	21.7743
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0387	21.7942
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-111.9887	21.7942
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.1026	21.8191
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-110.0526	21.8191
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.3553	21.8327
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.3853	21.8373
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.3353	21.8373
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.8097	21.8421
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.7597	21.8421
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.6431	21.8548
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.5946	21.8835
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.13	21.9036
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-110.8969	21.916
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.2429	21.9502
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.1929	21.9502
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.2929	21.9572
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.0835	21.9742
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.0335	21.9742
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.1068	21.9907
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.5266	21.9971
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.4766	21.9971
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0397	22.0136
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-109.9902	22.0156
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.3785	22.021
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.3285	22.021
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.7416	22.0251
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.5343	22.0672
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.3326	22.0679
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.2826	22.0679
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.6818	22.0736
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.6318	22.0736
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-113.8107	22.0854
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.2202	22.0863
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.6828	22.0863
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.6859	22.0921
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.1893	22.1093
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.1991	22.1099
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.1491	22.1099
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-110.7968	22.1137
+# @DC4n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.072|"Magnetic Anomaly"
+-110.7468	22.1137
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-109.0175	22.1265
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0366	22.1491
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-111.9866	22.1491
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-114.8556	22.1513
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-115.7396	22.1529
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-115.6896	22.1529
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.0057	22.1539
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-115.9557	22.1539
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.4848	22.1615
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.4348	22.1615
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-109.8912	22.1692
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-109.8412	22.1692
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.8571	22.1848
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.6472	22.1854
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.5972	22.1854
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-107.9582	22.1863
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-107.9082	22.1863
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.4647	22.1934
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.852	22.1934
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.591	22.2054
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.541	22.2054
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.5869	22.216
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.5369	22.216
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.4239	22.2169
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.3739	22.2169
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.5101	22.2239
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.3904	22.2522
+# @DC3An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|6.567|"Magnetic Anomaly"
+-110.3404	22.2522
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.6354	22.2545
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.163	22.2583
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.0882	22.2818
+# @DC3An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.894|"Magnetic Anomaly"
+-110.0382	22.2818
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.7365	22.2885
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.7323	22.2885
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.6865	22.2885
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.6823	22.2885
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.4404	22.2965
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.5673	22.3038
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.5173	22.3038
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.6493	22.3041
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-109.8489	22.3051
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.6617	22.3127
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6921	22.3204
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.1986	22.3461
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.5322	22.35
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.5302	22.3509
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-107.851	22.3753
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-107.8009	22.3753
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.8793	22.3782
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.8293	22.3782
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.3987	22.3849
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.3487	22.3849
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-107.8778	22.3872
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-109.7891	22.3915
+# @DC3n.4n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|5.23|"Magnetic Anomaly"
+-109.7391	22.3915
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.3672	22.3919
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-112.0181	22.3977
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.3651	22.4001
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.3151	22.4001
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.4817	22.4144
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.4317	22.4144
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.4796	22.4192
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.4296	22.4192
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.5395	22.4253
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.1202	22.4335
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.0702	22.4335
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.5544	22.4373
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.5044	22.4373
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.0144	22.4678
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.9644	22.4678
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.4229	22.4759
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.574	22.4764
+# @DC5n.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.92|"Magnetic Anomaly"
+-112.524	22.4764
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.4394	22.4831
+# @DC5An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.401|"Magnetic Anomaly"
+-113.3894	22.4831
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.3223	22.4926
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.2723	22.4926
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-113.9747	22.4974
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-113.9247	22.4974
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.4786	22.4974
+# @DC3n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|4.18|"Magnetic Anomaly"
+-109.4286	22.4974
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-114.9433	22.4993
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-114.8933	22.4993
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.5353	22.5031
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.4853	22.5031
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.6488	22.5073
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.6498	22.5083
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.6292	22.5097
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.5792	22.5097
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.6251	22.5164
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.5751	22.5164
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.0933	22.5436
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.3192	22.555
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.7576	22.5693
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.4636	22.5707
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.4136	22.5707
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6756	22.586
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6256	22.586
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.4956	22.5864
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.2594	22.5926
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.2094	22.5926
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.7184	22.6193
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.6684	22.6193
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-107.7468	22.6245
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.262	22.635
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-111.9603	22.6431
+# @DC5n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|9.74|"Magnetic Anomaly"
+-111.9103	22.6431
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.9536	22.6474
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6643	22.6807
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.8876	22.685
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.8376	22.685
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.2046	22.6902
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.1546	22.6902
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.7618	22.7002
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.7118	22.7002
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.7238	22.701
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.6738	22.701
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.1805	22.7021
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.1305	22.7021
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-107.9696	22.7097
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-107.9196	22.7097
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.6792	22.7312
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.3752	22.7452
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.3252	22.7452
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.2723	22.752
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.0354	22.766
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-113.9854	22.766
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.7788	22.7934
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.6307	22.801
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.5807	22.801
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.2826	22.8129
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.2326	22.8129
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.8504	22.8177
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.1362	22.8196
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.6075	22.8276
+# @DC4An|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|8.699|"Magnetic Anomaly"
+-111.5575	22.8276
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.6399	22.8372
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.5899	22.8372
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.7546	22.8417
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.7046	22.8417
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.0464	22.8453
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-114.9964	22.8453
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.0732	22.8761
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-109.0232	22.8761
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.3107	22.8809
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.4842	22.8957
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.4342	22.8957
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.7648	22.8989
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.7148	22.8989
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.4735	22.9097
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.2938	22.9192
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.2438	22.9192
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.053	22.9259
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.143	23.0497
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.093	23.0497
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.9959	23.0648
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.8118	23.0667
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.4956	23.0961
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.7612	23.1059
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-107.7112	23.1059
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.1784	23.1198
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.1284	23.1198
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.5722	23.1285
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.1657	23.1447
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.9923	23.1569
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.0923	23.1856
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.0423	23.1856
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.3644	23.1864
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.3144	23.1864
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.9397	23.1865
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-107.8897	23.1865
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.5329	23.1968
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.7524	23.1995
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.0449	23.2586
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-107.9949	23.2586
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.8553	23.2606
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.7406	23.2798
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.6906	23.2798
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.0645	23.2839
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.8773	23.2879
+# @DC2An.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|3.58|"Magnetic Anomaly"
+-108.8273	23.2879
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.3471	23.3029
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.0618	23.3388
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-112.8983	23.3624
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-112.8483	23.3624
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.7727	23.39
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.3223	23.3929
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.8062	23.3974
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.7561	23.3974
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.284	23.4088
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.2656	23.4091
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.2156	23.4091
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.5221	23.4118
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.4721	23.4118
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.384	23.4716
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.4533	23.4857
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.4059	23.5028
+# @DC1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0|"Magnetic Anomaly"
+-108.3559	23.5028
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.8587	23.5548
+# @DC2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|1.95|"Magnetic Anomaly"
+-108.8087	23.5548
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.8856	23.5642
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.8356	23.5642
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.6297	23.5784
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.7805	23.5848
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.7305	23.5848
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.5761	23.5945
+# @DC1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|0.78|"Magnetic Anomaly"
+-108.5261	23.5945
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-113.5319	23.5972
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.32	23.6142
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-112.9716	23.6151
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.426	23.6493
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.376	23.6493
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.3681	23.6519
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.8521	23.6716
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.4312	23.7048
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.3812	23.7048
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.814	23.7065
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.9071	23.719
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.097	23.7504
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-109.0144	23.791
+# @DC2An.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|2.581|"Magnetic Anomaly"
+-108.9644	23.791
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.4234	23.796
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.3407	23.8731
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.2907	23.8731
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.8577	23.9481
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.2437	23.9723
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.1937	23.9723
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.4466	24.0008
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.5214	24.0098
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.4714	24.0098
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.504	24.0205
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.454	24.0205
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.944	24.0214
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-115.894	24.0214
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.889	24.0258
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.839	24.0258
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.5004	24.0687
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.5241	24.1026
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.4741	24.1026
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.7952	24.1151
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.7451	24.1151
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.4583	24.1856
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.4083	24.1856
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.594	24.2802
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.0961	24.3238
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.0461	24.3238
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.6602	24.3291
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.6102	24.3291
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.3231	24.3381
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.9858	24.3551
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.9873	24.3585
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-116.9373	24.3585
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.0191	24.3772
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-114.9691	24.3772
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.6016	24.3782
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.8638	24.4004
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.8138	24.4004
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.2535	24.421
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.1	24.4744
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.8678	24.4815
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.0902	24.525
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.0402	24.525
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.7142	24.5357
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.6642	24.5357
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.3349	24.581
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.2849	24.581
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.0816	24.5892
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.5766	24.6068
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.5266	24.6068
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.4524	24.6701
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.7551	24.7501
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.8372	24.7865
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.1794	24.8004
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.1294	24.8004
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.3999	24.8131
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.7971	24.8537
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.7471	24.8537
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.3131	24.9007
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.2631	24.9007
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.0987	24.9095
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.0487	24.9095
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.0499	24.9454
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.8333	25.0305
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.7028	25.1421
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.4605	25.1576
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.4105	25.1576
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.7184	25.2558
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.6684	25.2558
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.0577	25.3146
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2471	25.3544
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.2879	25.3606
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.3251	25.3999
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.2751	25.3999
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.7321	25.426
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-115.0406	25.4414
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-114.9906	25.4414
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.9176	25.5064
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2901	25.5111
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2401	25.5111
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.1535	25.5508
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.1035	25.5508
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.9782	25.6187
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-115.9282	25.6187
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.4366	25.696
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.5693	25.7145
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-115.0836	25.7366
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-115.0963	25.7474
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-115.0463	25.7474
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.3913	25.7535
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.3413	25.7535
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.463	25.787
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.413	25.787
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.6035	25.8917
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.5535	25.8917
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.5925	25.9171
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.5864	25.9594
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.5364	25.9594
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.1141	25.9874
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.4109	25.9918
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.2857	26.1236
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.4305	26.1342
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.3804	26.1342
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-114.5683	26.143
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.7059	26.2167
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.6559	26.2167
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.6001	26.2299
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.5952	26.2983
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-120.0506	26.3088
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-120.0006	26.3088
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.846	26.3245
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.796	26.3245
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-117.045	26.3245
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-116.995	26.3245
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.318	26.3272
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.268	26.3272
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.2911	26.3272
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.2411	26.3272
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.6304	26.3324
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.5804	26.3324
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.3833	26.3447
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.3333	26.3447
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.3696	26.3544
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.7465	26.3684
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.7196	26.3851
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-117.0606	26.4534
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.6891	26.5532
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.4708	26.5785
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.8577	26.6039
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.4016	26.6293
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-117.1652	26.6361
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-117.1152	26.6361
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.8658	26.6457
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.8158	26.6457
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.4473	26.6614
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-119.3973	26.6614
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.8577	26.6623
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-118.8077	26.6623
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.7988	26.6711
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.7488	26.6711
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.5942	26.6746
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-120.5442	26.6746
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.4241	26.6746
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.3741	26.6746
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.3845	26.6824
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.3345	26.6824
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.7546	26.6824
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.7046	26.6824
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.382	26.7049
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-118.3806	26.708
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-115.5529	26.7088
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.9782	26.7149
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.4742	26.7228
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-117.1643	26.7359
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.9626	26.754
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-119.9126	26.754
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-115.8814	26.7822
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-117.8154	26.8381
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.525	26.843
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-117.475	26.843
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-117.2004	26.9163
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-117.1504	26.9163
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.8367	27.0282
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.5502	27.0935
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-116.1904	27.1088
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-116.1404	27.1088
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-115.855	27.1889
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-115.805	27.1889
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.4481	27.4882
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-116.8963	27.5593
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.8431	27.609
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.7931	27.609
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.6341	27.6151
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.5841	27.6151
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.1484	27.6174
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.3165	27.6287
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.6412	27.6298
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.5912	27.6298
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.5214	27.6419
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.4714	27.6419
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.0222	27.6547
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.3185	27.6653
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.2685	27.6653
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.8137	27.6971
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.165	27.7155
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.115	27.7155
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.0261	27.7181
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.9761	27.7181
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.1391	27.7458
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.0891	27.7458
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6128	27.7949
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.9751	27.8157
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.6478	27.8174
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.6319	27.8244
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2383	27.9048
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.0596	27.9378
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.0096	27.9378
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6539	28.006
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6039	28.006
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.5311	28.0413
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.4811	28.0413
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.1303	28.0465
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2686	28.0724
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2186	28.0724
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.5379	28.0797
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.4879	28.0797
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4628	28.0987
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4128	28.0987
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.769	28.0994
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.719	28.0994
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.2103	28.1097
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.1603	28.1097
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4515	28.1336
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.7763	28.1362
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.7514	28.1369
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.7014	28.1369
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.7592	28.144
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.7092	28.144
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.21	28.1526
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.331	28.1552
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.281	28.1552
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.3559	28.1561
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.3059	28.1561
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-119.0807	28.1656
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-119.0307	28.1656
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.757	28.1733
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.707	28.1733
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.1831	28.1733
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.1331	28.1733
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.792	28.1759
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.742	28.1759
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.3684	28.2103
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.3337	28.2149
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.4031	28.2198
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6437	28.2198
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.5937	28.2198
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-119.089	28.2228
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.0661	28.2235
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.7622	28.231
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.8013	28.2322
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7513	28.2322
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.2862	28.2383
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.2362	28.2383
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.793	28.2412
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.0968	28.2474
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.2776	28.2493
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.0979	28.2568
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.5477	28.2974
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6382	28.3086
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6645	28.3166
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8797	28.3168
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8297	28.3168
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.0844	28.3172
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.0344	28.3172
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6862	28.3177
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6362	28.3177
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6705	28.318
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-116.6205	28.318
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3204	28.3207
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2931	28.3422
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4867	28.3585
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4367	28.3585
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.2677	28.3722
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.2177	28.3722
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.174	28.3955
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.124	28.3955
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.1684	28.398
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.1184	28.398
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4673	28.4117
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.2574	28.4322
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.3175	28.4393
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-116.2675	28.4393
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.6055	28.4436
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.5555	28.4436
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.5153	28.4539
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.4653	28.4539
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.9093	28.4632
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.5374	28.4722
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.4874	28.4722
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-119.2026	28.4887
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-119.1526	28.4887
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.9125	28.5056
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.8625	28.5056
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.2714	28.5067
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.2214	28.5067
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.9974	28.5092
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.9474	28.5092
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4563	28.5111
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4063	28.5111
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.237	28.5162
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.187	28.5162
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.3618	28.5294
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.3118	28.5294
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.5825	28.5545
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.3111	28.5571
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.2611	28.5571
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.8172	28.56
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8376	28.5629
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7335	28.5635
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.6154	28.5789
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.8996	28.5803
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.5112	28.604
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.0711	28.6255
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7072	28.6366
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.6572	28.6366
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.6996	28.64
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.603	28.6463
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.553	28.6463
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8472	28.659
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7972	28.659
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.548	28.6657
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.2894	28.6673
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.1857	28.6675
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.8207	28.668
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.7707	28.668
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.5477	28.6897
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.5265	28.6983
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.4765	28.6983
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.9338	28.7026
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.6798	28.7435
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.6298	28.7435
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-119.0122	28.7448
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-118.9622	28.7448
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.1675	28.7453
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.1175	28.7453
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-119.0067	28.7518
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2278	28.7663
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8562	28.778
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8062	28.778
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.2894	28.7911
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.2394	28.7911
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.5562	28.7957
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-119.2086	28.7959
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8452	28.8001
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.8227	28.8047
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.6876	28.8299
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.218	28.8391
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.168	28.8391
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.8556	28.8836
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.8055	28.8836
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.3395	28.8843
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.813	28.9018
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.763	28.9018
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.2083	28.9325
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.3082	28.9655
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.2582	28.9655
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.1259	28.9728
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-117.0759	28.9728
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.6788	28.9736
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.6288	28.9736
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.5335	28.9809
+# @DC5ADn|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|14.612|"Magnetic Anomaly"
+-117.4835	28.9809
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-119.8412	28.9893
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.6123	28.9927
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-118.5623	28.9927
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.9647	28.9931
+# @DC5Ar.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|12.678|"Magnetic Anomaly"
+-117.9147	28.9931
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.2161	29.0063
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.1661	29.0063
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-119.8505	29.0067
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-119.8005	29.0067
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.4433	29.0536
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7886	29.056
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.219	29.0576
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.4913	29.1012
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.4413	29.1012
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.811	29.1263
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.846	29.1785
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.6631	29.2137
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.833	29.2351
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.783	29.2351
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.0864	29.2378
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.0364	29.2378
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.5509	29.2465
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.5009	29.2465
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7899	29.2539
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7399	29.2539
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.0933	29.2539
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.0433	29.2539
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.215	29.2583
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.165	29.2583
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.2551	29.2683
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.2467	29.2816
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.2766	29.2967
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-119.9228	29.2993
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.7554	29.3052
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.8353	29.3172
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.1189	29.348
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.2272	29.3946
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.1772	29.3946
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.5323	29.3953
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.3127	29.4855
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.2626	29.4855
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7981	29.4942
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7481	29.4942
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-119.9878	29.5125
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-119.9378	29.5125
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.8555	29.5297
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.8055	29.5297
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.2924	29.5412
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.2424	29.5412
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3659	29.5481
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7949	29.5499
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.2137	29.5521
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.8008	29.5527
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.6633	29.5777
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.2454	29.5834
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.375	29.5945
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.1727	29.6363
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.1227	29.6363
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.7812	29.6566
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.7312	29.6566
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.5909	29.6648
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.5409	29.6648
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.381	29.6757
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.331	29.6757
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0389	29.6964
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.9889	29.6964
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.3195	29.7511
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.2695	29.7511
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3346	29.7542
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2846	29.7542
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8206	29.7585
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7706	29.7585
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.7476	29.7644
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.6976	29.7644
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.3217	29.765
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.2717	29.765
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.871	29.7724
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.821	29.7724
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.1313	29.7917
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.0813	29.7917
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.7712	29.7985
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.3131	29.7992
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.9676	29.8055
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7418	29.8074
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.0674	29.8244
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.3717	29.8265
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.1918	29.848
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0384	29.8928
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-119.0482	29.9343
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.9982	29.9343
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.129	29.987
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.079	29.987
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.686	30.0032
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.6359	30.0032
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.7352	30.018
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.6852	30.018
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8759	30.0251
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3056	30.0402
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.2637	30.0602
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.8144	30.0608
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.1436	30.0697
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6441	30.0821
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.5117	30.0851
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.4018	30.0858
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.3945	30.1553
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.251	30.1687
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.201	30.1687
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2861	30.17
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2361	30.17
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6355	30.1708
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5855	30.1708
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8727	30.1723
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8227	30.1723
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.572	30.1736
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.522	30.1736
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.1466	30.1739
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.0966	30.1739
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.4425	30.1888
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.3925	30.1888
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.8732	30.1933
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.8232	30.1933
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.1152	30.2113
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0652	30.2113
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4976	30.2167
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4476	30.2167
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.6562	30.221
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.7394	30.2226
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.185	30.2438
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.6014	30.2881
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9844	30.313
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.7092	30.3159
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.6592	30.3159
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.2145	30.3293
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.1645	30.3293
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.2198	30.3353
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.1698	30.3353
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.5049	30.3507
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.4549	30.3507
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.1141	30.3659
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6278	30.3784
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8617	30.3851
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-118.9361	30.3866
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.914	30.3905
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.2232	30.3933
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2368	30.3938
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.8109	30.4118
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7609	30.4118
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.6182	30.4249
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.5682	30.4249
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.236	30.4896
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.186	30.4896
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.5116	30.5006
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8577	30.5054
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8077	30.5054
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.4118	30.5071
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.3618	30.5071
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.0515	30.5084
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.0015	30.5084
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.2019	30.5099
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.1519	30.5099
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.0873	30.5136
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.0373	30.5136
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9694	30.5149
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9194	30.5149
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6425	30.5149
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5925	30.5149
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.6696	30.5439
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.6947	30.5582
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.093	30.5618
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.8436	30.6616
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7936	30.6616
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.08	30.6624
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.03	30.6624
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.6944	30.6669
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.6444	30.6669
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.7797	30.6762
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.7297	30.6762
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.1722	30.7172
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2225	30.7189
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9531	30.7204
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6075	30.721
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.5782	30.7236
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.3357	30.724
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8376	30.7245
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.0905	30.7354
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2077	30.8162
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.1577	30.8162
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.1529	30.8173
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.1029	30.8173
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4876	30.8205
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4376	30.8205
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8269	30.8209
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7769	30.8209
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.3915	30.8261
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.3415	30.8261
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.6956	30.8469
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.6456	30.8469
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.42	30.8623
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.1771	30.8626
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.1271	30.8626
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.8403	30.8668
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0637	30.8694
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-122.6974	30.8857
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.0842	30.8898
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.6636	30.8926
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.8728	30.9001
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0487	31.0028
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.9987	31.0028
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9271	31.0028
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.8771	31.0028
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5948	31.0043
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5448	31.0043
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1436	31.0077
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0936	31.0077
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.138	31.0094
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.088	31.0094
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7758	31.0096
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7258	31.0096
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.4019	31.0128
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3519	31.0128
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.7807	31.0276
+# @DC5Bn.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|15.155|"Magnetic Anomaly"
+-118.7307	31.0276
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.9406	31.0304
+# @DC5Cn.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.014|"Magnetic Anomaly"
+-118.8906	31.0304
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.5059	31.0513
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.4102	31.0519
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8269	31.0586
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.1171	31.0607
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.8074	31.0701
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.2491	31.0806
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1446	31.154
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1486	31.1631
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0986	31.1631
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.4505	31.1652
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.4005	31.1652
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8326	31.1686
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.7826	31.1686
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.0873	31.1755
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.0373	31.1755
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.8772	31.184
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.8272	31.184
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4836	31.1943
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4336	31.1943
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.3212	31.1971
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.2712	31.1971
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3904	31.2036
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.7518	31.2131
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.167	31.2221
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6028	31.2304
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.1278	31.2345
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9141	31.2375
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.128	31.3113
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.078	31.3113
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9028	31.3169
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.8528	31.3169
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5445	31.3246
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.4945	31.3246
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3521	31.3393
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3021	31.3393
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.6867	31.3534
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.6367	31.3534
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4976	31.3635
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7373	31.3746
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1506	31.375
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.9313	31.3772
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.4808	31.3782
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.369	31.3797
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8276	31.3804
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.5421	31.4282
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.4921	31.4282
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.7381	31.491
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.6881	31.491
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.0044	31.4912
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.9544	31.4912
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.2073	31.4989
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.1573	31.4989
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.5076	31.5004
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4576	31.5004
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7356	31.5016
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.6856	31.5016
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.4503	31.5044
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.4003	31.5044
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1231	31.507
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0731	31.507
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.5156	31.5117
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.4656	31.5117
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.9245	31.5251
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.8745	31.5251
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.3044	31.5437
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-124.0177	31.5437
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-124.0222	31.553
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9722	31.553
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5282	31.5553
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6631	31.5587
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.3219	31.5619
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.8043	31.5728
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.6589	31.5772
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6776	31.6381
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6276	31.6381
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.6417	31.6394
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.5917	31.6394
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-124.0237	31.6544
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2801	31.6664
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.2301	31.6664
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-124.0229	31.6779
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9729	31.6779
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.5671	31.6793
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1143	31.6987
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.0354	31.7004
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.2243	31.703
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.8452	31.7066
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.129	31.7209
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4753	31.7217
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.8596	31.7239
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.8096	31.7239
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-120.9227	31.7241
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7246	31.7266
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.5177	31.7322
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5202	31.7418
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.4702	31.7418
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1073	31.7692
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0573	31.7692
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4956	31.8147
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4456	31.8147
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7206	31.8186
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.6706	31.8186
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.3066	31.8316
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.2566	31.8316
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.6318	31.8528
+# @DC5Cn.3n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|16.556|"Magnetic Anomaly"
+-119.5818	31.8528
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6781	31.8645
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1085	31.8667
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-124.0252	31.8781
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.6034	31.8809
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.4974	31.8903
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.7034	31.8956
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.5844	31.9327
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.5344	31.9327
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.7046	31.9367
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6546	31.9367
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.8987	31.9417
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0947	31.98
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0447	31.98
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9946	31.9826
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9446	31.9826
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.648	31.9936
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.598	31.9936
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6506	31.9955
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6006	31.9955
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.0284	31.9985
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-119.9784	31.9985
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.424	32.0047
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.374	32.0047
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0825	32.0061
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0325	32.0061
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.3131	32.0197
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.2631	32.0197
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.7071	32.0421
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4671	32.0425
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.3469	32.0481
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7171	32.0496
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.9385	32.1287
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-125.8885	32.1287
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5204	32.1361
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.4704	32.1361
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6966	32.1429
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6466	32.1429
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.405	32.1452
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.355	32.1452
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4713	32.1495
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4213	32.1495
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0708	32.1562
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7381	32.1673
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.6881	32.1673
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.3999	32.1973
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.3499	32.1973
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9874	32.1973
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0945	32.198
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.723	32.205
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.408	32.216
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0562	32.2219
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0062	32.2219
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6008	32.2245
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.3779	32.2276
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.954	32.2285
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.5735	32.25
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.5235	32.25
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1891	32.2776
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9588	32.3114
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9088	32.3114
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.07	32.3139
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.02	32.3139
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.2049	32.3319
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1549	32.3319
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.7741	32.3321
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.7241	32.3321
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.407	32.3387
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.357	32.3387
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.2245	32.3488
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.1745	32.3488
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.2375	32.3661
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4776	32.3718
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6486	32.3766
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7376	32.3796
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.5483	32.3834
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4615	32.3838
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.6239	32.3899
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.5053	32.4433
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.4553	32.4433
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6528	32.4832
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.6028	32.4832
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.7974	32.4867
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.509	32.499
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.459	32.499
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.8191	32.5003
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.7691	32.5003
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.8801	32.5083
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.8301	32.5083
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4891	32.525
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4391	32.525
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7809	32.5292
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.7309	32.5292
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.2232	32.5397
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9573	32.5418
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.5211	32.5494
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.1819	32.5515
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.3034	32.5524
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.7017	32.5925
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.6517	32.5925
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-126.0128	32.6389
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.3627	32.6536
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.3127	32.6536
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.1109	32.6546
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.0609	32.6546
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.5959	32.6593
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.5459	32.6593
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.5093	32.6654
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.4593	32.6654
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9393	32.6669
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.8893	32.6669
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1776	32.6683
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1276	32.6683
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.4627	32.7042
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5837	32.7171
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.8524	32.7181
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0429	32.7213
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.9435	32.7217
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.6532	32.7263
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-125.0186	32.7282
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.4397	32.7301
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4909	32.7301
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.935	32.8136
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-120.885	32.8136
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6424	32.8205
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.5924	32.8205
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.783	32.8228
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.733	32.8228
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9916	32.8342
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9416	32.8342
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.8139	32.8356
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.7639	32.8356
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.4395	32.838
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.3895	32.838
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.6617	32.8396
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.6117	32.8396
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.5044	32.8445
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.4544	32.8445
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.584	32.8503
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.534	32.8503
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-124.0344	32.8552
+# @DC8n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.823|"Magnetic Anomaly"
+-123.9844	32.8552
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.041	32.8625
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1741	32.8778
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.481	32.8858
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.9263	32.8984
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.8845	32.9835
+# @DC7n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|25.183|"Magnetic Anomaly"
+-123.8345	32.9835
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.1493	32.9875
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0993	32.9875
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.4477	33.0005
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.3977	33.0005
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.5391	33.0318
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.8094	33.0329
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5898	33.0329
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.6655	33.0352
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9751	33.0396
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.4468	33.0407
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6388	33.0444
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.7242	33.0579
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-126.0761	33.1486
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-126.0261	33.1486
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.6897	33.1549
+# @DC6An.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|21.32|"Magnetic Anomaly"
+-121.6397	33.1549
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.7025	33.163
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.6525	33.163
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.4548	33.1697
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.4048	33.1697
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5822	33.1794
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5322	33.1794
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9783	33.18
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9283	33.18
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.7864	33.1856
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.7364	33.1856
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-121.1574	33.2076
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.4365	33.2082
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.7038	33.213
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-120.8769	33.2183
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.7608	33.3235
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-120.7108	33.3235
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-121.1567	33.3292
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-121.1067	33.3292
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.4102	33.3294
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.3602	33.3294
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9788	33.361
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.4708	33.3666
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.7606	33.3679
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.719	33.3685
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-126.0798	33.3794
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.5612	33.3942
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.4922	33.4882
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.4422	33.4882
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.7169	33.4919
+# @DC6Bn.2n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.804|"Magnetic Anomaly"
+-122.6669	33.4919
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-121.508	33.4965
+# @DC6n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|19.048|"Magnetic Anomaly"
+-121.458	33.4965
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.8564	33.4969
+# @DC6n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|20.131|"Magnetic Anomaly"
+-121.8064	33.4969
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-126.0738	33.4978
+# @DC10n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.745|"Magnetic Anomaly"
+-126.0238	33.4978
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.688	33.4982
+# @DC10n.1n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|28.283|"Magnetic Anomaly"
+-125.638	33.4982
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.464	33.4994
+# @DC9n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.972|"Magnetic Anomaly"
+-125.414	33.4994
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-121.3041	33.5001
+# @DC5En|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|18.281|"Magnetic Anomaly"
+-121.2541	33.5001
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9773	33.5057
+# @DC9n|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|27.027|"Magnetic Anomaly"
+-124.9273	33.5057
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.546	33.5071
+# @DC7n.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.781|"Magnetic Anomaly"
+-123.496	33.5071
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.7543	33.5109
+# @DC8n.2n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|26.554|"Magnetic Anomaly"
+-124.7043	33.5109
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.0975	33.5436
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.4527	33.6183
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-121.0396	33.6229
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.4131	33.6595
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.3631	33.6595
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.073	33.6693
+# @DC6Cn.3n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|24.118|"Magnetic Anomaly"
+-123.023	33.6693
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-121.0706	33.7524
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-121.0206	33.7524
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.3728	33.7772
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.3023	33.8345
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.2523	33.8345
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-121.0904	33.8789
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-121.178	33.9004
+# @DC5Dn|y|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|17.277|"Magnetic Anomaly"
+-121.128	33.9004
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.2645	33.9589
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.2162	33.9872
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.1662	33.9872
+# @DC12n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|30.939|"Magnetic Anomaly"
+-125.9859	33.991
+# @DC12n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|30.939|"Magnetic Anomaly"
+-125.9359	33.991
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.1161	34.2028
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.0683	34.249
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.0183	34.249
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-122.0263	34.3675
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.9805	34.4131
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.9305	34.4131
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.9492	34.5275
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.8946	34.5626
+# @DC6AAr.1n|o|2|N/A|Lonsdale++_1991_AmAssPetGeolMem|N/A|22.248|"Magnetic Anomaly"
+-121.8446	34.5626

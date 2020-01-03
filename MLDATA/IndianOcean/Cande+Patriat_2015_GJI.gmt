@@ -1,0 +1,1965 @@
+# @VGMT1.0 @GPOINT
+# @R8.97631/92.33926/-60.69866/4.9933                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+15.39712	-56.02662
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+15.90686	-56.17143
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+17.11648	-56.6943
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51.121	-41.479
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51.001	-41.529
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51	-41.521
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50.678	-41.562
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50.517	-41.512
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50	-41.663
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+49.433	-41.711
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.169	-34.282
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.054	-34.355
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.441	-35.96
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.334	-35.978
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.321	-35.992
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+35.345	-48.799
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+35.167	-48.843
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+34.479	-48.886
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+20.50112	-48.99767
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+21.30831	-49.12798
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+22.08644	-49.30542
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+22.87913	-49.60905
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51.35	-33.881
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50.992	-33.925
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.626	-26.88
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.516	-26.956
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.502	-27.003
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.321	-27.061
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+58.496	-28.314
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+58.442	-28.333
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+58.242	-28.356
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.61	-28.708
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.811	-28.561
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.482	-28.669
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+38.263	-41.291
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+38.133	-41.286
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+37.797	-41.305
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+9.75632	-55.59528
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+10.52932	-55.77681
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+18.71628	-48.87071
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+15.0983	-56.49141
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+15.48071	-56.66087
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+16.6685	-57.07249
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+57.523	-36.509
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+57.503	-36.448
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+57.453	-36.47
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+51.014	-42.028
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.995	-42.042
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.776	-42.05
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.531	-42.073
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.028	-42.153
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+49.38	-42.202
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+35.236	-49.377
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+34.638	-49.376
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+21.44799	-48.72895
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+21.92636	-48.86182
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+22.75117	-49.19082
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+58.326	-27.856
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+58.216	-27.869
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+58.037	-27.856
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+51.35	-33.417
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.991	-33.46
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+52.30016	-33.26489
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+37.909	-40.849
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+38.404	-40.868
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+14.9147	-56.7538
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+15.34565	-56.83252
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+16.48555	-57.22
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+57.615	-36.747
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+57.528	-36.713
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+57.509	-36.713
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+51.015	-42.276
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+50.994	-42.266
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+50.825	-42.282
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+50.521	-42.309
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+50.033	-42.331
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+49.349	-42.405
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+35.193	-49.553
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+21.49626	-48.52681
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+21.90711	-48.67543
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+22.69663	-48.98985
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+58.386	-27.708
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+58.274	-27.719
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+58.143	-27.729
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+58.097	-27.724
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+51.35	-33.193
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+50.996	-33.255
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+49.714	-33.477
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+49.674	-33.492
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+38.474	-40.672
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+38.04	-40.473
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+9.71166	-55.7678
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+10.47188	-55.89944
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+18.89845	-48.54801
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+9.67238	-55.89542
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+10.38246	-56.0634
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+19.00093	-48.41258
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+14.80581	-56.90268
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+15.16196	-57.04842
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+16.31617	-57.37327
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+35.142	-49.766
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+51.017	-42.477
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+50.97	-42.48
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+50.866	-42.479
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+50.5	-42.517
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+50.033	-42.551
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+49.324	-42.603
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+57.674	-36.914
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+57.544	-36.885
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+57.541	-36.888
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+21.49992	-48.35002
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+21.86955	-48.40582
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+22.67974	-48.82791
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+38.091	-40.327
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+38.592	-40.433
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+51.35	-32.954
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+51.002	-32.998
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+58.077	-27.602
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+58.077	-27.597
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+58.202	-27.535
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+12.88033	-56.25209
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+14.64569	-57.13743
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+14.97461	-57.2271
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+16.15222	-57.52784
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+35.10907	-49.95332
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+9.59445	-56.10149
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+10.32615	-56.24039
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+10.58138	-56.1372
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+11.02209	-56.11977
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+18.55786	-57.63539
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+26.59283	-48.96214
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+21.5084	-48.13083
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+21.79307	-48.19031
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+22.65787	-48.62203
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+38.67406	-40.25514
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+38.15445	-40.13183
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+19.91672	-48.0369
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+46.817	-43.267
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+46.598	-43.315
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+46.236	-43.453
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+47.967	-33.528
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+50.033	-42.716
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+49.304	-42.811
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+48.845	-42.903
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+47.551	-43.12
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+47.266	-43.171
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+51.35	-32.823
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+51.038	-32.881
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+50.61	-32.952
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+50.073	-33.072
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+49.971	-33.092
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+49.752	-33.132
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+51.016	-42.689
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+50.945	-42.689
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+50.91	-42.69
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+50.51	-42.696
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+50.218	-42.759
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+51.436	-32.861
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+52.395	-41.265
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+52.05	-41.396
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+51.909	-41.328
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+53.507	-31.289
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+52.817	-31.597
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+52.67	-31.667
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+54.766	-39.462
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+54.614	-39.596
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+53.684	-40.247
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+53.251	-40.553
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+55.409	-29.73
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+55.1	-29.942
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+54.724	-30.225
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+54.167	-30.697
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+54.079	-30.71
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+55.268	-39.278
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+56.541	-38.591
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+57.023	-28.704
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+56.993	-28.689
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+56.703	-29.087
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+56.287	-29.286
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+56.121	-29.351
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+57.758	-37.148
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+57.564	-37.122
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+57.561	-37.115
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+58.148	-27.343
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+58.057	-27.447
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+58.015	-27.475
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+49.91269	-43.04158
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+47.81407	-43.36785
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+47.8482	-43.35351
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+47.92728	-43.35732
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+49.269	-43.13531
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+50.03628	-43.01703
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+14.42032	-57.41989
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+14.679	-57.47472
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+15.69052	-57.89883
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+12.90522	-56.45836
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+51.20086	-32.38501
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+51.17023	-32.44913
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+50.53119	-32.58776
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+48.51627	-32.95953
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+48.10116	-33.02746
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+49.83883	-32.68628
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+21.6676	-47.76282
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+21.70286	-47.78292
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+37.39933	-39.52692
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+37.49558	-39.52228
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+38.31556	-39.32081
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+39.45941	-48.73688
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+39.34176	-38.33659
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+39.58858	-37.92702
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+39.76702	-37.91761
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+39.97293	-37.92252
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+52.3	-43.315
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+51.744	-43.393
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+51.273	-43.398
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+51.092	-43.39
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+50.839	-43.445
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+50.024	-43.364
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+50.022	-43.336
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+49.232	-43.483
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+48.177	-43.618
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+47.531	-43.702
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+47.103	-43.767
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+46.993	-43.762
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+46.505	-43.878
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+46.419	-43.885
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+46.289	-43.884
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+49.935	-32.283
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+49.813	-32.281
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+48.87	-32.42
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+48.225	-32.514
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+47.756	-32.638
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+50.05919	-31.7059
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+49.70888	-31.76244
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+49.4059	-31.78812
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+48.36281	-31.9568
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+47.88577	-32.04183
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+49.21935	-43.839
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+49.17829	-43.83232
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+48.59297	-43.94405
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+47.51892	-44.02826
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+46.96832	-44.1781
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+46.46104	-44.20063
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+46.34511	-44.28202
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+9.23361	-57.07021
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+9.27889	-57.15682
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+10.37151	-57.33614
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+10.88588	-57.29433
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+12.96074	-57.11578
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+14.14129	-57.65664
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+14.33644	-57.75246
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+15.18009	-58.32061
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+18.24945	-58.40044
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+34.94502	-50.8433
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+36.41369	-50.56005
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+39.19141	-49.06693
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+19.10176	-47.21305
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+19.46904	-47.27711
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+21.34846	-46.97365
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+21.50124	-46.98841
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+21.94425	-47.00194
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+22.02061	-47.00675
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+25.23256	-47.62703
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+25.2	-47.6
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+37.35536	-39.00781
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+37.66114	-38.95081
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+38.05945	-38.95997
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+38.16101	-38.89945
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+39.27194	-37.38249
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+39.53591	-37.3811
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+39.68896	-37.32524
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+40.01746	-37.32045
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+8.97631	-57.40877
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+9.23672	-57.49113
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+10.41365	-57.57133
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+10.58318	-57.57909
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+12.9532	-57.55062
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+13.9894	-57.77881
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+14.23039	-57.93474
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+14.88815	-58.58986
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+18.10404	-58.75592
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+34.29169	-51.18345
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+34.79746	-51.22053
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+34.85354	-51.23369
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+36.29954	-51.03761
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+38.80858	-49.54871
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+18.96999	-46.95208
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+19.02754	-46.95184
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+19.28435	-46.98244
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+21.09063	-46.62592
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+21.17576	-46.63159
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+21.3861	-46.64706
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+21.48904	-46.67936
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+21.84026	-46.7639
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+22.00928	-46.77693
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+24.96541	-47.23593
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+24.96541	-47.2
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+36.87931	-38.68893
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+37.26231	-38.67724
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+37.84536	-38.66952
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+39.07318	-36.92241
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+39.44463	-36.91261
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+39.74735	-36.90674
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+39.83143	-36.89806
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+40.15484	-36.90847
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+40.19596	-36.90543
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+40.41779	-36.89763
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+12.9216	-57.954
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+13.6388	-58.2509
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+14.03353	-58.59458
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+14.5977	-58.8294
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+34.57212	-51.65818
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+10.47687	-58.2054
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+10.88229	-58.28753
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+34.73505	-51.70258
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+38.47845	-49.99314
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+19.06437	-46.59194
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+21.31298	-46.32539
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+21.64651	-46.32735
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+21.70522	-46.34984
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+22.04618	-46.4458
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+26.03149	-47.36821
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+21.30333	-46.33278
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+21.64004	-46.32577
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+21.70262	-46.3511
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+37.31999	-38.29776
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+37.05466	-38.24418
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+39.19577	-36.49523
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+39.59132	-36.49982
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+39.935	-36.49396
+# @DC33n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|73.619|"Magnetic Anomaly"
+40.37289	-36.53674
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+11.3952	-58.7704
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+12.2142	-58.9863
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+12.4275	-59.1045
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+12.63129	-59.38833
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+13.10229	-59.74891
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+13.2792	-59.8508
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+33.93392	-52.55638
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+34.05	-52.58
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+34.66217	-52.68651
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+37.6836	-51.04054
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+38.55502	-51.23734
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+39.33363	-51.43779
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+21.8094	-45.185
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+21.99659	-45.27718
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+22.08147	-45.30363
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+22.3243	-45.41203
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+22.6203	-45.51343
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+22.97213	-45.80178
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+23.5391	-46.1597
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+37.51691	-37.1679
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+39.6107	-35.4514
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.0219	-35.5292
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.3399	-35.6166
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.37835	-35.54639
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.4757	-35.58154
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.4794	-35.6
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.76323	-35.6777
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.7904	-35.7
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+40.99484	-35.72204
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+41.028	-35.74
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+41.1762	-35.76
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+10.52	-59.2
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+10.75	-59.34
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+11.138	-59.5513
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+11.3823	-60.0232
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+12.0456	-60.6004
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+12.16853	-60.69866
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+32.95	-53.37
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+33	-53.35
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+33.3452	-53.49028
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+33.68692	-53.54297
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+34.46044	-53.6653
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+35.18481	-53.87976
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+36.89888	-51.88933
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+37.0277	-51.92931
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+37.89492	-52.13592
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+38.64808	-52.31379
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+23.2248	-44.3821
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+23.4171	-44.4745
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+23.5693	-44.551
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+23.7596	-44.667
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+23.93203	-44.78003
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+24.0087	-45.3181
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+24.3341	-45.4152
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+24.8884	-45.6782
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+37.1417	-36.17428
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+37.6433	-36.2086
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+37.8119	-36.25019
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+38.2784	-36.3571
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+39.6547	-34.65975
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.0294	-34.4542
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.30536	-34.50132
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.36412	-34.50404
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.3764	-34.5499
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.7456	-34.6519
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.78815	-34.63496
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.889	-34.6888
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+40.91214	-34.67875
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+41.066	-34.7391
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+41.21688	-34.72644
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+41.4637	-34.8085
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+41.4729	-34.78514
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+15.39712	-56.02662
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+15.90686	-56.17143
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+17.11648	-56.6943
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51.121	-41.479
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51.001	-41.529
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51	-41.521
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50.678	-41.562
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50.517	-41.512
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50	-41.663
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+49.433	-41.711
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.169	-34.282
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.054	-34.355
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.441	-35.96
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.334	-35.978
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.321	-35.992
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+35.345	-48.799
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+35.167	-48.843
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+34.479	-48.886
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+20.50112	-48.99767
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+21.30831	-49.12798
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+22.08644	-49.30542
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+22.87913	-49.60905
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+51.35	-33.881
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+50.992	-33.925
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.626	-26.88
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.516	-26.956
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.502	-27.003
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+60.321	-27.061
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+58.496	-28.314
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+58.442	-28.333
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+58.242	-28.356
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.61	-28.708
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.811	-28.561
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+57.482	-28.669
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+38.263	-41.291
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+38.133	-41.286
+# @DC20n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|43.789|"Magnetic Anomaly"
+37.797	-41.305
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+76.91946	-17.65792
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+76.91946	-17.65792
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+76.91946	-17.65792
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+77.92631	-17.68685
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+79.99973	-19.84163
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+80.13467	-19.85972
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+81.01163	-19.91542
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+61.83875	-33.19657
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+61.93042	-33.24466
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+62.42796	-35.62263
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+62.52935	-35.65908
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+63.02684	-35.86251
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+64.41768	-36.35539
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+64.80394	-36.49207
+# @DC20n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|42.536|"Magnetic Anomaly"
+64.06444	-36.17604
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+10.52932	-55.77681
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+18.71628	-48.87071
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+15.0983	-56.49141
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+15.48071	-56.66087
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+16.6685	-57.07249
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+57.523	-36.509
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+57.503	-36.448
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+57.453	-36.47
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+51.014	-42.028
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.995	-42.042
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.776	-42.05
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.531	-42.073
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.028	-42.153
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+49.38	-42.202
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+35.236	-49.377
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+34.638	-49.376
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+21.44799	-48.72895
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+21.92636	-48.86182
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+22.75117	-49.19082
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+58.326	-27.856
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+58.216	-27.869
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+58.037	-27.856
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+51.35	-33.417
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+50.991	-33.46
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+52.30016	-33.26489
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+37.909	-40.849
+# @DC21n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|47.906|"Magnetic Anomaly"
+38.404	-40.868
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+77.314	-15.154
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+77.964	-15.233
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+78.503	-15.274
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+78.001	-15.22
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+77.494	-15.138
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+79.464	-17.052
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+79.953	-17.076
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+80.974	-17.162
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+82.125	-18.779
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+60.256	-35.564
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+60.405	-35.6
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+59.847	-35.346
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+60.993	-35.748
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+61.079	-35.782
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+60.985	-37.666
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+61.484	-37.932
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+61.826	-38.065
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+62.244	-38.233
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+62.578	-38.371
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+62.736	-38.429
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+63.027	-38.545
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+63.161	-38.566
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+63.232	-38.587
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+63.348	-38.652
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+62.892	-38.484
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+63.852	-40.485
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+63.887	-40.507
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+64.216	-40.595
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+64.277	-40.651
+# @DC22n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|49.714|"Magnetic Anomaly"
+64.497	-40.72
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+78.005	-13.978
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+78.194	-13.991
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+78.001	-13.989
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+78.519	-13.987
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+79.618	-15.257
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+79.88	-15.297
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+79	-15.197
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+79.165	-15.227
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+84.117	-18.249
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+59.305	-36.568
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+59.354	-36.585
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+59.712	-36.69
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+59.914	-36.749
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+59.98	-36.805
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+59.005	-36.298
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+60.151	-36.854
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+60.566	-38.357
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+61.036	-38.561
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+60.194	-38.264
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+60.457	-38.332
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+63.612	-42.569
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+64.36	-42.824
+# @DC23n.2n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|51.743|"Magnetic Anomaly"
+64.492	-42.925
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+57.73293	-37.1783
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+58.40821	-37.50151
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+59.26676	-37.88583
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+59.29716	-39.23801
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+59.78749	-39.43243
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+60.20221	-39.58511
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+60.50066	-39.69414
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+60.56402	-39.70616
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+61.18109	-40.74335
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+61.32091	-40.79958
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+77.63403	-12.87737
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+78.15177	-12.84469
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+78.49471	-12.84877
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+79.56766	-14.08125
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+79.96336	-14.12637
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+81.00885	-14.85666
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+81.21172	-14.84949
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly"
+81.45161	-14.90041
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+57.55782	-39.07044
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+57.679	-39.18919
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+58.6433	-39.5572
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+58.77619	-39.62286
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+58.7683	-40.97381
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+59.14326	-41.0783
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+59.57886	-41.17518
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+59.64376	-41.20424
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+59.60947	-41.30741
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+78.09596	-11.2136
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+78.54766	-11.22687
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+79.94706	-12.40939
+# @DC25n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|55.904|"Magnetic Anomaly"
+79.2597	-12.465
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+56.9575	-40.0097
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+57.2366	-40.04463
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+57.7201	-40.3143
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+58.028	-40.43721
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+57.7733	-41.8255
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+58.71279	-42.14839
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+59.08184	-43.1866
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+59.34522	-43.26695
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+59.80983	-43.45334
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+59.84048	-43.46996
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+78.00224	-10.25447
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+77.5797	-10.2627
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+79.6307	-11.5814
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+79.98658	-11.58666
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly"
+80.96682	-12.33807
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+54.83311	-40.93081
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+56.57162	-41.64474
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+57.3842	-41.9623
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+56.83659	-43.60775
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+57.02328	-43.64226
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+57.2529	-43.72213
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+57.54355	-43.82529
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+57.9715	-43.9501
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+57.56977	-45.22593
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+57.9287	-45.3621
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+58.26247	-45.43939
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+78.1764	-8.3802
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+77.83457	-8.40213
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+77.3527	-8.4351
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+79.99872	-9.88526
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+79.65832	-9.88612
+# @DC27n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|60.92|"Magnetic Anomaly"
+80.98768	-11.09153
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+55.14559	-42.0363
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+56.08913	-42.44056
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+56.42785	-44.46851
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+57.56963	-46.33188
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+57.864	-46.48529
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+78.8448	-7.3295
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+77.76607	-7.51883
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+77.3932	-7.5688
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly"
+80.01995	-8.96666
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+77.61922	-6.09119
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+78.92471	-5.896
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+80.01221	-7.32726
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+81.4238	-8.6929
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+80.92499	-8.67092
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+83.30444	-10.24987
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+83.71316	-10.209
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+54.3235	-44.0755
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+54.56722	-44.23759
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+54.91655	-45.95371
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+54.69841	-45.79872
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+56.26237	-48.09524
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+56.5969	-48.2048
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+57.55803	-50.30497
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+58.13637	-50.50209
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+58.5204	-50.60149
+# @DC29n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|64.745|"Magnetic Anomaly"
+58.5086	-50.61999
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+74.2086	-3.3554
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+75.02182	-5.71017
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+76.37569	-5.6375
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+77.55011	-5.4937
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+77.07584	-5.57205
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+78.18629	-5.3709
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+79.9476	-6.7862
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+80.19649	-6.8034
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+80.02744	-6.81483
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+81.3662	-8.1519
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+80.3598	-8.1766
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+80.4903	-8.1957
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+83.2201	-9.6847
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+83.29999	-9.73
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+92.33926	3.21481
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+50.25849	-43.67944
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+50.80891	-43.71574
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+51.17425	-43.73198
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+51.49141	-43.7527
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+52.29101	-43.82995
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+51.97894	-43.84386
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+53.14666	-44.15699
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+54.10451	-44.58675
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+55.03895	-46.71203
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+55.88187	-48.64478
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+56.3455	-48.7827
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+57.0629	-50.7336
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+57.66761	-50.97785
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+58.7493	-51.3796
+# @DC30n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|65.578|"Magnetic Anomaly"
+59.39122	-51.49182
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+74.37591	-2.32411
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+74.89396	-2.47954
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+74.89891	-2.46909
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+75.06319	-2.54372
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+75.06319	-2.54372
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+77.14325	-4.22226
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+77.40399	-4.21077
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+77.44871	-4.21084
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+78.02016	-4.19999
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+78.81596	-4.19406
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+78.93365	-4.79
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+80.02566	-5.53732
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+80.21938	-5.54577
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+80.28099	-6.31054
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+80.43702	-6.81028
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+80.53789	-6.83563
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+80.66562	-6.83875
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+80.80789	-6.8488
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+81.05032	-6.87052
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+81.21587	-6.88546
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+81.68216	-6.92507
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+81.87493	-8.14838
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+82.01851	-8.33383
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+82.94379	-8.40553
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+83.26342	-8.32603
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+86.48175	0.16494
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+85.05286	-8.00496
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+86.26275	-3.4751
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+86.96386	0.18919
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+86.62493	-3.4838
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+87.39752	0.12868
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+87.70671	0.09554
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+88.19437	0.06324
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+50.33552	-44.12041
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+50.60847	-44.30611
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+50.71095	-44.34863
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+50.7552	-44.37842
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+51.32446	-44.69031
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+51.60506	-44.87172
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+52.01295	-45.03503
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+52.11623	-45.15237
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+52.46876	-45.32141
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+53.67805	-46.01209
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+53.72854	-46.04019
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+53.85445	-46.31892
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+54.67308	-47.46035
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+54.5859	-48.41978
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+54.97254	-49.73389
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+55.70751	-50.02872
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+55.19408	-50.83587
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+54.89654	-51.41796
+# @DC31n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|67.735|"Magnetic Anomaly"
+56.70755	-52.1795
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+75.39902	-1.44464
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+75.51807	-1.4565
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+77.12832	-2.9496
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+77.26983	-2.96672
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+78.54297	-3.16685
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+78.69598	-3.19812
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+78.79156	-3.2281
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+78.88929	-3.41938
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+79.34224	-4.20403
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+79.55555	-4.16577
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+79.76041	-4.18214
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+79.98132	-4.19749
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+80.09679	-4.18475
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+80.26639	-5.20258
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+80.53059	-5.42345
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+80.94566	-5.47838
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+81.12869	-5.48871
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+81.78056	-7.0004
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+82.07334	-6.8678
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+82.90514	-6.96602
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+83.06696	-6.93565
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+84.05472	-7.02419
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+85.01652	-6.37787
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+86.74059	1.7043
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+86.90736	1.66834
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+86.54885	-1.50902
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+87.24228	1.68947
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+87.76025	1.56924
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+87.81723	1.54007
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+88.37152	1.4285
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+51.756	-47.38494
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+52.15797	-47.59965
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+52.4129	-48.11525
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+52.77453	-48.8292
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+52.752	-50.26679
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+53.84042	-50.89166
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+54.19698	-51.77559
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+54.16057	-52.67639
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+54.23334	-52.72194
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+55.02516	-53.09771
+# @DC32n.1n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|71.071|"Magnetic Anomaly"
+55.73114	-53.38693
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+76.96368	0.27123
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+77.57786	0.30178
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+77.65013	0.24031
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+77.69264	0.21622
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+78.84063	-0.80188
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+79.44718	-1.18356
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+79.85946	-1.2097
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+80.01823	-1.24089
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+80.03208	-1.24951
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+80.59155	-1.21863
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+80.96357	-1.27647
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+81.00591	-1.26584
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+82.7439	-4.02002
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+84.01542	-4.0889
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+84.40858	-4.13064
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+84.43185	-4.11693
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+84.5376	-4.13454
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+84.79232	-3.09653
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+84.66071	-4.1379
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+87.15117	4.9933
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+47.90563	-50.41342
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+48.3094	-50.5992
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+49.7391	-51.47106
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+49.71146	-52.70043
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+50.47243	-53.46586
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+51.01944	-54.26786
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+51.63897	-55.71316
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+52.06529	-56.11823
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+52.10128	-56.15654
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+52.3752	-56.25248
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+52.855	-56.47695
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+54.20333	-56.31836
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+57.85922	-53.58039
+# @DC33n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|79.075|"Magnetic Anomaly"
+60.25035	-51.68535
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+77.95737	1.30181
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+78.12135	1.06057
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+78.81384	0.38908
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+79.54127	0.30088
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+80.04463	0.16884
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+80.62218	-0.07371
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+80.65974	-0.0852
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+81.25512	-0.42133
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+81.34586	-0.55456
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+82.39298	-1.14883
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+82.88097	-1.31208
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+83.38659	-1.70154
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+83.57626	-1.85924
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+46.59592	-51.76891
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+48.00366	-52.42012
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+48.32319	-53.99008
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+49.10404	-55.83334
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+49.24651	-55.93883
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+51.3204	-57.9896
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+52.81365	-57.12542
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+57.97436	-53.3346
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+58.9504	-53.16379
+# @DC34n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|83|"Magnetic Anomaly"
+59.22153	-53.26096
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+17.11458	-57.96283
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+17.06594	-57.90431
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+17.00604	-57.84369
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+16.93741	-57.77362
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+21.15918	-57.9791
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+21.08551	-57.91794
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+21.0143	-57.86866
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+20.91316	-57.78393
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+33.41289	-50.1928
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+33.29541	-50.12854
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+33.19169	-50.0626
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+33.07665	-50.02954
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+24.72852	-48.84528
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+24.8014	-48.91944
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+24.8608	-48.98428
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+24.90343	-49.02339
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+25.01246	-49.1018
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+27.97146	-48.44558
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+28.0663	-48.53799
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+28.13363	-48.58769
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+28.20668	-48.6556
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+28.28742	-48.7169
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+36.92625	-40.01813
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+37.03559	-40.09163
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+37.11161	-40.14828
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+37.19518	-40.20309
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+26.59283	-48.96214
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+18.55786	-57.63539
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+14.64569	-57.13743
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+14.97461	-57.2271
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+16.15222	-57.52784
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+12.88033	-56.25209
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+21.5084	-48.13083
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+21.79307	-48.19031
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+22.65787	-48.62203
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+51.3503	-32.82272
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+50.07263	-33.07197
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+49.75198	-33.13202
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+38.67406	-40.25514
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+38.15445	-40.13183
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+50.03334	-42.71617
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+49.3041	-42.81117
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+47.5512	-43.1203
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+35.10907	-49.95332
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+72.64941	-10.839
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+73.09782	-10.92975
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+73.31808	-10.95293
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+73.99514	-12.3211
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+74.53625	-12.43694
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+75.23731	-12.51356
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+75.40756	-12.54915
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+76.3122	-12.57853
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+76.66839	-12.65717
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+55.15646	-23.83754
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+55.22271	-23.89112
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+55.42633	-24.04957
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+55.64067	-24.2153
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+55.72465	-25.8293
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+55.97208	-25.95931
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+55.97917	-26.03497
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.11132	-26.22011
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.23033	-26.22459
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.28595	-26.26014
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.46293	-26.39207
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.76128	-26.54422
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.83997	-26.62961
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.8973	-26.64155
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+56.93677	-26.668
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+57.23924	-26.87891
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+57.42464	-26.98252
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+57.48002	-27.0031
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+57.73058	-27.12517
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+57.95351	-27.25012
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+57.73293	-37.1783
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+58.40821	-37.50151
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+59.26676	-37.88583
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+59.29716	-39.23801
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+59.78749	-39.43243
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+60.20221	-39.58511
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+60.50066	-39.69414
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+60.56402	-39.70616
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+61.18109	-40.74335
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+61.32091	-40.79958
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+77.63403	-12.87737
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+78.15177	-12.84469
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+78.49471	-12.84877
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+79.56766	-14.08125
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+79.96336	-14.12637
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+81.00885	-14.85666
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+81.21172	-14.84949
+# @DC24n.3n|o|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|53.347|"Magnetic Anomaly, 3PlateSolution"
+81.45161	-14.90041
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+12.90522	-56.45836
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+21.6676	-47.76282
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+21.70286	-47.78292
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+53.99582	-27.80917
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+54.47926	-28.15044
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+54.47497	-28.19526
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+54.59538	-28.20167
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+55.0621	-28.51109
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+55.20723	-28.63884
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+51.20086	-32.38501
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+51.17023	-32.44913
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+50.53119	-32.58776
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+48.51627	-32.95953
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+48.10116	-33.02746
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+56.9575	-40.0097
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+57.2366	-40.04463
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+57.7201	-40.3143
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+58.028	-40.43721
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+57.7733	-41.8255
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+58.71279	-42.14839
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+49.91269	-43.04158
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+47.81407	-43.36785
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+47.8482	-43.35351
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+47.92728	-43.35732
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+49.269	-43.13531
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+50.03628	-43.01703
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+59.08184	-43.1866
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+59.34522	-43.26695
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+59.80983	-43.45334
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+59.84048	-43.46996
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+74.19486	-10.01963
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+74.35825	-10.06222
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+74.89194	-10.13812
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+75.9221	-10.2154
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+78.00224	-10.25447
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+77.5797	-10.2627
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+79.6307	-11.5814
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+79.98658	-11.58666
+# @DC26n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|57.554|"Magnetic Anomaly, 3PlateSolution"
+80.96682	-12.33807
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+14.24435	-57.57763
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+14.47795	-57.64843
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+15.40443	-58.13308
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+21.55131	-47.32026
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+21.88481	-47.38444
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+52.06779	-27.6059
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+52.49963	-27.78723
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+52.30432	-29.34856
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+52.39116	-29.39408
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+53.09824	-29.82506
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+53.15458	-29.96397
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+53.5345	-30.0979
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+55.14559	-42.0363
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+56.08913	-42.44056
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+56.42785	-44.46851
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+57.56963	-46.33188
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+57.864	-46.48529
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+74.16396	-6.31545
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+74.7539	-7.61091
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+76.04174	-7.57451
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+78.8448	-7.3295
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+77.76607	-7.51883
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+77.3932	-7.5688
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+80.01995	-8.96666
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+80.84467	-10.24375
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+52.3	-43.315
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+51.744	-43.393
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+51.273	-43.398
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+51.092	-43.39
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+50.839	-43.445
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+50.024	-43.364
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+50.022	-43.336
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+49.232	-43.483
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+48.177	-43.618
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+47.531	-43.702
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+47.103	-43.767
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+46.993	-43.762
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+46.505	-43.878
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+46.419	-43.885
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+46.289	-43.884
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+49.935	-32.283
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+49.813	-32.281
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+48.87	-32.42
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+48.225	-32.514
+# @DC28n|y|1|N/A|Cande+Patriat_2015_GJI|10.1093/gji/ggu392|62.499|"Magnetic Anomaly, 3PlateSolution"
+47.756	-32.638

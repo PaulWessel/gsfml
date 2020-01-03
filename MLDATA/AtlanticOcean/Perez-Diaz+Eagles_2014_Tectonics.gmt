@@ -1,0 +1,2197 @@
+# @VGMT1.0 @GPOINT
+# @R-56.4312/32.3006/-55.3648/-5.5435                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-32.3912	-36.0411
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-32.5221	-36.338
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-33.8306	-36.3592
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.04	-35.508
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-33.8568	-35.0574
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.04	-34.5827
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-34.5634	-35.508
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-34.6419	-36.1048
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-34.6419	-34.9929
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.657	-35.508
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.8141	-36.5072
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.657	-34.5177
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.657	-34.9498
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.6832	-34.3877
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-37.9656	-34.5611
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.2273	-34.7772
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.2534	-34.9282
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.3319	-35.0789
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-36.4738	-33.1861
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-36.8664	-33.4497
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-36.9187	-33.625
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-37.1281	-33.7562
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-35.2962	-32.8775
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-35.4794	-33.5155
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-35.5055	-33.2301
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-35.5579	-34.0617
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-35.6626	-33.7781
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-5.3833	-30.8004
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.3516	-32.0791
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.4824	-32.2349
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-24.0167	-33.8
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-24.9326	-34.5394
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-25.0373	-34.8636
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-4.415	-31.0936
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-5.2262	-32.2794
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-5.2786	-32.2127
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-24.7495	-33.9745
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-25.9533	-34.626
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-26.1365	-34.8851
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-26.9216	-34.9498
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-26.9739	-34.5177
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-4.3103	-32.4126
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-4.415	-32.3238
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-3.2896	-30.5516
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-3.6037	-31.1836
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-26.0842	-34.0399
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-26.2673	-34.3443
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-2.4783	-30.9133
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-2.583	-31.1386
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-27.4188	-34.0617
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-27.5497	-34.3877
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-3.0279	-32.346
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-3.2111	-32.6122
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-28.204	-34.4528
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-28.2825	-34.734
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-28.2825	-34.9282
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.8363	-33.1641
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.9934	-32.9217
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.1504	-32.59
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.1504	-32.7671
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.2027	-33.625
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.2289	-33.9091
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.3074	-32.4348
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.8047	-33.2741
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.8308	-33.098
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.857	-32.8775
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.9617	-32.6343
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-15.0925	-33.8218
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-47.187	-29.81
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-47.384	-30.64
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-48.013	-31.655
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-48.399	-32.052
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.482	-21.063
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.409	-21.479
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.409	-21.652
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.316	-22.29
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.316	-22.393
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-48.9468	-33.5558
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-49.0083	-33.7102
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-49.1927	-34.6642
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.7907	-25.8456
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.1319	-23.3934
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.1908	-23.6646
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.3084	-24.2593
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.2966	-24.3348
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.6613	-25.0014
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.8024	-25.5471
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+11.8613	-26.1858
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+12.0612	-26.8315
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+12.2024	-27.5051
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-49.5207	-35.1877
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-49.9101	-36.2078
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-50.4635	-36.7377
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-50.7095	-37.0834
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-51.0579	-37.313
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.5016	-32.0345
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.5016	-33.1201
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-13.0774	-33.4497
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-16.1394	-33.6031
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-16.6104	-34.3226
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.4342	-32.2127
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.4865	-32.0791
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-18.5994	-33.318
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-8.5761	-31.5652
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-8.5761	-32.1459
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-9.6229	-32.8996
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-21.1379	-34.7124
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-21.3735	-34.5611
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-6.0114	-32.9658
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-26.9478	-35.4652
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-27.131	-35.8496
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-27.1571	-36.2745
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-4.2841	-33.7562
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-29.434	-35.4438
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-29.8004	-35.9773
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.7	-34.5394
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.7	-34.842
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.7261	-34.3009
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-15.6159	-34.5611
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-15.6421	-34.7988
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-15.7468	-35.1649
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-13.4961	-34.0835
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-13.6008	-34.4961
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-13.7317	-34.1922
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-17.1862	-34.5827
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-17.2909	-34.842
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-17.2909	-35.1434
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-11.638	-34.2357
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-11.7165	-33.7781
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-19.9864	-35.1434
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-8.262	-38.3846
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-9.0733	-36.6338
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-9.0733	-36.8865
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-9.5444	-35.1219
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-9.6229	-34.626
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-25.6393	-38.6929
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-25.9533	-36.9705
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.6918	-37.7433
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-7.6863	-35.8283
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-7.7124	-36.5072
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-7.8956	-34.9067
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-7.8956	-35.1219
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-8.105	-34.3877
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.5086	-38.2403
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-27.4188	-36.9915
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-5.7497	-37.431
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-6.718	-36.0411
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-6.7703	-35.1219
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-6.7703	-35.9347
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-7.1105	-34.3009
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-28.4133	-36.9705
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-5.2001	-37.2429
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-5.3309	-36.5705
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-5.6711	-36.2321
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-5.8543	-35.1434
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-5.9329	-34.9929
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-6.1422	-34.366
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-4.4411	-38.2815
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.3031	-36.7813
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.3555	-37.0334
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.3816	-37.6809
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.1723	-36.5072
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-3.8654	-37.3683
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-4.1271	-36.8234
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-4.3626	-36.1685
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-30.664	-37.3057
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-30.6902	-37.0334
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-30.7425	-36.5283
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-16.2702	-38.3022
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-16.3487	-38.1783
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-16.8721	-36.8654
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-17.317	-35.6576
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-18.1545	-35.6576
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-1.7979	-37.3892
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-2.583	-36.3592
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-2.6615	-35.9773
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-3.0803	-34.8851
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-3.1849	-34.6476
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-3.2635	-34.366
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-3.4205	-33.9091
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.0717	-38.0129
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.0978	-37.0334
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.0978	-39.4678
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.2025	-39.6703
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.2287	-36.6127
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-1.5362	-36.0623
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-2.0858	-34.8851
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-2.2428	-34.3226
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-2.3737	-34.0835
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.4064	-37.5561
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.4325	-36.6127
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.4587	-36.9915
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.4587	-38.8772
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.4587	-39.6299
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.4849	-37.9508
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-28.0993	-40.5343
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-28.2563	-40.9324
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.4601	-40.6141
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.4601	-40.9721
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.8004	-39.8319
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-32.5744	-40.9522
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-32.7053	-40.654
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-32.7315	-40.9919
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-31.0304	-40.9919
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-31.1612	-39.7714
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-0.7249	-37.1383
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-33.7521	-40.5343
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-33.7783	-40.7735
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-33.883	-40.9125
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+0.0079	-36.8865
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-34.5634	-40.654
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-34.6157	-40.8728
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-0.9866	-35.8922
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-1.3268	-34.7988
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.2177	-39.6501
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.2438	-37.5977
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.27	-36.4438
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.2962	-37.9301
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.3485	-38.1783
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.4532	-36.7181
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+0.6098	-34.7556
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+0.793	-35.2294
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+1.0547	-35.6149
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+1.6566	-36.676
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.8402	-41.0315
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.9187	-40.9125
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.9711	-39.6905
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.9711	-40.2542
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.0758	-41.9366
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.2066	-37.7848
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.2066	-39.1629
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.2328	-38.2196
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.259	-37.5977
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.416	-36.9285
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+1.5258	-32.7228
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+1.6304	-33.296
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+1.9706	-34.2574
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+2.2585	-34.5611
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+2.2585	-34.7556
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+2.6249	-35.4438
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.2007	-36.5283
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.6198	-41.9171
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.646	-40.9919
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.6983	-40.4944
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.7245	-39.8117
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.8292	-37.9508
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.8815	-39.6299
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.9077	-37.5352
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.9077	-38.1783
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.9077	-38.8772
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-38.9862	-37.2011
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-13.1821	-36.7602
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-13.2083	-36.9705
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-13.3391	-35.2723
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-13.4961	-35.7643
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-21.8969	-38.2196
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-22.0539	-37.0125
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-11.1408	-36.8865
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-11.3763	-36.3803
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-11.6904	-35.2079
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-23.7811	-36.9915
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-7.6863	-42.2484
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-9.0995	-40.3744
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-25.5869	-44.5003
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-26.0318	-45.7597
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-26.3459	-42.9828
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.3516	-42.0147
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-7.7124	-40.2141
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-27.6544	-46.1976
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-27.7067	-45.3369
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-27.7329	-43.8222
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-27.7591	-45.8878
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-28.1778	-42.9444
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-4.1009	-43.5945
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-5.4094	-41.8389
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-6.718	-40.0333
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-28.8582	-45.5211
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-28.8844	-44.3879
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-28.9106	-45.8878
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-28.9629	-45.9791
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-29.434	-42.9828
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-29.4601	-43.1938
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-4.6243	-41.6429
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-5.645	-39.9528
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.905	-45.0409
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-29.9312	-46.0156
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-30.0359	-45.8147
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-30.3238	-42.7518
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-30.4285	-43.0212
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-4.2318	-39.6905
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-3.2111	-41.4069
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-31.737	-45.3922
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-31.8155	-42.8289
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-31.8155	-43.0404
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-15.7468	-43.1363
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-16.3226	-40.654
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-16.3749	-40.4544
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-17.0553	-41.6036
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-1.196	-41.091
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-2.3213	-39.5286
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-2.4783	-38.3846
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.4642	-45.0037
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.8568	-42.3456
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.8568	-42.9828
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-33.8568	-43.2512
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-0.3062	-40.9919
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-1.2222	-39.285
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.5111	-43.9169
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.5896	-45.9243
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-34.8513	-44.6873
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-35.1915	-42.9444
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-0.3847	-39.1426
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+0.5051	-40.8331
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.5841	-45.9608
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.6626	-43.9169
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.7149	-44.4441
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-35.8458	-43.002
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-36.0289	-41.9366
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+1.3164	-37.7641
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+1.8398	-38.6929
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.416	-43.898
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.416	-43.9736
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.4945	-42.9828
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-37.9394	-45.9243
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+1.8921	-41.0513
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+4.2213	-42.8097
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+2.3632	-37.3057
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.3577	-38.3228
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.2479	-43.1555
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.3526	-42.9444
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.3526	-43.9736
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.3577	-40.5143
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.6717	-39.973
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.9284	-46.5778
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.9284	-47.027
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.9545	-45.5211
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-40.2162	-46.2521
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.049	-32.2263
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.049	-32.3247
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.2084	-32.7992
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.2214	-32.9041
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.2999	-33.0309
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.398	-33.3553
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.4111	-33.3883
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.4961	-33.6731
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.5091	-33.9243
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.5157	-33.9624
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.5288	-33.7004
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.568	-34.1094
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.6334	-34.3105
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.6465	-34.3864
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.6922	-34.5543
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.7184	-34.7327
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.8099	-34.8083
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+13.8949	-34.9538
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.0322	-35.1044
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.2088	-35.3566
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.2349	-35.5065
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.3265	-35.576
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.3722	-35.7628
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.3918	-35.8853
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.4703	-36.1085
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.6468	-36.2093
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.758	-36.3575
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+14.8495	-36.4844
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+15.1438	-36.7217
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+15.693	-37.2411
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.0818	-42.4697
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.4866	-43.9075
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.6057	-44.3707
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.6057	-44.345
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.7128	-44.7453
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.82	-45.328
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.3074	-43.0788
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9093	-40.3744
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-18.6255	-43.0596
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-18.6255	-43.7274
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-12.2923	-42.9059
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-12.8419	-40.5543
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-21.6613	-42.8674
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-21.8184	-42.8097
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-10.1986	-42.5394
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-11.0623	-40.5543
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-23.8335	-42.8482
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+-55.7491	-43.2489
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+-56.0126	-43.8803
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+-56.0436	-44.1265
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+-56.3537	-44.9802
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+-56.4157	-45.3203
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+-56.4312	-45.145
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.5936	-32.7979
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.6452	-33.1168
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.6681	-33.0396
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.6796	-33.0782
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.6853	-33.1698
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.7999	-33.4057
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.8973	-33.6506
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.9145	-33.7033
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.9317	-33.7368
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.9489	-33.9186
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+14.9833	-33.9712
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.0349	-34.0619
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.0406	-34.1096
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.138	-34.2239
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.2641	-34.5138
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.2698	-34.5328
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.6538	-34.9539
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.6652	-35.0388
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.946	-35.3494
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+15.9804	-35.5464
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+16.2784	-35.869
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+16.3529	-35.9716
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-6.116	-44.2752
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-24.1737	-47.4547
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-24.1999	-47.7908
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.4738	-48.2647
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.7355	-48.0546
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.7355	-48.3519
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-36.9711	-46.722
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+5.0588	-42.4425
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.1171	-47.6849
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-39.1694	-47.8965
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+16.84	-36.0647
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+16.9202	-36.167
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+17.0119	-36.3249
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+17.052	-36.4315
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+17.2583	-36.6581
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+17.3271	-36.8012
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+17.5449	-36.9439
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+17.7225	-37.1644
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+18.0205	-37.3752
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+18.1701	-37.8136
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+18.1867	-37.5671
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+15.9545	-37.4865
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+16.203	-37.6531
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+16.3534	-37.7933
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+16.5103	-37.9178
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+16.6215	-38.0317
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+17.0269	-38.4598
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+17.0269	-38.5626
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+17.0595	-38.7472
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.6185	-46.5
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.6653	-46.6777
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-54.6887	-47.3507
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-8.0527	-45.0223
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-21.452	-46.6679
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-21.5828	-46.9554
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-0.9866	-47.2056
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-1.6409	-46.8118
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.222	-50.251
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.3528	-49.4217
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.4575	-49.3363
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+0.3742	-46.3609
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+0.5574	-46.4875
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.2371	-49.5581
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+1.1855	-46.0702
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+1.9706	-46.9195
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-23.4409	-49.3705
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-23.4409	-49.711
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+1.9183	-45.6864
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+2.0492	-45.9061
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+3.0175	-46.3609
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-24.4616	-49.745
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+2.7558	-45.3369
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+3.1221	-45.613
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.8486	-49.8127
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-9.1257	-48.0897
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-9.7276	-48.4217
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-10.7482	-48.5087
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-8.0788	-48.2297
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.4493	-48.9759
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.554	-48.7688
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.7895	-47.8789
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-5.7758	-47.7908
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-15.3281	-49.8804
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-15.3804	-49.1479
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-15.4328	-48.8379
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-3.9177	-47.4192
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-17.7358	-49.4729
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-17.8143	-49.285
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-17.8666	-48.4042
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+1.107	-47.4369
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-18.1021	-50.8179
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-18.1283	-50.9338
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+2.9913	-48.526
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-19.8817	-50.9669
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-19.9079	-51.3289
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-19.9602	-50.5186
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+3.8287	-47.7202
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+3.8287	-48.1772
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.1118	-51.6393
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.2426	-51.1318
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.2949	-50.6186
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.3211	-51.0164
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+4.6662	-47.1699
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+4.9279	-47.826
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+5.0849	-48.2122
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-21.766	-52.1573
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.2371	-51.7369
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.2633	-51.3617
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.3941	-52.0122
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.7605	-50.9503
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.7605	-51.0494
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+5.556	-46.6319
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+6.0533	-47.4546
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-23.912	-51.4762
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-23.9382	-52.0122
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-24.0428	-51.7369
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-24.226	-50.9999
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-4.9122	-49.5921
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-10.5912	-50.2677
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-8.9686	-50.552
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+2.1538	-48.7342
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+2.939	-50.2845
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+3.0698	-50.5019
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-15.6421	-54.8699
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-16.6889	-53.1439
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+4.0119	-49.1822
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+4.1951	-49.4047
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-18.6779	-53.6289
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-3.7869	-52.1574
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-3.9439	-52.9705
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-5.1216	-51.5416
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-4.9907	-52.5897
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-5.8805	-52.2377
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-2.6877	-51.4272
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-3.0541	-52.0446
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-3.3943	-49.8127
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-6.6395	-53.1754
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-7.2414	-51.3617
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-7.3461	-53.1597
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+0.3219	-49.7789
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-13.9672	-52.2859
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-14.3859	-51.8505
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+6.8907	-50.9338
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+7.4926	-51.7694
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+7.5711	-51.7857
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-13.1297	-55.3648
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-13.2606	-54.9603
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-2.112	-53.6133
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-3.0018	-54.1083
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-3.0803	-54.0313
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-4.5458	-53.4887
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-0.0445	-52.9073
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+0.3219	-53.3793
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-4.8075	-54.749
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-7.1105	-9.6416
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-7.1367	-8.6795
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-7.189	-7.9498
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-7.2937	-7.8455
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-19.4892	-10.6009
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-5.6973	-8.7837
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.0375	-7.7672
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.2207	-7.3233
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-20.6407	-10.9631
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-20.6407	-11.7892
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-5.1477	-8.7056
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-5.3048	-7.7411
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-5.4356	-7.0097
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.5305	-10.9889
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.5305	-11.4023
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.6875	-11.5829
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-4.4935	-8.7316
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-4.7028	-7.7672
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-4.9384	-6.8005
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.3418	-11.5055
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.3941	-11.4023
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-3.3943	-8.7316
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-3.5775	-7.6628
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-3.9701	-6.3557
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-23.4933	-10.9889
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-23.755	-11.7377
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.8157	-10.4973
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.9727	-8.4451
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.1559	-7.5061
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.3914	-10.8079
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.8102	-7.715
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-1.7194	-8.8357
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-1.8764	-7.8194
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-1.9288	-7.7933
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-2.3737	-5.5435
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-25.7701	-12.0469
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-25.8486	-10.4455
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-26.058	-10.7303
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-0.9866	-8.7837
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-1.0651	-7.7933
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-26.9739	-12.2014
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-0.3585	-8.7056
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-0.5679	-7.8194
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-27.6282	-12.2271
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-27.6544	-9.953
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.6642	-10.9631
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.7165	-10.4196
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.7165	-10.5491
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.7165	-10.7044
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8212	-10.2383
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8736	-10.0308
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8997	-9.7195
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8997	-9.9011
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.9259	-9.5117
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.9782	-9.3039
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.0306	-9.1479
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.5953	-11.5055
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.7	-11.2215
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.7785	-10.7044
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.7785	-10.8855
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.8308	-10.4455
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9093	-10.1864
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9879	-9.6935
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9879	-9.979
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.094	-8.3149
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.1986	-9.1219
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.2772	-8.9398
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-16.6889	-11.7892
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-0.5156	-54.3535
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-0.8558	-54.0467
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-1.6147	-54.5974
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-1.6671	-54.3383
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8212	-8.0281
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8474	-8.6535
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8997	-7.8194
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.9259	-8.1845
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.8308	-8.6795
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.857	-9.2519
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.857	-9.4858
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.8832	-8.3409
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.8832	-9.0179
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9617	-8.0281
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-8.6284	-12.6386
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.9547	-15.0163
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-21.3473	-14.4051
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-21.3735	-13.2802
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-7.791	-12.3558
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.1062	-15.2451
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.6296	-13.4339
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.996	-14.66
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-6.4301	-11.4797
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-6.5086	-12.0727
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-24.6186	-13.8178
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-24.8018	-14.9655
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-5.2524	-11.9696
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.9271	-15.0926
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.9533	-14.0478
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.0981	-13.8433
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.2289	-13.6131
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.2551	-12.8184
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.3074	-13.4083
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.9093	-12.9724
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.9879	-13.5363
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.9879	-13.7666
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-2.2428	-11.0148
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-2.3475	-10.4973
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.6227	-14.4561
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-1.4577	-10.7303
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-1.4839	-10.782
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.1199	-14.4306
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+0.2434	-10.3419
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+0.3219	-10.3937
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+0.6098	-11.0406
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-30.3761	-14.3541
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-30.4285	-14.609
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-30.4285	-14.6855
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+1.2379	-9.7454
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+1.3164	-10.1086
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+1.4211	-9.9271
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+1.8136	-10.782
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-31.7108	-14.0222
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-31.7108	-14.8382
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.8157	-13.6131
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.9465	-13.0494
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.9465	-13.357
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.9989	-12.7157
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-13.1559	-12.5101
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-13.1559	-12.5872
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-13.2344	-12.3043
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.8253	-14.0989
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.9038	-13.8945
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.9823	-13.7666
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-16.1394	-13.2802
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-16.1394	-13.5107
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-16.2964	-12.8698
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-16.3487	-13.3058
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-10.0678	-12.8954
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.5153	-13.9967
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.7247	-13.4339
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.8817	-12.8954
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-7.6078	-13.741
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-7.8433	-14.4561
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.8762	-17.0658
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.9547	-16.6375
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-6.5348	-13.357
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.2109	-16.8896
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.2371	-17.3173
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.8942	-15.1435
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.8942	-15.3721
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.6793	-15.2959
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8212	-15.6258
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.9521	-14.9146
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.9782	-15.1689
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.0306	-14.5326
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.0568	-14.6855
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.1353	-13.9967
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.1353	-14.1244
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.1353	-14.4051
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.2923	-13.6899
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.857	-15.7525
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9355	-15.499
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9355	-15.9045
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9355	-16.0817
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9355	-16.2334
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9617	-15.3467
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.014	-16.4608
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.0664	-15.118
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.0925	-14.9909
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.1449	-14.7619
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.171	-14.5071
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.1725	-14.609
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.2772	-14.4051
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-16.9768	-16.2081
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-18.7826	-16.5618
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-0.3324	-13.5107
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-27.3927	-18.1948
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-27.4712	-17.8694
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+0.4266	-13.6899
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-28.0731	-18.3198
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-28.1254	-17.9696
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+1.7089	-13.1264
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+2.2062	-14.2776
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-29.5387	-18.7441
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-29.5648	-18.3948
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-29.6172	-18.2698
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.5802	-17.3173
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.6587	-17.0406
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.6848	-16.9147
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.7372	-16.7383
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.7634	-16.5365
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.7895	-16.4103
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.4066	-17.8193
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.8777	-17.0658
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.8777	-17.3676
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.6037	-18.3698
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.8915	-17.091
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-22.1586	-19.8868
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-22.2371	-18.8438
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.8447	-18.1198
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-3.0541	-16.7635
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.7343	-20.0847
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-22.996	-19.2419
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-1.7717	-17.6939
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-2.0334	-16.4861
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-23.8858	-20.3811
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-23.9905	-19.8125
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-0.3062	-16.0058
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+0.0602	-17.091
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-25.7439	-20.7753
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+0.6098	-15.7525
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+0.7668	-16.6375
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+1.0285	-17.3424
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-26.7908	-20.8983
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-26.8431	-21.3647
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+1.1332	-15.5497
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+1.3426	-16.3345
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+1.6566	-17.4178
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-27.5759	-21.8053
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-27.602	-20.9721
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-27.6544	-21.3647
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+2.3894	-15.1943
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+2.6772	-15.7272
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+3.0436	-16.7888
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-29.3555	-21.2667
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.4624	-14.5836
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.4885	-14.8382
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.8811	-15.118
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.9596	-15.6004
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-30.5855	-21.3157
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-30.6902	-20.4797
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-4.9384	-19.5895
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-18.7302	-22.0006
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-18.8087	-22.4635
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-3.7084	-19.2668
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-19.9864	-21.9762
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-20.0388	-22.585
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-2.8186	-19.0679
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-2.9756	-19.7878
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.0332	-22.585
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-21.0594	-21.9518
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-1.9549	-18.794
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-21.7398	-22.1713
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-21.766	-22.6822
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-0.5941	-18.4198
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-22.839	-22.4391
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-22.9175	-22.7307
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-11.3502	-21.8053
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-11.4287	-21.683
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.2138	-21.7319
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.3185	-21.4628
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+2.7819	-17.4681
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+2.8081	-17.7942
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+2.8343	-17.9445
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+2.8866	-18.2948
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-26.372	-22.7792
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+3.5932	-17.0155
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+3.8287	-17.2922
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+4.0381	-17.5434
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+4.1166	-17.8193
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-28.4918	-22.852
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-28.5442	-22.755
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+4.8494	-17.0155
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+5.1111	-17.3424
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-29.9574	-23.3361
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-30.0097	-22.852
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-30.1929	-23.1185
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-30.2976	-22.5364
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-8.2359	-20.3811
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-8.2359	-20.7261
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-15.5374	-22.1226
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-6.718	-19.8373
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-6.718	-20.0105
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-17.0292	-22.3418
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+1.5781	-18.8936
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-26.4244	-23.0459
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-26.6076	-23.3361
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-21.5043	-25.7769
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-21.5828	-26.4148
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-21.7922	-25.8717
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-5.9852	-23.0217
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.839	-25.7058
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-23.1792	-26.6502
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-23.2577	-26.297
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.2467	-25.7295
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.8748	-26.2498
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-4.8075	-22.9974
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-23.3624	-25.7295
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-23.6503	-25.6347
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-24.0428	-26.297
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-2.1905	-21.1931
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-3.4728	-21.5117
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-3.7345	-20.9475
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-4.5982	-21.8297
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-4.6505	-21.3402
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-5.4618	-22.0494
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-5.6711	-21.5852
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-6.7441	-22.4148
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-6.875	-21.9762
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-8.4452	-22.852
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-8.5761	-22.4635
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-3.8654	-22.9732
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-24.1214	-25.7769
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-24.2784	-26.3441
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.1821	-22.949
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.5223	-24.8732
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.4644	-25.7532
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-0.28	-20.9721
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.1833	-25.611
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.3665	-25.9427
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.4974	-26.2262
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+0.636	-20.8737
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.2825	-25.611
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.3872	-26.2026
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.5442	-25.7532
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+1.0809	-20.7753
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.1984	-25.516
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.2508	-26.1318
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.4078	-25.6347
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+2.2847	-20.603
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-31.0042	-25.4685
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-31.0042	-25.99
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-31.0827	-25.3973
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-31.2397	-26.8851
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.9596	-19.7878
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+3.9858	-20.06
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+4.1951	-20.4797
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-31.7632	-25.3497
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-31.7632	-25.848
+# @DC34n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|83|"Magnetic Anomaly"
+-32.0249	-25.2546
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.9521	-22.852
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.0829	-23.312
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.9355	-24.2031
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.2757	-25.7295
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.3542	-23.9869
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.4589	-25.421
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.1201	-23.3603
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.9369	-22.7792
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.474	-23.6258
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.474	-24.0109
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.5526	-26.3677
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.8143	-25.6821
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-8.6546	-23.9869
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.4107	-25.7532
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.4368	-25.848
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.4368	-26.4384
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.4176	-26.2498
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.5223	-25.848
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.2812	-26.3205
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-1.3268	-23.4327
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-1.4054	-23.481
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-30.4808	-27.4
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+1.1594	-23.4086
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-32.81	-27.9126
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-32.8361	-28.0288
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-32.9408	-27.3767
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.1353	-26.179
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-12.2661	-25.7532
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.5374	-26.8851
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.6421	-26.3441
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.1463	-25.7769
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-10.251	-25.3259
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.8404	-27.3066
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-5.6973	-26.4855
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-5.7758	-26.3913
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-5.802	-26.1554
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-5.9329	-25.8953
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-6.0637	-25.207
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.5622	-28.7692
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.5622	-28.9304
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.5883	-28.1448
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.5883	-28.4459
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.5883	-28.6077
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.6407	-29.5501
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.8239	-27.9824
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-4.3888	-26.1554
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-4.4411	-25.848
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-4.572	-25.5635
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-21.4781	-29.847
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-21.7137	-28.6077
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-21.8184	-29.5272
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-21.9492	-28.052
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.0539	-29.321
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.3681	-25.8006
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.4466	-25.421
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.5252	-25.2784
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-22.525	-29.6644
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-22.6035	-28.5615
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-22.7343	-28.0752
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-22.9699	-29.0225
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.1381	-26.7207
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.1905	-26.462
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.4522	-25.6347
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.4522	-25.8243
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.6092	-25.1832
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.6354	-24.7777
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-23.4409	-29.4127
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-23.5456	-28.6769
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-23.5718	-28.1912
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-23.5718	-29.0225
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-23.6241	-28.3765
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-23.6241	-28.6538
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-0.8296	-25.7532
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-0.9866	-25.2546
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-1.353	-24.8971
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-24.6709	-28.7692
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-24.7756	-28.0984
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-24.828	-28.5615
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.0635	-27.5401
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+0.5051	-24.5625
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-26.7122	-28.4228
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-26.7122	-28.6538
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-26.7384	-28.1448
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-26.8431	-28.9074
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+1.6304	-24.4189
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+1.8921	-25.0402
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-27.5235	-28.7461
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-27.6544	-29.0225
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+2.3894	-24.275
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+2.7558	-24.9925
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-27.8637	-27.8196
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-28.361	-28.0984
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-28.4395	-28.3302
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-28.4918	-27.6567
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-28.5965	-29.0455
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+4.0905	-24.2511
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+4.2475	-24.8255
+# @DC33n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|79.075|"Magnetic Anomaly"
+-30.1668	-27.8429
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.6904	-26.7207
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.7689	-26.509
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.795	-26.3913
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-14.3859	-28.4921
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.171	-27.2365
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.5182	-26.2734
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.6229	-26.5561
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.6752	-26.0136
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.7537	-25.8243
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.0815	-28.7
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.317	-27.5401
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.317	-28.4921
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-7.8171	-26.0609
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-7.8956	-25.7769
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-18.6517	-28.6769
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-18.7564	-27.7265
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.149	-28.2839
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.2138	-28.2839
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.4493	-28.8844
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.1036	-28.3765
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.1036	-28.9074
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-5.5926	-29.5729
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-5.7497	-30.0976
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-6.1684	-27.8196
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-20.5622	-33.1201
+# @DC13n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|33.058|"Magnetic Anomaly"
+-21.0594	-31.7443
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-4.1533	-29.7101
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-4.2579	-29.4127
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-4.5982	-28.4228
+# @DC18n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|38.426|"Magnetic Anomaly"
+-22.0801	-33.098
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-2.8709	-29.9382
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.342	-28.9765
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.4466	-28.7461
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-3.5513	-27.7032
+# @DC20n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|42.536|"Magnetic Anomaly"
+-23.153	-32.8113
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.0334	-29.847
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.0858	-29.1833
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-2.4783	-28.6538
+# @DC21n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|46.264|"Magnetic Anomaly"
+-24.0952	-32.6786
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-1.2483	-28.1912
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-1.4577	-27.2599
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-1.51	-27.0023
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.0635	-31.9899
+# @DC24n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|52.364|"Magnetic Anomaly"
+-25.2205	-32.4792
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.9465	-31.8337
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-12.9989	-31.6772
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.0251	-31.5652
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.2606	-30.5063
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.8102	-31.9676
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.8887	-31.7667
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-13.9149	-31.61
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.3074	-32.2127
+# @DC2An.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|2.581|"Magnetic Anomaly"
+-14.1504	-30.4383
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+0.5051	-26.8616
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+0.6098	-27.5401
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+0.6621	-28.0288
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+0.6883	-27.7731
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+1.3426	-29.1833
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.1571	-31.6548
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.3665	-30.6874
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.3927	-30.0066
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.3927	-31.0035
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.3927	-32.1459
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.3927	-32.5679
+# @DC30n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|65.578|"Magnetic Anomaly"
+-27.4188	-30.461
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+1.7613	-27.1429
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+1.8136	-27.9126
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+1.8398	-27.4934
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.3086	-31.2735
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.3348	-31.9007
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.361	-32.2127
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.3872	-32.4126
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.3872	-32.6122
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.4395	-31.5428
+# @DC32n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|71.071|"Magnetic Anomaly"
+-28.5703	-32.8113
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+2.9651	-27.3767
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-28.8321	-31.3185
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.0414	-32.745
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.0676	-32.5014
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.1199	-31.8114
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.1199	-32.8996
+# @DC33n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|73.619|"Magnetic Anomaly"
+-29.1461	-32.2349
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.8474	-30.8456
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-11.9782	-30.4836
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.0664	-32.1682
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.1972	-31.8784
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.5374	-30.823
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.5636	-30.461
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.5636	-30.6422
+# @DC5n.2n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|9.92|"Magnetic Anomaly"
+-15.6159	-30.3022
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.6491	-30.461
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.8323	-30.0521
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-9.9631	-29.0914
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.6049	-31.8337
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.7096	-31.2735
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.7881	-31.0711
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.8143	-30.8456
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.8928	-30.6648
+# @DC6n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|19.048|"Magnetic Anomaly"
+-17.9451	-30.0293
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-7.7648	-29.3669
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-7.791	-31.026
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-7.9218	-30.461
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-8.105	-28.7922
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.3322	-31.8337
+# @DC8n.1n|y|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|25.823|"Magnetic Anomaly"
+-19.4107	-30.5743
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+30.0435	-31.7375
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+30.4691	-32.2363
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+30.5567	-32.2826
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+30.707	-32.4213
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+30.7696	-32.4674
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+30.851	-32.7108
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+31.5457	-33.3173
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-35.5163	-49.5908
+# @DC34n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|120.6|"Magnetic Anomaly"
+-35.6849	-49.9819
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+30.8523	-30.8302
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+30.9655	-30.9128
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+31.0611	-31.0335
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+31.3615	-31.3106
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+31.5202	-31.4816
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+31.5703	-31.5477
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+31.7498	-31.6757
+# @DM4n|o|1|N/A|Perez-Diaz+Eagles_2014_Tectonics|10.1002/2014TC003644|126.57|"Magnetic Anomaly"
+32.3006	-32.4832

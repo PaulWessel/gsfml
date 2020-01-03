@@ -1,0 +1,1089 @@
+# @VGMT1.0 @GPOINT
+# @R-138.12687/-75.21067/-44.52261/23.35036                               
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-131.29945	-28.6998
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-131.0311	-30.37311
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-128.25244	-35.12103
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-128.20743	-35.62653
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-122.15619	-38.4704
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-122.02073	-39.20199
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-78.6701	-40.67109
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-80.08667	-38.81813
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-81.42481	-36.88472
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-85.05418	-34.79116
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-86.31863	-32.72647
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-88.47914	-28.60962
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-87.16953	-31.01013
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-87.80056	-29.76298
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-127.8281	-18.98572
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-128.22524	-16.50295
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-128.42732	-15.92441
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-129.21176	-12.57323
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-128.95621	-14.02601
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-124.77402	-11.64644
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-125.58689	-19.0721
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-137.30461	-30.49575
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-137.82402	-28.20643
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-137.86542	-27.37842
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-138.12687	-24.84669
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-75.21067	-35.48188
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-75.79536	-34.6612
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-80.65829	-30.8957
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-78.95115	-33.18714
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-81.08552	-30.14257
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-82.1218	-28.53702
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-132.40298	-28.18794
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-132.29624	-30.39669
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-129.33209	-34.57283
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-129.17777	-35.56675
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-123.41414	-38.24832
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-123.27145	-38.81337
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-78.99196	-38.1288
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-79.12625	-37.94834
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-79.83928	-36.94401
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-80.02349	-36.57204
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-83.94164	-34.67229
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-85.00763	-32.91125
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-85.61609	-30.89926
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-86.15562	-29.89988
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-86.85678	-28.61238
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-124.50683	-37.55171
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-124.19072	-39.14814
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-130.133	-35.50898
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-130.43237	-33.91285
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-132.96262	-31.81111
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-133.4616	-27.47344
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-133.14331	-30.40508
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-78.1369	-37.7568
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-78.21296	-37.57921
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-78.66931	-36.94471
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-79.58913	-35.5789
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-82.78592	-34.54905
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-83.86023	-33.00095
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-130.95267	-35.50816
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-131.28993	-33.24082
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-133.76595	-31.28564
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-133.89072	-30.4132
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-134.45154	-26.95586
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-77.51765	-37.52652
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-77.71968	-37.20782
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-77.89199	-37.01843
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-78.93065	-35.3811
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-81.87075	-34.47598
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-82.87376	-33.04672
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-85.05091	-29.98502
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-85.86853	-28.61254
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-84.7443	-28.61254
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-83.87915	-30.0268
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-83.40854	-30.87978
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-81.78519	-33.18033
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-80.93905	-34.39878
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-78.10115	-35.20057
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-76.08087	-34.26865
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-77.02209	-36.65622
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-76.67032	-37.21334
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-76.83194	-37.03062
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-126.30829	-39.80932
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-134.80575	-29.64344
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-134.67735	-30.43807
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-135.33818	-26.41894
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-136.26022	-25.98569
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-135.76592	-28.90001
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-135.50804	-30.45012
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-135.65224	-29.78219
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-127.42809	-40.1761
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-77.62746	-34.53068
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-75.7795	-37.07158
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-76.35112	-36.29527
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-75.98271	-36.77293
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-80.14686	-34.31402
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-80.90268	-33.23428
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-82.48325	-30.84566
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-82.98951	-30.09214
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-83.95211	-28.62429
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-132.89404	-15.93274
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-132.79886	-16.4422
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-132.6754	-18.25903
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-129.0603	-18.97058
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-129.30981	-16.87966
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-129.44769	-15.96309
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-129.935	-12.86119
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-129.70908	-14.00043
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-129.98949	-18.97963
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-130.31274	-17.34207
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-130.55984	-15.95754
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-130.88318	-13.42035
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-130.79888	-14.01531
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-130.7549	-18.98273
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-130.96879	-17.563
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-131.22539	-16.20972
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-131.54868	-13.68166
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-131.53806	-14.03686
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-131.77689	-17.93152
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-131.97656	-16.3016
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-132.05738	-15.93439
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-132.30457	-14.05669
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-127.5303	-25.14391
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-127.93435	-28.81626
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-127.96406	-30.05932
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-113.98968	-30.34835
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-110.28188	-30.32361
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.40943	-44.1716
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-110.14022	-39.96999
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-110.56329	-41.42432
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-110.72016	-41.9499
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-110.10219	-38.04004
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-109.85025	-35.53322
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-109.77895	-35.85798
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-112.30786	-35.9044
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-112.55505	-38.06259
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-114.02866	-44.17365
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-112.83076	-40.38968
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-113.03754	-41.96267
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-112.76506	-39.9212
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-105.65025	-16.57115
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-104.49156	-15.96851
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-104.55693	-16.21543
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-120.52306	-18.87153
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-115.91683	-41.86177
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-105.69066	-41.67137
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-105.41257	-39.60944
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-105.94498	-44.28332
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-105.09171	-37.63413
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-87.29247	-39.99899
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-95.74198	-39.17143
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-93.0146	-36.10834
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-90.31337	-36.91141
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-79.72831	-41.27094
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-78.23687	-42.94767
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-90.15019	-16.18755
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-89.67007	-17.33704
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-89.16144	-18.31592
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-88.03068	-20.31672
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-83.45178	-14.65379
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-81.65254	-18.31536
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-82.46541	-16.33392
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-83.53972	-14.32035
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-88.89583	-16.16401
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-88.48465	-16.80382
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-86.57489	-20.33914
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-87.71813	-18.25406
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-87.8132	-16.4257
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-85.63368	-20.33914
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-86.82208	-18.26882
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-87.97958	-16.09853
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-84.74	-20.36604
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-85.92721	-18.27103
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-87.13581	-16.1709
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-83.76076	-20.375
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-84.85409	-18.29716
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-85.82976	-16.25472
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-86.11854	-15.7245
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-86.93378	-14.21143
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-82.917	-20.31672
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-83.95685	-17.87667
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-83.8487	-18.32784
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-85.15832	-15.34227
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-85.68121	-14.21372
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-83.99844	-9.0705
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-85.50533	-6.09086
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-82.75181	-9.15081
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-84.12203	-6.09205
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-81.63709	-9.13683
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-83.22479	-6.00888
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-82.51651	-5.99811
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-114.37747	-38.77684
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-114.61515	-39.90812
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-114.18971	-38.04564
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-114.98593	-41.98747
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-113.65493	-35.46807
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-115.91289	-44.21294
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-113.66325	-35.91974
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-113.78803	-34.97071
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-108.07896	-41.94845
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-107.71294	-39.92825
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-107.69392	-39.16092
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-108.51629	-44.18901
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-107.46575	-38.11327
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-107.32789	-36.54564
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-107.2661	-35.97588
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.12523	-34.31167
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.44135	-30.28067
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-95.20147	-36.22269
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-117.85235	-16.79015
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-118.03537	-18.76198
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.313	-12.24859
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.19654	-11.68227
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-105.97074	-10.60262
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-103.62484	-7.76888
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-103.82925	-9.13192
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-114.31568	-11.66353
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-108.73496	-17.89943
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-108.59235	-16.82671
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-110.99292	-22.0066
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-109.21982	-21.80699
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-109.46701	-23.80326
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-122.02601	-2.5185
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-126.42308	5.0354
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-121.58036	12.15685
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-121.80259	12.82829
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-122.2934	16.7987
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-122.0878	20.13334
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-111.62752	22.88432
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-122.92919	20.29152
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-123.50438	16.79755
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-122.95296	12.77347
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-122.64873	11.06024
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-123.2667	-3.30828
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-124.02727	-3.80979
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-123.78484	11.52824
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-123.96785	12.73621
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-124.54422	16.79713
+# @DC9n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|27.972|"Magnetic Anomaly"
+-123.47467	20.333
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-124.67851	20.46528
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-125.29292	16.79183
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-124.62741	12.71394
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-124.5264	11.83395
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-124.62147	-4.1559
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-125.08495	-4.45414
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-125.55199	12.71866
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-125.47712	12.28428
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-126.14262	16.77466
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-126.38149	20.7103
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-127.00896	20.77505
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-126.81407	16.78038
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-126.25314	12.50618
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-126.26503	12.6428
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-125.76233	-4.84764
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-128.12012	12.51683
+# @DC13n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|33.545|"Magnetic Anomaly"
+-128.51348	16.78611
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.5697	11.73443
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.5697	12.14984
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-110.53895	18.06379
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-110.39872	18.6969
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-110.3488	19.04987
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-111.84856	18.28416
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-111.70833	18.87334
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-111.60851	15.67244
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-110.23234	15.58259
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-114.56049	18.65047
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-114.40124	19.32427
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-113.28058	18.43169
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-113.19739	19.08829
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-108.82884	18.03196
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-108.77774	18.49974
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-108.70513	19.02691
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-108.34635	15.47316
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-84.29554	5.07472
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-83.64192	5.07472
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-82.95859	5.07472
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-83.61221	1.25285
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-82.83975	1.25285
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-109.36481	-7.72632
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-106.90839	-8.72895
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-106.67903	-7.64316
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-107.47526	-13.6554
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-109.15565	-10.5544
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-109.32203	-11.50066
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-109.38858	-11.70453
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-111.32567	-10.83649
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-111.48491	-11.76308
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.00543	-17.23029
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.34531	-19.40035
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.21697	-18.76311
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.5307	-20.23486
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.91274	-16.80269
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-113.61928	-11.63425
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-114.56524	-16.7958
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-114.75063	-18.02566
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-114.97405	-18.81742
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-114.68646	-17.21888
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.5925	-41.94046
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.37383	-40.74946
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.28352	-39.88523
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.90561	-34.94919
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-114.08513	-16.80011
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-112.63053	-17.21202
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-113.13441	-20.25056
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-112.74937	-18.01431
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-112.54021	-16.76833
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-114.32756	-18.02568
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-114.17307	-17.23256
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-113.65731	-41.91029
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-113.42557	-39.88615
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-110.15985	-41.96441
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-109.7653	-40.57474
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-109.6215	-39.91727
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-109.5502	-38.02778
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-112.69708	-35.90146
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-112.85038	-34.96875
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.92343	-35.50209
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-109.35411	-35.86665
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-109.54782	-30.34666
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-111.29239	-17.24742
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-111.41836	-17.96086
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-111.54433	-18.71669
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-111.28288	-16.8496
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-115.58013	-18.78234
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-115.18083	-16.75346
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-108.81577	-11.7221
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-108.53768	-10.48737
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-107.6963	-11.66353
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.95076	-11.71038
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.72022	-10.6614
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-106.20129	-8.86963
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-106.05868	-7.72385
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-109.72252	-41.93691
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-109.24122	-40.17573
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-115.7061	-16.75802
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-116.07451	-18.79365
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-108.11224	-10.4615
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-108.31189	-11.62839
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-108.39508	-11.86727
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-112.6638	-11.6893
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-105.50251	-7.75937
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-109.19368	-39.91911
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-109.11168	-38.05034
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-108.99997	-36.51303
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-108.99997	-35.89083
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-108.93936	-30.27861
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-114.89086	-20.2113
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-114.63417	-19.39697
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-110.89784	-18.73934
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-114.53434	-18.70763
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-110.56985	-16.77634
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-105.66414	-8.92401
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-110.19906	-18.78235
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-110.06596	-17.77651
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-109.95188	-16.80382
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-116.54987	-18.78461
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-116.35972	-16.79237
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-108.69931	-39.46372
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-108.61849	-38.02684
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-108.4949	-35.91016
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-113.13797	-35.89566
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-108.47589	-36.57632
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-108.35467	-30.25385
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-107.75572	-12.0311
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-107.43485	-10.49208
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-113.08687	-11.65651
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-104.98675	-7.76418
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-105.20066	-8.97833
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-114.27052	-41.97683
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-113.98768	-39.8953
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-113.86884	-39.31249
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-109.17467	-41.97683
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-109.67379	-44.16848
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-108.70881	-39.94838
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-117.31044	-18.77726
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-105.98263	12.2907
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-105.97787	12.05219
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-117.11079	-16.77577
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-110.06596	-22.38896
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-109.54782	-18.76141
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-109.38145	-17.79415
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-109.31727	-16.88565
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-107.11161	-12.12057
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-106.76459	-10.53736
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.69329	-13.68503
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-106.9785	-11.66412
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-104.23093	-7.77893
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-104.49237	-9.05691
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-108.71594	-41.94091
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-108.10748	-38.84146
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-109.21507	-44.16121
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-108.24058	-39.9223
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-108.09798	-38.01509
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-107.94111	-35.90775
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-107.9934	-36.54708
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-107.71769	-30.29047
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-101.35738	11.982
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-101.31935	11.67762
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-106.34628	-36.90963
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-106.4568	-37.67017
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-107.54181	-44.29281
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-106.57326	-39.62152
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-114.99901	-39.08177
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-114.7851	-38.26663
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-114.28003	-35.67341
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-114.38698	-36.63237
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-114.28003	-35.24074
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-114.35133	-34.84002
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-106.23694	-41.61087
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-105.58214	-36.38966
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-105.99332	-39.65184
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-106.63387	-44.23645
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-105.83408	-37.59834
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-106.92622	-41.59125
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-108.30238	-24.1167
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-107.94586	-21.878
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-107.60717	-19.04475
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-107.54181	-17.99043
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-107.28036	-16.91253
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-109.90434	-11.71273
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-109.78384	-11.31213
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-109.63411	-10.51604
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-108.12293	-13.67283
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-108.79557	-7.64438
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-101.683	11.83161
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-101.56416	11.45682
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-106.8763	22.10246
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-110.34048	22.50609
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-109.85443	18.60515
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-109.99704	17.98307
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-109.81165	19.14815
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-112.37859	18.98544
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-112.5276	18.31234
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-112.32154	15.77258
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-109.44562	15.55151
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-109.2222	19.08941
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-109.36481	17.92851
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-109.29351	18.52354
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-112.88247	15.8094
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-112.85395	18.35114
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-112.75888	19.03072
+# @DC4An|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.025|"Magnetic Anomaly"
+-108.91322	15.51921
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-103.52264	-37.6593
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-103.78647	-39.59624
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-104.53635	-44.34613
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-117.07989	-41.82857
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-117.61111	-44.23015
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-116.50233	-34.70518
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-104.08357	15.90603
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-104.0598	17.39528
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-106.05631	15.92903
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-106.03254	17.61194
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-113.36258	22.92944
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-118.09479	17.42608
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-117.95218	16.05188
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-116.77566	20.56846
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-117.04899	23.35036
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-119.20594	-0.74383
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-119.3842	-3.08729
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-119.55295	-7.03572
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-84.2694	-36.94731
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-83.86534	-38.62592
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-84.07925	-37.89518
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-93.89542	-42.56869
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-92.07123	-44.52261
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-114.34689	-36.26062
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-113.5055	-44.14051
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.11508	-38.07506
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.8869	-35.89016
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-81.7774	-36.18811
+# @DC8n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|25.951|"Magnetic Anomaly"
+-80.55335	-35.84053
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-84.42951	-30.91668
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-107.25587	-16.00736
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-108.0521	-23.19241
+# @DC4n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|7.562|"Magnetic Anomaly"
+-107.67181	-19.99762
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-108.44427	-15.85788
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-108.94459	-19.84589
+# @DC3An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.137|"Magnetic Anomaly"
+-109.31061	-22.56806
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-109.15731	-15.82337
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-109.69684	-19.85488
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-109.87035	-15.82337
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-110.35284	-19.84589
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-110.47643	-15.78885
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-111.20136	-20.22326
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-111.15382	-15.78885
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-111.77535	-20.23335
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-111.72425	-15.78885
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-112.15207	-17.98549
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-112.33033	-15.75432
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-113.97032	-15.75432
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-114.5051	-15.71979
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-84.67788	-16.26964
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-131.27675	-15.95281
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-125.33535	-36.99974
+# @DC10n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|28.512|"Magnetic Anomaly"
+-124.87849	-39.36968
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-125.50667	-39.56956
+# @DC12n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|30.939|"Magnetic Anomaly"
+-132.55694	-19.00704
+# @DC11n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|29.662|"Magnetic Anomaly"
+-131.65376	-18.98443
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-112.78306	-18.75058
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-112.87813	-19.37433
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-111.60417	-19.38336
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-115.75881	-21.16848
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-115.18838	-21.18632
+# @DC1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|0.78|"Magnetic Anomaly"
+-113.50561	-21.15957
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-115.4522	-20.20898
+# @DC2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|1.95|"Magnetic Anomaly"
+-115.20264	-19.37885
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-115.43794	-18.01309
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-115.68751	-19.33824
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-115.9442	-20.19552
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-115.06716	-15.77305
+# @DC3An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.567|"Magnetic Anomaly"
+-107.91776	-15.86969
+# @DC3An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.567|"Magnetic Anomaly"
+-108.02471	-16.77856
+# @DC3An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.567|"Magnetic Anomaly"
+-108.10315	-17.7992
+# @DC3An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.567|"Magnetic Anomaly"
+-108.34201	-19.80908
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-110.24369	-23.76382
+# @DC3An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.567|"Magnetic Anomaly"
+-108.68451	-22.81536
+# @DC3An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.567|"Magnetic Anomaly"
+-108.51338	-21.50474
+# @DC3An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|6.567|"Magnetic Anomaly"
+-108.81761	-23.76382
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-112.16414	-21.61146
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-111.66977	-21.80691
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-106.89716	-34.37173
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-107.6815	-34.45053
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-110.87711	-44.1804
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-110.37798	-44.20092
+# @DC2An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.04|"Magnetic Anomaly"
+-112.29843	-35.50494
+# @DC2An.2n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|3.22|"Magnetic Anomaly"
+-112.76191	-35.46606
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-113.32045	-34.97847
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-113.27292	-35.48551
+# @DC3n.4n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|5.23|"Magnetic Anomaly"
+-115.29795	-44.20092
+# @DC3n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|4.29|"Magnetic Anomaly"
+-114.65621	-44.22144
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-113.27717	15.81767
+# @DC6n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|20.131|"Magnetic Anomaly"
+-88.72961	-5.42353
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-85.5352	-5.38541
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-105.57754	-16.01156
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-87.3475	-21.32377
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-86.91968	-22.03465
+# @DC7n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|24.781|"Magnetic Anomaly"
+-86.39678	-23.00624
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-115.66467	-34.70156
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-116.61539	-44.20761
+# @DC5n.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|9.88|"Magnetic Anomaly"
+-104.42836	-33.82838
+# @DC5An.1n|o|2|N/A|Handschumacher_1976_AGUGeopMonoSer|10.1029/GM019p0177|12.078|"Magnetic Anomaly"
+-103.60836	-33.59001

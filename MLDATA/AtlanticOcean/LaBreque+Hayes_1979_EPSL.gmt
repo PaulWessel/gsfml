@@ -1,0 +1,133 @@
+# @VGMT1.0 @GPOINT
+# @R9.5136/21.6059/-49.2742/-40.4308                                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC21n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|47.906|"Magnetic Anomaly"
+17.5067	-49.2742
+# @DC21n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|47.906|"Magnetic Anomaly"
+16.4452	-48.8598
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.5136	-48.297
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.8222	-47.7432
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.8151	-47.7295
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.5416	-47.2674
+# @DC32n.1n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|71.338|"Magnetic Anomaly"
+17.6214	-47.2125
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.6868	-47.2042
+# @DC32n.1n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|71.338|"Magnetic Anomaly"
+16.9039	-47.1257
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6576	-46.681
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.7609	-46.6658
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6559	-46.662
+# @DC32n.1n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|71.338|"Magnetic Anomaly"
+13.3838	-46.3925
+# @DC30n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|67.61|"Magnetic Anomaly"
+15.1888	-46.2245
+# @DC30n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|67.61|"Magnetic Anomaly"
+15.2068	-46.2211
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.7815	-46.2131
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6261	-46.0418
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.7227	-45.9945
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.768	-45.9161
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.5271	-45.8807
+# @DC32n.1n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|71.338|"Magnetic Anomaly"
+16.4228	-45.8424
+# @DC31n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|68.737|"Magnetic Anomaly"
+15.397	-45.8165
+# @DC31n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|68.737|"Magnetic Anomaly"
+15.4035	-45.8153
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6344	-45.7668
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.7832	-45.7667
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6901	-45.6644
+# @DC30n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|67.61|"Magnetic Anomaly"
+14.9298	-45.6094
+# @DC31n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|68.737|"Magnetic Anomaly"
+13.9748	-45.5637
+# @DC32n.1n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|71.338|"Magnetic Anomaly"
+13.0961	-45.5225
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+16.6297	-45.4592
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+12.739	-45.4528
+# @DC32n.1n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|71.338|"Magnetic Anomaly"
+16.3906	-45.4295
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6405	-45.4151
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.5846	-45.2498
+# @DC32n.1n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|71.338|"Magnetic Anomaly"
+12.9318	-45.1791
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.5768	-45.1378
+# @DC31n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|68.737|"Magnetic Anomaly"
+15.3359	-45.1258
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6011	-45.1188
+# @DC31n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|68.737|"Magnetic Anomaly"
+14.0036	-45.0206
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+12.589	-45.0103
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.7437	-44.9883
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.5991	-44.9265
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.8678	-44.4945
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+9.8138	-44.3454
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+19.8331	-44.257
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+19.621	-44.0424
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+12.1778	-44.0185
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+19.4939	-43.8841
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+17.1489	-43.7087
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+17.1379	-43.6681
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6031	-43.5874
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+19.2038	-43.5045
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+10.6031	-43.4688
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+19.1568	-43.4637
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+11.8526	-43.4338
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+21.6059	-43.3871
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+18.9997	-43.309
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+21.4298	-43.1729
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+21.1927	-42.8874
+# @DC34n|y|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|83|"Magnetic Anomaly"
+21.0656	-41.6315
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+18.3374	-41.3374
+# @DC32n.2n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|73.004|"Magnetic Anomaly"
+16.4566	-41.1055
+# @DC33n|o|3|N/A|LaBreque+Hayes_1979_EPSL|10.1016/0012-821X(79)90140-7|79.075|"Magnetic Anomaly"
+17.9823	-40.4308

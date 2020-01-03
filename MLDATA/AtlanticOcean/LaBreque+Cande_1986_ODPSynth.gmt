@@ -1,0 +1,959 @@
+# @VGMT1.0 @GPOINT
+# @R-41.5529/18.3589/-64.9774/-49.5805                                    
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-38.9157	-64.9774
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-38.9157	-64.9774
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-38.906	-64.9723
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-38.906	-64.9723
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-38.2574	-64.948
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-38.2574	-64.948
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-37.7167	-64.9449
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-37.7167	-64.9449
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-37.345	-64.9131
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-37.345	-64.9131
+# @DM5r|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|126.91|"Magnetic Anomaly"
+9.1776	-64.8779
+# @DM5r|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|126.91|"Magnetic Anomaly"
+9.1776	-64.8779
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-19.1475	-64.8774
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-22.8465	-64.8117
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-22.8465	-64.8117
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-22.8465	-64.8117
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-22.8465	-64.8117
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-39.9189	-64.7977
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-39.9189	-64.7977
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-39.9279	-64.7962
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-39.9279	-64.7962
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-39.2334	-64.7386
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-39.2334	-64.7386
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-38.5768	-64.7188
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-38.5768	-64.7188
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-32.7228	-64.7171
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-32.7228	-64.7171
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-32.7228	-64.7171
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-32.7228	-64.7171
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-37.9785	-64.7082
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-37.9785	-64.7082
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-34.2276	-64.6997
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-34.2276	-64.6997
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-18.3982	-64.6996
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-18.3982	-64.6996
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-37.5148	-64.6904
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-37.5148	-64.6904
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-18.4416	-64.6852
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-18.4416	-64.6852
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-18.4416	-64.6852
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-18.4416	-64.6852
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-36.055	-64.6133
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-36.055	-64.6133
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.5068	-64.5478
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.5068	-64.5478
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.5068	-64.5478
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.5068	-64.5478
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-31.0285	-64.5411
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-31.0285	-64.5411
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.8917	-64.5217
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.8917	-64.5217
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.8917	-64.5217
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.8917	-64.5217
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+11.3633	-64.5098
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+11.3633	-64.5098
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-30.8937	-64.4849
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-30.8937	-64.4849
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-30.8937	-64.4849
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-30.8937	-64.4849
+# @DM4n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|126.57|"Magnetic Anomaly"
+16.379	-64.4737
+# @DM4n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|126.57|"Magnetic Anomaly"
+16.379	-64.4737
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-20.0145	-64.4662
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-20.0145	-64.4662
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-20.0145	-64.4662
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-20.0145	-64.4662
+# @DM5r|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|126.91|"Magnetic Anomaly"
+16.0316	-64.4292
+# @DM5r|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|126.91|"Magnetic Anomaly"
+16.0316	-64.4292
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-30.1179	-64.4221
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-30.1179	-64.4221
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-30.1179	-64.4221
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-30.1179	-64.4221
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.3958	-64.4051
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.3958	-64.4051
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.3958	-64.4051
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.3958	-64.4051
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-36.035	-64.3959
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-36.035	-64.3959
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-21.1018	-64.3945
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-21.1018	-64.3945
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-21.1018	-64.3945
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-21.1018	-64.3945
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-21.1053	-64.3912
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-21.1053	-64.3912
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-12.5119	-64.361
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-12.5119	-64.361
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-12.5119	-64.361
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-12.5119	-64.361
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+10.536	-64.3073
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+10.536	-64.3073
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-35.7731	-64.2902
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-35.7731	-64.2902
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-28.4709	-64.276
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-28.4709	-64.276
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-28.4709	-64.276
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-28.4709	-64.276
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-36.5227	-64.2488
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-36.5227	-64.2488
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-23.5001	-64.1887
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-23.5001	-64.1887
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-23.4851	-64.1802
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-23.4851	-64.1802
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-23.4851	-64.1802
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-23.4851	-64.1802
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+9.2113	-64.1778
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+9.2113	-64.1778
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-35.4176	-64.1771
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-35.4176	-64.1771
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-22.5289	-64.1705
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-22.5289	-64.1705
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-22.5289	-64.1705
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-22.5289	-64.1705
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-36.1901	-64.1376
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-36.1901	-64.1376
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-34.2182	-64.0967
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-34.2182	-64.0967
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-34.2182	-64.0967
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-34.2182	-64.0967
+# @DM2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|124.05|"Magnetic Anomaly"
+16.5656	-64.0917
+# @DM2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|124.05|"Magnetic Anomaly"
+16.5656	-64.0917
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-27.7228	-64.0712
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-27.7228	-64.0712
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.0409	-64.0689
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.0409	-64.0689
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.0409	-64.0689
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.0409	-64.0689
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-19.0364	-64.0662
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-19.0364	-64.0662
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-19.0364	-64.0662
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-19.0364	-64.0662
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-19.0259	-64.0609
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-19.0259	-64.0609
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-35.8646	-64.0547
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-35.8646	-64.0547
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.9801	-64.036
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.9801	-64.036
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.9801	-64.036
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.9801	-64.036
+# @DM2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|124.05|"Magnetic Anomaly"
+16.2331	-64.0302
+# @DM2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|124.05|"Magnetic Anomaly"
+16.2331	-64.0302
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.3619	-64.0158
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.3619	-64.0158
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.3619	-64.0158
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-33.3619	-64.0158
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-18.3564	-63.9681
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-18.3564	-63.9681
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-18.3564	-63.9681
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-18.3564	-63.9681
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-41.018	-63.9546
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-41.018	-63.9546
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-9.938	-63.942
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-9.938	-63.942
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-9.938	-63.942
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-9.938	-63.942
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-28.5963	-63.9385
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-28.5963	-63.9385
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-28.5963	-63.9385
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-28.5963	-63.9385
+# @DC10n.1n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|28.283|"Magnetic Anomaly"
+-36.7546	-63.9064
+# @DC10n.1n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|28.283|"Magnetic Anomaly"
+-36.7546	-63.9064
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.4132	-63.8845
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.4132	-63.8845
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.4132	-63.8845
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-11.4132	-63.8845
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-28.3317	-63.8628
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-28.3317	-63.8628
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-40.5264	-63.8429
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-40.5264	-63.8429
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.6617	-63.8425
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.6617	-63.8425
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.6617	-63.8425
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-32.6617	-63.8425
+# @DC10n.1n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|28.283|"Magnetic Anomaly"
+-36.6002	-63.8259
+# @DC10n.1n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|28.283|"Magnetic Anomaly"
+-36.6002	-63.8259
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-9.6406	-63.817
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-9.6406	-63.817
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+-37.3342	-63.816
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+-37.3342	-63.816
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+-37.1702	-63.7766
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+-37.1702	-63.7766
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-3.6711	-63.7686
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-3.6711	-63.7686
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-3.6711	-63.7686
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-3.6711	-63.7686
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-39.8306	-63.7424
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-39.8306	-63.7424
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.154	-63.7324
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.154	-63.7324
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.154	-63.7324
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-21.154	-63.7324
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-15.0213	-63.7267
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-15.0213	-63.7267
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-15.0213	-63.7267
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-15.0213	-63.7267
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-17.2441	-63.658
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-17.2441	-63.658
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-17.2441	-63.658
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-17.2441	-63.658
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+-36.9	-63.6459
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+-36.9	-63.6459
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-4.6107	-63.6253
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-4.6107	-63.6253
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-4.6107	-63.6253
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-4.6107	-63.6253
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+16.3956	-63.6237
+# @DM0r|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|120.6|"Magnetic Anomaly"
+16.3956	-63.6237
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-41.5529	-63.583
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-41.5529	-63.583
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-37.765	-63.5793
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-37.765	-63.5793
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-40.923	-63.4809
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-40.923	-63.4809
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-30.5534	-63.463
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-30.5534	-63.463
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-30.5744	-63.4559
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-30.5744	-63.4559
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-30.5744	-63.4559
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-30.5744	-63.4559
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-37.4541	-63.4375
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-37.4541	-63.4375
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.9501	-63.4299
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.9501	-63.4299
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.9501	-63.4299
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.9501	-63.4299
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-28.8957	-63.4277
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-28.8957	-63.4277
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-28.941	-63.4269
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-28.941	-63.4269
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-28.941	-63.4269
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-28.941	-63.4269
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.5304	-63.3772
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.5304	-63.3772
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.5304	-63.3772
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-34.5304	-63.3772
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-19.9094	-63.3763
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-19.9094	-63.3763
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-10.3702	-63.3712
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-10.3702	-63.3712
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-14.1045	-63.3665
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-14.1045	-63.3665
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-10.4342	-63.3554
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-10.4342	-63.3554
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-10.4342	-63.3554
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-10.4342	-63.3554
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-2.5703	-63.355
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-2.5703	-63.355
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-2.5703	-63.355
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-2.5703	-63.355
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-40.3942	-63.3326
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-40.3942	-63.3326
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-2.5868	-63.317
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+-2.5868	-63.317
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-3.6802	-63.2448
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-3.6802	-63.2448
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-3.6802	-63.2448
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-3.6802	-63.2448
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-38.7319	-63.175
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-38.7319	-63.175
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-7.024	-63.1283
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-7.024	-63.1283
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.9662	-63.1067
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.9662	-63.1067
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.9662	-63.1067
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.9662	-63.1067
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-38.3498	-63.1058
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-38.3498	-63.1058
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-29.0068	-63.0952
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-29.0068	-63.0952
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-29.0068	-63.0952
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-29.0068	-63.0952
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-16.2245	-63.0782
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-16.2245	-63.0782
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-5.5965	-63.0434
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-5.5965	-63.0434
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-5.5965	-63.0434
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-5.5965	-63.0434
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-22.6909	-63.004
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-22.6909	-63.004
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-22.6909	-63.004
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-22.6909	-63.004
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-22.6955	-62.9989
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-22.6955	-62.9989
+# @DC5An.2n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|12.184|"Magnetic Anomaly"
+-39.1236	-62.9952
+# @DC5An.2n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|12.184|"Magnetic Anomaly"
+-39.1236	-62.9952
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-2.6713	-62.9628
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+-2.6713	-62.9628
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.658	-62.9397
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.658	-62.9397
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.658	-62.9397
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-6.658	-62.9397
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-20.2275	-62.9392
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-20.2275	-62.9392
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-15.8748	-62.9098
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-15.8748	-62.9098
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-15.8748	-62.9098
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-15.8748	-62.9098
+# @DC5An.2n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|12.184|"Magnetic Anomaly"
+-38.8711	-62.9068
+# @DC5An.2n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|12.184|"Magnetic Anomaly"
+-38.8711	-62.9068
+# @DC5An.2n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|12.184|"Magnetic Anomaly"
+-38.6402	-62.8852
+# @DC5An.2n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|12.184|"Magnetic Anomaly"
+-38.6402	-62.8852
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-22.0262	-62.7706
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-22.0262	-62.7706
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-22.0262	-62.7706
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-22.0262	-62.7706
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-8.7985	-62.7445
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-8.7985	-62.7445
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-8.7985	-62.7445
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-8.7985	-62.7445
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-27.7979	-62.7296
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-27.7979	-62.7296
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-14.5303	-62.7149
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-14.5303	-62.7149
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-14.5303	-62.7149
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-14.5303	-62.7149
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-31.7775	-62.711
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-31.7775	-62.711
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-31.7775	-62.711
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-31.7775	-62.711
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.7167	-62.6829
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.7167	-62.6829
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.7167	-62.6829
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.7167	-62.6829
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-9.6001	-62.6235
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-9.6001	-62.6235
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-9.6001	-62.6235
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-9.6001	-62.6235
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-14.7939	-62.5804
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-14.7939	-62.5804
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-9.0684	-62.4204
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+-9.0684	-62.4204
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.4599	-62.399
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.4599	-62.399
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.4599	-62.399
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.4599	-62.399
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-23.2527	-62.3965
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-23.2527	-62.3965
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-23.2527	-62.3965
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-23.2527	-62.3965
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-10.9882	-62.3128
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-10.9882	-62.3128
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-10.9882	-62.3128
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-10.9882	-62.3128
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.3323	-62.2476
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.3323	-62.2476
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.3323	-62.2476
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.3323	-62.2476
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-11.8569	-62.2167
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-11.8569	-62.2167
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-11.8569	-62.2167
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-11.8569	-62.2167
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-23.7649	-62.2128
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-23.7649	-62.2128
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-23.7666	-62.2083
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-23.7666	-62.2083
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-23.7666	-62.2083
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-23.7666	-62.2083
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.5422	-62.1951
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.5422	-62.1951
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.5422	-62.1951
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-19.5422	-62.1951
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.0727	-62.1853
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.0727	-62.1853
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.0727	-62.1853
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-21.0727	-62.1853
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-22.4121	-62.0981
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-22.4121	-62.0981
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-22.4121	-62.0981
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-22.4121	-62.0981
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-10.6476	-62.0859
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-10.6476	-62.0859
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-20.8241	-62.0655
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-20.7599	-62.048
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+18.3589	-62.0137
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-24.2637	-61.9861
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-21.9326	-61.9421
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-21.9234	-61.9383
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-29.81	-61.9277
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-11.4158	-61.9224
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-13.6201	-61.8369
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-22.5446	-61.7267
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-15.5559	-61.6534
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+17.1504	-61.5897
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-13.1467	-61.5491
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-23.1198	-61.5405
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-23.1212	-61.5388
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-16.3772	-61.5229
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-15.0514	-61.5017
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-15.0205	-61.4963
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-15.8838	-61.3877
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+0.4451	-61.2821
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+-16.9821	-61.078
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+2.6021	-61.0192
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+-2.5937	-60.7592
+# @DC34n|y|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|83|"Magnetic Anomaly"
+5.4494	-60.6515
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+2.6222	-60.5045
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+-6.1788	-60.1719
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+6.0953	-60.0369
+# @DC24n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|53.347|"Magnetic Anomaly"
+-6.6997	-60.0346
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+-7.6841	-59.8721
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+-8.5428	-59.8068
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+-9.7215	-59.5563
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-10.1186	-59.4732
+# @DC33n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|79.075|"Magnetic Anomaly"
+7.9743	-59.3789
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+6.9153	-59.1661
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+6.9598	-59.0698
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+9.2796	-57.5906
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+2.3363	-57.5547
+# @DC32n.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|71.338|"Magnetic Anomaly"
+8.4631	-57.4395
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+1.6395	-57.3306
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+2.5704	-57.0915
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+3.0966	-57.042
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+1.8545	-56.9454
+# @DC30n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|67.61|"Magnetic Anomaly"
+7.5452	-56.8459
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+7.22	-56.4335
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+3.1501	-56.3372
+# @DC25n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|56.391|"Magnetic Anomaly"
+8.7593	-56.3011
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+2.8758	-56.2837
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+2.379	-56.2299
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-1.3472	-56.1873
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+3.1477	-55.9936
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+-1.3154	-55.9598
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+-0.1261	-55.9579
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+6.4855	-55.9414
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+2.4185	-55.8907
+# @DC11n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.098|"Magnetic Anomaly"
+3.0399	-55.8265
+# @DC11n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.098|"Magnetic Anomaly"
+2.5101	-55.7483
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+3.655	-55.7129
+# @DC11n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.098|"Magnetic Anomaly"
+2.3161	-55.6779
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+2.6881	-55.5481
+# @DC21n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|47.906|"Magnetic Anomaly"
+9.4376	-55.4738
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+2.4198	-55.4475
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+11.5107	-55.0918
+# @DC2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|1.95|"Magnetic Anomaly"
+0.3201	-55.0213
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+9.8609	-55.0193
+# @DC20n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|43.789|"Magnetic Anomaly"
+10.1	-55.0154
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+-0.7278	-54.9721
+# @DC2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|1.95|"Magnetic Anomaly"
+-0.0492	-54.889
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+3.4279	-54.8578
+# @DC2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|1.95|"Magnetic Anomaly"
+0.0008	-54.839
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+3.1456	-54.7812
+# @DC2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|1.95|"Magnetic Anomaly"
+0.7231	-54.6652
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+2.5552	-54.5172
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+2.1733	-54.5053
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+10.4241	-54.4586
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+0.9662	-54.3336
+# @DC4r.1n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|8.257|"Magnetic Anomaly"
+2.696	-54.2749
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+11.9757	-54.1895
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+4.4338	-53.555
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+6.5777	-52.9925
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+6.1307	-52.5417
+# @DC7n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|25.183|"Magnetic Anomaly"
+3.4206	-52.3379
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+6.8639	-52.0538
+# @DC8n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|26.554|"Magnetic Anomaly"
+3.7058	-52.052
+# @DC11n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.098|"Magnetic Anomaly"
+5.6266	-51.9416
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+1.4392	-51.8764
+# @DC16n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|36.341|"Magnetic Anomaly"
+7.819	-51.8558
+# @DC16n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|36.341|"Magnetic Anomaly"
+7.5654	-51.8006
+# @DC12n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.939|"Magnetic Anomaly"
+5.7691	-51.6921
+# @DC5n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|10.949|"Magnetic Anomaly"
+1.3155	-51.5899
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+1.9311	-51.4922
+# @DC9n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|27.972|"Magnetic Anomaly"
+4.839	-51.3294
+# @DC6n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|20.131|"Magnetic Anomaly"
+1.859	-51.2389
+# @DC11n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.098|"Magnetic Anomaly"
+5.159	-51.1737
+# @DC9n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|27.972|"Magnetic Anomaly"
+4.7174	-51.1207
+# @DC16n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|36.341|"Magnetic Anomaly"
+6.5165	-50.8369
+# @DC11n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|30.098|"Magnetic Anomaly"
+4.9424	-50.8196
+# @DC17n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|38.113|"Magnetic Anomaly"
+7.098	-50.7012
+# @DC16n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|36.341|"Magnetic Anomaly"
+6.114	-50.4733
+# @DC17n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|38.113|"Magnetic Anomaly"
+6.7771	-50.4731
+# @DC13n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|33.545|"Magnetic Anomaly"
+5.3297	-50.4625
+# @DC16n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|36.341|"Magnetic Anomaly"
+5.5367	-50.2273
+# @DC17n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|38.113|"Magnetic Anomaly"
+6.5076	-50.2213
+# @DC18n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|40.13|"Magnetic Anomaly"
+7.5827	-50.1678
+# @DC18n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|40.13|"Magnetic Anomaly"
+7.1842	-50.0303
+# @DC18n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|40.13|"Magnetic Anomaly"
+7.1842	-50.0303
+# @DC17n.3n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|38.113|"Magnetic Anomaly"
+5.977	-49.8634
+# @DC18n.2n|o|2|N/A|LaBreque+Cande_1986_ODPSynth|N/A|40.13|"Magnetic Anomaly"
+6.3108	-49.5805

@@ -1,0 +1,1515 @@
+# @VGMT1.0 @GPOINT
+# @R-90.4767380586/-78.3139882455/-12.8881090421/10.6538263324            
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-80.27245	5.80284
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-80.2059	5.81951
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-79.9397	5.92899
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-79.78996	5.97183
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-78.91768	6.03132
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-78.48748	6.03369
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-78.41618	6.03607
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-78.51125	6.28823
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-78.87014	6.30725
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-78.92719	6.30487
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-78.42568	6.29298
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-79.76144	6.10507
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-79.89692	6.09318
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-80.17025	6.0789
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-80.46022	6.04321
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-80.97158	5.55205
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-81.15697	5.49728
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-80.84086	5.60444
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-81.11181	5.33769
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-81.04526	5.35436
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-80.94781	5.3758
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-79.0125	5.15017
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-78.99468	5.34972
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-78.61142	5.34376
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-80.1435	4.84726
+# @DC5n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.74|"Magnetic Anomaly"
+-80.02942	4.86633
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-80.19252	4.62967
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-80.07963	4.63563
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-78.71297	4.75188
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-78.3713	4.69823
+# @DC5n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|10.949|"Magnetic Anomaly"
+-79.0576	4.88302
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-79.96554	5.78174
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-79.81699	5.82042
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-78.92866	5.9067
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-78.37012	5.90372
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-78.51272	5.90075
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-80.24184	5.60377
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-80.35771	5.57698
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-80.123	4.96228
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-80.00416	4.98314
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-78.5971	5.44063
+# @DC4An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|9.025|"Magnetic Anomaly"
+-78.98214	5.46207
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-79.99327	5.06835
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-80.10914	5.05941
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-78.97125	5.53888
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-78.58205	5.51208
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-80.39138	5.4972
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-80.25769	5.52697
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-79.98139	5.70556
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-79.82689	5.73829
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-78.93262	5.84541
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-78.53451	5.82459
+# @DC4An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|8.699|"Magnetic Anomaly"
+-78.35328	5.84541
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-79.69558	6.40388
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-79.86433	6.4015
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-80.01882	6.4015
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-80.06398	6.39674
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-80.31592	6.35394
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-78.8946	6.64872
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-78.79952	6.64634
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-78.66405	6.64159
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-78.55471	6.64634
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-78.3206	4.29212
+# @DC5An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.935|"Magnetic Anomaly"
+-78.77932	4.39949
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-78.32028	4.21195
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-78.79374	4.32076
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-80.29207	6.41029
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-80.05202	6.4412
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-80.0021	6.44596
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-79.86425	6.45309
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-79.68837	6.45785
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-78.88263	6.72642
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-78.78281	6.7288
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-78.69724	6.72642
+# @DC5An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.078|"Magnetic Anomaly"
+-78.58553	6.72642
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-80.26504	6.46094
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-80.03686	6.49303
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-79.9816	6.50016
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-79.86039	6.50551
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-79.68034	6.50551
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-78.87806	6.78166
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-78.76967	6.78166
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-78.72404	6.78166
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-78.61376	6.78356
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-78.79962	4.26647
+# @DC5An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.184|"Magnetic Anomaly"
+-78.31856	4.16148
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-78.80865	4.20706
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-78.31951	4.08535
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-80.23671	6.51605
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-80.01995	6.54648
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-79.9534	6.55408
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-79.85452	6.56739
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-79.66248	6.5807
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-78.86958	6.85444
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-78.79732	6.85634
+# @DC5An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.401|"Magnetic Anomaly"
+-78.65472	6.85634
+# @DC5Ar.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.678|"Magnetic Anomaly"
+-79.99143	6.66246
+# @DC5Ar.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.678|"Magnetic Anomaly"
+-79.90586	6.66816
+# @DC5Ar.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.678|"Magnetic Anomaly"
+-79.84502	6.67007
+# @DC5Ar.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.678|"Magnetic Anomaly"
+-79.64346	6.67387
+# @DC5Ar.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.678|"Magnetic Anomaly"
+-78.82585	6.94565
+# @DC5Ar.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.678|"Magnetic Anomaly"
+-78.68704	6.94565
+# @DC5Ar.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.708|"Magnetic Anomaly"
+-78.83666	6.97314
+# @DC5Ar.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.708|"Magnetic Anomaly"
+-78.70356	6.97196
+# @DC5Ar.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.708|"Magnetic Anomaly"
+-79.63788	6.69805
+# @DC5Ar.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.708|"Magnetic Anomaly"
+-79.84109	6.69449
+# @DC5Ar.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.708|"Magnetic Anomaly"
+-79.89457	6.69449
+# @DC5Ar.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.708|"Magnetic Anomaly"
+-79.98489	6.68855
+# @DC5Ar.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.775|"Magnetic Anomaly"
+-79.63193	6.71944
+# @DC5Ar.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.775|"Magnetic Anomaly"
+-79.84109	6.71825
+# @DC5Ar.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.775|"Magnetic Anomaly"
+-79.88387	6.71706
+# @DC5Ar.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.775|"Magnetic Anomaly"
+-79.98132	6.70993
+# @DC5Ar.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.775|"Magnetic Anomaly"
+-78.84608	7.00164
+# @DC5Ar.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.775|"Magnetic Anomaly"
+-78.71916	7.00164
+# @DC5Ar.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.819|"Magnetic Anomaly"
+-78.85322	7.03014
+# @DC5Ar.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.819|"Magnetic Anomaly"
+-78.73057	7.02729
+# @DC5Ar.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.819|"Magnetic Anomaly"
+-79.62273	6.74367
+# @DC5Ar.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.819|"Magnetic Anomaly"
+-79.83521	6.73655
+# @DC5Ar.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.819|"Magnetic Anomaly"
+-79.878	6.73512
+# @DC5Ar.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.819|"Magnetic Anomaly"
+-79.97639	6.73084
+# @DC5AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.991|"Magnetic Anomaly"
+-79.82951	6.80212
+# @DC5AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.991|"Magnetic Anomaly"
+-79.60704	6.8064
+# @DC5AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.991|"Magnetic Anomaly"
+-78.87202	7.08677
+# @DC5AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|12.991|"Magnetic Anomaly"
+-78.76173	7.08297
+# @DC5AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|13.139|"Magnetic Anomaly"
+-79.59789	6.86697
+# @DC5AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|13.139|"Magnetic Anomaly"
+-78.89198	7.14125
+# @DC5AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|13.139|"Magnetic Anomaly"
+-78.78859	7.14303
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-78.90462	6.53718
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-78.82096	6.53718
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-78.6118	6.53908
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-78.50722	6.53718
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-80.10253	6.26327
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-80.07401	6.26898
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-79.88006	6.2861
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-79.71844	6.29561
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-80.37253	6.22522
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-78.75892	4.49134
+# @DC5r.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.531|"Magnetic Anomaly"
+-78.32041	4.41977
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-78.31399	4.49363
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-78.75037	4.56232
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-78.90961	6.47036
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-78.83546	6.47036
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-78.58304	6.46893
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-78.47894	6.4675
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-80.402	6.16501
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-80.12677	6.20069
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-80.10395	6.20069
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-79.88149	6.22495
+# @DC5r.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.476|"Magnetic Anomaly"
+-79.73032	6.23637
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-80.43623	6.09792
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-80.15244	6.12647
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-80.13675	6.1279
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-79.89575	6.15359
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-79.74886	6.16644
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-78.92313	6.37644
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-78.85539	6.37644
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-78.54879	6.38001
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-78.44005	6.37644
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-78.73596	4.64866
+# @DC5r.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.099|"Magnetic Anomaly"
+-78.32299	4.59798
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-78.34212	4.6266
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-78.72812	4.67429
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-80.44191	6.08229
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-80.15669	6.11227
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-80.14243	6.1137
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-79.89429	6.1401
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-79.74954	6.14724
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-78.53952	6.35245
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-78.429	6.35174
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-78.86181	6.35174
+# @DC5r.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|11.052|"Magnetic Anomaly"
+-78.92313	6.35031
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-85.63112	9.77538
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-88.35066	8.64469
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-88.40199	8.69388
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-88.61876	8.90572
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-89.15972	9.42745
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-89.03612	9.29762
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-85.57582	8.9537
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-85.84583	8.80975
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-85.91571	8.77002
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-86.01696	8.71895
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-87.96546	8.6532
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-88.13183	8.81637
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-88.33148	9.00781
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-88.6369	9.30423
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-88.82407	9.48716
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-88.99342	9.66114
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-88.86052	9.72589
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-88.65017	9.52068
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-88.44339	9.31535
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-88.20096	9.06029
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-88.03696	8.89014
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-87.75536	8.60718
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-87.77912	8.63379
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-86.03158	8.7519
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-85.88898	8.83938
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-85.63466	8.99537
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-88.73757	9.80446
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-88.76015	9.82332
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-88.49157	9.54268
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-88.2729	9.31612
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-88.07801	9.11066
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-87.93302	8.96654
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-87.61453	8.64973
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-87.53562	8.56741
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-86.06129	8.78831
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-85.93295	8.88287
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-85.70953	9.05538
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-86.09679	8.8512
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-85.98983	8.93156
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-85.77592	9.10169
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-85.7165	9.14421
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-87.27954	8.52246
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-87.437	8.70283
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-87.7965	9.08692
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-87.88562	9.18436
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-88.011	9.30951
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-88.25165	9.57205
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-88.63669	9.97321
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-88.58678	9.91901
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-88.47269	10.16824
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-88.39901	10.07875
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.97119	9.60024
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.70594	9.29168
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.6817	9.25768
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.66743	9.24068
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.24496	8.76029
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-86.99005	8.46579
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-86.1546	8.93655
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-86.05062	9.03108
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-85.86939	9.16986
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-85.79511	9.24071
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-85.7149	9.30859
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-88.3469	10.12152
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-88.4289	10.21689
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-87.89412	9.59473
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-87.63386	9.28675
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-87.19237	8.7762
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-86.90597	8.44858
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-85.7533	9.33345
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-85.83126	9.26734
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-85.90732	9.205
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-86.07845	9.06517
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-86.18493	8.97822
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-86.22486	9.02358
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-86.12979	9.10486
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-85.96626	9.25223
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-85.82746	9.36895
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-85.87119	9.33307
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-88.19748	10.24472
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-88.09052	10.11227
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-87.61219	9.57012
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-87.32104	9.30462
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-86.93778	8.86463
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-86.854	8.8924
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-87.23547	9.30698
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-86.15617	9.13365
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-85.99074	9.27724
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-85.90898	9.34863
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-85.89187	9.3694
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-87.53685	9.56644
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-87.98606	10.09328
+# @DC6AAr.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.248|"Magnetic Anomaly"
+-88.14293	10.27553
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-87.89753	10.39379
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-87.85891	10.34673
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-87.56775	10.01119
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-87.28253	9.68296
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-87.1429	9.52374
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.96166	9.31428
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.29913	9.06985
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.19812	9.16729
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.04363	9.31487
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-85.95747	9.39749
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-87.7775	10.45202
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-87.71808	10.37673
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-87.37404	9.97703
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-87.18865	9.76137
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-86.96464	9.52463
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-86.78638	9.32107
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-86.50413	9.32992
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-86.6408	9.49218
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-87.0092	9.9137
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-87.03594	9.94316
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-87.46971	10.41997
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-87.56775	10.52877
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-87.47268	10.55523
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-87.36275	10.43467
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-86.95275	9.98439
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-86.50116	9.47213
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-86.38826	9.33936
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-87.39008	10.5905
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-87.28788	10.47761
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-86.89571	10.06802
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-86.87907	10.04682
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-86.25675	9.337
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-87.31978	10.61433
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-87.20569	10.49203
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-86.85868	10.11544
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-86.83491	10.08953
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-86.1523	9.34959
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-87.11799	10.53037
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-87.23564	10.65383
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-86.29443	9.63652
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-86.15539	9.49497
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-86.77573	10.14911
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-86.82208	10.1915
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-87.05382	10.56212
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-86.78999	10.26213
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-86.72938	10.19856
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-86.10904	9.54947
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-86.24808	9.69807
+# @DC5Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|15.155|"Magnetic Anomaly"
+-86.58826	7.15231
+# @DC5Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|15.155|"Magnetic Anomaly"
+-87.2805	6.94454
+# @DC5Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|15.034|"Magnetic Anomaly"
+-87.24188	6.88314
+# @DC5Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|14.888|"Magnetic Anomaly"
+-87.20029	6.82672
+# @DC5Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|14.8|"Magnetic Anomaly"
+-87.17058	6.77327
+# @DC5ADn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|14.612|"Magnetic Anomaly"
+-87.13195	6.71387
+# @DC5ADn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|14.178|"Magnetic Anomaly"
+-87.06065	6.5891
+# @DC5Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.014|"Magnetic Anomaly"
+-87.45341	7.2215
+# @DC5Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.014|"Magnetic Anomaly"
+-87.06421	7.35203
+# @DC5Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.014|"Magnetic Anomaly"
+-86.41059	7.58036
+# @DC5Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.293|"Magnetic Anomaly"
+-87.51878	7.32237
+# @DC5Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.293|"Magnetic Anomaly"
+-87.25436	7.41728
+# @DC5Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.293|"Magnetic Anomaly"
+-86.65719	7.62186
+# @DC5Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.327|"Magnetic Anomaly"
+-87.5366	7.35262
+# @DC5Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.327|"Magnetic Anomaly"
+-87.30784	7.43863
+# @DC5Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.327|"Magnetic Anomaly"
+-86.75226	7.63728
+# @DC5Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.488|"Magnetic Anomaly"
+-87.55443	7.38525
+# @DC5Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.488|"Magnetic Anomaly"
+-87.3732	7.45049
+# @DC5Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.488|"Magnetic Anomaly"
+-86.80277	7.65506
+# @DC5Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.556|"Magnetic Anomaly"
+-87.58117	7.42084
+# @DC5Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.556|"Magnetic Anomaly"
+-87.44153	7.47422
+# @DC5Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.556|"Magnetic Anomaly"
+-86.91566	7.66395
+# @DC5Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.556|"Magnetic Anomaly"
+-86.47596	7.78842
+# @DC5Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.726|"Magnetic Anomaly"
+-87.61979	7.47718
+# @DC5Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.726|"Magnetic Anomaly"
+-87.53066	7.51276
+# @DC5Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.726|"Magnetic Anomaly"
+-87.0553	7.69655
+# @DC5Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|16.726|"Magnetic Anomaly"
+-86.56806	7.85064
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-85.96851	8.64525
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-85.76945	8.73689
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-85.46938	8.85806
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-85.92097	8.57724
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-85.69518	8.68072
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-85.38619	8.79896
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-85.8467	8.46189
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-85.55851	8.55062
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-85.24953	8.68664
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-85.66844	8.17782
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-85.29707	8.32284
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-84.96431	8.44414
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-85.72786	8.27253
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-85.8467	8.22814
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-85.39808	8.40864
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-85.0683	8.54471
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-86.00824	-2.70498
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-86.19363	-2.70498
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-86.97322	-2.63805
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-85.49485	-2.7002
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-84.9672	-2.61893
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-84.4966	-2.54722
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-83.55063	-2.37988
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-88.08984	-2.54722
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-88.09578	-2.78505
+# @DC5Dn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.615|"Magnetic Anomaly"
+-90.22242	-2.79102
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-90.47674	-2.6273
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-89.93126	-2.63447
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-88.09162	-2.66674
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-88.08984	-2.42829
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-86.93115	-2.51435
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-86.11116	-2.57889
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-86.01133	-2.58248
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-85.49794	-2.58248
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-84.97564	-2.49523
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-84.58941	-2.42351
+# @DC5Dn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|17.277|"Magnetic Anomaly"
+-83.61671	-2.30666
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-85.87229	-2.94223
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-85.39455	-2.9028
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-84.95247	-2.83828
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-86.01965	-2.92909
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-86.2811	-2.91117
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-88.15282	-3.21581
+# @DC5En|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.281|"Magnetic Anomaly"
+-87.23182	-3.32928
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-88.16471	-3.52394
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-87.33758	-3.53827
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-86.42014	-3.14175
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-86.05887	-3.16086
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-85.25076	-3.14175
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-84.94652	-3.08441
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-84.33331	-2.76897
+# @DC5En|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|18.781|"Magnetic Anomaly"
+-83.47885	-2.45106
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-84.91919	-3.54862
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-84.10593	-3.07429
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-86.53066	-3.38143
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-86.02678	-3.51041
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-85.20916	-3.6919
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-85.15687	-3.66802
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-85.02377	-3.59161
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-87.51465	-3.89722
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-88.15639	-3.7301
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-88.15164	-3.85903
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-87.62399	-4.08818
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-86.92521	-4.36021
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-86.03629	-4.17887
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-88.07083	-4.96833
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-87.14982	-4.77164
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-83.20275	-2.73974
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-82.67866	-2.51147
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-86.58374	-3.56478
+# @DC6n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.131|"Magnetic Anomaly"
+-86.02282	-3.66508
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-88.13341	-4.24035
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-87.7555	-4.32625
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-87.85533	-4.49086
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-88.09776	-4.51233
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-87.39185	-3.64597
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-88.15481	-3.60299
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-86.77151	-4.01125
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-86.0347	-3.93964
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-86.02519	-3.82982
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-86.6907	-3.8346
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-86.434	-3.19742
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-86.02519	-3.24042
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-85.20282	-3.24519
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-84.93187	-3.16397
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-84.29013	-2.839
+# @DC6n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|19.048|"Magnetic Anomaly"
+-83.43924	-2.49242
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-88.05308	-5.13667
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-87.34955	-4.99844
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-87.05007	-4.90309
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-86.86943	-4.84587
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-86.04231	-4.27821
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-84.93472	-3.70822
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-84.02084	-3.19391
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-83.13548	-2.81757
+# @DC6An.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.518|"Magnetic Anomaly"
+-82.64824	-2.62636
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-88.04686	-5.2107
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-87.42889	-5.10108
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-87.05336	-4.99145
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-86.89174	-4.95331
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-86.04084	-4.39051
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-84.89047	-3.82059
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-83.94974	-3.28374
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-83.07507	-2.89189
+# @DC6An.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.725|"Magnetic Anomaly"
+-82.62824	-2.68636
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-86.05558	-4.52743
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-85.22132	-4.1266
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-84.82915	-3.91537
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-84.92185	-3.95833
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-88.05851	-5.38081
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-83.8713	-3.44139
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-83.00852	-2.96119
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-82.60209	-2.78196
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-87.78413	-5.60077
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-87.05208	-5.25777
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-86.96176	-5.22441
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-86.07284	-4.8669
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-85.25998	-4.31357
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-84.75514	-4.05585
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-84.91677	-4.13699
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-83.81869	-3.55448
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-82.90124	-3.06813
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-82.57324	-2.88652
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-82.14542	-2.65135
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.05588	-5.4204
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-86.07189	-4.9915
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-85.27923	-4.43684
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-84.90904	-4.26088
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-84.69513	-4.1535
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-83.73906	-3.70114
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-82.78716	-3.18237
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-82.5269	-3.03902
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-82.1169	-2.77448
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-85.39688	-4.95133
+# @DC6AAr.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.151|"Magnetic Anomaly"
+-87.10817	-5.70891
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-87.04862	-6.25361
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.89176	-6.78739
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.395	-8.44969
+# @DC6Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.75|"Magnetic Anomaly"
+-86.28924	-8.49456
+# @DC6Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.75|"Magnetic Anomaly"
+-86.7545	-6.7374
+# @DC6Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.75|"Magnetic Anomaly"
+-86.93276	-6.19892
+# @DC6Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.804|"Magnetic Anomaly"
+-86.89354	-6.17466
+# @DC6Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.804|"Magnetic Anomaly"
+-86.72479	-6.72243
+# @DC6Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.804|"Magnetic Anomaly"
+-86.22875	-8.52011
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-86.10991	-8.55678
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-86.60547	-6.67229
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-86.78016	-6.11804
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-86.54486	-5.98242
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-86.35947	-6.56391
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-85.71496	-8.70548
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-85.54621	-8.77839
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-86.24499	-6.51923
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-86.43751	-5.92698
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-86.12377	-6.47644
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-86.32342	-5.86986
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-85.35488	-8.86429
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-85.24198	-8.88202
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-86.05603	-6.44822
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-86.24618	-5.82971
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-86.18082	-5.78805
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-85.9669	-6.40662
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-85.1172	-8.92456
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-84.98647	-8.96592
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-85.86589	-6.36501
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-86.08574	-5.74044
+# @DC7n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.183|"Magnetic Anomaly"
+-85.45827	-5.41348
+# @DC7n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.183|"Magnetic Anomaly"
+-85.15879	-6.08053
+# @DC7n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.183|"Magnetic Anomaly"
+-83.70419	-9.47223
+# @DC7n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.835|"Magnetic Anomaly"
+-83.97515	-9.36602
+# @DC7n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.835|"Magnetic Anomaly"
+-85.34418	-6.16047
+# @DC7n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.835|"Magnetic Anomaly"
+-85.6294	-5.49637
+# @DC7An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.496|"Magnetic Anomaly"
+-85.24531	-5.30049
+# @DC7An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.496|"Magnetic Anomaly"
+-84.94821	-6.00646
+# @DC7An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.496|"Magnetic Anomaly"
+-83.37952	-9.63116
+# @DC7An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.648|"Magnetic Anomaly"
+-85.11815	-5.22782
+# @DC7An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.648|"Magnetic Anomaly"
+-84.79015	-6.02311
+# @DC7An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.648|"Magnetic Anomaly"
+-83.15492	-9.70545
+# @DC8n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.823|"Magnetic Anomaly"
+-84.63804	-6.03263
+# @DC8n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.823|"Magnetic Anomaly"
+-85.02308	-5.1754
+# @DC8n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.823|"Magnetic Anomaly"
+-83.00042	-9.7618
+# @DC8n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|26.554|"Magnetic Anomaly"
+-84.55485	-4.93396
+# @DC8n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|26.554|"Magnetic Anomaly"
+-84.05572	-6.05143
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-83.63503	-6.04857
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-84.22685	-4.74084
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-82.9719	-6.0224
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-83.67543	-4.43078
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-83.48707	-4.35206
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-82.77403	-6.02478
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-83.33733	-4.27332
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-82.59577	-6.0105
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-83.27791	-4.24469
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-82.52803	-6.00217
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-83.16383	-4.19219
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-82.40325	-5.98433
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.31879	-8.96892
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.27601	-9.38695
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-86.25462	-9.59224
+# @DC6Bn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.588|"Magnetic Anomaly"
+-87.09125	-6.00812
+# @DC6Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.75|"Magnetic Anomaly"
+-86.1334	-9.55968
+# @DC6Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.75|"Magnetic Anomaly"
+-86.15122	-9.4004
+# @DC6Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.75|"Magnetic Anomaly"
+-86.21183	-8.96821
+# @DC6Bn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.75|"Magnetic Anomaly"
+-86.99499	-5.99682
+# @DC6Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.804|"Magnetic Anomaly"
+-86.93438	-6.00445
+# @DC6Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.804|"Magnetic Anomaly"
+-86.13934	-8.98583
+# @DC6Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.804|"Magnetic Anomaly"
+-86.07517	-9.41801
+# @DC6Bn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|22.804|"Magnetic Anomaly"
+-86.03238	-9.54543
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-86.81857	-6.00945
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-85.89756	-9.53033
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-85.90944	-9.43594
+# @DC6Bn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.069|"Magnetic Anomaly"
+-86.01046	-8.98134
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-85.4733	-9.41352
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-85.44478	-9.49848
+# @DC6Cn.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.353|"Magnetic Anomaly"
+-86.27904	-6.82354
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-85.29029	-9.51641
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-85.35209	-9.37481
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-86.13881	-6.9036
+# @DC6Cn.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.535|"Magnetic Anomaly"
+-86.42426	-5.98375
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-86.29258	-5.97328
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-85.94795	-7.01332
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-85.06259	-9.58294
+# @DC6Cn.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.677|"Magnetic Anomaly"
+-85.16955	-9.34696
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-84.95991	-9.59356
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-85.074	-9.33162
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-85.83695	-7.06841
+# @DC6Cn.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.8|"Magnetic Anomaly"
+-86.2006	-5.97019
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-86.11504	-5.96305
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-84.79829	-9.6754
+# @DC6Cn.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|23.999|"Magnetic Anomaly"
+-84.94328	-9.32146
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-84.66995	-9.68483
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-84.85534	-9.27424
+# @DC6Cn.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.118|"Magnetic Anomaly"
+-86.00333	-5.96091
+# @DC7n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.835|"Magnetic Anomaly"
+-84.63548	-7.73459
+# @DC7n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.183|"Magnetic Anomaly"
+-84.3978	-7.86734
+# @DC7An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.496|"Magnetic Anomaly"
+-84.05554	-8.09479
+# @DC7An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.648|"Magnetic Anomaly"
+-83.82737	-8.199
+# @DC8n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.823|"Magnetic Anomaly"
+-83.62772	-8.31265
+# @DC8n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|26.554|"Magnetic Anomaly"
+-82.82912	-8.77305
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-83.23792	-6.93301
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-82.79109	-7.88203
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-82.76019	-7.98392
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-82.53915	-8.42437
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-84.16131	-4.88757
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-82.02982	-8.05648
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-82.1653	-7.80767
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-82.20095	-7.71521
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-83.46303	-4.93603
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-81.98941	-7.79155
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-82.04646	-7.66352
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-82.88071	-5.73886
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-82.80109	-5.51884
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-81.8884	-7.77306
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-81.94544	-7.6308
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-81.83754	-7.74746
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-81.88983	-7.61468
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-82.76805	-5.4512
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-81.73117	-7.70203
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-81.7692	-7.57873
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-82.68189	-5.30599
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.72705	-3.97335
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.49175	-4.45299
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.24219	-4.93231
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.20653	-5.00382
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.0354	-5.3827
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-81.97836	-5.48988
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-81.91419	-5.58991
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-82.0568	-4.99667
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-82.11384	-4.8751
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-82.39905	-4.30269
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-82.55592	-3.98767
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-82.5987	-3.88025
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-81.97836	-4.96807
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-82.04253	-4.83933
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-82.15662	-4.59611
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-82.33488	-4.20963
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-82.44184	-3.98767
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-82.49888	-3.83728
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-81.94271	-4.68196
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-82.21366	-4.05928
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-82.24932	-3.98767
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-82.32775	-3.7585
+# @DC12n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.479|"Magnetic Anomaly"
+-82.07819	-3.60377
+# @DC12n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.939|"Magnetic Anomaly"
+-81.82149	-3.46764
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-87.60662	-7.95186
+# @DC6An.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|20.996|"Magnetic Anomaly"
+-87.67792	-7.09797
+# @DC6An.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.32|"Magnetic Anomaly"
+-87.33566	-8.0869
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.06946	-9.0084
+# @DC6AAn|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.768|"Magnetic Anomaly"
+-87.08134	-8.17453
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-87.04198	-8.19525
+# @DC6AAn|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|21.859|"Magnetic Anomaly"
+-87.01227	-9.00545
+# @DC7n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.835|"Magnetic Anomaly"
+-84.78204	-11.57227
+# @DC7n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|24.835|"Magnetic Anomaly"
+-84.87711	-11.441
+# @DC7n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.183|"Magnetic Anomaly"
+-84.61566	-11.55211
+# @DC7n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.183|"Magnetic Anomaly"
+-84.69885	-11.42904
+# @DC7An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.496|"Magnetic Anomaly"
+-84.40651	-11.42857
+# @DC7An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.496|"Magnetic Anomaly"
+-84.67271	-10.91226
+# @DC7An|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.496|"Magnetic Anomaly"
+-84.09277	-11.95891
+# @DC7An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.648|"Magnetic Anomaly"
+-84.29242	-11.42482
+# @DC7An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.648|"Magnetic Anomaly"
+-84.56813	-10.9085
+# @DC7An|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.648|"Magnetic Anomaly"
+-83.99889	-11.95852
+# @DC8n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.823|"Magnetic Anomaly"
+-84.14031	-11.42247
+# @DC8n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|25.823|"Magnetic Anomaly"
+-84.41839	-10.86621
+# @DC8n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|26.554|"Magnetic Anomaly"
+-83.58889	-11.44358
+# @DC8n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|26.554|"Magnetic Anomaly"
+-83.93115	-10.81452
+# @DC8n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|26.554|"Magnetic Anomaly"
+-83.96918	-10.72052
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-83.55086	-10.75389
+# @DC9n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.027|"Magnetic Anomaly"
+-83.60077	-10.66222
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-83.00895	-10.45291
+# @DC9n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|27.972|"Magnetic Anomaly"
+-82.95904	-10.52348
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-82.69046	-10.53007
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-82.73324	-10.45244
+# @DC10n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.283|"Magnetic Anomaly"
+-82.76652	-10.40538
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-82.67263	-10.36677
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-82.64887	-10.42146
+# @DC10n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.512|"Magnetic Anomaly"
+-82.55974	-10.56848
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-82.52765	-10.31264
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-82.49913	-10.35971
+# @DC10n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.745|"Magnetic Anomaly"
+-82.328	-10.63728
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-82.45516	-10.60248
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-82.574	-10.39666
+# @DC10n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|28.578|"Magnetic Anomaly"
+-82.60371	-10.33783
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.0202	-10.17422
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.06774	-10.06824
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.10933	-9.9799
+# @DC11n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.401|"Magnetic Anomaly"
+-82.15093	-9.90331
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-81.96791	-9.83683
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-81.90374	-9.97823
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-81.8467	-10.09837
+# @DC11n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.662|"Magnetic Anomaly"
+-81.76826	-10.25378
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-81.91515	-9.81797
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-81.82483	-9.97823
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-81.74402	-10.12428
+# @DC11n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|29.765|"Magnetic Anomaly"
+-81.68222	-10.27496
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-81.56279	-9.97634
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-81.7054	-9.75243
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-81.46772	-10.13534
+# @DC11n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.098|"Magnetic Anomaly"
+-81.33699	-10.37664
+# @DC12n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.479|"Magnetic Anomaly"
+-81.07673	-10.20803
+# @DC12n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.479|"Magnetic Anomaly"
+-81.20508	-9.95364
+# @DC12n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.479|"Magnetic Anomaly"
+-81.36195	-9.65661
+# @DC12n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.479|"Magnetic Anomaly"
+-81.41186	-9.5717
+# @DC12n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.479|"Magnetic Anomaly"
+-81.53308	-9.29557
+# @DC12n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.939|"Magnetic Anomaly"
+-80.84143	-9.95934
+# @DC12n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.939|"Magnetic Anomaly"
+-81.01969	-9.65288
+# @DC12n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.939|"Magnetic Anomaly"
+-81.13259	-9.44645
+# @DC12n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|30.939|"Magnetic Anomaly"
+-81.42969	-8.93869
+# @DC15n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.655|"Magnetic Anomaly"
+-83.01818	-11.99113
+# @DC15n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.655|"Magnetic Anomaly"
+-82.94688	-12.11044
+# @DC15n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.655|"Magnetic Anomaly"
+-82.70444	-12.55911
+# @DC15n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.655|"Magnetic Anomaly"
+-82.59749	-12.77616
+# @DC15n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.655|"Magnetic Anomaly"
+-82.52618	-12.88811
+# @DC15n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.94|"Magnetic Anomaly"
+-82.34792	-12.86712
+# @DC15n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.94|"Magnetic Anomaly"
+-82.39427	-12.79016
+# @DC15n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.94|"Magnetic Anomaly"
+-82.52618	-12.56262
+# @DC15n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.94|"Magnetic Anomaly"
+-82.78644	-12.11745
+# @DC15n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.94|"Magnetic Anomaly"
+-82.81853	-12.06833
+# @DC15n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|34.94|"Magnetic Anomaly"
+-82.87201	-11.99113
+# @DC16n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.343|"Magnetic Anomaly"
+-82.11975	-12.80065
+# @DC16n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.343|"Magnetic Anomaly"
+-82.14471	-12.75166
+# @DC16n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.343|"Magnetic Anomaly"
+-82.25166	-12.5416
+# @DC16n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.343|"Magnetic Anomaly"
+-82.49766	-12.08237
+# @DC16n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.343|"Magnetic Anomaly"
+-82.53331	-12.0157
+# @DC16n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.526|"Magnetic Anomaly"
+-81.9709	-12.77237
+# @DC16n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.526|"Magnetic Anomaly"
+-82.12777	-12.54131
+# @DC16n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.526|"Magnetic Anomaly"
+-82.37021	-12.06313
+# @DC16n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.526|"Magnetic Anomaly"
+-82.40229	-12.014
+# @DC16n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.526|"Magnetic Anomaly"
+-82.59125	-11.67335
+# @DC16n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.685|"Magnetic Anomaly"
+-81.88177	-12.76047
+# @DC16n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.685|"Magnetic Anomaly"
+-82.01369	-12.54341
+# @DC16n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.685|"Magnetic Anomaly"
+-82.2585	-12.05026
+# @DC16n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.685|"Magnetic Anomaly"
+-82.31197	-11.96837
+# @DC16n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|35.685|"Magnetic Anomaly"
+-82.4427	-11.68155
+# @DC16n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.341|"Magnetic Anomaly"
+-81.97922	-11.69327
+# @DC16n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.341|"Magnetic Anomaly"
+-81.86632	-11.95082
+# @DC16n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.341|"Magnetic Anomaly"
+-81.83661	-12.00932
+# @DC16n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.341|"Magnetic Anomaly"
+-81.57517	-12.51189
+# @DC16n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.341|"Magnetic Anomaly"
+-81.48009	-12.6753
+# @DC17n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.618|"Magnetic Anomaly"
+-81.05227	-12.86776
+# @DC17n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.618|"Magnetic Anomaly"
+-81.21865	-12.64029
+# @DC17n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.618|"Magnetic Anomaly"
+-81.31372	-12.47102
+# @DC17n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.618|"Magnetic Anomaly"
+-81.39691	-12.25488
+# @DC17n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.618|"Magnetic Anomaly"
+-81.54546	-11.94497
+# @DC17n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.618|"Magnetic Anomaly"
+-81.65835	-11.74011
+# @DC17n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|36.618|"Magnetic Anomaly"
+-81.72372	-11.62298
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-81.03207	-11.69649
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-80.95482	-11.78432
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-80.91323	-11.88382
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-80.87758	-11.95989
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-80.74091	-12.22887
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-80.60425	-12.43335
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-80.53888	-12.52677
+# @DC17n.1n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.473|"Magnetic Anomaly"
+-80.40222	-12.74851
+# @DC17n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.604|"Magnetic Anomaly"
+-80.20613	-12.71935
+# @DC17n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.604|"Magnetic Anomaly"
+-80.31903	-12.50926
+# @DC17n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.604|"Magnetic Anomaly"
+-80.37251	-12.42167
+# @DC17n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.604|"Magnetic Anomaly"
+-80.52106	-12.19965
+# @DC17n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.604|"Magnetic Anomaly"
+-80.66961	-11.95989
+# @DC17n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.604|"Magnetic Anomaly"
+-80.77656	-11.7609
+# @DC17n.2n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.604|"Magnetic Anomaly"
+-81.06178	-11.23932
+# @DC17n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.848|"Magnetic Anomaly"
+-80.21802	-12.47423
+# @DC17n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.848|"Magnetic Anomaly"
+-80.25961	-12.41583
+# @DC17n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.848|"Magnetic Anomaly"
+-80.38439	-12.19965
+# @DC17n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.848|"Magnetic Anomaly"
+-80.50917	-11.95989
+# @DC17n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.848|"Magnetic Anomaly"
+-80.5983	-11.7609
+# @DC17n.2n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.848|"Magnetic Anomaly"
+-80.80627	-11.39766
+# @DC17n.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.92|"Magnetic Anomaly"
+-80.21326	-12.18094
+# @DC17n.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.92|"Magnetic Anomaly"
+-80.34161	-11.96574
+# @DC17n.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.92|"Magnetic Anomaly"
+-80.42717	-11.80656
+# @DC17n.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.92|"Magnetic Anomaly"
+-80.71714	-11.24871
+# @DC17n.3n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|37.92|"Magnetic Anomaly"
+-80.82172	-11.04217
+# @DC17n.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|38.113|"Magnetic Anomaly"
+-80.65772	-11.05625
+# @DC17n.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|38.113|"Magnetic Anomaly"
+-80.56503	-11.27452
+# @DC17n.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|38.113|"Magnetic Anomaly"
+-80.25129	-11.80188
+# @DC17n.3n|o|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|38.113|"Magnetic Anomaly"
+-80.1586	-11.97744
+# @DC18n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|38.426|"Magnetic Anomaly"
+-80.29883	-11.17268
+# @DC18n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|38.426|"Magnetic Anomaly"
+-80.363	-11.03183
+# @DC18n.1n|y|1|N/A|Lonsdale_2005_Tectonophys|10.1016/j.tecto.2005.05.011|38.426|"Magnetic Anomaly"
+-80.40578	-10.92615

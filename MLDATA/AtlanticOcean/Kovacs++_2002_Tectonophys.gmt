@@ -1,0 +1,543 @@
+# @VGMT1.0 @GPOINT
+# @R-50.878/-20.2/-70.0888/-63.4146                                       
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM11An.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.91|"Magnetic Anomaly"
+-39.2322	-70.0888
+# @DM11n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.5|"Magnetic Anomaly"
+-40.4215	-69.889
+# @DM11An.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.91|"Magnetic Anomaly"
+-39.1706	-69.7369
+# @DM10Nn.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|129.63|"Magnetic Anomaly"
+-41.9773	-69.6734
+# @DM11n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.5|"Magnetic Anomaly"
+-40.2186	-69.5655
+# @DM10Nn.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|129.63|"Magnetic Anomaly"
+-41.6991	-69.5406
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-34.543	-69.5093
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-32.8952	-69.4977
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-33.7751	-69.4934
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-34.8812	-69.4887
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-32.1208	-69.4786
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-31.4357	-69.474
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-35.3668	-69.4615
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-29.5816	-69.4503
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-28.4015	-69.4111
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-36.1242	-69.4071
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-25.2578	-69.4023
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-26.8195	-69.3991
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-36.8708	-69.3982
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-27.9726	-69.3981
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-25.1198	-69.3898
+# @DM10Nn.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|129.63|"Magnetic Anomaly"
+-41.5392	-69.3751
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-24.1095	-69.3616
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-37.6051	-69.3268
+# @DM11n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.5|"Magnetic Anomaly"
+-39.9453	-69.3075
+# @DM10Nn.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|129.63|"Magnetic Anomaly"
+-41.4327	-69.2639
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-22.6986	-69.2624
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-38.6165	-69.1954
+# @DM10n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-21.2393	-69.1721
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-34.8176	-69.1393
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-34.7358	-69.1356
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-35.4581	-69.1216
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-34.0729	-69.1152
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-39.1862	-69.1086
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-32.7691	-69.0955
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-33.5172	-69.095
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-36.1145	-69.0821
+# @DM10Nn.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|129.63|"Magnetic Anomaly"
+-44.7751	-69.081
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-32.1234	-69.0677
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-28.1322	-68.9863
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-28.9217	-68.9771
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-36.7959	-68.9633
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-27.5799	-68.9613
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-30.4224	-68.9611
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-34.236	-68.9538
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-33.7443	-68.94
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-34.9291	-68.9389
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-35.0459	-68.9349
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-32.3475	-68.9327
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-33.0599	-68.9206
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-35.7581	-68.917
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-40.4764	-68.9014
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-24.9908	-68.9002
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-24.644	-68.8899
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-24.2952	-68.8774
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-28.0162	-68.873
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-24.0646	-68.8709
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-36.4798	-68.868
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-29.0281	-68.8524
+# @DM11n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.5|"Magnetic Anomaly"
+-48.3547	-68.8432
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-28.7623	-68.8405
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-27.7482	-68.8342
+# @DM10Nn.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|129.63|"Magnetic Anomaly"
+-44.3712	-68.8197
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-30.6521	-68.8146
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-37.7869	-68.8101
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-33.995	-68.8009
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-24.5245	-68.7961
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-33.9896	-68.7929
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-37.0422	-68.7912
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-33.2498	-68.7858
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-24.4247	-68.78
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-32.6042	-68.777
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-33.3101	-68.7734
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-24.9535	-68.7728
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-34.5984	-68.7705
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-24.0014	-68.7618
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-32.6454	-68.7613
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-35.2853	-68.7605
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-41.4142	-68.7591
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-34.5987	-68.7499
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-36.0245	-68.745
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-35.3523	-68.7228
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-35.0523	-68.7218
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-22.0294	-68.6962
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-30.7906	-68.691
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-33.4494	-68.6839
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-30.8735	-68.68
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-38.0002	-68.6743
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-36.8358	-68.6678
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-32.8245	-68.6644
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-36.1562	-68.6532
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-29.2557	-68.6478
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-29.2656	-68.6361
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-34.842	-68.6321
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-42.2139	-68.6293
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-36.8545	-68.6279
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-27.9579	-68.6242
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-39.4071	-68.6177
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-28.5434	-68.6148
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-24.9022	-68.6126
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-27.6819	-68.6106
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-27.9328	-68.6086
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-24.7533	-68.6077
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-24.9066	-68.6067
+# @DM10Nn.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|129.63|"Magnetic Anomaly"
+-44.1026	-68.6051
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-24.7808	-68.6035
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-34.9281	-68.5971
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-27.695	-68.5946
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-33.6034	-68.5922
+# @DM11An.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.91|"Magnetic Anomaly"
+-49.4326	-68.5899
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-25.8587	-68.5866
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-42.7634	-68.5825
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-31.0456	-68.5603
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-34.4855	-68.5595
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-39.8948	-68.5517
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-24.1569	-68.5443
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-23.9365	-68.5383
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-37.4272	-68.5354
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-33.6857	-68.5331
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-29.3915	-68.5257
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-24.1803	-68.5196
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-29.3828	-68.5164
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-20.2	-68.514
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-28.0142	-68.5115
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-37.4471	-68.5099
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-23.9142	-68.5015
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-39.6146	-68.4836
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-43.3248	-68.4638
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-27.5854	-68.4607
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-31.2279	-68.4586
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-22.3164	-68.4476
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-38.2691	-68.4392
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-37.0917	-68.4361
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-38.3578	-68.4224
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-21.8882	-68.4197
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-27.5393	-68.4082
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-41.1383	-68.3992
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-37.6092	-68.3833
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-24.8784	-68.3763
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-40.1404	-68.3667
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-36.6132	-68.3611
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-37.2428	-68.3524
+# @DM11n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.5|"Magnetic Anomaly"
+-47.1387	-68.3483
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-22.2417	-68.3464
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-39.0233	-68.3421
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-38.4541	-68.3267
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-39.0515	-68.3176
+# @DM11An.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.91|"Magnetic Anomaly"
+-48.9913	-68.2902
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-42.0463	-68.2838
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-39.9109	-68.2746
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-41.2673	-68.2697
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-44.1852	-68.2695
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-21.8636	-68.2686
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-39.9058	-68.2618
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-38.7986	-68.2534
+# @DM12An|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|133.73|"Magnetic Anomaly"
+-50.878	-68.2264
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-37.8308	-68.2063
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-37.5045	-68.1912
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-39.3763	-68.1856
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-40.447	-68.1763
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-38.7326	-68.1614
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-42.1886	-68.1521
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-40.1232	-68.1147
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-42.9028	-68.0859
+# @DM11n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.5|"Magnetic Anomaly"
+-46.7639	-68.0596
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-41.5343	-68.0543
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-40.2113	-68.0477
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-39.4043	-68.0469
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-40.2113	-68.0453
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-45.2169	-68.0345
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-45.3636	-67.996
+# @DM11An.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.91|"Magnetic Anomaly"
+-48.5848	-67.9733
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-42.0103	-67.9366
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-43.7082	-67.9028
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-41.8103	-67.8906
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-41.981	-67.8826
+# @DM12An|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|133.73|"Magnetic Anomaly"
+-50.5637	-67.871
+# @DM5r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|126.57|"Magnetic Anomaly"
+-43.7436	-67.8676
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-43.2297	-67.8539
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-45.9593	-67.8448
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-40.9482	-67.8146
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-42.664	-67.787
+# @DM4n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|125.67|"Magnetic Anomaly"
+-43.6669	-67.7866
+# @DM11n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.5|"Magnetic Anomaly"
+-46.3192	-67.7741
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-41.9996	-67.7582
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-42.7464	-67.7425
+# @DM11An.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.91|"Magnetic Anomaly"
+-48.1428	-67.7288
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-42.0944	-67.667
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-46.534	-67.6515
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-43.5029	-67.6286
+# @DM12An|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|133.73|"Magnetic Anomaly"
+-50.0636	-67.5956
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-42.196	-67.589
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-43.4647	-67.5849
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-43.5985	-67.5637
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-44.0037	-67.5538
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-46.9147	-67.5377
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-44.0595	-67.466
+# @DM1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|121|"Magnetic Anomaly"
+-43.6657	-67.4647
+# @DM11An.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|131.91|"Magnetic Anomaly"
+-47.8205	-67.4609
+# @DM0r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|120.6|"Magnetic Anomaly"
+-43.7684	-67.3941
+# @DM1r|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|123.19|"Magnetic Anomaly"
+-43.784	-67.3925
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-44.5936	-67.3667
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-47.4973	-67.3556
+# @DM2n|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|124.05|"Magnetic Anomaly"
+-44.5426	-67.3393
+# @DM9r|o|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|128.93|"Magnetic Anomaly"
+-47.997	-67.1868
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-40.8381	-66.4877
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-39.414	-66.4843
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-41.4753	-66.3305
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-42.5434	-66.1148
+# @DC33n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|73.619|"Magnetic Anomaly"
+-39.9575	-66.0902
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-43.0373	-65.9739
+# @DC33n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|73.619|"Magnetic Anomaly"
+-41.4412	-65.9395
+# @DC32n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|71.071|"Magnetic Anomaly"
+-41.5189	-65.838
+# @DC33n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|73.619|"Magnetic Anomaly"
+-43.0089	-65.7588
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-43.9679	-65.7297
+# @DC32n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|71.071|"Magnetic Anomaly"
+-42.1743	-65.7246
+# @DC32n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|71.071|"Magnetic Anomaly"
+-43.2067	-65.606
+# @DC32n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|71.071|"Magnetic Anomaly"
+-42.603	-65.6022
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-44.5339	-65.5457
+# @DC30n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|65.578|"Magnetic Anomaly"
+-39.6493	-65.5366
+# @DC32n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|71.071|"Magnetic Anomaly"
+-43.5824	-65.5231
+# @DC30n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|65.578|"Magnetic Anomaly"
+-41.9032	-65.4463
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-45.2287	-65.3517
+# @DC32n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|71.071|"Magnetic Anomaly"
+-44.1817	-65.3433
+# @DC30n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|65.578|"Magnetic Anomaly"
+-42.5893	-65.3073
+# @DC32n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|71.071|"Magnetic Anomaly"
+-44.5668	-65.2693
+# @DC30n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|65.578|"Magnetic Anomaly"
+-43.0782	-65.2692
+# @DC30n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|65.578|"Magnetic Anomaly"
+-43.6323	-65.2661
+# @DC30n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|65.578|"Magnetic Anomaly"
+-44.0015	-65.1676
+# @DC21n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|46.264|"Magnetic Anomaly"
+-40.7809	-65.1343
+# @DC21n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|46.264|"Magnetic Anomaly"
+-42.1856	-65.1282
+# @DC21n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|46.264|"Magnetic Anomaly"
+-40.1901	-65.12
+# @DC21n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|46.264|"Magnetic Anomaly"
+-43.3506	-65.0528
+# @DC34n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|83|"Magnetic Anomaly"
+-46.1379	-65.0391
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-41.0338	-64.9485
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-40.1344	-64.9308
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-37.8916	-64.9293
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-37.4119	-64.9199
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-37.8156	-64.9187
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-43.5605	-64.9006
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-42.0464	-64.8857
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-42.3805	-64.8769
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-43.1626	-64.8646
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-44.0832	-64.802
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-44.4681	-64.7548
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-35.8288	-64.7265
+# @DC18n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|38.426|"Magnetic Anomaly"
+-41.3979	-64.715
+# @DC18n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|38.426|"Magnetic Anomaly"
+-42.3619	-64.6625
+# @DC21n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|46.264|"Magnetic Anomaly"
+-31.0895	-64.5254
+# @DC20n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|42.536|"Magnetic Anomaly"
+-33.5443	-64.5151
+# @DC18n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|38.426|"Magnetic Anomaly"
+-34.4836	-64.4677
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-42.0014	-64.3417
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-41.0016	-64.3367
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-42.839	-64.2877
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-40.1013	-64.2746
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-39.4455	-64.2573
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-38.3508	-64.2454
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-40.6501	-64.2281
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-40.4565	-64.221
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-37.8376	-64.1901
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-37.4139	-64.1753
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-36.7885	-64.1429
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-36.2661	-64.1113
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-34.9441	-63.9141
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-34.8795	-63.9081
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-34.08	-63.8825
+# @DC18n.1n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|38.426|"Magnetic Anomaly"
+-30.146	-63.7457
+# @DC13n|y|2|N/A|Kovacs++_2002_Tectonophys|10.1016/S0040-1951(01)00237-2|33.058|"Magnetic Anomaly"
+-30.5753	-63.4146

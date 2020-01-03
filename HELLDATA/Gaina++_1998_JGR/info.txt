@@ -1,0 +1,3 @@
+# Used to format the website only
+ocean|Marginal Basins
+ref|Gaina, C., M&uuml;ller, D. R., Royer, J.-Y., Stock, J., Hardebeck, J., and Symonds, P., 1998, The tectonic history of the Tasman Sea: a puzzle with 13 pieces, <I>J. Geophys. Res., 103</I>, 12,413-12,433.

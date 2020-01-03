@@ -1,0 +1,387 @@
+# @VGMT1.0 @GPOINT
+# @R-102.835009116/-89.8751179121/-17.2875324244/-9.28344454874           
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC5n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|10.949|"Magnetic Anomaly"
+-93.99672	-13.97213
+# @DC5n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.74|"Magnetic Anomaly"
+-94.75254	-14.01391
+# @DC4An|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.025|"Magnetic Anomaly"
+-95.05202	-13.56093
+# @DC4An|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.699|"Magnetic Anomaly"
+-95.07341	-13.00221
+# @DC5n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.74|"Magnetic Anomaly"
+-95.13521	-14.79924
+# @DC5n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|10.949|"Magnetic Anomaly"
+-94.35182	-14.68636
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-93.79921	-14.60814
+# @DC5An.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.078|"Magnetic Anomaly"
+-93.70652	-14.59078
+# @DC5An.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.184|"Magnetic Anomaly"
+-93.6566	-14.59078
+# @DC5An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.401|"Magnetic Anomaly"
+-93.5746	-14.5769
+# @DC5AAn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.991|"Magnetic Anomaly"
+-93.35713	-14.54217
+# @DC5AAn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.139|"Magnetic Anomaly"
+-93.29652	-14.5387
+# @DC5ABn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.302|"Magnetic Anomaly"
+-93.21202	-14.52828
+# @DC5ABn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.51|"Magnetic Anomaly"
+-93.15141	-14.51786
+# @DC5ACn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.703|"Magnetic Anomaly"
+-93.08724	-14.51091
+# @DC5ACn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.076|"Magnetic Anomaly"
+-92.97315	-14.49007
+# @DC5ADn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.178|"Magnetic Anomaly"
+-92.89829	-14.4866
+# @DC5ADn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.612|"Magnetic Anomaly"
+-92.78776	-14.45881
+# @DC5Bn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.8|"Magnetic Anomaly"
+-92.70363	-14.44908
+# @DC5Bn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.888|"Magnetic Anomaly"
+-92.65371	-14.44213
+# @DC5Bn.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|15.034|"Magnetic Anomaly"
+-92.60023	-14.43518
+# @DC5Bn.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|15.155|"Magnetic Anomaly"
+-92.54676	-14.43518
+# @DC5n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.74|"Magnetic Anomaly"
+-93.66623	-13.2822
+# @DC5n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|10.949|"Magnetic Anomaly"
+-92.92942	-13.24961
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-92.38751	-13.23098
+# @DC5An.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.078|"Magnetic Anomaly"
+-92.27343	-13.23098
+# @DC5An.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.184|"Magnetic Anomaly"
+-92.16885	-13.23098
+# @DC5An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.401|"Magnetic Anomaly"
+-92.08804	-13.20536
+# @DC5AAn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.991|"Magnetic Anomaly"
+-91.79569	-13.19488
+# @DC5AAn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.139|"Magnetic Anomaly"
+-91.71369	-13.19488
+# @DC5ABn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.302|"Magnetic Anomaly"
+-91.59604	-13.1879
+# @DC5ABn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.51|"Magnetic Anomaly"
+-91.5176	-13.1879
+# @DC5ACn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.703|"Magnetic Anomaly"
+-91.40352	-13.1844
+# @DC5ACn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.076|"Magnetic Anomaly"
+-91.27161	-13.17043
+# @DC5ADn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.178|"Magnetic Anomaly"
+-91.13613	-13.15995
+# @DC5ADn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.612|"Magnetic Anomaly"
+-90.99352	-13.15646
+# @DC5Bn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.8|"Magnetic Anomaly"
+-90.89369	-13.14947
+# @DC5Bn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.888|"Magnetic Anomaly"
+-90.83665	-13.14597
+# @DC5Bn.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|15.034|"Magnetic Anomaly"
+-90.76178	-13.14248
+# @DC5Bn.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|15.155|"Magnetic Anomaly"
+-90.66909	-13.13899
+# @DC5Cn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.014|"Magnetic Anomaly"
+-90.32326	-13.11103
+# @DC5Cn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.293|"Magnetic Anomaly"
+-90.13538	-13.09356
+# @DC5Cn.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.327|"Magnetic Anomaly"
+-90.03555	-13.09356
+# @DC5Cn.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.488|"Magnetic Anomaly"
+-89.87512	-13.08308
+# @DC5AAn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.991|"Magnetic Anomaly"
+-93.01225	-13.8997
+# @DC5An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.401|"Magnetic Anomaly"
+-93.18718	-13.91271
+# @DC5An.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.184|"Magnetic Anomaly"
+-93.28606	-13.91456
+# @DC5An.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.078|"Magnetic Anomaly"
+-93.35451	-13.91642
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-93.43057	-13.91456
+# @DC5n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.74|"Magnetic Anomaly"
+-95.95663	-15.10518
+# @DC5n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|10.949|"Magnetic Anomaly"
+-95.43373	-15.54344
+# @DC4An|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.025|"Magnetic Anomaly"
+-96.2359	-14.86837
+# @DC4An|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.699|"Magnetic Anomaly"
+-96.4617	-14.68914
+# @DC4n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.072|"Magnetic Anomaly"
+-96.78851	-14.4287
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-96.13489	-13.94173
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.06358	-13.95333
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-95.97446	-13.97074
+# @DC5An.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.078|"Magnetic Anomaly"
+-95.12475	-15.79387
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-95.1604	-15.75359
+# @DC5An.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.184|"Magnetic Anomaly"
+-95.0891	-15.82264
+# @DC5n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.74|"Magnetic Anomaly"
+-98.25618	-13.13596
+# @DC4An|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.025|"Magnetic Anomaly"
+-97.87114	-13.46185
+# @DC4An|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.025|"Magnetic Anomaly"
+-97.83311	-13.18254
+# @DC4An|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.699|"Magnetic Anomaly"
+-97.59068	-13.17788
+# @DC4n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.072|"Magnetic Anomaly"
+-97.18662	-13.27103
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-96.96796	-13.33155
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.8301	-13.35948
+# @DC5n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|10.949|"Magnetic Anomaly"
+-98.72203	-12.73497
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-99.12609	-12.39877
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-99.12133	-12.01534
+# @DC5An.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.078|"Magnetic Anomaly"
+-99.18788	-12.03873
+# @DC5An.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.184|"Magnetic Anomaly"
+-99.24493	-12.06213
+# @DC5An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.401|"Magnetic Anomaly"
+-99.30672	-12.09488
+# @DC5AAn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.991|"Magnetic Anomaly"
+-99.60145	-12.21648
+# @DC5AAn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.139|"Magnetic Anomaly"
+-99.68226	-12.25856
+# @DC5ABn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.302|"Magnetic Anomaly"
+-99.74881	-12.29595
+# @DC5ABn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.51|"Magnetic Anomaly"
+-99.80585	-12.31465
+# @DC5ACn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.703|"Magnetic Anomaly"
+-99.91043	-12.35671
+# @DC5ACn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.076|"Magnetic Anomaly"
+-100.01501	-12.40812
+# @DC5ADn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.178|"Magnetic Anomaly"
+-100.0673	-12.4268
+# @DC5ADn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.612|"Magnetic Anomaly"
+-100.18139	-12.47352
+# @DC5Bn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.8|"Magnetic Anomaly"
+-100.22595	-12.49863
+# @DC5Bn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.888|"Magnetic Anomaly"
+-100.29012	-12.52665
+# @DC5Bn.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|15.034|"Magnetic Anomaly"
+-100.33291	-12.54767
+# @DC5Bn.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|15.155|"Magnetic Anomaly"
+-100.37747	-12.56343
+# @DC5An.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.078|"Magnetic Anomaly"
+-99.18622	-12.3351
+# @DC5An.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.184|"Magnetic Anomaly"
+-99.25277	-12.27714
+# @DC5An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.401|"Magnetic Anomaly"
+-99.31552	-12.22478
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.24351	-13.91886
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-96.7973	-13.81959
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.86861	-13.8103
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.67371	-13.83352
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.6024	-13.8521
+# @DC5n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.74|"Magnetic Anomaly"
+-97.14075	-9.98042
+# @DC5n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|10.949|"Magnetic Anomaly"
+-97.77892	-9.86377
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-98.36005	-9.76122
+# @DC5An.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.078|"Magnetic Anomaly"
+-98.43492	-9.75061
+# @DC5An.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.184|"Magnetic Anomaly"
+-98.50978	-9.74
+# @DC5An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.401|"Magnetic Anomaly"
+-98.57396	-9.72939
+# @DC4An|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.025|"Magnetic Anomaly"
+-96.66301	-10.05816
+# @DC4An|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.699|"Magnetic Anomaly"
+-96.43841	-10.09349
+# @DC4n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.072|"Magnetic Anomaly"
+-96.07832	-10.16414
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-95.81093	-10.21359
+# @DC5AAn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.991|"Magnetic Anomaly"
+-98.89697	-9.66926
+# @DC5AAn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.139|"Magnetic Anomaly"
+-99.00036	-9.65511
+# @DC5ABn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.302|"Magnetic Anomaly"
+-99.09662	-9.64096
+# @DC5ABn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.51|"Magnetic Anomaly"
+-99.21783	-9.61619
+# @DC5ACn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.703|"Magnetic Anomaly"
+-99.33192	-9.5985
+# @DC5ACn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.076|"Magnetic Anomaly"
+-99.47453	-9.57019
+# @DC5ADn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.178|"Magnetic Anomaly"
+-99.57792	-9.55958
+# @DC5ADn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.612|"Magnetic Anomaly"
+-99.76687	-9.52065
+# @DC5Bn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.8|"Magnetic Anomaly"
+-99.90948	-9.48172
+# @DC5Bn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|14.888|"Magnetic Anomaly"
+-99.99861	-9.48172
+# @DC5Bn.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|15.034|"Magnetic Anomaly"
+-100.06991	-9.48526
+# @DC5Cn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.014|"Magnetic Anomaly"
+-100.96834	-9.38968
+# @DC5Cn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.014|"Magnetic Anomaly"
+-101.01683	-9.29903
+# @DC5Cn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.293|"Magnetic Anomaly"
+-101.0753	-9.44632
+# @DC5Cn.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.014|"Magnetic Anomaly"
+-101.33014	-9.60912
+# @DC5Cn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.293|"Magnetic Anomaly"
+-101.44137	-9.67563
+# @DC5Cn.2n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.327|"Magnetic Anomaly"
+-101.49557	-9.71242
+# @DC5Cn.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.488|"Magnetic Anomaly"
+-101.56402	-9.75486
+# @DC5Cn.3n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.556|"Magnetic Anomaly"
+-101.62391	-9.78739
+# @DC5Cn.1n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.293|"Magnetic Anomaly"
+-101.17612	-9.28344
+# @DC5Cn.3n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|16.726|"Magnetic Anomaly"
+-101.72837	-9.84538
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-94.19749	-10.27174
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-94.09648	-10.25408
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-94.34604	-10.29528
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-94.42329	-10.31293
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-94.82734	-10.36588
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-94.91647	-10.36588
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-95.10067	-10.33058
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-95.1898	-10.3247
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-95.374	-10.27762
+# @DC5AAn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.991|"Magnetic Anomaly"
+-99.60233	-11.99685
+# @DC5AAn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|13.139|"Magnetic Anomaly"
+-99.68789	-11.94069
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-95.07334	-10.682
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-95.03531	-10.83241
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-95.06859	-10.01364
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-95.04006	-11.96456
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-95.00679	-12.15171
+# @DC5An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|11.935|"Magnetic Anomaly"
+-102.83501	-16.99503
+# @DC5An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|12.401|"Magnetic Anomaly"
+-102.72092	-17.28753
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-96.04925	-14.15705
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-95.90665	-13.7485
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-95.96369	-13.88322
+# @DC4n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.072|"Magnetic Anomaly"
+-95.72125	-13.78103
+# @DC4n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.072|"Magnetic Anomaly"
+-95.77354	-13.9343
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.03024	-13.86
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-95.97795	-13.7485
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-96.0445	-13.72991
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-96.10154	-13.84606
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-96.22989	-14.11066
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.12531	-14.13386
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.20137	-14.31007
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-96.28218	-14.28225
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.74803	-13.99929
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.66722	-14.03178
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-96.89064	-13.98536
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.99046	-13.97608
+# @DC4n.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.072|"Magnetic Anomaly"
+-97.24716	-13.48349
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-97.02374	-13.56721
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-96.90965	-13.59046
+# @DC4An|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|8.699|"Magnetic Anomaly"
+-97.64551	-13.4137
+# @DC4An|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|9.025|"Magnetic Anomaly"
+-97.86418	-13.37181
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.55218	-13.75315
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.60923	-13.73921
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.57595	-13.64625
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.51891	-13.66949
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.46186	-13.53
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.53792	-13.49279
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.49989	-13.35785
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.42859	-13.37647
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.20992	-13.82284
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.17665	-13.70668
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.40007	-14.25444
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-95.66801	-12.76974
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-95.77735	-12.73707
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-95.88668	-12.69507
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.27172	-12.56903
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.36679	-12.527
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.09584	-13.13805
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.26982	-13.09239
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.43691	-12.91783
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.51297	-12.91433
+# @DC3An.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|5.894|"Magnetic Anomaly"
+-96.20992	-12.92016
+# @DC3Bn|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.091|"Magnetic Anomaly"
+-95.84865	-12.9092
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-95.90023	-12.91223
+# @DC3An.2n|o|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.567|"Magnetic Anomaly"
+-96.00433	-12.90734
+# @DC4n.1n|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|7.432|"Magnetic Anomaly"
+-95.73623	-12.91037
+# @DC3Bn|y|2|N/A|Eakins+Lonsdale_2003_MGR|10.1007/s11001-004-5882-4|6.935|"Magnetic Anomaly"
+-95.82678	-12.71537

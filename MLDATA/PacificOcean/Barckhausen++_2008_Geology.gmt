@@ -1,0 +1,857 @@
+# @VGMT1.0 @GPOINT
+# @R-126.871011288/-111.118667627/-12.652852216/4.05492445051             
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC8n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|26.554|"Magnetic Anomaly"
+-122.85502	-5.43618
+# @DC8n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|26.554|"Magnetic Anomaly"
+-122.95484	-4.49224
+# @DC8n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|26.554|"Magnetic Anomaly"
+-123.02615	-3.9434
+# @DC8n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|26.554|"Magnetic Anomaly"
+-123.21629	-2.64153
+# @DC8n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|26.554|"Magnetic Anomaly"
+-123.45397	-0.14916
+# @DC8n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|26.554|"Magnetic Anomaly"
+-123.51101	0.51125
+# @DC9n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.027|"Magnetic Anomaly"
+-123.28759	-5.63146
+# @DC9n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.027|"Magnetic Anomaly"
+-123.34464	-5.03112
+# @DC9n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.027|"Magnetic Anomaly"
+-123.38742	-4.6735
+# @DC9n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.027|"Magnetic Anomaly"
+-123.45872	-4.12957
+# @DC9n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.027|"Magnetic Anomaly"
+-123.60133	-2.71084
+# @DC9n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.027|"Magnetic Anomaly"
+-123.84376	-0.15155
+# @DC9n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.027|"Magnetic Anomaly"
+-123.88179	0.48014
+# @DC9n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.972|"Magnetic Anomaly"
+-124.69941	0.3672
+# @DC9n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.972|"Magnetic Anomaly"
+-124.66138	-0.09221
+# @DC9n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.972|"Magnetic Anomaly"
+-124.20504	-4.52849
+# @DC9n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.972|"Magnetic Anomaly"
+-124.12898	-5.08165
+# @DC9n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|27.972|"Magnetic Anomaly"
+-124.07194	-5.96187
+# @DC10n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|28.283|"Magnetic Anomaly"
+-124.30486	-6.0618
+# @DC10n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|28.283|"Magnetic Anomaly"
+-124.40469	-5.21891
+# @DC10n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|28.283|"Magnetic Anomaly"
+-124.47599	-4.68972
+# @DC10n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|28.745|"Magnetic Anomaly"
+-124.92441	-5.49098
+# @DC10n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|28.745|"Magnetic Anomaly"
+-124.99572	-4.94771
+# @DC11n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|29.401|"Magnetic Anomaly"
+-125.60893	-5.31947
+# @DC11n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|29.401|"Magnetic Anomaly"
+-125.52812	-5.791
+# @DC11n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|30.098|"Magnetic Anomaly"
+-126.12232	-5.60053
+# @DC11n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|30.098|"Magnetic Anomaly"
+-126.0629	-6.12416
+# @DC12n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|30.479|"Magnetic Anomaly"
+-126.52638	-5.76719
+# @DC12n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|30.479|"Magnetic Anomaly"
+-126.46696	-6.29066
+# @DC12n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|30.939|"Magnetic Anomaly"
+-126.79971	-6.44522
+# @DC12n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|30.939|"Magnetic Anomaly"
+-126.87101	-5.9457
+# @DC8n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.823|"Magnetic Anomaly"
+-122.29449	-5.2256
+# @DC8n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.823|"Magnetic Anomaly"
+-122.33014	-5.02304
+# @DC8n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.823|"Magnetic Anomaly"
+-122.42521	-4.22409
+# @DC8n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.823|"Magnetic Anomaly"
+-122.46086	-3.69895
+# @DC8n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.823|"Magnetic Anomaly"
+-122.61536	-2.49239
+# @DC8n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.823|"Magnetic Anomaly"
+-122.86492	-0.15062
+# @DC8n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.823|"Magnetic Anomaly"
+-122.90057	0.60311
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-122.16143	-5.13783
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-122.27551	-4.17199
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-122.31117	-3.6492
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-122.46566	-2.48131
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-122.68432	-0.12757
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-122.73186	0.59984
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-124.32273	2.90765
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-124.28708	2.44635
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-124.23716	1.88684
+# @DC7An|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.648|"Magnetic Anomaly"
+-124.07316	1.01136
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-123.85688	1.01196
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-123.98047	1.87309
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-124.04702	2.44695
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-124.09456	2.94409
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-122.54488	-0.13654
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-122.31275	-2.45521
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-122.19391	-3.60212
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-122.03942	-5.10514
+# @DC7An|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.496|"Magnetic Anomaly"
+-122.05011	-5.01577
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-121.8368	-5.025
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-121.9081	-4.02321
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-121.96514	-3.47167
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-122.09349	-2.41499
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-122.26105	-0.16145
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-122.33236	0.64612
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-123.90501	2.9471
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-123.85747	2.45713
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-123.78617	1.85936
+# @DC7n.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|25.183|"Magnetic Anomaly"
+-123.64356	1.02215
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-123.55443	2.95965
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-123.47124	2.44577
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-123.4237	1.85995
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-123.25733	1.02274
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-121.99763	0.65429
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-121.96197	-0.13532
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-121.74806	-2.33606
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-121.61734	-3.28006
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-121.58169	-3.91527
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-121.52227	-4.82186
+# @DC7n.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.73|"Magnetic Anomaly"
+-121.51038	-5.01257
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-121.5635	0.67367
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-121.46368	-0.10159
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-123.17497	2.98664
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-123.11793	2.45604
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-123.0181	1.86784
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-122.8755	1.04977
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-121.15529	-3.80773
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-121.17311	-2.92992
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-121.16717	-2.23075
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-121.14816	-4.65292
+# @DC6Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|24.118|"Magnetic Anomaly"
+-121.12914	-5.01532
+# @DC6Cn.3n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.999|"Magnetic Anomaly"
+-121.04437	-3.78871
+# @DC6Cn.3n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.999|"Magnetic Anomaly"
+-121.05626	-2.91686
+# @DC6Cn.3n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.999|"Magnetic Anomaly"
+-121.06814	-2.2117
+# @DC6Cn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.8|"Magnetic Anomaly"
+-120.92434	-3.75829
+# @DC6Cn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.8|"Magnetic Anomaly"
+-120.94811	-2.88043
+# @DC6Cn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.8|"Magnetic Anomaly"
+-120.95999	-2.18721
+# @DC6Cn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.8|"Magnetic Anomaly"
+-121.0313	-1.48648
+# @DC6Cn.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.677|"Magnetic Anomaly"
+-120.80075	-3.73004
+# @DC6Cn.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.677|"Magnetic Anomaly"
+-120.81858	-2.85813
+# @DC6Cn.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.677|"Magnetic Anomaly"
+-120.82452	-2.2426
+# @DC6Cn.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.677|"Magnetic Anomaly"
+-120.8364	-2.09316
+# @DC6Cn.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.677|"Magnetic Anomaly"
+-120.89582	-1.46057
+# @DC6Cn.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.535|"Magnetic Anomaly"
+-120.70528	-3.70019
+# @DC6Cn.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.535|"Magnetic Anomaly"
+-120.69815	-2.83304
+# @DC6Cn.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.535|"Magnetic Anomaly"
+-120.70528	-2.2163
+# @DC6Cn.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.535|"Magnetic Anomaly"
+-120.71241	-2.08718
+# @DC6Cn.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.535|"Magnetic Anomaly"
+-120.76945	-1.45435
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-122.55364	2.97173
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.61972	-1.39933
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.54841	-2.02357
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.53415	-2.16704
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.54128	-2.79528
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.54128	-3.66963
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.6518	-4.44078
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.66606	-5.01307
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.9186	-0.07202
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-120.9899	0.6817
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-122.4754	2.44208
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-122.36845	1.77255
+# @DC6Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.353|"Magnetic Anomaly"
+-122.29714	1.10278
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-122.27634	2.9467
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-122.19078	2.43043
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-122.10521	1.79916
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-121.97687	1.05284
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.75044	0.67961
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.66488	0.00485
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.4367	-0.86299
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.37253	-1.32233
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.27983	-1.97529
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.27983	-2.11159
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.2727	-2.72121
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.24418	-3.58989
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.25844	-4.28023
+# @DC6Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|23.069|"Magnetic Anomaly"
+-120.25844	-5.00284
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.85518	-5.03462
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.86469	-4.11876
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.85043	-3.48369
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.85993	-2.61492
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.85993	-2.41412
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.86944	-2.21329
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.87419	-2.04591
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.90272	-1.90243
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.91698	-1.77424
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-119.97877	-1.24801
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-120.04057	-0.78866
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-120.29964	-0.0249
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-122.00143	2.94566
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-121.93012	2.44373
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-121.7994	1.75029
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-121.69244	1.06855
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.83973	-0.74472
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.75654	-1.22321
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.6793	-1.7339
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.66741	-1.88338
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.6377	-1.99099
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.60799	-2.16435
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.60205	-2.35563
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.59017	-2.55285
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.57828	-3.4071
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.59314	-3.98948
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.55511	-5.01992
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.58125	-2.84015
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.28891	-3.85055
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.16413	-3.32183
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.19978	-2.45436
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.20691	-2.25354
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.21404	-2.08569
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.2176	-1.90992
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.24256	-1.78078
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.26752	-1.64445
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.3721	-1.13828
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.46123	-0.66815
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.26276	-5.02731
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.61928	0.07001
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-119.69059	0.73998
+# @DC6Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|22.588|"Magnetic Anomaly"
+-120.42739	0.68615
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-120.11247	0.71606
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-119.98769	0.02216
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-119.15105	-0.60595
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-119.05123	-1.06053
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.93714	-1.57796
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.90506	-1.7107
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.87653	-1.85061
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.84088	-2.00127
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.80166	-2.36352
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.7981	-3.22174
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.85514	-3.66312
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-118.85871	-5.01945
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-119.15818	-0.0068
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-119.25801	0.79716
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.90862	0.79716
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.8088	0.07935
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.8801	-0.55953
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.7874	-1.02608
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.65193	-1.52701
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.57349	-1.67052
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.53071	-1.77815
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.45941	-1.92164
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.39523	-2.06512
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-118.50932	-3.12641
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.69471	-0.49492
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.58775	-0.97345
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.45109	-1.46386
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.38573	-1.62232
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.3471	-1.7449
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.2758	-1.87644
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.18667	-2.02291
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.15102	-2.19627
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-118.23123	-3.06752
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-118.49981	-0.46561
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-118.39999	-0.91495
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-118.25738	-1.41877
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-118.20747	-1.56229
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-118.17181	-1.6771
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-118.07199	-1.82777
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-117.98642	-1.97126
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-117.91512	-2.12909
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-118.00781	-3.03263
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-117.74042	-2.10493
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-117.82599	-1.64098
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-117.88303	-1.50225
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-117.95434	-1.31567
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-118.09219	-0.87069
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-118.21103	-0.42087
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-117.9667	-0.02654
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-118.14496	0.85877
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-119.52587	1.70561
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-119.81109	2.7385
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-119.89666	3.25463
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-120.96621	1.11716
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-121.06604	1.71996
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-121.26569	2.6668
+# @DC6AAn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.768|"Magnetic Anomaly"
+-121.32273	2.89623
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-121.7363	2.88476
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-121.66499	2.44019
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-121.5414	1.74196
+# @DC6AAn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.859|"Magnetic Anomaly"
+-121.37502	1.09132
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-120.9251	2.76431
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-120.73495	1.741
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-120.60185	1.14778
+# @DC6An.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|21.32|"Magnetic Anomaly"
+-120.93555	2.8819
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-120.53732	2.74495
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-120.5908	2.95108
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-120.35015	1.72283
+# @DC6An.2n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.996|"Magnetic Anomaly"
+-120.25329	1.13259
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-120.3246	2.71568
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-120.37213	3.03829
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-120.08692	1.74734
+# @DC6An.1n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.725|"Magnetic Anomaly"
+-119.97996	1.12541
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-119.87301	1.70429
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-120.07503	2.72046
+# @DC6An.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.518|"Magnetic Anomaly"
+-120.14634	3.1267
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-118.92229	3.37037
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-118.7678	2.67743
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-118.38751	1.74495
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.16346	-0.20253
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.09215	-0.65715
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-116.94955	-1.30311
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.09215	-1.92499
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.32983	-2.85735
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.44867	-3.04852
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.69824	-4.13507
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.92403	-5.01754
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-118.35186	-6.63846
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-118.542	-7.49323
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-118.69649	3.39664
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-118.45881	2.69178
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-118.12606	1.74734
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-116.87824	-0.02307
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-116.84259	-0.1786
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-116.71187	-1.8365
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-116.90201	-2.73308
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-117.08027	-3.17515
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-117.36549	-4.32119
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-117.8765	-6.44116
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-118.12606	-7.50035
+# @DC5En|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.781|"Magnetic Anomaly"
+-117.12305	0.99742
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.50334	0.96871
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-117.26566	0.01163
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-116.2674	-0.0458
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-116.62868	1.08355
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-118.20687	3.47427
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-117.89313	2.67146
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-117.56989	1.75332
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-116.34109	-1.71812
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-116.58352	-2.60759
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-116.65482	-3.00909
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-116.96856	-4.55044
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-117.41064	-6.30824
+# @DC5En|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|18.281|"Magnetic Anomaly"
+-117.69586	-7.46263
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-117.53186	3.46567
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-117.41777	3.15035
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-117.20862	2.68198
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-116.21987	1.17445
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-116.19135	1.04048
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-115.94416	-0.03144
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-116.05825	-2.40249
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-116.1248	-2.80406
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-116.56213	-4.79798
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-116.60966	-5.02684
+# @DC5Dn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.615|"Magnetic Anomaly"
+-116.91389	-6.13175
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-116.27691	-5.00205
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-116.51459	-5.97377
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-116.89488	-7.48493
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-115.69697	-2.62624
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-115.63042	-2.22461
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-115.3357	-0.51383
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-115.44028	-0.04484
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-115.64944	1.04622
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-115.70648	1.21847
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-116.89488	3.41599
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-117.02798	3.67391
+# @DC5Dn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|17.277|"Magnetic Anomaly"
+-116.60016	2.68006
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-116.44091	-7.50106
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-115.97744	-5.73052
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-115.83483	-5.23035
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-115.76352	-4.98012
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-115.09802	-2.32742
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-114.95541	-1.74155
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-114.7415	-0.96412
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-114.75338	-0.05489
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-115.02672	1.01225
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-115.1099	1.27541
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-115.27628	1.80163
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-116.16758	2.64564
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-116.51221	3.44608
+# @DC5Cn.3n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.726|"Magnetic Anomaly"
+-116.78555	4.05492
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-115.76828	-7.4548
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-115.31074	-5.57575
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-115.27509	-5.44476
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-115.15625	-4.99204
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-114.44915	-2.01538
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-114.25901	-1.31579
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-114.22336	-1.17225
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-113.95597	-0.05011
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-114.19959	1.06847
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-114.3422	1.37109
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-114.5264	1.79565
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-114.94828	2.69225
+# @DC5Cn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|16.014|"Magnetic Anomaly"
+-115.69103	3.43175
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-114.06055	3.39951
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-113.80385	2.72093
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-113.54716	1.81622
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-113.31899	0.99335
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-113.24293	-0.04987
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-113.32849	-0.48057
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-113.5947	-1.56767
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-114.3933	-4.95938
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-114.43133	-5.11192
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-114.63098	-5.98067
+# @DC5Bn.2n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|15.155|"Magnetic Anomaly"
+-114.97324	-7.40641
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-114.52165	-7.414
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-114.23168	-6.25949
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-113.92745	-4.99466
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-113.90368	-4.8707
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-113.05279	-1.35239
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-112.74856	-0.01254
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-112.85789	0.9857
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-113.11458	1.82196
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-113.36652	2.72093
+# @DC5Bn.1n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.8|"Magnetic Anomaly"
+-113.56617	3.42148
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-113.27383	3.4382
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-113.0718	2.69751
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-112.82224	1.80092
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-112.58456	0.99957
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-112.50137	-0.01732
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-112.79847	-1.23756
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-113.65412	-4.77104
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-113.70165	-5.00229
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-114.07006	-6.37126
+# @DC5ADn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.612|"Magnetic Anomaly"
+-114.3315	-7.43061
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-113.91556	-7.43061
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-113.71354	-6.5876
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-113.34513	-4.98083
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-113.26194	-4.65896
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-112.46572	-1.09163
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-112.22804	0.01139
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-112.28746	0.99239
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-112.52514	1.85353
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-112.7747	2.71663
+# @DC5ADn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.178|"Magnetic Anomaly"
+-112.98861	3.43342
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-112.81035	3.4597
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-112.60833	2.70707
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-112.35876	1.87027
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-112.1092	0.98522
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-112.05869	0.00242
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-112.29875	-1.01388
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-113.07596	-4.59528
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-113.16152	-4.9744
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-113.56796	-6.6867
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-113.73196	-7.44887
+# @DC5ACn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|14.076|"Magnetic Anomaly"
+-113.02605	0.32078
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-112.85967	-4.99084
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-112.74083	-4.46624
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-113.27561	-6.92665
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-113.41228	-7.46667
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-111.96837	-0.88397
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-111.77823	0.0133
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-111.74852	0.97038
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-112.03373	1.83512
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-112.29518	2.71376
+# @DC5ACn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.703|"Magnetic Anomaly"
+-112.5388	3.44131
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-112.9904	-7.16528
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-112.52098	-4.9825
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-112.39025	-4.33264
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-111.69504	-0.75357
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-111.52272	0.02407
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-111.35635	0.94526
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-111.52867	1.81
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-111.75446	2.70062
+# @DC5ABn|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.51|"Magnetic Anomaly"
+-111.97431	3.42936
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-111.77823	3.4425
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-111.5762	2.7042
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-111.30881	1.80761
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-111.11867	0.93091
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-111.34446	0.02168
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-111.47519	-0.61839
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-112.21199	-4.27657
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-112.3546	-4.97416
+# @DC5ABn|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|13.302|"Magnetic Anomaly"
+-112.84185	-7.26142
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-125.85184	-12.65285
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-125.87323	-12.32355
+# @DC6n|o|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|20.131|"Magnetic Anomaly"
+-125.88749	-11.67073
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-125.21723	-12.50694
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-125.23506	-12.20901
+# @DC6n|y|2|N/A|Barckhausen++_2008_Geology|10.1130/G25056A.1|19.048|"Magnetic Anomaly"
+-125.23506	-11.78199

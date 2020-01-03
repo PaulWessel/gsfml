@@ -1,0 +1,621 @@
+# @VGMT1.0 @GPOINT
+# @R47.2598/59.5412/-28.666/-9.8057                                       
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+57.2905	-18.2451
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+55.7975	-19.3299
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+56.3076	-19.5974
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.0054	-20.4074
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.1329	-20.4869
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+55.1148	-20.0603
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+55.5874	-20.4435
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+55.6474	-20.5882
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+56.0376	-21.051
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+56.2701	-21.3186
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+56.4802	-21.3041
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+56.7503	-21.2463
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+56.8853	-21.3114
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+53.6293	-21.9911
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+53.7118	-22.0562
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.0344	-22.1502
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.4996	-22.425
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.7021	-22.519
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+55.0473	-22.6637
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+55.1373	-22.6854
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+55.5049	-22.7143
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+55.6474	-22.7215
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.3239	-23.112
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.4064	-23.1554
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.4739	-23.2494
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.534	-23.2784
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.594	-23.329
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.6465	-23.3579
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.729	-23.423
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.804	-23.4809
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.1642	-23.8497
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.2317	-23.922
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.4943	-24.1028
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.5618	-24.1751
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.6743	-24.2836
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.8619	-24.4788
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.9819	-24.5873
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.0494	-24.6452
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+51.9488	-23.4158
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.0463	-23.5026
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.4814	-23.799
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.7365	-24.2185
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+52.9391	-24.3993
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.1191	-24.5873
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.1867	-24.6669
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.2467	-24.7464
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.3892	-24.8693
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.5318	-24.9995
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+53.5768	-25.0646
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+58.0257	-17.2616
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+58.2658	-17.5292
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+54.9647	-21.3547
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+55.4299	-21.6151
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+55.5124	-21.644
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+55.6925	-21.6946
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+55.9925	-21.8103
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+56.1201	-21.861
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+56.3602	-21.8971
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+56.4427	-21.926
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+53.1191	-21.8537
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+53.4342	-22.1502
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+53.7493	-22.4757
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.2145	-22.8372
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.3045	-22.8951
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.5296	-22.9891
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.7697	-23.1048
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.8372	-23.1988
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+50.5308	-24.5439
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+50.996	-25.1731
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+51.3111	-25.5491
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+51.4611	-25.7299
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+51.8738	-26.0264
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+51.9488	-26.1421
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+52.2414	-26.3157
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+49.7731	-25.0501
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+49.9381	-25.2671
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+50.5984	-25.9613
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+50.6734	-26.1349
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+50.7034	-26.1927
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+50.8384	-26.3229
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+51.0785	-26.4675
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+51.3486	-26.7857
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+51.5286	-27.0605
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+51.7837	-27.1184
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+49.6531	-26.6411
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+49.8031	-26.8725
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+49.9381	-27.263
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+50.1782	-27.6391
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+50.2683	-27.7692
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+50.4333	-27.9139
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+47.6874	-26.106
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+47.6574	-26.4386
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+47.6724	-26.6556
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+47.7325	-26.9304
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+50.7334	-24.016
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+50.8985	-24.2185
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+51.0335	-24.327
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+51.4161	-24.8404
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+51.6187	-25.2743
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+51.8437	-25.4189
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+52.3539	-25.6938
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+52.534	-25.8095
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+52.744	-25.9903
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+52.8866	-26.1927
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+49.5105	-25.3756
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+49.5405	-25.4045
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+50.2833	-26.2795
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+50.3133	-26.4531
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+50.4408	-26.6194
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+50.5308	-26.6556
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+50.951	-27.1329
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+51.2661	-27.5089
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+49.1129	-25.5274
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+49.2029	-25.6576
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+49.353	-26.0264
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+48.5952	-25.7444
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+48.6252	-26.0698
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+49.0079	-26.6266
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+49.0529	-26.7568
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+49.443	-27.169
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+49.5105	-27.2847
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+49.5555	-27.5234
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+50.3358	-28.666
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+47.2748	-26.4892
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+47.2598	-26.7857
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+50.1182	-23.8352
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+50.2833	-24.0522
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+49.428	-24.5439
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+57.1704	-17.3412
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+55.5274	-19.0912
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+50.0882	-24.1389
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+53.7043	-19.1057
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+54.0044	-19.2648
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+54.0945	-19.3371
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+53.2242	-19.6553
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+53.5693	-19.8867
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+52.0088	-20.7111
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+52.3089	-21.0293
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+52.4139	-21.1306
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+51.7537	-21.1161
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+51.8588	-21.2607
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+51.9488	-21.362
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+49.6381	-23.1554
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+49.8481	-23.4592
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+58.4533	-14.1664
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+58.5734	-14.2532
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+58.9485	-14.528
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.7406	-14.557
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.8981	-14.6148
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.9732	-14.6871
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+58.2583	-14.8968
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+58.4833	-15.027
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+58.5884	-15.0559
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+57.1629	-15.5043
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+57.388	-15.6417
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+57.5305	-15.7068
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.3752	-16.3504
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.5627	-16.4734
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.5927	-16.5167
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.7578	-16.5818
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+54.9647	-17.8401
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.1373	-17.9703
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.2573	-18.0716
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.3999	-18.1656
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.6946	-18.0933
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.7397	-18.1439
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.7922	-18.18
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.8372	-18.2379
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.9497	-18.4331
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+55.3774	-18.7079
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.5746	-18.4982
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+54.7697	-18.6429
+# @DC27n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|60.92|"Magnetic Anomaly"
+55.1598	-18.9177
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+54.2145	-18.6139
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+54.3945	-18.7441
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+54.5446	-18.8743
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+54.9197	-19.178
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+53.1792	-20.2628
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+53.3142	-20.5086
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+53.6893	-20.6677
+# @DC31n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.735|"Magnetic Anomaly"
+51.9788	-20.8124
+# @DC31n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.735|"Magnetic Anomaly"
+52.0838	-20.9281
+# @DC31n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.735|"Magnetic Anomaly"
+52.2039	-21.0872
+# @DC31n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.735|"Magnetic Anomaly"
+52.2789	-21.1739
+# @DC31n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.735|"Magnetic Anomaly"
+52.549	-21.5066
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+51.1085	-21.4054
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+51.3561	-21.7886
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+51.5286	-22.049
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+51.6412	-22.1864
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+50.6809	-22.1575
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+50.7259	-22.2298
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+50.8834	-22.5697
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+49.1279	-23.5098
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+49.2179	-23.9437
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+58.896	-13.4505
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+59.5412	-13.8699
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+57.1179	-15.5549
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+57.328	-15.714
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+57.4705	-15.7791
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.0076	-16.7337
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.1351	-16.8277
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.2251	-16.8928
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.3902	-16.9217
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.6002	-16.9868
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.8253	-17.1459
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+55.4224	-17.3845
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+55.6174	-17.5147
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+55.7375	-17.587
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+54.7847	-15.215
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+55.1298	-15.5622
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+55.5949	-15.8514
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.3045	-15.7357
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.4846	-15.8804
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.7247	-16.025
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+53.0291	-17.0374
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+53.1342	-17.1097
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+53.8094	-17.6883
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+54.0494	-17.804
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+52.8191	-17.4569
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+52.8641	-17.5003
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+52.9541	-17.616
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+53.5693	-18.1366
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+50.6284	-20.0747
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+50.7634	-20.4219
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.0998	-14.9692
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.3999	-15.2729
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.5949	-15.4465
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+53.8094	-16.3287
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.0044	-16.4589
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.2295	-16.5891
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.4996	-16.8349
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.504	-18.9466
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.564	-19.1201
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.1738	-20.1181
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.2489	-20.1904
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.3089	-20.2483
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+51.5887	-20.581
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+51.4986	-18.9177
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+50.2532	-20.5665
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+58.1232	-12.4236
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+58.3858	-12.4887
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+57.283	-12.6044
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+57.6281	-12.7273
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+57.6206	-12.7997
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.8628	-13.4794
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.9829	-13.6096
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+57.4855	-13.8121
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+57.6431	-13.8772
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.4899	-14.557
+# @DC28n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|62.499|"Magnetic Anomaly"
+55.8425	-14.7884
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.4277	-13.7832
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.7128	-13.8916
+# @DC28n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|63.634|"Magnetic Anomaly"
+56.1201	-14.5208
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.6346	-14.3328
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+54.9572	-14.5859
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.0485	-17.3267
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.1235	-17.5147
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.4096	-14.5787
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.6046	-14.8968
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+50.6884	-17.6594
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.6806	-11.7583
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+56.8703	-11.9825
+# @DC31n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|68.737|"Magnetic Anomaly"
+57.0429	-12.1199
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.2551	-13.2191
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+56.3527	-13.2336
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+56.4802	-12.3947
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+56.8253	-12.5393
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+56.9904	-12.6406
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+57.2004	-12.6984
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+55.8275	-13.1323
+# @DC29n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|64.745|"Magnetic Anomaly"
+56.2251	-13.3999
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+53.6593	-13.2263
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.237	-12.1199
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.4171	-12.25
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.4846	-12.3007
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.5371	-12.3658
+# @DC30n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|65.578|"Magnetic Anomaly"
+54.6346	-12.4308
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.3989	-14.4702
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.4664	-14.5136
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+57.7106	-9.8057
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.2004	-10.312
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+57.3355	-10.4277
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.482	-12.6035
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.5891	-12.8986
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+53.7794	-11.2448
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+53.0291	-12.25
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+53.1267	-12.4091
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+53.1342	-12.7201
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+52.3689	-12.1777
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+52.4439	-12.3802
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+52.489	-12.6406
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+51.2661	-14.2894
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+54.1245	-10.3192
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+54.2895	-10.4204
+# @DC30n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|67.61|"Magnetic Anomaly"
+54.5521	-10.5144
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.1911	-12.0133
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.26	-12.1977
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.2753	-12.3158
+# @DC33n|o|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|79.075|"Magnetic Anomaly"
+51.176	-11.498
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.534	-10.8543
+# @DC32n.1n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|71.071|"Magnetic Anomaly"
+52.7815	-11.0713
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+51.9488	-11.1074
+# @DC33n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|73.619|"Magnetic Anomaly"
+52.0088	-11.2376
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+50.6434	-11.6137
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+50.6509	-11.7221
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+50.6509	-11.9897
+# @DC34n|y|1|N/A|Eagles+Wibisono_2013_GJI|10.1093/gji/ggt162|83|"Magnetic Anomaly"
+50.6884	-12.2211

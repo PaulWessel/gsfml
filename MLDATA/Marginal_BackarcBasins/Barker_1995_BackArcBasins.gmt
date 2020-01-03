@@ -1,0 +1,419 @@
+# @VGMT1.0 @GPOINT
+# @R-35.5100431656/-26.971110484/-59.7024909599/-55.7200582129            
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.63364	-58.86305
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.64559	-59.01342
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.64707	-58.72389
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.64682	-59.43555
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.89754	-57.90692
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.92423	-57.75883
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.96335	-57.52668
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-35.50581	-56.96252
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-35.45999	-56.69453
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-35.45383	-56.58854
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-35.51004	-56.09586
+# @DC5Bn.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|14.888|"Magnetic Anomaly"
+-34.63327	-59.36817
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-33.8904	-58.71387
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-33.91943	-58.88371
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-33.92335	-59.01415
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-33.86588	-59.31246
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-33.8987	-59.12537
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-33.50835	-59.26378
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-33.42003	-58.91629
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-33.35378	-58.71205
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-33.27399	-58.53443
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-33.30459	-58.61114
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.01122	-59.20884
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.00006	-59.16515
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-32.90987	-58.97538
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-32.79985	-58.71355
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-32.75387	-58.54319
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.39677	-55.78755
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.43244	-55.95305
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.51606	-56.63307
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.52381	-56.67007
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.5092	-56.51572
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.4808	-56.13479
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.48956	-56.26403
+# @DC5An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|12.078|"Magnetic Anomaly"
+-34.615	-56.96458
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.56739	-55.75774
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.61529	-56.18715
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.59136	-56.3579
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.56093	-56.45806
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.54704	-56.54298
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.54183	-56.58032
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.49308	-56.82104
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-34.05069	-55.77914
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-34.0744	-55.94724
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-34.10035	-56.1427
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-34.12743	-56.49369
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-34.15985	-56.6127
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-34.23874	-56.92271
+# @DC5n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|9.88|"Magnetic Anomaly"
+-34.26587	-57.02372
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-26.97111	-58.42067
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-27.03692	-58.55812
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-27.08933	-58.66009
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-27.20843	-58.85493
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-28.8101	-58.78215
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-28.65257	-58.41623
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-28.63261	-59.44071
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-28.52774	-59.70249
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-30.888	-58.55724
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-30.90167	-58.68488
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-30.89851	-58.73677
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-30.9331	-59.17819
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-30.93378	-59.20571
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-29.17963	-57.41933
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-30.9596	-58.11609
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-31.0453	-57.89791
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-30.97563	-58.05067
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.34659	-59.31965
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.32457	-59.19275
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.29687	-59.03451
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-27.74594	-59.02428
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-27.62405	-58.62113
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-27.52034	-58.46911
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-27.43743	-58.2446
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-27.81071	-57.40558
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-28.1209	-57.01853
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-28.23803	-56.72522
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-28.32405	-56.50394
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-28.4179	-56.10716
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-28.36995	-56.42052
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.92185	-56.75647
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.96751	-56.54568
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-33.14008	-56.03571
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-33.1774	-55.74755
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-33.11053	-56.23113
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-33.09984	-56.33041
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-33.0884	-56.4453
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.99111	-59.19578
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.94869	-59.1325
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.92152	-59.07073
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.76771	-58.71807
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.75585	-58.53656
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.02189	-58.94016
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-27.92143	-58.38239
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-27.92968	-58.46193
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-27.94718	-58.53836
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.20456	-57.43437
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.56907	-56.88845
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.54057	-57.08729
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.86919	-56.07659
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.815	-56.28711
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.79171	-56.42025
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.76123	-56.51408
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-28.76506	-56.56121
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-32.79186	-55.73509
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-32.77973	-55.85723
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-32.78234	-56.00203
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-32.80188	-56.25003
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-32.78522	-56.36241
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-32.54667	-56.7118
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-32.60003	-56.51961
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.23765	-59.20387
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.21407	-59.14445
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.1105	-58.73344
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.1222	-58.54612
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-28.52587	-58.83535
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-28.54614	-58.91565
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-28.44766	-58.43501
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-28.45077	-58.28242
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-28.89014	-57.41096
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-28.85849	-57.52433
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.29492	-58.08712
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.31545	-57.99426
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.36183	-57.85436
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.39725	-57.60072
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-29.36102	-56.51983
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-29.34915	-56.64542
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-29.36479	-56.41427
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-29.38183	-56.34736
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-29.37819	-56.13954
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-31.19215	-57.56967
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-29.69853	-56.52401
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-29.71367	-56.4273
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-29.70578	-56.25757
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-29.70962	-56.02814
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-29.71708	-56.14089
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.27934	-58.77284
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.25543	-58.71213
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.19299	-58.53676
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.4295	-57.94057
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.38577	-57.82836
+# @DC3An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|6.137|"Magnetic Anomaly"
+-32.33462	-57.67365
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.15914	-58.91692
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.05692	-58.5221
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.0393	-58.4188
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-27.99589	-58.1858
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.02145	-58.36081
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.70788	-57.08937
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.39035	-57.4315
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.92363	-56.78978
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.94761	-56.50381
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.93509	-56.40676
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-28.94691	-56.30622
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-29.00931	-56.0648
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-32.42024	-56.05609
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-32.3863	-56.42396
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.61249	-58.54706
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.64827	-58.71679
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.79155	-59.08476
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.84366	-59.24354
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.8332	-59.19984
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.75047	-57.64515
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.73926	-57.78719
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.73257	-57.91701
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-31.73567	-58.03111
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.90893	-57.99805
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.88871	-57.89761
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.88238	-57.83739
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.87518	-57.76664
+# @DC3n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|4.29|"Magnetic Anomaly"
+-31.87095	-57.6494
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-33.00245	-57.91718
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-32.96129	-57.77432
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-32.93021	-57.58237
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-32.9657	-57.69811
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-27.36692	-57.38659
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-27.8281	-56.73827
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-27.7663	-56.8637
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-27.74905	-56.90431
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-28.01299	-56.41649
+# @DC4n.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|7.562|"Magnetic Anomaly"
+-28.06583	-56.26147
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.15661	-59.43735
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.05498	-59.66914
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-30.03893	-59.45658
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-30.13214	-59.27802
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.39427	-58.16675
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.39967	-58.29455
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.4232	-58.42111
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.4359	-58.47513
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.50751	-58.68389
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.77413	-57.43313
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.78518	-57.52583
+# @DC1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|0.78|"Magnetic Anomaly"
+-29.83735	-57.09478
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-32.51384	-55.72006
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-32.40004	-56.6888
+# @DC2An.2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.22|"Magnetic Anomaly"
+-32.39673	-56.51197
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.877	-55.78904
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.85185	-55.90122
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.9001	-56.07253
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.89674	-56.20795
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.88087	-56.35654
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.91121	-56.49309
+# @DC2An.1n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|3.04|"Magnetic Anomaly"
+-31.94676	-56.64682
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-31.5747	-56.00154
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-31.58209	-56.1893
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-31.60431	-56.3571
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-31.62006	-56.62508
+# @DC2n|o|3|N/A|Barker_1995_BackArcBasins|10.1007/978-1-4615-1843-3_7|1.95|"Magnetic Anomaly"
+-31.61487	-56.49944

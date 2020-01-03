@@ -1,0 +1,775 @@
+# @VGMT1.0 @GPOINT
+# @R-104.759423912/-60.3836680471/-65.7837833542/-45.6057638128           
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-103.02742	-49.87547
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-78.55235	-49.24546
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-78.19583	-49.63294
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-78.13641	-50.11296
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-76.96584	-51.10357
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-77.0728	-50.77319
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-76.3241	-52.20491
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-76.07454	-52.82118
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-75.71802	-53.49971
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-75.31397	-54.00681
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-60.38367	-56.18534
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-77.93061	-51.35876
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-79.19031	-50.6993
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-79.5706	-49.9691
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-80.35494	-49.32089
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-77.76424	-52.64952
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-77.1938	-53.6638
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-76.07671	-54.16892
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-76.21932	-54.00123
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-61.93239	-57.06727
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-61.70422	-56.84912
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-61.03871	-55.96361
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-102.51454	-49.82939
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-86.66439	-48.01511
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-86.75946	-47.86179
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-72.27051	-65.57338
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-71.05834	-64.99635
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-70.84443	-64.85516
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-70.15516	-64.02353
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-69.27574	-63.58227
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-71.70008	-65.76944
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-70.10762	-64.97623
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-69.65603	-64.17945
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-68.58647	-63.6246
+# @DC6n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|20.131|"Magnetic Anomaly"
+-72.60326	-57.51638
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-70.67805	-63.78064
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-70.12188	-63.4379
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-73.11665	-65.29043
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-71.84744	-64.75995
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-81.89416	-49.53406
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-81.56378	-50.3531
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-81.029	-51.27163
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-80.93393	-51.61325
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-80.60118	-52.07697
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-80.43481	-52.32524
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-79.60293	-53.46074
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-79.24641	-53.89818
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-76.83396	-54.23372
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-88.0049	-47.52802
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-87.51766	-47.95288
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-101.82004	-49.76785
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-101.30259	-49.73371
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-88.37281	-47.74703
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-88.01154	-48.04115
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-82.4023	-50.49178
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-83.37203	-49.70906
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-77.53462	-54.27037
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-73.55348	-65.15363
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-71.13866	-63.65718
+# @DC6Cn.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|24.118|"Magnetic Anomaly"
+-69.84568	-62.98181
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-62.55089	-56.89229
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-62.24191	-56.59188
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-61.88539	-55.85035
+# @DC6Bn.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|23.069|"Magnetic Anomaly"
+-62.88364	-58.09513
+# @DC6An.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|21.32|"Magnetic Anomaly"
+-62.36075	-58.39589
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-71.64499	-63.45999
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-69.78158	-62.57894
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-69.42031	-62.32354
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-63.60191	-57.6756
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-63.12655	-56.2486
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-62.74626	-55.90833
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-62.78429	-55.69413
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-78.55197	-54.95422
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-80.4534	-54.33394
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-80.85746	-53.91512
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-83.97701	-49.78065
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-82.87179	-50.63482
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-82.31325	-51.23556
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-81.88542	-51.64405
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-81.79035	-52.18056
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-81.74282	-52.40645
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-100.7976	-49.65255
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-74.36524	-64.90233
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-73.77579	-64.65899
+# @DC7n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|25.183|"Magnetic Anomaly"
+-73.47156	-64.56103
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-75.29694	-65.78378
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-74.82158	-65.54847
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-74.38425	-65.33485
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-72.17858	-63.21213
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-70.27715	-62.41177
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-70.16306	-62.29691
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-74.88457	-64.72765
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-74.28561	-64.43347
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-79.26114	-55.24537
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-81.41452	-54.22215
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-80.47331	-54.90992
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-86.61495	-49.13127
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-84.78957	-49.84967
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-83.6297	-50.72675
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-83.15434	-51.33821
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-82.58391	-51.82391
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-82.69799	-52.68737
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-89.04879	-48.40226
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-88.17413	-48.93123
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-100.00583	-50.04261
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-104.75942	-55.44285
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-99.51146	-50.19925
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-102.4777	-51.52289
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-104.05589	-55.46514
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-87.05704	-49.51083
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-88.7303	-49.22523
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-89.41482	-48.63642
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-80.49232	-55.15061
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-78.16306	-55.69134
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-70.91027	-62.28285
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-75.61632	-64.7183
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-75.35963	-64.57769
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-75.13146	-64.49789
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-74.66085	-64.25707
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-75.70189	-65.56452
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-75.34537	-65.3272
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-75.13146	-65.22568
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-103.37969	-55.47662
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-102.02492	-51.60066
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-80.4436	-55.47662
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-78.13811	-56.03951
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-76.11783	-56.07941
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-72.81408	-62.86172
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-71.53061	-62.33594
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-76.10832	-65.39268
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-75.65198	-65.17778
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-76.01325	-64.54702
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-75.70902	-64.42402
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-75.36676	-64.26741
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-75.0245	-64.07663
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-64.65335	-56.05946
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-64.23503	-55.59927
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-85.21835	-50.549
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-89.66771	-48.92246
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-89.30644	-49.15996
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-88.92615	-49.38392
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-87.6712	-49.87794
+# @DC10n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|28.745|"Magnetic Anomaly"
+-98.83264	-50.28171
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-64.2241	-56.18175
+# @DC9n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|27.972|"Magnetic Anomaly"
+-63.86758	-55.71497
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-63.24367	-55.63102
+# @DC8n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|26.554|"Magnetic Anomaly"
+-63.36251	-55.79873
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-78.18778	-56.38007
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-76.19721	-56.34709
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-73.13709	-62.72254
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-75.90011	-64.05488
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-76.19721	-64.17177
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-76.52402	-64.33974
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-76.62702	-65.12688
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-76.18137	-64.91333
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-103.21744	-56.70831
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-102.59353	-55.53004
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-101.25658	-51.7091
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-97.86964	-50.32243
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-90.08563	-49.12839
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-89.43201	-49.49745
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-88.06535	-50.09363
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-85.59943	-50.81439
+# @DC11n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.098|"Magnetic Anomaly"
+-80.48931	-55.70658
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-97.36061	-50.34525
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-100.39103	-51.91535
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-101.38928	-52.91806
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-102.10232	-53.36822
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-102.02627	-55.58628
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-102.43983	-56.64584
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-90.41323	-49.43626
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-89.62889	-49.84375
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-88.55933	-50.46677
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-88.0602	-50.72999
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-85.70718	-51.09961
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-80.5519	-55.97606
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-78.22264	-56.61702
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-76.33309	-56.64977
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-77.01047	-64.96449
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-76.61117	-64.73796
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-76.30694	-63.87967
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-104.47674	-58.07898
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-100.46233	-55.5782
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-100.81885	-56.35138
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-99.10756	-52.27692
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-95.80381	-50.52287
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-90.765	-49.69443
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-86.17778	-51.70172
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-85.3459	-51.81971
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-82.27983	-54.73308
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-80.49724	-56.46865
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-78.40565	-57.03015
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-76.55175	-57.22404
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-72.32105	-61.83714
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-73.88974	-62.47085
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-72.60627	-61.70202
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-75.5535	-61.74713
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-77.78769	-63.12366
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-77.38363	-60.94933
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-78.40565	-62.82191
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-76.2903	-61.44252
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-78.02537	-63.03853
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-89.42924	-51.05619
+# @DC13n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|33.545|"Magnetic Anomaly"
+-88.91585	-51.29524
+# @DC12n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|30.939|"Magnetic Anomaly"
+-82.12772	-54.4349
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-86.31088	-51.93445
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-85.70242	-52.20397
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-89.67643	-51.31908
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-89.20107	-51.52118
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-87.5278	-52.05184
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-82.43195	-54.97443
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-83.19252	-54.66701
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-83.04041	-54.11218
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-99.20263	-53.49313
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-98.38501	-52.46024
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-94.96242	-50.55013
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-94.63918	-50.07528
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-100.21752	-56.26021
+# @DC15n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|34.94|"Magnetic Anomaly"
+-103.4262	-58.20091
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-94.01646	-50.15399
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-91.42575	-50.16926
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-90.09474	-51.49374
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-89.50054	-51.71574
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-88.09823	-52.18571
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-86.52955	-52.09797
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-85.79274	-52.43337
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-83.06418	-54.30097
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-83.20084	-54.80179
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-82.49375	-55.17762
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-102.96748	-58.31178
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-99.8301	-56.19997
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-99.25967	-54.19379
+# @DC16n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|36.341|"Magnetic Anomaly"
+-97.94768	-52.60301
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-83.15568	-54.43642
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-82.62685	-55.37111
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-83.29829	-55.05174
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-98.87344	-54.61462
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-97.4331	-52.7231
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-86.82308	-52.35791
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-85.92465	-52.60171
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-93.33313	-50.20756
+# @DC17n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|38.113|"Magnetic Anomaly"
+-91.65036	-50.32943
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-90.33995	-52.24717
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-89.84558	-52.43352
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-101.57982	-58.63191
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-98.49553	-55.48667
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-96.78424	-52.88946
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-87.23902	-52.92394
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-86.32633	-53.13029
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-85.92703	-53.25591
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-85.2235	-53.63053
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-82.80867	-55.85205
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-83.56925	-55.64829
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-80.45089	-57.94287
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-78.73959	-58.10428
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-77.31748	-58.45484
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-75.64184	-58.71547
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-74.9288	-58.78958
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-91.8611	-50.53438
+# @DC18n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|40.13|"Magnetic Anomaly"
+-90.73925	-52.06004
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-98.76332	-56.12318
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-100.90244	-58.79267
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-97.69376	-55.50084
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-96.05377	-53.10384
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-91.24076	-52.84559
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-92.96988	-53.00359
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-87.77063	-53.5379
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-85.51862	-54.39969
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-84.80558	-54.56576
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-87.18237	-53.71451
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-83.14182	-56.42731
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-80.45604	-58.56367
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-95.5487	-53.26446
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-96.86782	-55.49072
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-87.99049	-54.00605
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-87.17049	-54.44473
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-85.74441	-54.87875
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-84.49659	-56.74862
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-83.9321	-56.74862
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-83.72413	-56.92775
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-83.36761	-56.9115
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-79.05967	-59.16386
+# @DC20n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|43.789|"Magnetic Anomaly"
+-98.13347	-55.99018
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-86.75455	-53.7427
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-83.83109	-56.22924
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-82.76153	-56.5194
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-78.95866	-58.79883
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-77.55635	-58.94654
+# @DC19n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|41.521|"Magnetic Anomaly"
+-76.34418	-59.11806
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-92.41727	-53.54073
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-87.90136	-55.36841
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-95.98247	-55.97286
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-95.91116	-55.71879
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-92.84509	-53.37049
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-89.01845	-55.11037
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-86.76049	-55.77242
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-84.21732	-57.29565
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-83.64689	-57.53932
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-95.76855	-55.44954
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-93.24915	-53.61287
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-92.89263	-53.78213
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-88.18657	-55.55073
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-89.27039	-55.38059
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-90.33995	-55.07902
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-80.50381	-59.97718
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-81.00294	-60.33261
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-81.40224	-60.9766
+# @DC22n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|49.714|"Magnetic Anomaly"
+-79.5733	-64.80045
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-79.06823	-60.24618
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-79.25837	-60.44642
+# @DC21n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|47.906|"Magnetic Anomaly"
+-79.73373	-60.88957
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-82.63342	-60.72702
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-81.82531	-59.4086
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-93.65701	-53.8507
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-93.25771	-54.03019
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-90.91894	-55.11275
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-89.53089	-55.64325
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-88.352	-55.82564
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-80.91975	-64.80171
+# @DC23n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|51.743|"Magnetic Anomaly"
+-80.53352	-64.58555
+# @DC24n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|53.347|"Magnetic Anomaly"
+-93.91687	-54.09614
+# @DC24n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|53.347|"Magnetic Anomaly"
+-93.57461	-54.24118
+# @DC24n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|53.347|"Magnetic Anomaly"
+-83.52076	-59.257
+# @DC24n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|53.347|"Magnetic Anomaly"
+-83.36389	-58.89727
+# @DC24n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|53.347|"Magnetic Anomaly"
+-82.16123	-64.57142
+# @DC24n.3n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|53.347|"Magnetic Anomaly"
+-81.73341	-64.41771
+# @DC25n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|56.391|"Magnetic Anomaly"
+-87.20955	-57.97245
+# @DC25n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|56.391|"Magnetic Anomaly"
+-87.20955	-57.67826
+# @DC25n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|56.391|"Magnetic Anomaly"
+-86.94335	-57.26851
+# @DC25n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|56.391|"Magnetic Anomaly"
+-86.13009	-63.79451
+# @DC25n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|56.391|"Magnetic Anomaly"
+-85.47647	-63.66284
+# @DC25n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|56.391|"Magnetic Anomaly"
+-96.68604	-60.66614
+# @DC25n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|56.391|"Magnetic Anomaly"
+-95.40257	-59.16264
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-88.43855	-63.49339
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-86.72726	-63.31759
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-95.42634	-60.5127
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-95.7472	-61.03574
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-103.48368	-61.05303
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-90.06666	-56.94042
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-89.85275	-56.52235
+# @DC26n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|57.911|"Magnetic Anomaly"
+-89.68637	-56.28513
+# @DC27n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|61.276|"Magnetic Anomaly"
+-94.10721	-55.32134
+# @DC27n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|61.276|"Magnetic Anomaly"
+-94.17852	-55.80623
+# @DC27n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|61.276|"Magnetic Anomaly"
+-94.24982	-56.20573
+# @DC27n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|61.276|"Magnetic Anomaly"
+-90.98172	-62.72592
+# @DC27n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|61.276|"Magnetic Anomaly"
+-89.37739	-62.03071
+# @DC27n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|61.276|"Magnetic Anomaly"
+-91.48085	-64.8988
+# @DC27n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|61.276|"Magnetic Anomaly"
+-101.03558	-61.31921
+# @DC28n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|63.634|"Magnetic Anomaly"
+-99.32428	-61.50714
+# @DC28n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|63.634|"Magnetic Anomaly"
+-93.16244	-61.91047
+# @DC28n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|63.634|"Magnetic Anomaly"
+-91.35013	-61.89645
+# @DC28n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|63.634|"Magnetic Anomaly"
+-92.12259	-63.41308
+# @DC28n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|63.634|"Magnetic Anomaly"
+-93.54867	-64.05811
+# @DC28n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|63.634|"Magnetic Anomaly"
+-95.24213	-64.56103
+# @DC29n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|64.745|"Magnetic Anomaly"
+-95.09358	-63.54592
+# @DC29n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|64.745|"Magnetic Anomaly"
+-94.29141	-63.26624
+# @DC29n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|64.745|"Magnetic Anomaly"
+-98.27255	-61.60069
+# @DC32n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|73.004|"Magnetic Anomaly"
+-101.74267	-62.92484
+# @DC32n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|73.004|"Magnetic Anomaly"
+-104.23831	-64.09244
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-66.35097	-57.65385
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-64.42577	-58.41027
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-64.41388	-59.47275
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-66.28561	-59.84857
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-64.50301	-60.58761
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-64.02765	-60.36765
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-63.99794	-61.56614
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-63.67114	-61.35289
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-63.2552	-61.12381
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-63.13636	-60.95089
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-64.08707	-62.09985
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-67.50372	-59.44251
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-67.53343	-58.03722
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-76.6021	-47.4131
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-77.23195	-47.11946
+# @DC4n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|8.072|"Magnetic Anomaly"
+-81.53396	-45.60576
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-63.37404	-58.75471
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-63.78998	-60.08688
+# @DC5n.2n|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|10.949|"Magnetic Anomaly"
+-76.41196	-47.92683
+# @DC5En|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|18.781|"Magnetic Anomaly"
+-87.00079	-46.64394
+# @DC5En|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|18.781|"Magnetic Anomaly"
+-85.5034	-47.34321
+# @DC5En|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|18.781|"Magnetic Anomaly"
+-77.1164	-50.39672
+# @DC5En|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|18.781|"Magnetic Anomaly"
+-77.20196	-50.15912
+# @DC5En|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|18.781|"Magnetic Anomaly"
+-77.33031	-49.68958
+# @DC5En|o|3|"R.V. Conrad"|Cande++_1982_EPSL|10.1016/0012-821X(82)90173-X|18.781|"Magnetic Anomaly"
+-77.4444	-49.19675

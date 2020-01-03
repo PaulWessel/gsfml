@@ -1,0 +1,115 @@
+# @VGMT1.0 @GPOINT
+# @R160.463515/165.802476/-13.652364/-10.762908                           
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC21n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|47.906|"Magnetic Anomaly"
+160.89121	-10.76291
+# @DC21n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|47.906|"Magnetic Anomaly"
+160.46351	-11.10266
+# @DC20n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|43.789|"Magnetic Anomaly"
+160.91398	-11.26174
+# @DC20n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|43.789|"Magnetic Anomaly"
+160.76779	-11.20108
+# @DC20n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|43.789|"Magnetic Anomaly"
+160.65631	-11.25022
+# @DC19n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|41.521|"Magnetic Anomaly"
+165.80248	-11.93296
+# @DC19n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|41.521|"Magnetic Anomaly"
+165.6449	-12.0842
+# @DC19n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|41.521|"Magnetic Anomaly"
+165.51995	-12.17964
+# @DC19n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|41.521|"Magnetic Anomaly"
+161.32049	-11.29937
+# @DC19n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|41.521|"Magnetic Anomaly"
+160.94413	-11.52098
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+161.76962	-11.7662
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+161.28638	-11.8721
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+160.79563	-12.50727
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+163.58063	-13.40188
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+163.47273	-13.39809
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+165.02885	-11.92926
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+165.25543	-11.8512
+# @DC18n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|40.13|"Magnetic Anomaly"
+164.3613	-12.29024
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+161.99348	-11.97255
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+162.2038	-11.49747
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+161.68928	-12.37549
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+161.6443	-12.53952
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+163.2814	-13.27075
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+163.3457	-13.20234
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+163.78225	-12.7842
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+164.19	-12.16
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+164.87468	-11.83629
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+164.96585	-11.77774
+# @DC17n.3n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|38.113|"Magnetic Anomaly"
+165.09136	-11.75559
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+163.33677	-13.65236
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+162.2302	-12.18833
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+162.46873	-11.71378
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+161.72964	-12.40964
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+161.64667	-12.53421
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+163.88	-11.98
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+163.45458	-12.52749
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+163.16115	-13.01639
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+163.09743	-13.15116
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+164.52959	-11.66634
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+164.76189	-11.56922
+# @DC16n.2n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|36.341|"Magnetic Anomaly"
+164.7446	-11.58795
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+161.19514	-12.95357
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+161.85466	-12.70502
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+161.82927	-12.52416
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+162.39854	-12.33829
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+162.72026	-11.92255
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+163.20883	-11.51366
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+162.72527	-12.63569
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+162.30227	-12.88245
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+162.1011	-13.15138
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+163.11596	-12.2524
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+163.55115	-11.76304
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+163.98628	-11.39893
+# @DC13n|o|1|SS2012_V06|Seton++_2016_GondwanaResearch|10.1016/j.gr.2016.06.011|33.545|"Magnetic Anomaly"
+164.29336	-11.10999

@@ -1,0 +1,73 @@
+#include "common_options.txt"
+.TH FZMODELER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.SH NAME
+fzmodeler \- Make and optionally plot a synthetic FZ model profile
+.SH SYNOPSIS
+BD(fzmodeler) [ OPT(A)IT(asymmetry) ] [ OPT(C)IT(compression) ]  [ OPT(D)IT(min/max/inc) ] 
+[ OPT(F)IT(prefix) ] [ OPT(M) ]  OPT(N)IT(amplitude) ] [ OPT(O) ] [ OPT(P) ] 
+[ OPT(S)IT(shift) ] [ OPT(V) ] [ OPT(W)IT(width) ]
+.SH DESCRIPTION
+BD(fzmodeler) is a script developed as part of the Global Seafloor Fabric
+and Magnetic Lineation Project [see www.soest.hawaii.edu/PT/GSFML for a full
+description of the project].  It builds a synthetic model cross-profile given
+the chosen model parameters and optionally images the profile via a PDF plot.
+.SH OPTIONS
+No space between the option flag and the associated arguments.
+.TP
+OPT(A)IT(asymmetry)
+Sets the asymmetry parameter used for the blend between symmetric ("Atlantic")
+and asymmetric ("Pacific") signals [0].
+.TP
+OPT(C)IT(compression)
+Sets the amount of compression (0-1) to use in the blending [0].
+.TP
+OPT(D)IT(min/max/inc)
+Sets the domain for which to evaluate the model.  If OPT(M) is used then
+the domain is expected to be in km; otherwise IT(min) and IT(max) will be
+expected to be in degrees of latitude which IT(inc) will be decoded as
+arc minutes [-5/5/2 or -100/100/2, depending on OPT(M)].
+.TP
+OPT(F)IT(prefix)
+Set the output prefix for the model profile [fzprof].  Give OPT(F)- to send
+the model profile to stdout.
+.TP
+OPT(M)
+The chosen domain (OPT(D)) is given degrees of latitude, with increment in arc minutes
+[Default is in km].
+.TP
+OPT(N)IT(amplitude)
+Sets the peak-to-trough amplitude of the blended signal [100].
+.TP
+OPT(O)
+Instead of making a stand-alone PDF plot, write a PostScript overlay to stdout,
+i.e., make the plot using the GMT -O -K options.  Requires (or sets) OPT(P).
+.TP
+OPT(P)
+Produce a PDF plot (named IT(prefix).pdf) of the synthetic FZ profile [no plot].
+.TP
+OPT(S)IT(shift)
+Sets the shift of the FZ location from the origin, in km [0].
+.TP
+OPT(V)
+Reports progress [quiet].
+.TP
+OPT(W)IT(width)
+Sets the full width of the FZ, in km [25].
+.SH EXAMPLES
+To plot a synthetic profile for the Pacific, using otherwise default arguments,
+try
+.br
+.sp
+fzmodeler -C1 -V
+.br
+.sp
+The final plot will be named IT(prefix).pdf, with the model data in IT(prefix).txt.
+.SH "SEE ALSO"
+.IR fzanalyzer (1),
+.IR fzblender (1),
+.IR fzinformer (1),
+.IR fzmapper (1),
+.IR fzprofiler (1),
+.IR gmt (1),
+.IR grdtrack (1)
+.IR mlconverter (1)

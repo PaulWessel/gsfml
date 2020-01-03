@@ -1,0 +1,80 @@
+#	$Id: ChangeLog 430 2018-07-18 05:25:02Z pwessel $
+
+2018-07-21	pwessel
+	Added picks involving Antarctica, Australia, and Macquarie plates from
+	Granot & Dyment (2018).  Files prepared by Maria Seton.
+2017-11-22	pwessel
+	After prodding by Rex Pilger who tracked down the data, I added the picks
+	from Doug Wilder's 2003 thesis with Dave Naar for Pacific-Nazca.
+2016-11-09	pwessel
+	Added 9 Marginal basin picks processed by Nicky Wright.  The entries are
+	Barker (1972), Barker et al. (1995), Patriat et al. (2015), Seton et al. (2016),
+	Weissel et al. (1982), Doo et al., (2014), Sasaki et al. (2014), Mrozowski et al. (1972)
+	and Hilde and Lee (1984).  Also removed Hill and Barker (1980) which repeated Barker (1972).
+	Split Granot et al. (2013) into separate Indian and Pacific Ocean files, w/ readmes.
+	Applied minor corrections to Gaina et al (1999), Briais et al (1993),
+	Tikku and Cande (1999) [added readme file], Whittaker et al (2007),
+	Jacob et al (2014) and Cande and Patriat (2015) data sets. 
+2016-08-01	pwessel
+	Added Atlantic ocean picks supplied by Graeme Eagles. These were processed by
+	Nicky Wright who made a few changes, documented in the readme.* files.  The new
+	data were Eagles (2016), Eagles and Scott (2014) and Perez-Diaz and Eagles (2014).
+2016-07-04	pwessel
+	Fixed duplicates in Handschumacher (1976) and Handschumacher et al. (1981).
+2016-06-21	pwessel
+	Added new Indian Ocean picks from Davis et al. (Gondwana Res., 2016) and
+	Leinweber and Jokat. (Tectonophysics, 2012).
+2015-03-23	pwessel
+	Added a digitized compilation for the Kula plate (Lonsdale, 1988), fixed
+	mislabeled chrons in Wobbe et al. (2012), and renamed the
+	Atwater_1989_GeolSocAm compilation to Atwater+Severinghaus_1989_GeolSocAm.
+2015-01-18	pwessel
+	Added a new compilation from the Indian Ocean: Cande and Patriat (2015) and one
+	from the Atlantic Ocean: Granot and Dyment (2015).
+2015-01-18	pwessel
+	Added 2 digitized compilations from the Pacific Ocean, digitized by EarthByte:
+	Cande et al. (1982) and Larter and Barker (1991), plus adding additional picks
+	to Atwater et al. (1989).
+2014-11-5	pwessel
+	Added 2 new datasets for the Indian Ocean from Maria Seton:
+	Chaubey++_2002_GeoSocLonSP and Fournier++_2010_JGR
+2014-10-22	pwessel
+	Used newformat.sh to rewrite all *.gmt files with a new DOI aspatial field.
+2014-10-11	pwessel
+	Added 1 new datasets for the Indian Ocean from Maria Seton:
+	Jacob++_2014_JGR
+2014-10-09	pwessel
+	Added 5 new datasets for the Pacific from Nicky Wright:
+	Barckhausen++_2001_JGR, Barckhausen++_2008_Geology,
+	Eakins+Lonsdale_2003_MGR, Lonsdale_1985_GSABull, Lonsdale_2005_Tectonophysics.
+	Also renamed Lonsdale++_1991_AmAssPetGeolMem.gmt to Lonsdale_1991_AmAssPetGeolMem.gmt
+2014-10-09	pwessel
+	Revised three files from Nicky Wright: Atwater_1989_GeolSocAm.gmt,
+	Klitgord+Mammerickx_1982_JGR.gmt, and Handschumacher_1976_AGUGeopMonoSer.gmt.
+	The latter was also renamed from Handschumacher++_1976_AGUGeopMonoSer.gmt
+	which was the wrong name.
+2014-03-26	pwessel
+	Update several files from Nicky Wright to ensure all chrons are
+	properly given (i.e., ends in n or r).  Modified hybrid Geek2007 timescale
+	for use with Nakanishi++ lineations by extending it with Tominaga et al.
+	Replace anomaly end key "m" with "c".  Changed Atwater from 1990 to 1989,
+	Eagles++2004_EPSL to Eagles_2003_EPSL, and Gibbons++_2012_G3 to Gibbons++_2013_JGR.
+	Add check on central Chron age, introducing 4 decimals for these to avoid needless
+	rounding.  Ensure use of "Magnetic Anomaly" throughout.
+2014-02-10	pwessel
+	Updated the Nakanishi et al, 1992 file from Nicky Wright to fix typos.
+	Added format checking to ensure that all Chron strings start with C|M
+	and that all aspatial values conform to the requirements. To improve
+	clarity we have renamed the field AnomalyEndQua to AnomalyEndQuality
+2014-01-12	pwessel
+	Added 5 files from DeMets and co-workers via Jo W., with readme files.
+2014-01-08	pwessel
+	Added new files form Marks+Stock [2001 MGR] and Keller [2004 PhD]
+	Added readme files for Gaina++_1998/1999 and 2002
+2013-12-07	pwessel
+	Revised magnetic picks from the Pacific, Atlantic, Indian Oceans and
+	from Marginal Basins, digitized by or obtained by the EarthByte group.
+	Passed to me via Jo Whittaker.
+2011-07-27	pwessel
+	Added magnetic picks from North, Central, and South Atlantic from
+	the EarthByte group.

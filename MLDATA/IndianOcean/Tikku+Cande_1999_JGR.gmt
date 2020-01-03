@@ -1,0 +1,937 @@
+# @VGMT1.0 @GPOINT
+# @R88.287/140.422/-63.272834188/-31                                      
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+131.914	-63.253
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+116	-63.239
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+114.5	-63.203
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+130.499	-63.192
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+118.951	-63.175
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+118	-63.143
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+118.869	-63.138
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+106.499	-63.136
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+117	-63.129
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+119.894	-63.126
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+127.339	-63.11
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+113.5	-63.107
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+112.666	-63.081
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+127.051	-63.045
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+108.001	-63.032
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+132.095	-63.009
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+111.36	-62.954
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+116.001	-62.933
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+104.752	-62.912
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+104.894	-62.892
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+109.499	-62.866
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+127.179	-62.86
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+117	-62.858
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+114.5	-62.837
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+110.833	-62.835
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+119.211	-62.828
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+132.017	-62.81
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+106.694	-62.793
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+119.944	-62.786
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+118.001	-62.78
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+108.011	-62.745
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+104.903	-62.735
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+126.901	-62.717
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+109.501	-62.709
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+127.748	-62.698
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+130.267	-62.686
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+113.5	-62.683
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+123.899	-62.631
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+111.828	-62.627
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+114.5	-62.6
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+116	-62.599
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+122.431	-62.599
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+121.095	-62.592
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+130.833	-62.565
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+131.993	-62.547
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+117.999	-62.525
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+112.001	-62.509
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+104.916	-62.502
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+130.399	-62.487
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+117	-62.469
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+119.675	-62.46
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+119.926	-62.446
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+126.919	-62.43
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+113.5	-62.413
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+112.995	-62.411
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+106.261	-62.404
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+126.846	-62.402
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+115.999	-62.394
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+127.747	-62.389
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+123.831	-62.369
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+120.004	-62.36
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+118	-62.33
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+112.19	-62.312
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+124.723	-62.293
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+114.499	-62.292
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+115.999	-62.292
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+119.843	-62.26
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+132.02532	-62.49087
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+120.412	-62.248
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+125.098	-62.236
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+111.998	-62.234
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+121.092	-62.232
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+113.975	-62.222
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+132.048	-62.212
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+117	-62.207
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+118	-62.204
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+130.595	-62.197
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+114.291	-62.16
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+127.787	-62.143
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+123.869	-62.136
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+119.96	-62.127
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+112.413	-62.125
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+125.803	-62.122
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+121.105	-62.11
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+126.82	-62.107
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+111.999	-62.103
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+126.739	-62.097
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+113.5	-62.04
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+123.882	-62.037
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+112.525	-62.035
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+120.051	-62.03
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+114.5	-62.026
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+117	-62.024
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+118	-62.023
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+104.806	-62.019
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+110.835	-62.001
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+104.44	-61.991
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+132.033	-61.985
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+112	-61.974
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+127.762	-61.97
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+131.976	-61.95
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+126.65	-61.949
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+121.099	-61.93
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+121.174	-61.926
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+126.898	-61.914
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+126.83	-61.903
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+120.165	-61.894
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+112.713	-61.882
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+119.399	-61.882
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+124.086	-61.874
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+129.781	-61.863
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+104.203	-61.836
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+112	-61.776
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+121.108	-61.766
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+134.69	-61.72
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+136.567	-61.715
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+105.633	-61.704
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+121.696	-61.704
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+117	-61.666
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+135.669	-61.648
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+105.237	-61.634
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+114.5	-61.63
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+136.814	-61.627
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+118	-61.62
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+118.064	-61.614
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+127.785	-61.591
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+112	-61.58
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+128.244	-61.575
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+140.035	-61.559
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+137.797	-61.557
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+129.831	-61.553
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+126.401	-61.55
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+138.209	-61.55
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+126.715	-61.546
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+117	-61.52
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+120.11	-61.509
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+113.162	-61.502
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+117.28	-61.498
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+138.564	-61.495
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+114.5	-61.487
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+132.013	-61.479
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+118	-61.477
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+124.748	-61.469
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+120.576	-61.454
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+104.626	-61.439
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+126.335	-61.434
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+128.546	-61.433
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+126.688	-61.428
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+138.927	-61.425
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+129.845	-61.408
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+121.086	-61.407
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+113.279	-61.404
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+112.02	-61.393
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+120.179	-61.362
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+120.118	-61.36
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+104.189	-61.346
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+120.712	-61.32
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+124.993	-61.319
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+121.096	-61.293
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+122.711	-61.286
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+132.017	-61.281
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+134.22	-61.241
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+136.567	-61.203
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+138.386	-61.203
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+137.573	-61.193
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+137	-61.145
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+140.209	-61.128
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+138.572	-61.12
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+138.776	-61.116
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+138.479	-61.022
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+136.567	-60.99
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+134.839	-60.975
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+138.579	-60.939
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+140.422	-60.773
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+102.344	-60.613
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+101.23	-60.403
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+92.359	-59.557
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+92.113	-59.493
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+91.568	-59.328
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+90.747	-58.956
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+90.431	-58.859
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+90.056	-58.664
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+89.722	-58.232
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+88.287	-57.797
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+118.417	-38.437
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+118.134	-38.436
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+118.826	-38.348
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+117.087	-38.298
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+119.241	-38.195
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+115.981	-38.039
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+132.636	-38
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+132.798	-37.998
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+132.113	-37.98
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+130.682	-37.948
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+131.5	-37.899
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+131.226	-37.886
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+134.596	-37.881
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+122.602	-37.852
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+122.723	-37.85
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+135.213	-37.84
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+132.524	-37.829
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+132.799	-37.829
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+132.363	-37.825
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+132.111	-37.802
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+134.121	-37.801
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+122.849	-37.763
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+130.71	-37.755
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+118.171	-37.753
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+131.597	-37.742
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+125.648	-37.739
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+131.508	-37.729
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+134.22	-37.711
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+125.758	-37.71
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+122.595	-37.706
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+135.294	-37.697
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+118.584	-37.671
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+109.69	-37.67
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+134.645	-37.665
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+115.374	-37.66
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+126.714	-37.656
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+128.004	-37.649
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+117.484	-37.628
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+117.599	-37.625
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+125.584	-37.614
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+109.265	-37.612
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+125.873	-37.57
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+129.41	-37.557
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+110.355	-37.55
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+110.274	-37.544
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+118.435	-37.541
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+110.054	-37.539
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+117.519	-37.535
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+119.344	-37.522
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+117.922	-37.521
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+117.38	-37.499
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+126.675	-37.484
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+112.076	-37.478
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+111.661	-37.47
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+127.983	-37.457
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+111.746	-37.45
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+132.817	-37.444
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+108.644	-37.438
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+119.663	-37.436
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+119.108	-37.42
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+122.074	-37.387
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+135.479	-37.36
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+119.578	-37.357
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+122.587	-37.346
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+120.647	-37.344
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+118.792	-37.336
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+134.651	-37.326
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+113.189	-37.313
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+119.076	-37.305
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+117.676	-37.294
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+123.33	-37.285
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+131.683	-37.278
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+118.12	-37.272
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+120.556	-37.272
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+123.506	-37.27
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+114.525	-37.262
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+121.113	-37.253
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+122.588	-37.248
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+119.435	-37.226
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+114.117	-37.216
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+121.45	-37.21
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+108.08	-37.208
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+129.418	-37.199
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+120.453	-37.193
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+123.442	-37.188
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+121.619	-37.182
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+132.8	-37.176
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+113.805	-37.165
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+122.589	-37.163
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+130.838	-37.153
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+126.221	-37.145
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+121.062	-37.133
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+123.684	-37.128
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+120.352	-37.116
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+121.428	-37.09
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+132.606	-37.088
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+127.973	-37.084
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+125.312	-37.069
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+132.796	-37.063
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+121.775	-37.055
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+121.025	-37.045
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+107.398	-37.034
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+130.859	-36.996
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+125.264	-36.975
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+123.551	-36.966
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+120.727	-36.959
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+132.805	-36.959
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+132.071	-36.958
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+126.363	-36.956
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+120.184	-36.953
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+129.432	-36.937
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+121.929	-36.924
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+132.249	-36.924
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+123.957	-36.91
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+134.068	-36.91
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+129.607	-36.905
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+126.462	-36.904
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+125.214	-36.887
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+129.051	-36.877
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+120.95	-36.868
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+132.542	-36.831
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+130.88	-36.824
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+123.583	-36.817
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+129.617	-36.806
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+122.121	-36.783
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+124.121	-36.783
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+127.966	-36.774
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+128.968	-36.774
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+129.435	-36.774
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+120.912	-36.765
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+133.561	-36.75
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+134.436	-36.715
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+126.24	-36.703
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+126.395	-36.7
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+121.011	-36.699
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+127.969	-36.681
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+132.036	-36.659
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+128.885	-36.645
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+106.761	-36.641
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+129.436	-36.639
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+129.619	-36.632
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+122.025	-36.601
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+130.902	-36.592
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+133.222	-36.592
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+123.148	-36.57
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+132.802	-36.563
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+122.454	-36.562
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+125.047	-36.561
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+127.974	-36.548
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+123.567	-36.536
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+124.267	-36.505
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+126.03	-36.503
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+127.149	-36.478
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+126.381	-36.399
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+132.255	-36.387
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+129.604	-36.362
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+105.953	-36.348
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+131.618	-36.343
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+124.913	-36.337
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+130.955	-36.311
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+131.734	-36.244
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+129.422	-36.242
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+128.637	-36.234
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+125.739	-36.226
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+127.983	-36.175
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+131.27	-36.079
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+131.004	-36.071
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+126.904	-36.046
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+127.24	-36.012
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+126.785	-36.01
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+128.499	-36.003
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+129.547	-35.996
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+126.355	-35.992
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+130.73	-35.966
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+129.357	-35.947
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+127.936	-35.94
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+105.072	-35.873
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+101.184	-33.261
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+101.504	-33.261
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+97.607	-32.506
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+94.956	-31.686
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+93.339	-31.044
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+93.087	-31
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+106.521	-61.255
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+106.017	-61.182
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+126.547	-61.109
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+127.771	-61.103
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+117.008	-61.101
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+126.205	-61.087
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+113.687	-61.071
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+114.504	-61.06
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+113.973	-61.039
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+118	-61.036
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+105.109	-61.035
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+114.798	-61.03
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+125.532	-61.03
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+129.504	-61.015
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+129.891	-61.015
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+112.067	-61.011
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+121.054	-60.997
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+104.639	-60.978
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+128.663	-60.932
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+123.639	-60.929
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+104.05	-60.921
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+120.075	-60.864
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+132.042	-60.852
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+132.579	-60.782
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+102.672	-60.534
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+138.782	-60.481
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+135.101	-60.456
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+136.563	-60.443
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+137.32	-60.36
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+101.596	-60.251
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+104.674	-61.751
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+104.927	-61.732
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+104.245	-61.538
+# @DC20n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|43.789|"Magnetic Anomaly"
+137.072	-60.958
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+104.5755	-62.46678
+# @DC32n.1n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|71.071|"Magnetic Anomaly"
+110.82464	-62.34608
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+104.694	-62.737
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+132.22624	-63.27283
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+110.31106	-62.92231
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+123.97075	-62.95383
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+122.125	-36.7742
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+127.0772	-36.146
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+118.336	-38.724
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+117.076	-38.718
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+118.689	-38.639
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+119.092	-38.586
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+119.697	-38.52
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+132.941	-38.454
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+132.773	-38.441
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+132.101	-38.401
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+130.101	-38.337
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+130.092	-38.314
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+131.496	-38.308
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+130.664	-38.274
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+121.546	-38.269
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+134.538	-38.255
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+138.37	-38.255
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+115.445	-38.229
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+134.975	-38.229
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+136.689	-38.202
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+135.479	-38.176
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+128.05	-38.083
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+127.576	-38.018
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+111.378	-37.988
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+109.748	-37.882
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+110.118	-37.882
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+109.462	-37.855
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+109.025	-37.829
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+112.134	-37.817
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+108.286	-37.762
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+111.546	-37.737
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+112.269	-37.677
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+114.521	-37.643
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+107.63	-37.575
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+114.101	-37.556
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+113.798	-37.516
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+107.092	-37.24
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+106.336	-36.876
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+105.143	-36.416
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+104.739	-36.184
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+101.378	-34.909
+# @DC18n.2n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|40.13|"Magnetic Anomaly"
+97.664	-32.934
+# @DC27n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|60.92|"Magnetic Anomaly"
+131.966	-62.3
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+130.52305	-62.28702
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+127.76121	-62.27373
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+126.81524	-62.25379
+# @DC34n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|83|"Magnetic Anomaly"
+127.77167	-63.09719
+# @DC33n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|79.075|"Magnetic Anomaly"
+110.82772	-62.57262
+# @DC31n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|68.737|"Magnetic Anomaly"
+110.82534	-62.17501
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+102.00528	-60.67088
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+105.75052	-61.84911
+# @DC21n|y|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|46.264|"Magnetic Anomaly"
+122.44396	-61.38889
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+123.30733	-37.42987
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+121.15336	-37.36113
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+120.72791	-37.43082
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+125.38643	-37.22393
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+132.0745	-37.27238
+# @DC24n.3n|o|1|N/A|Tikku+Cande_1999_JGR|10.1029/1998JB900034|53.347|"Magnetic Anomaly"
+132.11015	-37.18495

@@ -1,0 +1,7 @@
+# Here are the persons that have digitized and contributed to the project
+#
+# DIR	Full Name
+JW	Jo Whittaker, U Tasmania, Jo.Whittaker@utas.edu.au
+RM	Bob Myhill, BGI, University Bayreuth, bob.myhill@uni-bayreuth.de
+KM	Kara Matthews, U Sydney, kara.matthews@sydney.edu.au
+MC	Michael T. Chandler, U of Hawaii, mtchandl@hawaii.edu

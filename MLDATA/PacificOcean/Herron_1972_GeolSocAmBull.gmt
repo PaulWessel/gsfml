@@ -1,0 +1,153 @@
+# @VGMT1.0 @GPOINT
+# @R-147.96/-73.91/-23.12/3.9                                             
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC19n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|41.521|"Magnetic Anomaly"
+-75.05	-23.12
+# @DC1n|y|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|0|"Magnetic Anomaly"
+-86.05	-22.96
+# @DC18n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|40.13|"Magnetic Anomaly"
+-77.18	-22.91
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-79.62	-22.8
+# @DC6n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|20.131|"Magnetic Anomaly"
+-88.33	-21.76
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-94.18	-21.16
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-92.46	-21.01
+# @DC6n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|20.131|"Magnetic Anomaly"
+-96.03	-20.82
+# @DC18n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|40.13|"Magnetic Anomaly"
+-74.05	-20.59
+# @DC19n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|41.521|"Magnetic Anomaly"
+-73.91	-19.13
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-134.16	-18.95
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-122.18	-18.95
+# @DC4r.1n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|8.257|"Magnetic Anomaly"
+-119.24	-18.93
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-135.05	-18.85
+# @DC6n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|20.131|"Magnetic Anomaly"
+-124.28	-18.83
+# @DC20n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|43.789|"Magnetic Anomaly"
+-139.04	-18.67
+# @DC3n.4n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|5.23|"Magnetic Anomaly"
+-107.5	-18.67
+# @DC21n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|47.906|"Magnetic Anomaly"
+-141.12	-18.53
+# @DC20n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|43.789|"Magnetic Anomaly"
+-139.42	-18.48
+# @DC18n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|40.13|"Magnetic Anomaly"
+-137.22	-18.43
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-135.23	-18.4
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-134.07	-18.36
+# @DC25n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|56.391|"Magnetic Anomaly"
+-145.33	-18.11
+# @DC15n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|34.94|"Magnetic Anomaly"
+-78.84	-17.85
+# @DC19n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|41.521|"Magnetic Anomaly"
+-75.58	-17.78
+# @DC6n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|20.131|"Magnetic Anomaly"
+-91.31	-17.73
+# @DC20n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|43.789|"Magnetic Anomaly"
+-74.4	-17.39
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-94.03	-17.37
+# @DC20n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|43.789|"Magnetic Anomaly"
+-139.66	-17.18
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-133.72	-16.58
+# @DC25n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|56.391|"Magnetic Anomaly"
+-147.96	-16.45
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-135.2	-16.2
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-80.37	-16.09
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-134.15	-16.07
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-82.46	-16.04
+# @DC18n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|40.13|"Magnetic Anomaly"
+-137.22	-15.79
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-135.2	-15.72
+# @DC20n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|43.789|"Magnetic Anomaly"
+-140.14	-14.89
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-134.1	-14.15
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-135.42	-14.07
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-134.12	-13.99
+# @DC19n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|41.521|"Magnetic Anomaly"
+-138.17	-13.48
+# @DC1r.1n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|1.07|"Magnetic Anomaly"
+-110.53	-13.43
+# @DC18n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|40.13|"Magnetic Anomaly"
+-137.21	-13.16
+# @DC8n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|26.554|"Magnetic Anomaly"
+-89.85	-12.71
+# @DC18n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|40.13|"Magnetic Anomaly"
+-136.98	-12.63
+# @DC9n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|27.972|"Magnetic Anomaly"
+-88.96	-12.63
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-134.25	-12.22
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-135.43	-11.84
+# @DC17n.3n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|38.113|"Magnetic Anomaly"
+-136.27	-11.7
+# @DC7n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|25.183|"Magnetic Anomaly"
+-91.46	-11.62
+# @DC16n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|36.341|"Magnetic Anomaly"
+-135.36	-11.52
+# @DC13n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|33.545|"Magnetic Anomaly"
+-134.26	-10.7
+# @DC7n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|25.183|"Magnetic Anomaly"
+-90.71	-9.95
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-97.87	-7.75
+# @DC6n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|20.131|"Magnetic Anomaly"
+-121.33	-2.47
+# @DC3n.4n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|5.23|"Magnetic Anomaly"
+-98.93	-0.3
+# @DC4r.1n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|8.257|"Magnetic Anomaly"
+-96.42	0.37
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-116.61	1.52
+# @DC6n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|20.131|"Magnetic Anomaly"
+-121.14	1.53
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-118.53	1.53
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-119.67	1.6
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-111.44	1.69
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-111.86	1.72
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-114.52	1.73
+# @DC6n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|20.131|"Magnetic Anomaly"
+-109.85	1.73
+# @DC7n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|25.183|"Magnetic Anomaly"
+-125.98	1.77
+# @DC7n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|25.183|"Magnetic Anomaly"
+-126.03	1.82
+# @DC17n.3n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|38.113|"Magnetic Anomaly"
+-132.95	1.97
+# @DC20n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|43.789|"Magnetic Anomaly"
+-135.65	2.15
+# @DC25n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|56.391|"Magnetic Anomaly"
+-144.13	2.44
+# @DC5n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|10.949|"Magnetic Anomaly"
+-110.82	3.9
+# @DC10n.2n|o|3|"RV Vema, RV Robert Conrad, USNS Eltanin"|Herron_1972_GeolSocAmBull|10.1130/0016-7606(1972)83[1671:SSATCH]2.0.CO;2|28.745|"Magnetic Anomaly"
+-86.70988	-16.08157

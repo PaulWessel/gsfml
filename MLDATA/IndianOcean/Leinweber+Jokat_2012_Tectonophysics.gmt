@@ -1,0 +1,2667 @@
+# @VGMT1.0 @GPOINT
+# @R17.5199/41.9502/-67.8444/-17.8487                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+38.408	-27.0811
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+38.7061	-27.0456
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+38.8788	-26.9961
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+38.9986	-26.9826
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+39.0136	-26.9722
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+39.4642	-25.9951
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+39.5126	-25.9672
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+39.5933	-25.9229
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+39.8052	-25.8683
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+40.0978	-25.7998
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+40.2505	-25.7764
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+40.3996	-25.812
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+40.7044	-25.8561
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+40.9914	-25.7257
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+41.0339	-25.7203
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+41.0592	-25.7078
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+38.4028	-27.0235
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+38.6977	-26.9363
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+38.8896	-26.9215
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+38.9897	-26.8844
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+39.0067	-26.8597
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+39.4138	-25.9075
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+39.5057	-25.8875
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+39.61	-25.8291
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+39.7989	-25.7977
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+40.0906	-25.7245
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+39.4801	-25.5884
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+39.6633	-25.5291
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+39.7742	-25.5051
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+40.0663	-25.4287
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+40.2579	-25.4413
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+40.3667	-25.4253
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+40.6641	-25.3838
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+40.8144	-25.3854
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+40.9578	-25.3147
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+38.3776	-26.7409
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+38.6708	-26.6299
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+38.929	-26.5881
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+38.9658	-26.586
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+38.9677	-26.5872
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+39.2603	-26.5235
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+39.1798	-25.5765
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+39.4711	-25.4793
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+39.6833	-25.4166
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+39.7656	-25.3972
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+40.0594	-25.3373
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+40.0823	-25.3298
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+40.2532	-25.3347
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+40.3592	-25.3338
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+40.6557	-25.2811
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+40.9415	-25.1305
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+37.7611	-27.6294
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+37.7776	-27.6931
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+38.352	-26.4348
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+38.6463	-26.3482
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+38.8912	-26.292
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+38.9393	-26.2837
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+38.9666	-26.2726
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+39.2289	-26.1499
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+39.1545	-25.2736
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+39.1858	-25.2767
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+39.4473	-25.2017
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+39.667	-25.1512
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+39.7455	-25.1622
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+39.9047	-25.1065
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+40.0371	-25.0828
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+40.3119	-25.045
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+40.3335	-25.0381
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+40.6295	-24.9739
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+40.9166	-24.8317
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+41.0132	-24.8083
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+37.7631	-27.4982
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+37.7696	-27.4446
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+38.3331	-26.2201
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+38.6293	-26.129
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+38.8426	-26.1204
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+38.9222	-26.1045
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+38.998	-26.0896
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.2216	-26.064
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+38.8461	-25.1813
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.1438	-25.1481
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.231	-25.0861
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.4334	-25.0316
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.6545	-24.947
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.7306	-24.9746
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.7666	-24.9422
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+39.9032	-24.9306
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+40.0232	-24.9072
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+40.3181	-24.8552
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+40.3404	-24.8461
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+40.6144	-24.7881
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+40.7666	-24.7363
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+40.9062	-24.7086
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+40.9989	-24.6884
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+41.003	-24.6738
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+41.1635	-24.5716
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+41.1969	-24.5961
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+41.4905	-24.5146
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+37.7556	-27.3947
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+37.773	-27.3488
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+38.3241	-26.1152
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+38.6212	-26.0469
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+38.8118	-26.0236
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+38.9156	-25.996
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+38.8394	-25.1009
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+39.1329	-25.0214
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+39.2572	-24.9512
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+39.4251	-24.9312
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+39.6897	-24.8582
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+39.7207	-24.872
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+39.829	-24.8531
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+40.0153	-24.8218
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+40.3107	-24.7678
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+40.3511	-24.7601
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+40.6074	-24.7096
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+40.8925	-24.5412
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+40.9871	-24.4902
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+37.7472	-27.2789
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+37.7769	-27.2394
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+38.3151	-25.9882
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+38.6122	-25.94
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+38.906	-25.8863
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+38.8272	-24.9638
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+39.1215	-24.8816
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+39.2745	-24.8502
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+39.4148	-24.8172
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+39.5998	-24.7613
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+39.7118	-24.7584
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+39.7358	-24.7559
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+40.007	-24.7202
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+40.3015	-24.6563
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+40.3609	-24.6416
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+40.598	-24.6023
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+40.8855	-24.4599
+# @DM6n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.01|"Magnetic Anomaly"
+40.9839	-24.4361
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+37.7431	-27.1952
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+37.7867	-27.1407
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+38.3059	-25.8973
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+38.6046	-25.846
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+38.747	-25.828
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+38.8989	-25.8128
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+39.114	-24.7862
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+39.2885	-24.7612
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+39.4076	-24.7263
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+39.5332	-24.6894
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+39.6648	-24.6818
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+39.7054	-24.6756
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+39.998	-24.6165
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+40.2955	-24.5733
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+40.3667	-24.5643
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+40.5889	-24.4896
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+40.6992	-24.4207
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+40.8785	-24.3781
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+40.979	-24.328
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+41.0108	-24.3388
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+41.1735	-24.3212
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+41.2345	-24.3131
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+41.4678	-24.2474
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+38.3012	-25.8344
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+38.5995	-25.7929
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+38.734	-25.7734
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+38.8948	-25.7553
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+39.1071	-24.7141
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+39.3006	-24.6768
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+39.4022	-24.6627
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+39.484	-24.6363
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+39.617	-24.6319
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+39.7002	-24.6111
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+39.9931	-24.547
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+40.2894	-24.514
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+40.5856	-24.4488
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+37.7311	-27.0549
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+37.8033	-27.0254
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+38.296	-25.7705
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+38.5945	-25.7284
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+38.7202	-25.7131
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+38.8885	-25.6915
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.1026	-24.6542
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.3121	-24.5933
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.3964	-24.5878
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.43	-24.5767
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.5696	-24.582
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.6633	-24.5166
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.6962	-24.5697
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+39.9922	-24.5354
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+40.2887	-24.502
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+40.584	-24.4252
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+37.7234	-26.957
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+38.2885	-25.6814
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+38.5869	-25.6472
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+38.7016	-25.6321
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+38.8815	-25.6047
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+39.0919	-24.5133
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+39.1898	-24.5506
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+39.354	-24.4838
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+39.3863	-24.46
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+39.6783	-24.475
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+39.6908	-24.5043
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+39.9855	-24.4645
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+40.2854	-24.454
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+40.3781	-24.4357
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+40.5754	-24.3309
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+40.6781	-24.3215
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+40.8707	-24.2796
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+40.9816	-24.2572
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+41.0176	-24.2605
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+41.1644	-24.2039
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+41.2731	-24.1725
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+41.4577	-24.1232
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+37.716	-26.8399
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+38.2729	-25.5039
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+38.5771	-25.5256
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+38.6739	-25.5213
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+38.873	-25.5018
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+39.0817	-24.4103
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+39.2829	-24.3842
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+39.3621	-24.3649
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+39.3765	-24.3564
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+39.6828	-24.4086
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+39.7158	-24.3708
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+39.9774	-24.3663
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+40.2753	-24.3394
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+40.3934	-24.3142
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+40.5655	-24.2133
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+40.6498	-24.1892
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+40.8613	-24.169
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+40.9876	-24.154
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+41.0282	-24.1358
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+41.1552	-24.1056
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+41.4456	-23.9869
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+37.7104	-26.7797
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+38.2664	-25.4225
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+38.5697	-25.4445
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+38.655	-25.4393
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+38.867	-25.436
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+39.0735	-24.3168
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+39.2442	-24.3298
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+39.298	-24.2977
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+39.3702	-24.2741
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+39.6733	-24.2951
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+39.7533	-24.2666
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+39.9697	-24.2743
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+40.2687	-24.2616
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+40.4026	-24.2413
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+40.5591	-24.1366
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+40.6338	-24.1141
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+40.8558	-24.1011
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+40.9945	-24.043
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+41.036	-24.0422
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+41.1507	-24.045
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+37.7076	-26.722
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+37.8309	-26.6782
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+38.2581	-25.3249
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+38.5613	-25.3413
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+38.6298	-25.3436
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+38.8608	-25.3633
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+39.0653	-24.2187
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+39.1646	-24.2181
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+39.2137	-24.2093
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+39.3637	-24.2018
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+39.6647	-24.1969
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+39.7908	-24.1625
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+39.962	-24.1767
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+40.2611	-24.1793
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+40.412	-24.1693
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+40.5529	-24.0518
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+40.6158	-24.0299
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+40.8451	-23.9792
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+40.9942	-23.9583
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+41.0451	-23.9348
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+41.141	-23.9312
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+38.2511	-25.2414
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+38.5553	-25.2675
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+38.6132	-25.2827
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+38.8575	-25.3157
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+39.0596	-24.144
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+39.0712	-24.1361
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+40.2501	-24.0375
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+40.5491	-23.9987
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+40.8415	-23.9393
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+41.048	-23.9001
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+41.1363	-23.864
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+38.2491	-25.219
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+38.5529	-25.245
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+38.605	-25.2528
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+38.8555	-25.2926
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+39.0573	-24.1214
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+40.2447	-23.9708
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+40.5438	-23.9409
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+40.8369	-23.8662
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+40.9935	-23.8751
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+41.055	-23.835
+# @DM10Nn.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.93|"Magnetic Anomaly"
+41.1329	-23.8259
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+37.5065	-26.589
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+37.6961	-26.5709
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+37.9932	-25.9176
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.0162	-24.0769
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.0518	-24.0528
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.0589	-24.0468
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.3019	-24.0478
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.3498	-24.0298
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.4458	-24.0296
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.6496	-24.0089
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.8433	-24.0166
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+39.9488	-24.018
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+40.2383	-23.8919
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+40.5366	-23.8672
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+40.5773	-23.8496
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+40.83	-23.8006
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+40.9928	-23.7922
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+41.0515	-23.7577
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+41.0535	-23.7493
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+41.1249	-23.7355
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+38.2401	-25.1131
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+38.5428	-25.1224
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+38.5768	-25.1262
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+41.3545	-22.8843
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+41.656	-22.8952
+# @DM10Nn.2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.085|"Magnetic Anomaly"
+41.9502	-22.8275
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+37.4	-26.5597
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+37.6889	-26.4756
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+37.9897	-25.8766
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+38.2348	-25.047
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+38.3825	-25.0812
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+38.5362	-25.0488
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+38.5591	-25.0476
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+38.6795	-25.0678
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+38.9694	-24.0153
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.0072	-23.9924
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.0452	-23.973
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.2856	-23.9484
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.3418	-23.9347
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.4869	-23.9416
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.6432	-23.9259
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.8733	-23.9333
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+39.9421	-23.9411
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+40.2298	-23.7947
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+40.4616	-23.7772
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+40.5257	-23.7381
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+40.5516	-23.7294
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+40.8196	-23.6768
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+40.992	-23.6956
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+41.0412	-23.6705
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+41.1198	-23.6675
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+41.346	-22.7803
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+41.5084	-22.8188
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+41.6429	-22.7514
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+41.9403	-22.7061
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+37.6784	-26.3214
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+37.9165	-26.3075
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+37.9877	-25.841
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+38.2241	-24.9263
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+38.5249	-24.8922
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+38.5588	-24.966
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+39.5799	-23.7865
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+39.6319	-23.7889
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+39.9306	-23.8079
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+40.2187	-23.6605
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+40.4883	-23.5934
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+40.5155	-23.6046
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+40.5247	-23.6031
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+40.8112	-23.5797
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+40.9902	-23.4885
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+41.1046	-23.4969
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+41.3267	-22.5561
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+41.4838	-22.5881
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+41.6292	-22.5729
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+41.9266	-22.5471
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+37.668	-26.177
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.0207	-23.679
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.2733	-23.6481
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.3157	-23.6326
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.6161	-23.5993
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.6952	-23.6091
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.8271	-23.5444
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.9082	-23.5331
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+39.9733	-23.5166
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+40.2041	-23.4855
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+40.5046	-23.5032
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+40.5071	-23.5042
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+40.5086	-23.528
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+40.8054	-23.4926
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+41.0926	-23.3533
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+41.4898	-22.3009
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+41.903	-22.2655
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+37.975	-25.6976
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+38.2141	-24.808
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+38.4529	-24.7533
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+38.5115	-24.7483
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+37.6593	-26.0564
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+37.9699	-25.6267
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+38.1572	-24.7377
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+38.208	-24.732
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+39.0139	-23.6017
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+39.2733	-23.5321
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+39.5661	-23.4611
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+39.6064	-23.482
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+39.8181	-23.4198
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+39.8975	-23.413
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+40	-23.35
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+40.1948	-23.3681
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+40.4682	-23.3386
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+40.4963	-23.3791
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+40.5255	-23.3768
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+40.7914	-23.3271
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+41.0872	-23.281
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+41.2964	-22.1768
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+41.4736	-22.1147
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+41.588	-22.0668
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+41.8687	-22.1541
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+41.8917	-22.1262
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+37.9665	-25.5911
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+38.1592	-24.7253
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+38.207	-24.7208
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+39.0106	-23.5629
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+39.2733	-23.5192
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+40.1885	-23.294
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+40.447	-23.2394
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+40.4857	-23.2538
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+40.5343	-23.2413
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+40.7842	-23.2486
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+40.9879	-23.2026
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+41.001	-23.195
+# @DM11Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.51|"Magnetic Anomaly"
+41.0791	-23.1786
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+37.9637	-25.5557
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+38.165	-24.6881
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+38.2037	-24.6828
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+38.4217	-24.6283
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+38.5	-24.6107
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+38.7895	-24.5097
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+39.0093	-23.5406
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+39.2757	-23.4817
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+39.3032	-23.4699
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+40.1841	-23.2391
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+40.4136	-23.0831
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+40.4769	-23.1435
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+40.546	-23.136
+# @DM12n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.655|"Magnetic Anomaly"
+40.7737	-23.1186
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+37.6482	-25.9047
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+37.9485	-25.3673
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+38.1864	-24.5518
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+38.1949	-24.572
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+38.3981	-24.5217
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+38.4907	-24.4994
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+38.7786	-24.3871
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+38.9979	-23.4051
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+39.2762	-23.3781
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+39.2806	-23.385
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+39.2941	-23.3611
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+39.5909	-23.2931
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+39.884	-23.2377
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+39.9393	-23.2293
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+40.1753	-23.1307
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+40.4642	-22.9946
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+40.5412	-22.983
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+40.7605	-22.9497
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+41.2827	-22.0142
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+41.465	-21.9639
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+41.5772	-21.9404
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+41.7554	-21.9734
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+41.8774	-21.9473
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+37.6408	-25.8072
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+37.9346	-25.1934
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+38.1818	-24.4192
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+38.2107	-24.3931
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+38.3674	-24.374
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+38.4779	-24.3499
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+38.7699	-24.2775
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+38.9905	-23.3216
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+39.0058	-23.3075
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+39.2755	-23.2608
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+39.2867	-23.2677
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+39.5794	-23.1493
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+39.8681	-23.0641
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+40.1647	-22.9994
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+40.4531	-22.8655
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+40.5432	-22.8786
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+40.7491	-22.8202
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+41.687	-21.8652
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+41.8621	-21.7657
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+37.6371	-25.7602
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+37.9281	-25.1146
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+38.1765	-24.3535
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+38.2233	-24.3063
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+38.3609	-24.3102
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+38.4729	-24.2913
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+38.7653	-24.2166
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+38.9789	-23.1768
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+39.2778	-23.1701
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+39.2792	-23.1841
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+40.4465	-22.7692
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+40.5358	-22.7362
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+37.6334	-25.7028
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+37.9212	-25.0369
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+38.1724	-24.31
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+38.2317	-24.2472
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+38.3571	-24.2727
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+38.4684	-24.2384
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+38.7622	-24.1798
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+38.975	-23.1364
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+39.2746	-23.1232
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+39.5717	-23.0584
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+40.4417	-22.714
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+41.268	-21.8348
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+41.4834	-21.7691
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+41.5607	-21.7385
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+41.6041	-21.7313
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+37.6234	-25.5563
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+37.9133	-24.9337
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+37.9578	-24.9174
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+38.166	-24.2228
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+38.2467	-24.155
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+38.3491	-24.1939
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+38.4623	-24.1617
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+38.7544	-24.0965
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+38.9679	-23.0517
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+39.2641	-23.0013
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+39.3305	-22.9838
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+39.5617	-22.933
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+39.8529	-22.8681
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+40.1437	-22.7542
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+40.7064	-22.2982
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+41.4958	-21.586
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+41.508	-21.5803
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+41.851	-21.6273
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+37.6182	-25.4754
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+37.8897	-24.8805
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+37.9083	-24.8785
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+38.1595	-24.1533
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+38.2606	-24.0722
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+38.3405	-24.1159
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+38.4566	-24.0921
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+38.7497	-24.0306
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+40.6994	-22.2111
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+41.4667	-21.5126
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+41.8436	-21.5341
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+38.9621	-22.9805
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+39.2575	-22.9221
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+39.3505	-22.8976
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+39.553	-22.8349
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+39.8464	-22.7952
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+40.1375	-22.6675
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+40.3078	-22.5872
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+40.5266	-22.6091
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+37.6129	-25.4243
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+37.7953	-24.8287
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+37.9036	-24.81
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+38.1535	-24.0731
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+38.2644	-23.9944
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+38.3312	-24.0302
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+38.4497	-24.011
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+38.7424	-23.9522
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+38.9535	-22.8739
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+39.2499	-22.8316
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+39.3633	-22.8008
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+39.545	-22.7375
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+39.8408	-22.7207
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+40.132	-22.6153
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+40.293	-22.5181
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+40.6931	-22.1338
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+41.8341	-21.4214
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+37.6029	-25.2768
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+37.5417	-24.6884
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+37.5593	-24.6801
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+37.8878	-24.6165
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.1344	-23.8422
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.2789	-23.7611
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.3085	-23.809
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.4314	-23.792
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.7249	-23.7272
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.7507	-23.7391
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.7571	-23.7293
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+40.386	-22.0406
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+40.5867	-21.9609
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+40.677	-21.9453
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+38.9392	-22.7028
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+39.2292	-22.5789
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+39.3935	-22.5659
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+39.5316	-22.5646
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+39.8251	-22.5286
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+41.5188	-21.2328
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+41.8184	-21.221
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+37.5908	-25.1073
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+37.5523	-24.5752
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+37.8769	-24.4834
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.1254	-23.7425
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.285	-23.6667
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.302	-23.7126
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.4233	-23.6988
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.6608	-23.6279
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.6641	-23.6321
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.7154	-23.6255
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+38.926	-22.5448
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+39.085	-22.5517
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+39.222	-22.4884
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+39.4061	-22.4644
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+39.5208	-22.4362
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+39.815	-22.4092
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+40.3757	-21.9324
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+40.6031	-21.8021
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+40.6668	-21.8139
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+40.9531	-21.6456
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+40.9963	-21.6383
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+41.8117	-21.1405
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+37.5853	-25.0222
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+37.5473	-24.4988
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+37.8689	-24.376
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.1188	-23.6581
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.2917	-23.6245
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.4151	-23.6044
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.5889	-23.5523
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.5933	-23.5497
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.7079	-23.5239
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.9181	-22.4471
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+38.9714	-22.4914
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+39.2134	-22.3874
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+39.4213	-22.3625
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+39.514	-22.358
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+39.8049	-22.2778
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+40.3699	-21.8544
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+40.6127	-21.7352
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+40.6595	-21.7289
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+40.939	-21.4806
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+40.9849	-21.4574
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+41.233	-21.4002
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+41.8067	-21.0829
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+37.5329	-24.2968
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+37.8541	-24.1909
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+38.1012	-23.4407
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+38.3964	-23.3792
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+38.4218	-23.3756
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+38.4257	-23.3826
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+38.6922	-23.3375
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+38.6029	-22.2614
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+38.8993	-22.2194
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+39.1929	-22.1351
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+39.2134	-22.1657
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+39.4658	-22.1367
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+39.4949	-22.123
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+39.7876	-22.0696
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+40.0786	-21.9641
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+40.3476	-21.5806
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+40.6431	-21.5238
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+40.6491	-21.5135
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+40.9307	-21.3749
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+40.9757	-21.3662
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+41.1449	-21.2463
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+41.2226	-21.2696
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+38.5945	-22.148
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+38.8908	-22.1163
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+39.1864	-22.0538
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+39.2847	-22.0403
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+39.491	-22.0693
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+39.7792	-21.9676
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+40.0757	-21.923
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+37.5265	-24.2013
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+37.8446	-24.0784
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+38.0919	-23.3363
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+38.3503	-23.3116
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+38.3538	-23.3037
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+38.3899	-23.301
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+38.6841	-23.2432
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+40.3392	-21.4824
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+40.9219	-21.2693
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+40.9656	-21.2304
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+41.1483	-21.1256
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+41.2205	-21.1164
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+37.5203	-24.1105
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+37.8387	-24.0046
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+38.0851	-23.2499
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+38.2897	-23.2361
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+38.3726	-23.0882
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+38.6663	-23.0256
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+38.5854	-22.0543
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+38.8831	-22.0225
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+39.1807	-21.9795
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+39.3194	-21.9639
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+39.4816	-21.9564
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+39.7722	-21.8766
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+40.065	-21.7883
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+40.3323	-21.4014
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+40.9773	-21.111
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+41.1923	-21.0726
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+41.2058	-21.0705
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+37.3918	-23.9403
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+37.5053	-23.9092
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+37.8225	-23.798
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+37.9512	-23.7736
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.5708	-21.8753
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.872	-21.8861
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+39.1608	-21.7425
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+39.3958	-21.759
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+39.4662	-21.7646
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+39.53	-21.7327
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+39.7544	-21.6637
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+40.0533	-21.6529
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.0668	-23.0337
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.1458	-23.0848
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.3605	-22.9455
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.517	-22.9229
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.5997	-22.9305
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+38.6548	-22.893
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+40.3169	-21.2129
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+40.6114	-21.1381
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+41.1373	-20.9842
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+41.1529	-20.9785
+# @DM19r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.215|"Magnetic Anomaly"
+37.5007	-23.8342
+# @DM19r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.215|"Magnetic Anomaly"
+37.8165	-23.721
+# @DM19r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.215|"Magnetic Anomaly"
+37.8746	-23.7103
+# @DM19r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.215|"Magnetic Anomaly"
+38.3459	-22.7688
+# @DM19r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.215|"Magnetic Anomaly"
+38.6419	-22.7228
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+37.4915	-23.7011
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+37.7837	-23.6347
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+37.8089	-23.6352
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+38.0428	-22.7483
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+38.1502	-22.7205
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+38.3414	-22.7029
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+38.6344	-22.6425
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+39.1453	-21.545
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+39.4427	-21.4744
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+39.8397	-21.4041
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+40.0295	-21.3551
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+40.9362	-20.6631
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+40.8887	-20.5864
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+38.0314	-22.5987
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+38.1401	-22.6195
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+38.1536	-22.5825
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+38.3299	-22.5777
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+38.6168	-22.4242
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+38.4069	-21.5809
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+39.1355	-21.4249
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+39.4362	-21.4008
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+40.0212	-21.2582
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+37.4809	-23.565
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+37.6926	-23.541
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+37.7989	-23.51
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+37.4734	-23.4607
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+37.6146	-23.4476
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+37.7902	-23.4
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+37.9093	-22.4989
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+38.0207	-22.4706
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+38.1547	-22.4725
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+38.3185	-22.4418
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+38.3424	-22.3693
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+38.4264	-21.3874
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+39.1242	-21.3033
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+39.4269	-21.2746
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+39.5576	-21.3006
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+39.7203	-21.2434
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+40.0127	-21.1512
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+37.4686	-23.3743
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+37.5486	-23.3645
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+37.7849	-23.3345
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+38.0119	-22.3649
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+38.1555	-22.3669
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+38.311	-22.3454
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+38.3479	-22.2704
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+39.8637	-20.5374
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+40.0549	-20.459
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+40.7691	-20.3899
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+38.4411	-21.2653
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+39.1159	-21.1985
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+39.416	-21.1565
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+39.65	-21.045
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+39.7083	-21.0985
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+40.0058	-21.0687
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+37.4579	-23.2393
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+37.4672	-23.2407
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+37.7758	-23.2177
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+37.9877	-22.0745
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+38.1483	-22.0042
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+38.2778	-21.948
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+38.4806	-20.9861
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+38.9694	-20.9505
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+39.0929	-20.9246
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+39.3901	-20.8258
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+39.7367	-20.8183
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+39.7783	-20.769
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+39.9082	-20.7826
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+39.9251	-20.4015
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+40.0896	-20.3806
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+40.6808	-20.2112
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+41.0054	-20.2284
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+37.9738	-21.8991
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+38.1514	-21.8517
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+38.2683	-21.8292
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+38.8315	-20.7274
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+39.0714	-20.6599
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+39.3763	-20.6565
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+39.5219	-20.2643
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+40.0065	-20.198
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+40.1809	-20.1789
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+40.6088	-20.0677
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+40.9235	-20.0326
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+40.987	-19.957
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+41.5236	-19.8098
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+41.5816	-19.8276
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+37.901	-21.6356
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+38.1494	-21.6068
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+38.7667	-20.6221
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+39.1609	-20.4823
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+39.4661	-20.1536
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+40.0783	-20.0078
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+40.2678	-19.9705
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+40.5417	-19.9352
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+40.6952	-19.8947
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+40.98	-19.8308
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+41.362	-19.6541
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+41.5809	-19.6289
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+38.7276	-20.5584
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+39.4033	-20.0295
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+40.3178	-19.8345
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+40.4719	-19.7978
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+40.7	-19.7488
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+38.5681	-20.5847
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+38.6901	-20.4981
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+39.3659	-19.9553
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+40.3465	-19.767
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+40.4425	-19.7395
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+40.7	-19.6794
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+40.9855	-19.6848
+# @DM24Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|152.335|"Magnetic Anomaly"
+37.9157	-21.1978
+# @DM24Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|152.335|"Magnetic Anomaly"
+38.1634	-21.0792
+# @DM24Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|152.335|"Magnetic Anomaly"
+38.6035	-20.3673
+# @DM24Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|152.335|"Magnetic Anomaly"
+38.6079	-20.3633
+# @DM24Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|152.335|"Magnetic Anomaly"
+39.2882	-19.8008
+# @DM24Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|152.335|"Magnetic Anomaly"
+40.3208	-19.4981
+# @DM24Ar|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|152.335|"Magnetic Anomaly"
+40.3329	-19.4603
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+38.5211	-20.2219
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+38.6667	-20.2
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+39.2206	-19.6664
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+39.3316	-19.6187
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+40.2637	-19.3844
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+40.7062	-19.2666
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+40.9445	-19.2507
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+40.9598	-19.2237
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+37.9041	-21.0509
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+37.9871	-20.9914
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+38.1168	-20.9644
+# @DM26r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|155.435|"Magnetic Anomaly"
+37.9448	-20.922
+# @DM26r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|155.435|"Magnetic Anomaly"
+38.0872	-20.8913
+# @DM26r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|155.435|"Magnetic Anomaly"
+39.1567	-19.5389
+# @DM26r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|155.435|"Magnetic Anomaly"
+40.203	-19.2636
+# @DM26r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|155.435|"Magnetic Anomaly"
+40.7175	-19.1166
+# @DM26r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|155.435|"Magnetic Anomaly"
+40.8175	-19.1273
+# @DM26r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|155.435|"Magnetic Anomaly"
+40.9457	-19.0644
+# @DM28n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|156.12|"Magnetic Anomaly"
+37.9219	-20.8843
+# @DM28n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|156.12|"Magnetic Anomaly"
+38.0361	-20.7514
+# @DM28n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|156.12|"Magnetic Anomaly"
+39.1159	-19.4576
+# @DM28n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|156.12|"Magnetic Anomaly"
+40.0913	-19.0408
+# @DM29r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|157.4|"Magnetic Anomaly"
+37.7431	-20.5911
+# @DM29r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|157.4|"Magnetic Anomaly"
+37.9477	-20.5002
+# @DM29r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|157.4|"Magnetic Anomaly"
+38.2712	-19.813
+# @DM29r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|157.4|"Magnetic Anomaly"
+39.0026	-19.2299
+# @DM29r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|157.4|"Magnetic Anomaly"
+39.9868	-18.8319
+# @DM29r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|157.4|"Magnetic Anomaly"
+40.3842	-18.7047
+# @DM33n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|159.024|"Magnetic Anomaly"
+37.675	-20.4793
+# @DM33n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|159.024|"Magnetic Anomaly"
+37.869	-20.3265
+# @DM33n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|159.024|"Magnetic Anomaly"
+38.1876	-19.6755
+# @DM33n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|159.024|"Magnetic Anomaly"
+38.8874	-18.9989
+# @DM33n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|159.024|"Magnetic Anomaly"
+39.5412	-18.6739
+# @DM33n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|159.024|"Magnetic Anomaly"
+39.7087	-18.6109
+# @DM33n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|159.024|"Magnetic Anomaly"
+39.8434	-18.5437
+# @DM41n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|166.79|"Magnetic Anomaly"
+38.5042	-18.2235
+# @DM41n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|166.79|"Magnetic Anomaly"
+39.499	-17.8487
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+20.5579	-64.2703
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+20.1612	-64.2197
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+19.1748	-64.0659
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+26.5013	-62.9762
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+26.345	-62.9326
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+26.2168	-62.8678
+# @DM0r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|120.8|"Magnetic Anomaly"
+26.0793	-62.813
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+26.3061	-63.1275
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+26.1916	-63.0518
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+26.0378	-63.0072
+# @DM1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|122.095|"Magnetic Anomaly"
+25.8612	-62.9802
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+26.0078	-63.357
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+25.8505	-63.3145
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+25.7221	-63.2516
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+25.5408	-63.2232
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+20.0832	-64.6451
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+19.6843	-64.5936
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+18.6899	-64.3536
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+22.8293	-63.8579
+# @DM1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.37|"Magnetic Anomaly"
+21.9056	-63.644
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+19.9754	-64.7296
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+19.6124	-64.6495
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+18.6067	-64.4065
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+25.899	-63.4391
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+25.7359	-63.3995
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+25.4226	-63.3123
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+23.0308	-64.0244
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+22.8434	-63.949
+# @DM2n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|123.8|"Magnetic Anomaly"
+21.8577	-63.7294
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+25.5093	-63.7319
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+25.3298	-63.7024
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+25.1193	-63.6957
+# @DM3r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|124.86|"Magnetic Anomaly"
+24.982	-63.6375
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+25.3089	-63.8789
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+25.1222	-63.8543
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+24.93	-63.832
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+24.7013	-63.8405
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+19.3504	-65.1049
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+19.116	-65.0326
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+17.9854	-64.7989
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+22.4575	-64.4021
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+21.6888	-64.2381
+# @DM4n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.12|"Magnetic Anomaly"
+21.5731	-64.2333
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+25.0777	-64.0454
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+24.893	-64.0191
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+24.7049	-63.9946
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+24.5529	-63.9443
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+19.0685	-65.1776
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+18.9543	-65.156
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+17.8185	-64.9032
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+22.2229	-64.555
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+21.8714	-64.4981
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+21.4846	-64.3879
+# @DM5r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|126.74|"Magnetic Anomaly"
+21.445	-64.3996
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+18.8547	-65.2327
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+18.8658	-65.2235
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.8862	-64.1836
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.7275	-64.1373
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.5509	-64.1038
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.3694	-64.0758
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+22.0563	-64.6629
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+21.8213	-64.5857
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+21.4588	-64.4327
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+21.3507	-64.4616
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+18.7573	-65.3059
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+18.6517	-65.2849
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.811	-64.2362
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.6406	-64.1987
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.4671	-64.1621
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+24.2887	-64.132
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+23.5716	-64.0052
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+21.9412	-64.737
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+21.7664	-64.681
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+21.376	-64.576
+# @DM7r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.64|"Magnetic Anomaly"
+21.2107	-64.554
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+18.6723	-65.3704
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+18.4212	-65.3442
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+21.8933	-64.8089
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+21.7232	-64.7559
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+21.3202	-64.6722
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+21.1748	-64.6476
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+21.1252	-64.6098
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+24.7141	-64.3054
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+24.5377	-64.2712
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+24.3619	-64.2341
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+24.1924	-64.1993
+# @DM8n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|127.93|"Magnetic Anomaly"
+23.5406	-64.0643
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+18.5991	-65.4256
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+18.3267	-65.3683
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+17.5199	-65.1762
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+24.6106	-64.3772
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+24.4368	-64.3416
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+24.2795	-64.2964
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+24.1093	-64.2581
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+23.501	-64.1401
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+21.851	-64.9088
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+21.6844	-64.8226
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+21.2897	-64.7252
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+21.0911	-64.669
+# @DM8r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.205|"Magnetic Anomaly"
+21.048	-64.6604
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+18.542	-65.4685
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+18.169	-65.4087
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+17.5204	-65.2776
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+24.4964	-64.4565
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+24.33	-64.4172
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+24.1789	-64.3639
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+24.0289	-64.31
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+23.4665	-64.2053
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+21.8218	-64.9762
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+21.6421	-64.8954
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+20.9673	-64.713
+# @DM9n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.48|"Magnetic Anomaly"
+20.8833	-64.7221
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+24.3961	-64.5263
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+24.2191	-64.4915
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+24.0875	-64.4258
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+23.9416	-64.3716
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+23.4386	-64.2577
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+21.7887	-65.0543
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+21.5955	-64.9759
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+21.2545	-64.932
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+20.8621	-64.7815
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+20.8019	-64.7431
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+18.4483	-65.5392
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+18.1967	-65.5007
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+17.9652	-65.4609
+# @DM9r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|128.775|"Magnetic Anomaly"
+17.5203	-65.3281
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+21.5275	-65.0919
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+21.1189	-65.0225
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+20.7613	-64.8472
+# @DM10n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.09|"Magnetic Anomaly"
+20.6202	-64.7894
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+18.0102	-65.6247
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+17.6633	-65.5378
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+17.5204	-65.4952
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+21.0504	-65.068
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+20.6688	-64.907
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+20.5553	-64.8058
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+24.2155	-64.6507
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+24.069	-64.593
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+23.9195	-64.542
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+23.7378	-64.5097
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+23.5724	-64.4669
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+23.4181	-64.4163
+# @DM10r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.44|"Magnetic Anomaly"
+23.3484	-64.4275
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+20.9506	-65.1345
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+20.236	-64.8871
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+24.1369	-64.7029
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+23.9613	-64.668
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+23.8085	-64.6164
+# @DM10Nn.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|129.77|"Magnetic Anomaly"
+23.3266	-64.469
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+20.8341	-65.2117
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+20.4324	-65.06
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+19.6975	-64.946
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+24.0282	-64.7763
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+23.8895	-64.7182
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+23.7323	-64.6675
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+23.5679	-64.6228
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+23.4007	-64.5815
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+23.2761	-64.5637
+# @DM10Nn.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.365|"Magnetic Anomaly"
+23.2125	-64.5526
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+23.9004	-64.8665
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+23.7459	-64.8152
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+23.5788	-64.7715
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+23.4154	-64.725
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+23.2594	-64.6775
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+23.2216	-64.6652
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+23.0798	-64.6406
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+20.6972	-65.3023
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+20.3133	-65.1365
+# @DM10Nr|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|130.665|"Magnetic Anomaly"
+19.6264	-65.0008
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+23.7381	-64.9731
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+23.6014	-64.9107
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+23.5014	-64.8225
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+23.3382	-64.7765
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+23.1849	-64.7241
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+23.2041	-64.6979
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+23.0366	-64.671
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+22.9504	-64.6196
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+20.6017	-65.3653
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+20.2156	-65.199
+# @DM11n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.17|"Magnetic Anomaly"
+19.5444	-65.0643
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.5722	-65.0824
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.4495	-65.0111
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.2978	-64.9548
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.2199	-64.8527
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.1414	-64.8142
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.0909	-64.7873
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+22.9598	-64.72
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+22.9632	-64.7001
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+20.4901	-65.4386
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+20.0389	-65.3121
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+19.4144	-65.1645
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.3815	-65.0552
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.2218	-65.0061
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+23.0856	-64.9421
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+22.9815	-64.8573
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+22.9831	-64.8224
+# @DM11r.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.72|"Magnetic Anomaly"
+22.8347	-64.8008
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+23.0554	-64.9615
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+22.9991	-64.9209
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+22.9156	-64.9002
+# @DM11r.2r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|131.82|"Magnetic Anomaly"
+22.7288	-64.8686
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+20.2582	-65.5903
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+19.836	-65.4411
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+19.2953	-65.2562
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+23.4042	-65.1918
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+23.2174	-65.1629
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+23.1162	-65.0743
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+23.0272	-65.0253
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+22.9601	-65.0242
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+22.7854	-64.9851
+# @DM11An.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|132.13|"Magnetic Anomaly"
+22.6338	-64.9302
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+20.1391	-65.668
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+19.6332	-65.5696
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+19.1103	-65.3974
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+23.2359	-65.3014
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+23.0596	-65.29
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+23.0519	-65.2688
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+22.9008	-65.2567
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+22.8717	-65.2315
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+22.6851	-65.1993
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+22.5498	-65.1346
+# @DM12r.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.135|"Magnetic Anomaly"
+22.4115	-65.0719
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+19.9822	-65.7698
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+19.4774	-65.6679
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+19.0016	-65.4803
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+23.2659	-65.4383
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+23.0813	-65.4204
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+23.0881	-65.3965
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+22.9192	-65.3539
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+22.8506	-65.3478
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+22.7311	-65.3211
+# @DM12An|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|133.86|"Magnetic Anomaly"
+22.1766	-65.2184
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+23.1367	-65.517
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+23.0026	-65.4482
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+22.8353	-65.4068
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+22.6615	-65.3658
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+22.1048	-65.2645
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+19.8806	-65.8357
+# @DM13r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.4|"Magnetic Anomaly"
+19.3583	-65.7425
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+23.0846	-65.5513
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+22.9061	-65.508
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+22.7914	-65.435
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+22.617	-65.3923
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+22.4581	-65.3426
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+22.2721	-65.3107
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+22.0143	-65.3214
+# @DM14n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|134.67|"Magnetic Anomaly"
+19.8213	-65.8737
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+19.7424	-65.9249
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+18.7054	-65.7041
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+23.006	-65.5991
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+22.8231	-65.564
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+22.6406	-65.5286
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+22.4529	-65.4929
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+22.3049	-65.4384
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+22.1137	-65.4072
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+21.9195	-65.3792
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+21.7692	-65.324
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+21.7007	-65.2576
+# @DM14r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.19|"Magnetic Anomaly"
+21.6306	-65.2612
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+22.9175	-65.657
+# @DM15n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|135.765|"Magnetic Anomaly"
+18.6046	-65.78
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+19.9252	-66.1777
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+19.5209	-66.0665
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+19.0896	-65.9106
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+18.5523	-65.8192
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+18.1344	-65.774
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+22.8634	-65.6908
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+22.6848	-65.6508
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+22.5047	-65.6133
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+22.3179	-65.5792
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+22.1232	-65.5501
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+21.9259	-65.5229
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+21.7667	-65.4716
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+21.6165	-65.4517
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+21.6087	-65.4218
+# @DM15r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|136.225|"Magnetic Anomaly"
+21.4445	-65.3747
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+19.7643	-66.2685
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+19.3953	-66.1468
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+18.8876	-66.0359
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+18.4013	-65.9323
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+17.9897	-65.8813
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+22.7098	-65.7871
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+22.5344	-65.7441
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+22.3765	-65.6931
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+22.2069	-65.6483
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+21.9879	-65.6322
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+21.8175	-65.5888
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+21.6506	-65.5428
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+21.5717	-65.5538
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+21.4764	-65.5016
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+21.3017	-65.46
+# @DM16n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|137.17|"Magnetic Anomaly"
+21.1774	-65.4558
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+19.5149	-66.409
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+18.6629	-66.1744
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+18.2272	-66.0615
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+17.8594	-65.9779
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+22.301	-65.8883
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+22.1127	-65.8545
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+21.9305	-65.8162
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+21.7445	-65.7813
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+21.5449	-65.7537
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+21.3886	-65.7012
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+21.2212	-65.6489
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+21.0518	-65.6084
+# @DM16r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.175|"Magnetic Anomaly"
+20.9594	-65.5829
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+22.1721	-65.9673
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+21.9852	-65.9313
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+21.8042	-65.8937
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+21.6176	-65.8564
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+21.445	-65.8142
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+21.2809	-65.765
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+21.1002	-65.7241
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+20.9304	-65.6817
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+20.8142	-65.6674
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+19.4407	-66.4774
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+18.9968	-66.3986
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+18.4766	-66.2887
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+18.1277	-66.1349
+# @DM17n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|138.695|"Magnetic Anomaly"
+17.7544	-66.0552
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+19.3256	-66.5603
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+18.9039	-66.4571
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+17.9785	-66.2449
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+17.6197	-66.1536
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+22.0068	-66.0675
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+21.8582	-66.0076
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+21.6652	-65.9763
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+21.4896	-65.932
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+21.3242	-65.8841
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+21.1496	-65.8405
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+20.9327	-65.8239
+# @DM17r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|139.7|"Magnetic Anomaly"
+20.754	-65.7846
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+21.7603	-66.2132
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+21.5718	-66.1768
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+21.3733	-66.1458
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+21.1771	-66.1174
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+20.9928	-66.0784
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+20.8327	-66.0267
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+20.659	-65.9828
+# @DM18n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|140.865|"Magnetic Anomaly"
+20.492	-65.9361
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+21.6316	-66.2899
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+21.4564	-66.2449
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+21.2664	-66.2098
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+21.0753	-66.176
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+20.8845	-66.1411
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+20.719	-66.0915
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+20.5792	-66.0279
+# @DM18r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|141.425|"Magnetic Anomaly"
+20.4333	-65.9686
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+21.7969	-66.4556
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+21.4281	-66.4081
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+21.2823	-66.3455
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+21.1085	-66.3025
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.8966	-66.2776
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.7366	-66.2252
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.5777	-66.1718
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.4172	-66.1196
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.2071	-66.0966
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+22.4448	-66.8554
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+21.4507	-66.5279
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+21.2282	-66.5242
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+21.051	-66.4811
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.8913	-66.4265
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.7383	-66.369
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.5677	-66.3225
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.3858	-66.2817
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.2035	-66.2412
+# @DM19n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|142.475|"Magnetic Anomaly"
+20.061	-66.1794
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+22.328	-66.9489
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+21.0886	-66.6251
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+20.8815	-66.5739
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+20.3767	-66.4278
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+20.2507	-66.358
+# @DM20n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|143.565|"Magnetic Anomaly"
+20.1036	-66.2967
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+22.2155	-67.0436
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+21.0888	-66.7529
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+20.8795	-66.6947
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+20.6713	-66.6537
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+20.4634	-66.5924
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+20.2563	-66.5032
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+20.211	-66.5177
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+20.0781	-66.4538
+# @DM20r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|145.11|"Magnetic Anomaly"
+19.9123	-66.4036
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+22.0933	-67.1495
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+21.0935	-66.9034
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+20.8811	-66.8502
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+20.6694	-66.8071
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+20.4596	-66.7471
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+20.2527	-66.6821
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+20.0433	-66.6376
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+19.8376	-66.5459
+# @DM21n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.04|"Magnetic Anomaly"
+19.6336	-66.4981
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+21.9963	-67.2335
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+21.0959	-67.0133
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+20.88	-66.97
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+20.6697	-66.9284
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+20.4572	-66.8619
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+20.2487	-66.7836
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+20.0396	-66.7343
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+19.8322	-66.6732
+# @DM21r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|146.81|"Magnetic Anomaly"
+19.6271	-66.5628
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+21.8746	-67.3344
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+21.0941	-67.1952
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+20.8788	-67.1459
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+20.667	-67.0791
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+20.6493	-67.0836
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+20.4512	-67.0295
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+20.2438	-66.9276
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+20.0351	-66.8466
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+19.8275	-66.788
+# @DM22n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|147.815|"Magnetic Anomaly"
+19.6214	-66.6853
+# @DM22n.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|148.755|"Magnetic Anomaly"
+21.0933	-67.2869
+# @DM22n.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|148.755|"Magnetic Anomaly"
+20.8764	-67.242
+# @DM22n.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|148.755|"Magnetic Anomaly"
+20.45	-67.1527
+# @DM22n.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|148.755|"Magnetic Anomaly"
+20.2391	-67.0914
+# @DM22n.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|148.755|"Magnetic Anomaly"
+20.0288	-67.0199
+# @DM22n.3n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|148.755|"Magnetic Anomaly"
+19.6089	-66.9329
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+21.6169	-67.5489
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+21.0932	-67.4958
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+20.8752	-67.4276
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+20.6636	-67.36
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+20.4462	-67.2969
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+20.2319	-67.2757
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+20.0172	-67.2277
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+19.8069	-67.1734
+# @DM22r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|149.14|"Magnetic Anomaly"
+19.596	-67.1148
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+21.4839	-67.6543
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+21.0938	-67.5435
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+20.8771	-67.4855
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+20.659	-67.4828
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+20.4785	-67.4505
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+20.4452	-67.4534
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+20.2307	-67.373
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+20.0147	-67.3208
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+19.8038	-67.2616
+# @DM23n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|150.365|"Magnetic Anomaly"
+19.5931	-67.1991
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+21.4294	-67.6995
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+21.0944	-67.6388
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+20.8759	-67.6017
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+20.6604	-67.5847
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+20.2282	-67.4168
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+20.0155	-67.3466
+# @DM23r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.165|"Magnetic Anomaly"
+19.5902	-67.2479
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+21.244	-67.8444
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+21.0928	-67.7897
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+20.8766	-67.724
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+20.6575	-67.6712
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+20.227	-67.5122
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+20.0107	-67.4515
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+19.7977	-67.4143
+# @DM24n.1n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.56|"Magnetic Anomaly"
+19.5849	-67.3407
+# @DM24n.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.85|"Magnetic Anomaly"
+20.2231	-67.6189
+# @DM24n.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.85|"Magnetic Anomaly"
+20.0062	-67.5974
+# @DM24n.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.85|"Magnetic Anomaly"
+19.7881	-67.5856
+# @DM24n.1r|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|151.85|"Magnetic Anomaly"
+19.5757	-67.4953
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+20.8723	-67.8188
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+20.6544	-67.7937
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+20.4352	-67.7579
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+20.3442	-67.7341
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+20.2177	-67.7349
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+20.0068	-67.6917
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+19.7857	-67.6691
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+19.563	-67.647
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+19.3473	-67.6702
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+19.1261	-67.6706
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+18.9102	-67.663
+# @DM25n|c|1|"Polar 5"|Leinweber+Jokat_2012_Tectonophysics|10.1016/j.tecto.2011.11.008|153.715|"Magnetic Anomaly"
+18.6956	-67.628

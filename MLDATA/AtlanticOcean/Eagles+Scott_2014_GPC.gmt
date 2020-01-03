@@ -1,0 +1,481 @@
+# @VGMT1.0 @GPOINT
+# @R-92.082/-58.7824/-68.8226/-56.5066                                    
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.2511	-59.0562
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.1733	-58.9948
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.0818	-58.9381
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.94	-58.8812
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.8301	-58.791
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.277	-59.0679
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.1426	-58.0581
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.3311	-58.2222
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.597	-59.3428
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.4781	-59.2913
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.3865	-59.2373
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.1303	-59.0963
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.2447	-59.1786
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.4287	-59.2635
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.6574	-60.1468
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.3983	-59.9326
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.6732	-60.1194
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.2059	-59.8616
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.4287	-59.9454
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.0354	-60.7273
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.7566	-60.5981
+# @DC27n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|61.276|"Magnetic Anomaly"
+-92.082	-65.03
+# @DC26n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|57.911|"Magnetic Anomaly"
+-90.199	-66.7067
+# @DC26n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|57.911|"Magnetic Anomaly"
+-89.1179	-66.3173
+# @DC26n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|57.911|"Magnetic Anomaly"
+-88.7125	-66.0685
+# @DC25n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|56.391|"Magnetic Anomaly"
+-89.8185	-67.2838
+# @DC25n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|56.391|"Magnetic Anomaly"
+-88.38	-66.62
+# @DC25n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|56.391|"Magnetic Anomaly"
+-87.78	-66.464
+# @DC25n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|56.391|"Magnetic Anomaly"
+-87.481	-66.372
+# @DC24n.3n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|53.347|"Magnetic Anomaly"
+-85.7683	-67.6433
+# @DC24n.3n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|53.347|"Magnetic Anomaly"
+-85.234	-67.3581
+# @DC24n.3n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|53.347|"Magnetic Anomaly"
+-86.2058	-67.8164
+# @DC24n.3n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|53.347|"Magnetic Anomaly"
+-86.8312	-67.94
+# @DC24n.3n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|53.347|"Magnetic Anomaly"
+-87.7935	-68.1026
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-84.2944	-67.784
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-84.7348	-68.1153
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-85.0501	-68.2619
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-83.6027	-67.6071
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-82.7903	-67.1316
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-84.6827	-68.0426
+# @DC21n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|46.264|"Magnetic Anomaly"
+-83.487	-68.124
+# @DC21n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|46.264|"Magnetic Anomaly"
+-85.013	-68.723
+# @DC21n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|46.264|"Magnetic Anomaly"
+-82.3517	-67.7109
+# @DC21n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|46.264|"Magnetic Anomaly"
+-82.7287	-67.7942
+# @DC21n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|46.264|"Magnetic Anomaly"
+-82.0432	-67.5836
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-81.3479	-68.8226
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-80.6227	-68.5719
+# @DC27n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|61.276|"Magnetic Anomaly"
+-90.9885	-62.7176
+# @DC27n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|61.276|"Magnetic Anomaly"
+-89.701	-62.1002
+# @DC27n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|61.276|"Magnetic Anomaly"
+-89.606	-62.0742
+# @DC26n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|57.911|"Magnetic Anomaly"
+-88.518	-63.552
+# @DC26n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|57.911|"Magnetic Anomaly"
+-86.904	-63.345
+# @DC26n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|57.911|"Magnetic Anomaly"
+-86.259	-63.054
+# @DC25n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|56.391|"Magnetic Anomaly"
+-85.567	-63.675
+# @DC25n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|56.391|"Magnetic Anomaly"
+-86.397	-63.757
+# @DC24n.3n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|53.347|"Magnetic Anomaly"
+-82.893	-64.502
+# @DC24n.3n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|53.347|"Magnetic Anomaly"
+-82.109	-64.342
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-80.393	-64.919
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-83.776	-66.845
+# @DC22n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|49.714|"Magnetic Anomaly"
+-83.951	-66.968
+# @DC21n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|46.264|"Magnetic Anomaly"
+-81.1113	-66.3755
+# @DC20n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|43.789|"Magnetic Anomaly"
+-81.237	-67.32
+# @DC20n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|43.789|"Magnetic Anomaly"
+-78.9987	-65.957
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-79.369	-67.2297
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-78.9719	-67.0453
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-80.2025	-67.6478
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-79.8178	-67.5307
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-79.466	-67.2989
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-77.3598	-65.8127
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-77.0021	-65.6132
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-77.035	-65.6214
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-78.5335	-67.5233
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-76.6564	-66.3492
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-76.5088	-66.2728
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-77.9641	-67.0506
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-77.5633	-66.8854
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-77.5211	-66.8688
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-76.2257	-65.3764
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.794	-65.1702
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-76.2204	-65.3812
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.8252	-65.1794
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.8621	-65.2007
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-74.5746	-65.2556
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-75.1282	-65.5606
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-75.4657	-65.7391
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-74.7239	-65.346
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-75.0522	-65.5181
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.2778	-63.995
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.6645	-64.2426
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.6537	-64.2562
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.9008	-64.3774
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-76.2455	-64.498
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-75.451	-64.1009
+# @DC10n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|28.745|"Magnetic Anomaly"
+-74.6323	-63.8469
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-74.9472	-64.6127
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-75.1045	-64.67
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-74.5047	-64.3887
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-74.4648	-64.3875
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-74.1154	-64.0658
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-71.8814	-65.7328
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-71.5986	-65.5659
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-71.0636	-65.2671
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-70.717	-65.0959
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-70.4738	-64.9417
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.958	-64.725
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.571	-64.547
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.426	-64.48
+# @DC20n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|43.789|"Magnetic Anomaly"
+-79.3734	-62.2943
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-77.9479	-63.0836
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-77.3472	-62.6761
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-77.2048	-63.4407
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-76.3611	-63.1369
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-76.9957	-63.9882
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-76.9858	-64.0013
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-76.5656	-63.8074
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-75.8327	-63.3868
+# @DC21n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|46.264|"Magnetic Anomaly"
+-80.5816	-61.327
+# @DC20n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|43.789|"Magnetic Anomaly"
+-77.5086	-60.9204
+# @DC20n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|43.789|"Magnetic Anomaly"
+-76.3315	-60.3792
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-75.8728	-61.6428
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-75.588	-61.5925
+# @DC18n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|40.13|"Magnetic Anomaly"
+-75.0663	-61.3033
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-74.7846	-62.0878
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-74.8953	-62.2062
+# @DC17n.1n|y|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|36.618|"Magnetic Anomaly"
+-74.8426	-62.2136
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-74.2099	-62.3486
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-72.5715	-61.7582
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-73.8639	-62.2803
+# @DC13n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|33.545|"Magnetic Anomaly"
+-74.6767	-62.4852
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.1179	-61.4894
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.0085	-61.4545
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.537	-63.135
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.39	-63.106
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.39	-63.064
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.206	-62.989
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-71.6593	-59.0922
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.7016	-60.7244
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.178	-62.119
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.077	-62.029
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.022	-62.038
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-65.682	-61.838
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-66.289	-62.141
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-71.2053	-57.9711
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-71.0879	-57.9235
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-70.7955	-57.7925
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-70.6652	-57.7328
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-69.3766	-58.678
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-70.1495	-59.1297
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.394	-59.6816
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.3043	-59.4944
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.055	-59.3902
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.035	-59.3163
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-67.6959	-59.1399
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-67.3818	-58.9806
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.7082	-60.7097
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.5786	-60.6093
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.0849	-60.3632
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.7608	-60.1052
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.5663	-60.0179
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.4516	-59.9829
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.4965	-59.9929
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.8815	-61.0417
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.6332	-60.8722
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.3304	-60.5767
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.1213	-60.3816
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.0566	-60.3336
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-62.7784	-60.9216
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-62.8233	-60.9022
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-62.7984	-60.9046
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-62.938	-60.9386
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.0377	-61.1081
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.317	-61.1587
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.3269	-61.1684
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.6361	-61.3558
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.7458	-61.3629
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.9452	-61.4562
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.9901	-61.4896
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-64.3691	-61.713
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-64.2793	-61.6822
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-64.2893	-61.6442
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.1398	-62.1968
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.0251	-62.1595
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.828	-62.3966
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.8379	-62.3896
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.808	-62.3062
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.6634	-62.2574
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.5188	-62.2806
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.1947	-62.1548
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.5764	-61.7886
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.4567	-61.6181
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.5863	-61.7839
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-70.4008	-56.8221
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-70.1998	-56.6499
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-70.1951	-56.579
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-70.0385	-56.5066
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.6894	-57.3947
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.5655	-57.267
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-68.6801	-57.3808
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.5034	-58.1939
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.3327	-58.1209
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.1644	-58.0466
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-66.0803	-58.0044
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.6875	-58.338
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.6384	-58.2925
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.6197	-58.2802
+# @DC3n.4n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|5.23|"Magnetic Anomaly"
+-65.5659	-58.2555
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.041	-58.7245
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.1952	-58.8641
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.1976	-58.9053
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.2887	-58.9548
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.3822	-59.0297
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.4968	-59.1091
+# @DC5n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|10.949|"Magnetic Anomaly"
+-63.5856	-59.0971
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.0074	-59.8844
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-62.1079	-59.9396
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.3458	-59.7312
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.1729	-59.5928
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.1775	-59.6058
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.0349	-59.5619
+# @DC5ADn|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|14.612|"Magnetic Anomaly"
+-61.2804	-59.6757
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-59.8254	-60.5722
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-59.5294	-60.4057
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-59.2667	-60.2775
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-58.9314	-60.1849
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-58.7824	-60.092
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-72.4256	-63.1465
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-71.8905	-62.8924
+# @DC8n.2n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|26.554|"Magnetic Anomaly"
+-70.3704	-62.3153
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.9448	-64.1702
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.7259	-64.0932
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-69.0328	-63.7506
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-68.7288	-63.6157
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-68.806	-63.589
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-68.651	-63.516
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-68.226	-63.451
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-68.158	-63.425
+# @DC6n|o|1|N/A|Eagles+Scott_2014_GPC|10.1016/j.gloplacha.2014.08.002|20.131|"Magnetic Anomaly"
+-67.616	-63.203

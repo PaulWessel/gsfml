@@ -1,0 +1,343 @@
+# @VGMT1.0 @GPOINT
+# @R101.009/114.514/-33.7903/-18.6743                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+101.255	-25.7764
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+101.009	-25.475
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+101.143	-24.7609
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+110.031	-24.5024
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+101.637	-24.4836
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+109.637	-24.4617
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+110.249	-24.0387
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+110.017	-23.7943
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+109.677	-23.7317
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+110.732	-23.5209
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+110.964	-22.977
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+109.21	-22.8307
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+110.778	-22.8206
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.264	-22.7469
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+110.934	-22.629
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.221	-22.6139
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.002	-22.5014
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.349	-22.4895
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+110.968	-22.4595
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.34	-22.4561
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+110.663	-22.4145
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+110.728	-22.3188
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+106.983	-22.3144
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.108	-22.2938
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.488	-22.2855
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.519	-22.2815
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.521	-22.2678
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.144	-22.2438
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.529	-22.1849
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+110.341	-22.1499
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.592	-22.1207
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+110.891	-22.1165
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.643	-22.069
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+107.407	-22.0614
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.312	-22.0261
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+110.977	-22.0174
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.682	-21.9855
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+110.48	-21.9732
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.721	-21.9732
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.342	-21.9531
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.716	-21.8981
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+110.582	-21.8752
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+106.518	-21.8394
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+111.123	-21.7985
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+110.448	-21.7871
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.812	-21.7821
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.459	-21.7373
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+111.184	-21.6797
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.94	-21.6767
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+107.802	-21.6766
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.528	-21.5926
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+110.802	-21.5834
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+111.044	-21.5281
+# @DM10Nn.1n|y|1|N/A|Mihut++_1998_WABS|N/A|129.63|"Magnetic Anomaly"
+111.949	-21.5251
+# @DM10n|y|1|N/A|Mihut++_1998_WABS|N/A|128.93|"Magnetic Anomaly"
+111.564	-21.5194
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+110.842	-21.5044
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+106.869	-21.5014
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+110.679	-21.501
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+110.685	-21.4993
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+111.08	-21.4219
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+110.962	-21.3154
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+110.841	-21.2854
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+110.846	-21.2419
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+111.033	-21.2202
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+107.179	-21.1254
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+110.119	-21.0767
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+111.055	-21.0146
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+109.975	-20.9563
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+109.797	-20.8027
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+108.353	-20.7252
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+106.657	-20.6433
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.01	-20.5325
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+109.434	-20.516
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+110.678	-20.4885
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+108.358	-20.4884
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+110.411	-20.4769
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+106.829	-20.3505
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+107.736	-20.2233
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+110.022	-20.1727
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+110.455	-20.1616
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+108.667	-20.1565
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+110.113	-20.012
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+108.814	-19.9805
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+110.133	-19.9726
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+107.946	-19.8821
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+107.171	-19.7476
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+108.029	-19.7221
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+108.936	-19.5713
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+108.14	-19.4798
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+108.926	-19.2183
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+107.631	-19.0925
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+107.685	-18.6743
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+109.393	-33.7903
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+112.183	-33.2013
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+112.704	-33.199
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+111.031	-33.1807
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+111.775	-33.1706
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+111.523	-33.1086
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+111.892	-33.043
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+112.69	-33.0061
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+112.769	-32.8666
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+109.453	-32.8442
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+111.939	-32.8065
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+111.491	-32.8059
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+112.96	-32.7619
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+113.518	-32.6206
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+113.116	-32.5603
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+113.536	-32.5499
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+109.889	-32.5151
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+113.183	-32.5057
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+113.56	-32.5029
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+113.266	-32.4265
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+113.651	-32.379
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+112.227	-32.3146
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+113.366	-32.3055
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+113.706	-32.2683
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+108.566	-32.2108
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.08	-32.1728
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+112.375	-32.159
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.055	-32.1387
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+111.168	-32.1353
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+113.426	-32.1334
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+113.707	-32.1216
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+111.218	-32.093
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+112.564	-32.0462
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+111.291	-32.0241
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.23	-32.0017
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+113.554	-31.9932
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.249	-31.9146
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+113.544	-31.8929
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+113.825	-31.8921
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+112.651	-31.8766
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+114.354	-31.8004
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+111.431	-31.7906
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+111.484	-31.7225
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+112.741	-31.701
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.359	-31.6767
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+109.674	-31.6624
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+113.703	-31.6482
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+114.45	-31.6274
+# @DM9n|y|1|N/A|Mihut++_1998_WABS|N/A|128.34|"Magnetic Anomaly"
+114.475	-31.5977
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.684	-31.5004
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+113.051	-31.3372
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+114.491	-31.3048
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+114.11	-31.2412
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+114.194	-31.1629
+# @DM8n|y|1|N/A|Mihut++_1998_WABS|N/A|127.79|"Magnetic Anomaly"
+114.514	-31.1536
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.891	-31.1456
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+113.966	-31.0964
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+112.194	-31.0933
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+114.263	-31.017
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+114.024	-30.9935
+# @DM7n|y|1|N/A|Mihut++_1998_WABS|N/A|127.23|"Magnetic Anomaly"
+114.288	-30.9584
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+113.387	-30.9232
+# @DM6n|y|1|N/A|Mihut++_1998_WABS|N/A|126.91|"Magnetic Anomaly"
+114.116	-30.8309
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+110.966	-30.7527
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+112.41	-30.5029
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+113.554	-30.4125
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+111.109	-30.1427
+# @DM4n|y|1|N/A|Mihut++_1998_WABS|N/A|125.67|"Magnetic Anomaly"
+112.913	-29.9223
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+111.118	-29.8506
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+112.214	-29.4333
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+112.281	-29.3898
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+111.393	-29.3702
+# @DM2n|y|1|N/A|Mihut++_1998_WABS|N/A|123.55|"Magnetic Anomaly"
+112.367	-29.2914
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+111.6	-29.0916
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+111.645	-29.0126
+# @DM0r|y|1|N/A|Mihut++_1998_WABS|N/A|120.6|"Magnetic Anomaly"
+111.758	-28.9532

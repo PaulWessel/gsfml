@@ -1,0 +1,115 @@
+# @VGMT1.0 @GPOINT
+# @R126.988342331/133.640156692/12.3008765307/18.6882550116               
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+133.24726	17.02751
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+132.42495	17.22788
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+131.53264	17.46245
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+130.72684	17.8026
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+129.81214	17.90554
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+129.03104	18.16891
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+128.68163	18.22715
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+133.30823	17.68788
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+132.88954	17.83826
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+132.08461	18.10381
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+131.18911	18.41884
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+130.42009	18.68826
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+129.92111	18.6686
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+129.31642	18.60818
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+129.07822	18.68646
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+133.64016	16.29603
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+132.82665	16.43673
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+131.98976	16.61034
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+131.18987	17.05982
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+130.43742	17.41994
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+132.59114	15.87658
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+132.1433	16.06506
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+131.4853	16.23388
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+130.81028	16.64103
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+132.60355	14.4653
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+131.61609	14.95011
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+130.83647	15.38906
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+130.19623	15.74342
+# @DC17r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.2695|"Magnetic Anomaly"
+130.00803	15.82204
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+133.35303	13.7251
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+131.90313	14.22414
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+131.31139	14.26036
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+130.6821	14.74396
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+130.34619	14.92023
+# @DC18n.1n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|38.989|"Magnetic Anomaly"
+129.58068	15.42271
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+133.14617	13.14857
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+132.10517	13.44316
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+130.96755	13.67231
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+130.04124	14.11819
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+132.10517	13.44316
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+129.50522	14.18807
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+129.0915	14.81782
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+132.86664	12.30088
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+131.83788	12.55223
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+131.50754	12.65743
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+131.10694	12.77058
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+130.39143	13.07866
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+129.74111	13.30499
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+128.78777	13.57817
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+127.95041	14.16859
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+127.6959	14.53112
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+127.3731	14.68754
+# @DC20n|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|43.1625|"Magnetic Anomaly"
+126.98834	14.83764
+# @DC19r|c|2|N/A|Mrozowski++_1982_Tectonophysics|10.1016/0040-1951(82)90085-3|42.0285|"Magnetic Anomaly"
+129.30725	14.59657

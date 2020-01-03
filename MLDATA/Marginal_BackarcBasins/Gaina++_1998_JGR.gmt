@@ -1,0 +1,1063 @@
+# @VGMT1.0 @GPOINT
+# @R151.209/164.306/-48.335/-25.983                                       
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+154.299	-48.335
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+152.771	-48.158
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.818	-48.135
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.163	-48.015
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.454	-47.913
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+153.562	-47.84
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+153.814	-47.739
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+161.005	-47.37
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+161.086	-47.118
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.855	-47.067
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.054	-47.053
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+158.325	-46.9
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+161.191	-46.767
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.078	-46.717
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+158.857	-46.71
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+161.983	-46.639
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+159.92	-46.498
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+159.743	-46.392
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+161.311	-46.338
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+160.053	-46.282
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+159.984	-46.191
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.924	-46.161
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+160.444	-46.158
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+161.961	-46.052
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+160.934	-45.999
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+161.95	-45.981
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+161.599	-45.784
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+160.01	-45.716
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+153.395	-45.67
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+161.071	-45.639
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+161.48	-45.605
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+162.187	-45.593
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.407	-45.498
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.207	-45.496
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+163.977	-45.45
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+160.566	-45.385
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+153.668	-45.375
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.078	-45.344
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+163.02	-45.321
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.647	-45.289
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.113	-45.176
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.98	-45.141
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.099	-45.089
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+164.306	-45.062
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.958	-45.056
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+164.088	-44.96
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+158.069	-44.922
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+159.558	-44.875
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+152.737	-44.753
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+158.794	-44.519
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+158.656	-44.353
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+160.039	-44.202
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.503	-44.14
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+158.899	-44.112
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.034	-44.094
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+154.243	-44.08
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+154.173	-43.996
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+153.3792	-43.9938
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+162.577	-43.983
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+152.764	-43.972
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+154.206	-43.952
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+157.393	-43.942
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+158.192	-43.914
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+153.347	-43.91
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+154.188	-43.91
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+152.765	-43.909
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+157.369	-43.862
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+159.15	-43.862
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+155.583	-43.844
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.867	-43.844
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+158.579	-43.839
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+160.033	-43.82
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+159.039	-43.766
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+154.986	-43.686
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.935	-43.685
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+154.998	-43.682
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.932	-43.664
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+155.406	-43.656
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+157.286	-43.62
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+159.424	-43.58
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+158.137	-43.56
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+155.356	-43.544
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+162.67	-43.543
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+155.339	-43.524
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+158.124	-43.483
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.805	-43.475
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+158.41	-43.444
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+156.075	-43.434
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+154.799	-43.425
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+158.791	-43.392
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+158.348	-43.384
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.678	-43.368
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+159.263	-43.324
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+160.024	-43.281
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+159.236	-43.27
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.935	-43.248
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+155.127	-43.205
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.903	-43.148
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.471	-43.145
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.853	-43.143
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+158.633	-43.14
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.846	-43.132
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+158.247	-43.116
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.821	-43.084
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+153.314	-43.061
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.633	-43.05
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+158.564	-43.046
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+160.635	-43.035
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+153.996	-43.023
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+161.141	-42.978
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.91	-42.971
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.339	-42.946
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+158.992	-42.945
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.584	-42.931
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.691	-42.929
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.688	-42.898
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.659	-42.867
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.415	-42.846
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.176	-42.837
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.198	-42.835
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+158.134	-42.781
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.803	-42.721
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.294	-42.707
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.244	-42.638
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+158.264	-42.634
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+158.681	-42.557
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.654	-42.446
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+154.512	-42.411
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+160.976	-42.405
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+153.023	-42.402
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+155.138	-42.364
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+161.824	-42.251
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+158.123	-42.226
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+160.714	-42.198
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+153.391	-42.118
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+158.514	-42.041
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+152.384	-41.949
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+158.826	-41.894
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+153.014	-41.76
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+155.14	-41.76
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+152.277	-41.726
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+159.425	-41.608
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+152.809	-41.545
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+159.682	-41.487
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+152.83	-41.474
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+153.833	-41.461
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+152.774	-41.4
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+160.004	-41.337
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+153.652	-41.223
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+160.343	-41.172
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+154.12	-41.158
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+153.628	-41.118
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.077	-41.07
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.458	-41.048
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+160.602	-41.047
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+154.139	-41.022
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.734	-41.017
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.085	-41.007
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.502	-40.995
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.176	-40.983
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.483	-40.97
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.46	-40.964
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.095	-40.96
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.398	-40.957
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+154	-40.944
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.071	-40.931
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.923	-40.923
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.415	-40.897
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.531	-40.846
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.283	-40.826
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+153.154	-40.807
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+158.127	-40.801
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+158.208	-40.799
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+160.478	-40.795
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+158.515	-40.791
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+159.5	-40.781
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+159.974	-40.775
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.36	-40.771
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+160.858	-40.762
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.807	-40.751
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+161.221	-40.748
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+152.335	-40.702
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.37	-40.699
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+158.425	-40.697
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.561	-40.69
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.784	-40.667
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+151.248	-40.663
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.13	-40.638
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.063	-40.615
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.74	-40.596
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+158.788	-40.535
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.956	-40.517
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.944	-40.504
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.722	-40.477
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.557	-40.477
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+161.811	-40.463
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.866	-40.396
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.07	-40.381
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.08	-40.37
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.058	-40.296
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+159.56	-40.267
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.44	-40.26
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+159.727	-40.215
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+151.209	-40.21
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.72	-40.193
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+161.662	-40.155
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.798	-40.151
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.714	-40.129
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+157.519	-40.123
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+160.104	-40.101
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+152.056	-40.092
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.802	-40.019
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.872	-39.981
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.591	-39.968
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+159.982	-39.954
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.571	-39.939
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.066	-39.938
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.558	-39.931
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+153.499	-39.89
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+158.211	-39.865
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+160.899	-39.859
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+153.743	-39.846
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.116	-39.795
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.961	-39.741
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.511	-39.74
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.487	-39.704
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.893	-39.702
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.915	-39.685
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.537	-39.683
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+161.493	-39.679
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+151.913	-39.672
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+153.627	-39.672
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.407	-39.664
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+151.307	-39.662
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.526	-39.657
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.994	-39.652
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.507	-39.649
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.878	-39.605
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+158.87	-39.583
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.375	-39.57
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+159.992	-39.542
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.783	-39.485
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.942	-39.476
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+159.14	-39.464
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.356	-39.385
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.236	-39.344
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+159.433	-39.336
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.09	-39.265
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.217	-39.254
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+159.722	-39.214
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+161.791	-39.169
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+161.08	-39.15
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+157.13	-39.139
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.806	-39.13
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+160.301	-39.128
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+159.59	-39.116
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+158.784	-39.114
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+157.535	-39.111
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+151.451	-39.076
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+160.107	-39.042
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.513	-38.972
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.49	-38.945
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.045	-38.921
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.991	-38.802
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+158.355	-38.769
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+160.765	-38.769
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.772	-38.753
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+158.513	-38.715
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+158.938	-38.557
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+161.327	-38.53
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+157.081	-38.501
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.397	-38.472
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+160.193	-38.242
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+161.076	-38.238
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+159.118	-38.205
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+158.677	-38.197
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+151.528	-38.182
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+158.224	-38.168
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+157.812	-38.142
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+157.647	-38.133
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+152.25	-38.098
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.671	-38.085
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.107	-38.08
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.611	-38.077
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+157.557	-38.058
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+157.666	-37.907
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+151.529	-37.886
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+157.84	-37.69
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+152.019	-37.65
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+158.484	-37.626
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+158.206	-37.615
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+157.767	-37.596
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+159.721	-37.591
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+157.49	-37.589
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+157.143	-37.583
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+151.908	-37.568
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.357	-37.562
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.508	-37.543
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+152.913	-37.531
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+153.456	-37.527
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.849	-37.525
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+158.081	-37.509
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+151.424	-37.402
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.51	-37.393
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+158.333	-37.364
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+152.919	-37.233
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+151.825	-37.225
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+158.804	-37.125
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+151.769	-37.114
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+153.229	-37.112
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.44	-37.07
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+152.752	-37.004
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+159.053	-37.002
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.527	-36.983
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+153.063	-36.908
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+153.718	-36.889
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.12	-36.769
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.428	-36.759
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+157.805	-36.739
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+158.585	-36.725
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+153.597	-36.717
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.98	-36.714
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+152.107	-36.713
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+151.662	-36.709
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.341	-36.704
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+152.561	-36.701
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+152.926	-36.698
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.489	-36.68
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.503	-36.678
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+153.672	-36.65
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.991	-36.62
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.415	-36.614
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.482	-36.533
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+152.352	-36.42
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.823	-36.375
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.651	-36.269
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.109	-36.231
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+152.497	-36.144
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.917	-36.114
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.481	-36.069
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.982	-36.064
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.856	-35.912
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+151.525	-35.905
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.81	-35.877
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.818	-35.859
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.128	-35.794
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.129	-35.787
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.745	-35.786
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+152.74	-35.779
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.291	-35.774
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.812	-35.753
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+157.045	-35.749
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.691	-35.726
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+157.341	-35.725
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+158.314	-35.708
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+152.06	-35.695
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+153.767	-35.692
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+152.321	-35.673
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+152.696	-35.67
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+152.042	-35.667
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+152.292	-35.608
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+156.629	-35.533
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+152.577	-35.498
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.92	-35.402
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+152.188	-35.394
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+152.574	-35.366
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+152.928	-35.344
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+152.924	-35.343
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+157.115	-35.33
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.731	-35.258
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+157.092	-35.245
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+158.379	-35.244
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+157.415	-35.232
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+157.42	-35.223
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+157.759	-35.217
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+157.728	-35.103
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+153.528	-35.036
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+156.187	-34.899
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+158.187	-34.864
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+153.817	-34.719
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.914	-34.705
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.157	-34.704
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.583	-34.703
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+157.153	-34.701
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+157.465	-34.7
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.101	-34.695
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+153.331	-34.692
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+152.837	-34.691
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+152.654	-34.688
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.736	-34.684
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+153.771	-34.678
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.326	-34.674
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+158.163	-34.661
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.676	-34.623
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.644	-34.616
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.295	-34.605
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.088	-34.455
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.086	-34.449
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+153.681	-34.401
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.377	-34.385
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+153.33	-34.363
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.785	-34.312
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+157.627	-34.226
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.66	-34.222
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.185	-34.222
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.383	-34.218
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.486	-34.218
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+157.023	-34.217
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+156.711	-34.214
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+153.556	-34.212
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.45	-34.197
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.055	-34.186
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.075	-34.183
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.13	-34.158
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.847	-34.128
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.651	-34.119
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+156.461	-34.106
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.414	-34.094
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.063	-34.047
+# @DC33n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|73.619|"Magnetic Anomaly"
+158.165	-34.007
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+157.378	-33.995
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+156.712	-33.95
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.797	-33.941
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+156.18	-33.92
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.458	-33.909
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+155.91	-33.908
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.684	-33.905
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.651	-33.826
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.837	-33.819
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.868	-33.814
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.476	-33.812
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.219	-33.809
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+156.565	-33.733
+# @DC32n.1n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|71.071|"Magnetic Anomaly"
+157	-33.719
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.343	-33.675
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+153.111	-33.647
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.454	-33.616
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+153.979	-33.577
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.816	-33.55
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.23	-33.543
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.79	-33.441
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.265	-33.357
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.315	-33.208
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+153.597	-33.199
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+153.499	-33.184
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.396	-33.153
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+153.543	-33.147
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.284	-33.143
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.275	-33.138
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.508	-33.136
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.226	-32.998
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.488	-32.986
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.69	-32.984
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.147	-32.979
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.468	-32.976
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+154.728	-32.872
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+154.49	-32.86
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155	-32.852
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.346	-32.522
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.006	-32.509
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.284	-32.475
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+155.852	-32.456
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.134	-32.164
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.473	-32.158
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.954	-31.867
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.119	-31.833
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.96	-31.832
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.927	-31.513
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.455	-31.512
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.142	-31.5
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+155.869	-31.5
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.005	-31.496
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.937	-31.235
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.22	-31.202
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.406	-31.184
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.126	-31.181
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.365	-31.18
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.45	-31.175
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.217	-31.172
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.471	-31.171
+# @DC31n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|67.735|"Magnetic Anomaly"
+156.725	-31.168
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+155.921	-31.167
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+154.399	-31.165
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.703	-31.164
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.423	-31.159
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.356	-31.128
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+154.096	-31.126
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+154.399	-30.832
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+155.045	-30.832
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.691	-30.826
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+154.826	-30.493
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.563	-30.455
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.166	-30.212
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.675	-30.191
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.705	-30.174
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.146	-30.119
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.764	-29.871
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.553	-29.849
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.184	-29.845
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.178	-29.819
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.538	-29.795
+# @DC30n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|65.578|"Magnetic Anomaly"
+156.856	-29.776
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.694	-29.165
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.984	-29.152
+# @DC29n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|63.976|"Magnetic Anomaly"
+156.969	-28.838
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.73	-28.831
+# @DC27n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|61.276|"Magnetic Anomaly"
+156.393	-28.823
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.505	-28.497
+# @DC28n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|62.499|"Magnetic Anomaly"
+156.538	-28.486
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.133	-26.843
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.315	-26.833
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.478	-26.832
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.479	-26.793
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+156.132	-26.758
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.828	-26.74
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.427	-26.595
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+156.243	-26.517
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.648	-26.514
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.565	-26.493
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.299	-26.484
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.533	-26.441
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.688	-26.216
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.671	-26.178
+# @DC24n.3n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|53.347|"Magnetic Anomaly"
+155.276	-26.176
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.07	-26.169
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.969	-26.165
+# @DC26n|o|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|57.911|"Magnetic Anomaly"
+156.431	-26.157
+# @DC25n|y|1|N/A|Gaina++_1998_JGR|10.1029/98JB00386|55.904|"Magnetic Anomaly"
+155.858	-25.983

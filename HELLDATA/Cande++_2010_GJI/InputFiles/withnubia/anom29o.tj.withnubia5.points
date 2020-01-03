@@ -1,0 +1,84 @@
+  13
+ 2  12 -58.959129 16.881969 5.0 3 digged 24 mar bainfz 1 
+ 2  12 -58.729134 16.971702 5.0 3 digged 24 mar bainfz 1 
+ 2  12 -58.462335 17.015550 5.0 3 digged 24 mar bainfz 1 
+ 2  13 -59.094641 21.072500 5.0 3 digged 24 mar bainfz 2 
+ 2  13 -58.853650 21.055458 5.0 3 digged 24 mar bainfz 2 
+ 2  13 -58.623776 21.057626 5.0 3 digged 24 mar bainfz 2 
+ 2  11 -57.620450 14.201419 3.49 3 digged 1 jul 09  was 5.0
+ 2  11 -57.693044 14.422849 3.49 3 digged 1 jul 09   was 5.0
+ 2  11 -58.202575 15.323846 3.49 3 digged 1 jul 09   was 5.0
+3 12 -47.8958 24.1493 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 12 -48.1662 24.2267 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 12 -48.3646 24.3573 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 13 -47.7621 27.3764 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 13 -48.0372 27.4934 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 13 -48.2387 27.6855 5.0 2 digged 24 mar bainfz rot nubia-somalia
+3 11 -47.1502 21.4495 6.0 2 digged 18 feb 09 rot nubia-somalia was 5.0
+3 11 -47.1480 21.8748 6.0 2 digged 18 feb 09 rot nubia-somalia was 5.0
+3 11 -47.1791 21.9576 6.0 2 digged 18 feb 09 rot nubia-somalia was 5.0
+1  1    -4.702051   74.062447   3.49  3  85v inaf a a     wi343908   297224520    1  1  1  0
+1  1    -4.754800   74.327820   3.49  3  85v inaf a a     wi343827   276795840    2  1  1  0
+1  2  -6.019711 75.002777   3.49  3  anom29o a85oin mm from jdy  *.xyid
+1  2  -6.075199 76.018898   3.49  3  anom29o a85oin mm from jdy  *.xyid
+1  2  -6.085786 76.720589   3.49  3  anom29o a85oin mm from jdy  *.xyid
+1  3  -6.091188 77.619225   3.49  2  anom29o a85oin mm from jdy  *.xyid
+1  3  -5.896002 78.924706   3.49  2  anom29o a85oin mm from jdy  *.xyid
+1  4  -7.327261 80.012215   3.49  2  anom29o a85oin mm from jdy  *.xyid
+1  5  -8.692904 81.423798   3.49  2  anom29o a85oin mm from jdy  *.xyid
+1  5   -8.670915   80.924990    3.49  2  anom29o
+1  6   -10.249866   83.304436   3.49  2  85v incr a a     arcirc05   -46930500   10  1  1  0
+1  6   -10.209001   83.713158   3.49  2  85v incr a a       ve3305   197983800   11  1  1  0
+1  7   -5.968320   74.439334    5.0  3  FZ C  anom29o
+1  7   -5.597239   74.479095    5.0  3  FZ C anom29o
+1  7   -5.289263   74.521880    5.0  3  FZ C anom29o
+1  7   -5.018422   74.546084    5.0  3  FZ C anom29o
+1  7   -4.731662   74.574537    5.0  3  FZ C anom29o
+1  8   -7.193709   79.025682    5.0  2  FZ A anom29o
+1  8   -6.858377   79.035144    5.0  2  FZ A anom29o
+1  8   -6.528067   79.006455    5.0  2  FZ A anom29o
+1  8   -6.193784   78.991848    5.0  2  FZ A anom29o
+1  8   -5.893015   78.984707    5.0  2  FZ A anom29o
+2  3 -44.075497 54.323502   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  3 -44.237591 54.567223   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  4  -45.953713   54.916548    3.49   1    anom29o  dig 22 jan 08
+2  4  -45.798724   54.698413    3.49   1    anom29o  dig 22 jan 08
+2  5 -48.095238 56.262375   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  5 -48.204796 56.596897   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  6 -50.304970 57.558033   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  6 -50.502087 58.136372   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  6 -50.601494 58.520397   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  6 -50.619991 58.508602   3.49  1  anom29o a85oan mm from jdy  *.xyid
+2  8  -45.813596   54.527783    5.0   1  FZ A  anom29o
+2  8  -45.523887   54.790780    5.0   1  FZ A  anom29o
+2  8  -45.303574   54.973117    5.0   1  FZ A  anom29o
+2  8  -45.086536   55.173378    5.0   1  FZ A  anom29o
+2  8  -44.795953   55.420544    5.0   1  FZ A  anom29o
+2  10  -44.098951   46.005099      3.49  3  anom29o  dig 29jan was 6.0
+2  10  -44.061517   46.325467      3.49  3  anom29o  dig 29jan was 6.0
+2  10  -44.048524   46.430959      3.49  3  anom29o  dig 29jan was 6.0
+2  10  -43.947720   47.009173      3.49  3  anom29o  dig 29jan was 6.0
+2  10  -43.866758   47.532607      3.49  3  anom29o  dig 29jan was 6.0
+2  9  -43.771973   48.383493      3.49  3  anom29o  dig 23 jan was 6.0
+2  9  -43.749411   48.531810      3.49  3  anom29o  dig 23 jan was 6.0
+2  9  -43.666531   49.230099      3.49  3  anom29o  dig 23 jan was 6.0
+2  9  -43.544940   50.012549      3.49  3  anom29o  dig 23 jan was 6.0
+2  9  -43.570087 50.198952   3.49  3  anom29o a85oan mm from jdy  *.xyid
+3  1  -29.006735   51.320646      3.49   1   anom29o  dig 22 jan 08
+3  1  -28.766321   51.163144      3.49   1   anom29o  dig 22 jan 08
+3  2  -30.597851 51.265858   3.49  1  anom29o mm from jdy  *.xyid
+3  2  -31.031008 51.762402   3.49  1  anom29o mm from jdy  *.xyid
+3  2  -31.169428 51.911556   3.49  1  anom29o mm from jdy  *.xyid
+3  2  -31.230394 51.969597   3.49  1  anom29o mm from jdy  *.xyid
+3  2  -31.500898 52.472504   3.49  1  anom29o mm from jdy  *.xyid
+3  7  -30.162917   50.818100      5.0   1  FZ C  anom29o
+3  7  -29.907915   51.047727      5.0   1  FZ C  anom29o
+3  7  -29.637359   51.270226      5.0   1  FZ C  anom29o
+3  7  -29.475766   51.426248      5.0   1  FZ C  anom29o
+3  7  -29.265576   51.608438      5.0   1  FZ C  anom29o
+3  9  -32.023911   49.984291     6.0  2   anom29o  dig 23 jan
+3  9  -31.838732 50.897694   3.49  2  anom29o mm from jdy  *.xyid  was 6.0
+3  9  -31.885628 50.581776   3.49  2  anom29o mm from jdy  *.xyid  was 6.0
+3  9  -32.125969 49.120396   3.49  2  anom29o mm from jdy  *.xyid  was 6.0
+3  10  -32.257271 48.285873   3.49  2  anom29o mm from jdy  *.xyid  was 6.0
+3  10  -32.331802 48.080437   3.49  2  anom29o mm from jdy  *.xyid  was 6.0

@@ -1,0 +1,323 @@
+# @VGMT1.0 @GPOINT
+# @R102.35/129.3701/-63.2216/-61.2682                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC20n|o|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+104.0334	-61.524
+# @DC20n|o|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+105.717	-61.7041
+# @DC20n|o|1|22817|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+107.3997	-61.7447
+# @DC20n|o|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+108.1544	-61.6973
+# @DC20n|o|1|22915|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+109.084	-61.642
+# @DC20n|o|1|22818|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+110.7667	-61.477
+# @DC20n|o|1|22913|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+112.45	-61.3946
+# @DC20n|o|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+114.1371	-61.4416
+# @DC20n|o|1|22912|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+115.816	-61.5516
+# @DC20n|o|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+117.4998	-61.4912
+# @DC20n|o|1|22911|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+119.1839	-61.4346
+# @DC20n|o|1|22910|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+120.8676	-61.2887
+# @DC20n|o|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+122.549	-61.2682
+# @DC20n|o|1|22909|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+124.235	-61.3334
+# @DC20n|o|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+125.916	-61.3945
+# @DC20n|o|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+127.6003	-61.4323
+# @DC20n|o|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|43.789|"Magnetic Anomaly"
+129.2833	-61.3881
+# @DC21n|y|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+104.0334	-61.6581
+# @DC21n|y|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+105.649	-61.8218
+# @DC21n|y|1|22817|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+107.3999	-61.844
+# @DC21n|y|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+108.1644	-61.8148
+# @DC21n|y|1|22915|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+109.084	-61.7554
+# @DC21n|y|1|22828|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+110.7667	-61.5688
+# @DC21n|y|1|22913|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+112.451	-61.542
+# @DC21n|y|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+114.1387	-61.5897
+# @DC21n|y|1|#RAE50067|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+115.464	-61.7044
+# @DC21n|y|1|22912|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+115.89	-61.85
+# @DC21n|y|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+117.4998	-61.6299
+# @DC21n|y|1|22911|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+119.183	-61.5632
+# @DC21n|y|1|22910|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+120.867	-61.4121
+# @DC21n|y|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+122.5499	-61.385
+# @DC21n|y|1|22822|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+124.233	-61.4453
+# @DC21n|y|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+125.9161	-61.512
+# @DC21n|y|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+127.6004	-61.5703
+# @DC21n|y|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|46.264|"Magnetic Anomaly"
+129.2833	-61.5269
+# @DC24n.3n|o|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+104.0333	-61.7294
+# @DC24n.3n|o|1|#RAE5002|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+104.8557	-61.9408
+# @DC24n.3n|o|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+105.0869	-61.9959
+# @DC24n.3n|o|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+108.1773	-61.9571
+# @DC24n.3n|o|1|22915|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+109.084	-61.9483
+# @DC24n.3n|o|1|22818|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+110.7668	-61.829
+# @DC24n.3n|o|1|22913|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+112.563	-61.84
+# @DC24n.3n|o|1|#RAE5005|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+113.0221	-61.7846
+# @DC24n.3n|o|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+114.143	-61.9566
+# @DC24n.3n|o|1|#RAE5006|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+114.8197	-61.9847
+# @DC24n.3n|o|1|#RAE50067|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+115.4475	-61.9821
+# @DC24n.3n|o|1|22912|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+116.148	-62.0221
+# @DC24n.3n|o|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+117.4999	-61.9152
+# @DC24n.3n|o|1|22911|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+119.184	-61.8096
+# @DC24n.3n|o|1|22910|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+120.868	-61.8529
+# @DC24n.3n|o|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+122.55	-61.6004
+# @DC24n.3n|o|1|22822|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+124.2332	-61.8283
+# @DC24n.3n|o|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+125.9161	-61.9673
+# @DC24n.3n|o|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+127.6001	-61.9568
+# @DC24n.3n|o|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|53.347|"Magnetic Anomaly"
+129.2832	-61.9039
+# @DC27n|y|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+104.0303	-61.8006
+# @DC27n|y|1|#RAE5002|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+104.8472	-62.0318
+# @DC27n|y|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+104.9677	-62.0404
+# @DC27n|y|1|22817|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+107.3241	-62.1109
+# @DC27n|y|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+108.2057	-62.2663
+# @DC27n|y|1|22915|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+109.083	-62.1635
+# @DC27n|y|1|#RAE5004|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+110.2528	-62.0305
+# @DC27n|y|1|22818|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+110.7668	-62.0509
+# @DC27n|y|1|#RAE5005|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+113.0443	-62.0161
+# @DC27n|y|1|22913|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+113.2663	-62.0849
+# @DC27n|y|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+114.1448	-62.126
+# @DC27n|y|1|#RAE5006|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+114.7939	-62.2685
+# @DC27n|y|1|#RAE50067|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+115.432	-62.2439
+# @DC27n|y|1|22912|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+116.488	-62.2452
+# @DC27n|y|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+117.4999	-62.0925
+# @DC27n|y|1|22911|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+119.049	-62.074
+# @DC27n|y|1|22821|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+120.8671	-62.0152
+# @DC27n|y|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+122.55	-61.9043
+# @DC27n|y|1|22822|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+124.233	-62.0262
+# @DC27n|y|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+125.9161	-62.1436
+# @DC27n|y|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+127.6003	-62.1294
+# @DC27n|y|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|60.92|"Magnetic Anomaly"
+129.2831	-62.0295
+# @DC31n|o|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+104.0128	-61.8544
+# @DC31n|o|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+104.8115	-62.0897
+# @DC31n|o|1|#RAE5002|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+104.8586	-62.1039
+# @DC31n|o|1|22817|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+107.299	-62.1705
+# @DC31n|o|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+108.218	-62.4147
+# @DC31n|o|1|22915|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+108.3978	-62.4364
+# @DC31n|o|1|#RAE5004|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+110.265	-62.202
+# @DC31n|o|1|22818|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+110.7669	-62.1733
+# @DC31n|o|1|#RAE5005|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+113.0579	-62.1464
+# @DC31n|o|1|22913|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+113.468	-62.1541
+# @DC31n|o|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+114.1466	-62.2741
+# @DC31n|o|1|#RAE5006|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+114.7837	-62.3835
+# @DC31n|o|1|#RAE50067|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+115.4233	-62.3614
+# @DC31n|o|1|22912|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+116.752	-62.4164
+# @DC31n|o|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+117.5	-62.3161
+# @DC31n|o|1|22911|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+118.6971	-62.2657
+# @DC31n|o|1|22821|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+120.8673	-62.1632
+# @DC31n|o|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+122.6309	-62.0549
+# @DC31n|o|1|22822|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+124.2329	-62.173
+# @DC31n|o|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+125.9161	-62.2391
+# @DC31n|o|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+127.6003	-62.2605
+# @DC31n|o|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|68.737|"Magnetic Anomaly"
+129.2832	-62.1618
+# @DC32n.1n|y|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+103.968	-61.9911
+# @DC32n.1n|y|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+104.67	-62.1404
+# @DC32n.1n|y|1|#RAE5002|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+104.8829	-62.2613
+# @DC32n.1n|y|1|22817|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+107.2462	-62.295
+# @DC32n.1n|y|1|22915|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+107.7154	-62.6003
+# @DC32n.1n|y|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+108.2578	-62.5982
+# @DC32n.1n|y|1|#RAE5004|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+110.2747	-62.3234
+# @DC32n.1n|y|1|22818|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+110.7667	-62.3264
+# @DC32n.1n|y|1|#RAE5005|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+113.0754	-62.3274
+# @DC32n.1n|y|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+114.3213	-62.5832
+# @DC32n.1n|y|1|#RAE5006|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+114.7707	-62.5322
+# @DC32n.1n|y|1|#RAE50067|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+115.415	-62.5217
+# @DC32n.1n|y|1|22912|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+117.0482	-62.6156
+# @DC32n.1n|y|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+117.4998	-62.424
+# @DC32n.1n|y|1|22911|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+118.2362	-62.5302
+# @DC32n.1n|y|1|22821|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+120.8672	-62.3315
+# @DC32n.1n|y|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+123.199	-62.4346
+# @DC32n.1n|y|1|22822|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+124.2329	-62.3772
+# @DC32n.1n|y|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+125.9163	-62.43
+# @DC32n.1n|y|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+127.6003	-62.3916
+# @DC32n.1n|y|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|71.071|"Magnetic Anomaly"
+129.2833	-62.2808
+# @DC33n|o|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+103.9503	-62.0445
+# @DC33n|o|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+104.491	-62.1896
+# @DC33n|o|1|#RAE5002|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+104.8998	-62.3662
+# @DC33n|o|1|22817|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+107.1888	-62.4415
+# @DC33n|o|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+108.258	-62.8326
+# @DC33n|o|1|#RAE5004|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+110.2921	-62.5663
+# @DC33n|o|1|22818|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+110.7666	-62.533
+# @DC33n|o|1|#RAE5005|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+113.099	-62.5736
+# @DC33n|o|1|#RAE5006|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+114.7394	-62.8566
+# @DC33n|o|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+114.8248	-62.955
+# @DC33n|o|1|#RAE50067|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+115.3931	-62.8475
+# @DC33n|o|1|22912|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+117.35	-62.8267
+# @DC33n|o|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+117.5	-62.7787
+# @DC33n|o|1|22911|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+117.7754	-62.7456
+# @DC33n|o|1|22821|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+120.8672	-62.6545
+# @DC33n|o|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+123.4057	-62.5695
+# @DC33n|o|1|22822|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+124.2331	-62.5879
+# @DC33n|o|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+125.9164	-62.6356
+# @DC33n|o|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+127.6002	-62.6608
+# @DC33n|o|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|79.075|"Magnetic Anomaly"
+129.2833	-62.7041
+# @DC34n|y|1|22919|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+102.35	-61.6723
+# @DC34n|y|1|22815|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+103.9365	-62.0864
+# @DC34n|y|1|22917|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+104.333	-62.2383
+# @DC34n|y|1|#RAE5002|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+104.8829	-62.2613
+# @DC34n|y|1|#RAE5003|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+108.277	-63.0242
+# @DC34n|y|1|#RAE5004|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+110.309	-62.8086
+# @DC34n|y|1|22818|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+110.9913	-62.827
+# @DC34n|y|1|#RAE5005|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+113.1517	-63.0801
+# @DC34n|y|1|#RAE5006|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+114.7044	-63.2216
+# @DC34n|y|1|22819|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+115.1733	-63.2059
+# @DC34n|y|1|#RAE50067|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+115.3702	-63.1948
+# @DC34n|y|1|22820|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+117.4897	-63.1562
+# @DC34n|y|1|22821|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+120.867	-62.9842
+# @DC34n|y|1|22908|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+123.9816	-62.9382
+# @DC34n|y|1|22822|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+124.2332	-62.8943
+# @DC34n|y|1|22823|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+125.9164	-62.9
+# @DC34n|y|1|22824|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+127.6549	-63.1054
+# @DC34n|y|1|22825|Whittaker++_2007_Science|10.1126/science.1143769|83|"Magnetic Anomaly"
+129.3701	-62.9842

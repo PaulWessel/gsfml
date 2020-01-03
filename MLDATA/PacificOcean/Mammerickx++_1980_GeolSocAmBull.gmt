@@ -1,0 +1,71 @@
+# @VGMT1.0 @GPOINT
+# @R-133.02/-83.36/-38.93/-9.94                                           
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-127.44	-38.93
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-127.58	-38.38
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-127.72	-37.53
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-128.04	-36.41
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-128.46	-35.05
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-84.92	-34.78
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-85.1	-34.38
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-128.68	-33.37
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-85.72	-33.22
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-86.56	-31.85
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-131.53	-31.34
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-129.19	-31.09
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-131.75	-30.77
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-87.38	-30.47
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-88.27	-28.89
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-131.97	-28.82
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-132.33	-27.14
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-132.65	-25.16
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-133.02	-22.72
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-86.88	-21.44
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-87.74	-20.11
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-127.89	-19.61
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-128.11	-19.12
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-88.57	-18.5
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-128.28	-17.74
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-89.61	-16.77
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-128.56	-16.15
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-128.98	-14.22
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-129.23	-12.15
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-83.36	-11.32
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-83.53	-10.63
+# @DC7n.2n|o|3|N/A|Mammerickx++_1980_GeolSocAmBull|10.1130/0016-7606(1980)91<263:EFTFSR>2.0.CO;2|25.183|"Magnetic Anomaly"
+-129.65	-9.94

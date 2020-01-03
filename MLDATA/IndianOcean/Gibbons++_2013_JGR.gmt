@@ -1,0 +1,299 @@
+# @VGMT1.0 @GPOINT
+# @R57.5067/118.866/-63.8621/-11.6858                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DM24n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|151.4|"Magnetic Anomaly"
+118.183	-12.2979
+# @DM24Bn|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|152.43|"Magnetic Anomaly"
+118.392	-12.6684
+# @DM25n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|153.43|"Magnetic Anomaly"
+118.662	-13.0845
+# @DM26n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|154.31|"Magnetic Anomaly"
+118.866	-13.3236
+# @DM25n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|153.43|"Magnetic Anomaly"
+118.182	-13.789
+# @DM24Bn|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|152.43|"Magnetic Anomaly"
+117.951	-13.4337
+# @DM24n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|151.4|"Magnetic Anomaly"
+117.755	-13.1595
+# @DM25n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|153.43|"Magnetic Anomaly"
+117.767	-15.255
+# @DM24Bn|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|152.43|"Magnetic Anomaly"
+117.668	-15.0577
+# @DM24n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|151.4|"Magnetic Anomaly"
+117.481	-14.7733
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+117.319	-14.5037
+# @DM22An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|149.49|"Magnetic Anomaly"
+117.13	-14.2421
+# @DM12An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|133.73|"Magnetic Anomaly"
+116.041	-12.5339
+# @DM11An.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|131.91|"Magnetic Anomaly"
+115.841	-12.2415
+# @DM11n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|130.84|"Magnetic Anomaly"
+115.472	-11.7187
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+117.046	-14.5416
+# @DM26n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|154.31|"Magnetic Anomaly"
+117.334	-15.7486
+# @DM25n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|153.43|"Magnetic Anomaly"
+117.205	-15.5813
+# @DM24Bn|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|152.43|"Magnetic Anomaly"
+116.993	-15.3005
+# @DM24n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|151.4|"Magnetic Anomaly"
+116.796	-15.0121
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+116.629	-14.7389
+# @DM22An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|149.49|"Magnetic Anomaly"
+116.486	-14.4228
+# @DM21n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|145.52|"Magnetic Anomaly"
+115.938	-13.542
+# @DM12An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|133.73|"Magnetic Anomaly"
+115.384	-12.8341
+# @DM11An.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|131.91|"Magnetic Anomaly"
+115.065	-12.4394
+# @DM11n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|130.84|"Magnetic Anomaly"
+114.864	-12.0854
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+114.592	-11.6858
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+114.235	-11.9249
+# @DM11n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|130.84|"Magnetic Anomaly"
+114.478	-12.4546
+# @DM11An.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|131.91|"Magnetic Anomaly"
+114.669	-12.7303
+# @DM12An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|133.73|"Magnetic Anomaly"
+114.86	-13.0997
+# @DM21n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|145.52|"Magnetic Anomaly"
+115.288	-13.7897
+# @DM22n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|147.06|"Magnetic Anomaly"
+115.628	-14.3861
+# @DM22An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|149.49|"Magnetic Anomaly"
+115.785	-14.6556
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+115.976	-14.9969
+# @DM24n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|151.4|"Magnetic Anomaly"
+116.183	-15.2905
+# @DM24Bn|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|152.43|"Magnetic Anomaly"
+116.35	-15.5362
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+115.498	-14.9742
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+115.384	-14.9742
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+115.133	-15.0349
+# @DM23n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|150.04|"Magnetic Anomaly"
+114.784	-15.0045
+# @DM22n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|147.06|"Magnetic Anomaly"
+114.805	-14.4111
+# @DM22n.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|147.06|"Magnetic Anomaly"
+114.557	-14.5644
+# @DM21n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|145.52|"Magnetic Anomaly"
+114.544	-13.9297
+# @DM21n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|145.52|"Magnetic Anomaly"
+114.278	-14.0124
+# @DM12An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|133.73|"Magnetic Anomaly"
+114.34	-13.5495
+# @DM12An|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|133.73|"Magnetic Anomaly"
+113.983	-13.6516
+# @DM11An.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|131.91|"Magnetic Anomaly"
+114.122	-13.1822
+# @DM11An.1n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|131.91|"Magnetic Anomaly"
+113.744	-13.335
+# @DM11n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|130.84|"Magnetic Anomaly"
+113.544	-13.0643
+# @DM11n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|130.84|"Magnetic Anomaly"
+113.869	-12.7371
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+111.206	-15.6139
+# @DM8n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|127.79|"Magnetic Anomaly"
+110.832	-15.2921
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+110.512	-14.9744
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+111.271	-16.2267
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+111.048	-16.0132
+# @DM8n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|127.79|"Magnetic Anomaly"
+110.765	-15.7148
+# @DM6n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.91|"Magnetic Anomaly"
+110.637	-15.5858
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+110.375	-15.3489
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+110.235	-15.6643
+# @DM6n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.91|"Magnetic Anomaly"
+110.565	-15.9999
+# @DM8n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|127.79|"Magnetic Anomaly"
+110.684	-16.1348
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+110.957	-16.4079
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+111.183	-17.3357
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+110.857	-16.81
+# @DM8n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|127.79|"Magnetic Anomaly"
+110.607	-16.5275
+# @DM6n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.91|"Magnetic Anomaly"
+110.47	-16.4014
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+110.073	-16.0449
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.941	-16.3854
+# @DM6n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.91|"Magnetic Anomaly"
+110.303	-16.7458
+# @DM8n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|127.79|"Magnetic Anomaly"
+110.454	-16.9369
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.785	-16.7711
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+109.263	-16.7508
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.745	-17.1125
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+109.098	-17.227
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.671	-17.7155
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.518	-18.2795
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.338	-18.5055
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+108.768	-18.1636
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+107.637	-17.9607
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+108.417	-18.6743
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.028	-19.1633
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+107.409	-18.7272
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+108.184	-19.4064
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+108.64	-19.815
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+106.986	-19.4813
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+107.776	-20.1652
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+108.208	-20.4921
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+106.501	-20.3766
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+107.285	-21.0212
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+108.942	-21.1076
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+109.22	-21.2564
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+108.942	-21.1076
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+110.737	-21.4429
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+110.839	-21.5292
+# @DM8n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|127.79|"Magnetic Anomaly"
+111.004	-21.6378
+# @DM8n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|127.79|"Magnetic Anomaly"
+111.328	-21.8655
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+111.576	-22.0315
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+111.289	-29.8902
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+112.459	-30.4929
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+113.206	-30.8303
+# @DM6n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.91|"Magnetic Anomaly"
+113.507	-30.9393
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+113.851	-31.0932
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+110.688	-30.6668
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+111.936	-30.9713
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+112.995	-31.2985
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+113.783	-31.8486
+# @DM10n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.93|"Magnetic Anomaly"
+113.663	-31.9579
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+113.217	-31.8566
+# @DM9n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|128.34|"Magnetic Anomaly"
+113.14	-32.0012
+# @DM6n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.91|"Magnetic Anomaly"
+112.761	-31.851
+# @DM6n|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.91|"Magnetic Anomaly"
+112.628	-31.9994
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+112.509	-31.8139
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+112.351	-32.0298
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+112.211	-32.102
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+111.539	-31.7479
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+110.238	-31.6903
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+110.078	-32.0631
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+110.043	-32.0894
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+111.277	-32.0574
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+111.221	-32.0993
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+76.0358	-61.5159
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+75.9985	-62.7642
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+75.6665	-63.5194
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+71.6712	-61.8879
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+72.1705	-62.6389
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+72.1857	-63.706
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+71.3651	-63.73
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+70.8157	-62.5349
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+70.3494	-61.6587
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+69.0044	-58.7962
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+65.8799	-57.8743
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+65.9152	-57.872
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+66.1642	-58.9026
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+65.9976	-58.8978
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+64.4756	-59.2238
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+66.642	-61.6936
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+65.9826	-61.7289
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+67.2451	-62.7753
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+67.2524	-63.7441
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+65.9862	-62.5921
+# @DM0r|y|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|120.6|"Magnetic Anomaly"
+64.4054	-61.9878
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+64.4319	-62.888
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+64.3509	-63.8621
+# @DM4n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|126.57|"Magnetic Anomaly"
+58.5966	-63.4569
+# @DM2n|o|1|N/A|Gibbons++_2013_JGR|10.1002/jgrb.50079.|124.05|"Magnetic Anomaly"
+57.5067	-62.4395

@@ -1,0 +1,37 @@
+# @VGMT1.0 @GPOINT
+# @R-157.443451642/-154.179170392/28.0614627038/36.8483615813             
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC34n|y|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Magnetic Anomaly"
+-154.60978	36.84836
+# @DC34n|y|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Magnetic Anomaly"
+-154.574	36.55977
+# @DC34n|y|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Magnetic Anomaly"
+-154.54863	36.28997
+# @DC34n|y|1|multibeam_abyssal_hill|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Abyssal Hill"
+-154.59872	36.78658
+# @DC34n|y|1|multibeam_abyssal_hill|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Abyssal Hill"
+-154.58468	36.65778
+# @DC34n|y|1|multibeam_abyssal_hill|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Abyssal Hill"
+-154.57743	36.6084
+# @DC34n|y|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Magnetic Anomaly"
+-154.18653	29.38676
+# @DC34n|y|1|multibeam_abyssal_hill|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Abyssal Hill"
+-154.19162	29.44994
+# @DC34n|y|1|multibeam_abyssal_hill|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Abyssal Hill"
+-154.17917	29.32333
+# @DC34n|y|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Magnetic Anomaly"
+-155.76125	28.83504
+# @DC34n|y|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Magnetic Anomaly"
+-155.72546	28.75068
+# @DC34n|y|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Magnetic Anomaly"
+-157.44345	28.13905
+# @DC34n|y|1|multibeam_abyssal_hill|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Abyssal Hill"
+-157.44036	28.06146
+# @DC34n|y|1|multibeam_abyssal_hill|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|83|"Abyssal Hill"
+-157.43749	28.21125
+# @DC33n|o|1|MGLN44MV|Granot++_2009_EPSL|10.1016/j.epsl.2009.10.017|79.075|"Magnetic Anomaly"
+-156.09851	28.16597

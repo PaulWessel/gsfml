@@ -1,0 +1,73 @@
+README file for the gsfml GMT supplement.
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation; version 3 or any later version.
+
+------------------------------------------------------
+Author:		Paul Wessel (pwessel@hawaii.edu)
+		SOEST, University of Hawaii
+		http://www.soest.hawaii.edu/PT/GSFML
+Date:		July 1, 2018
+Version:	2.0 (for GMT 6/trunk version).
+------------------------------------------------------
+
+The gsfml supplement to GMT allows for the analysis of fracture zone (FZ)
+traces by constructing cross-profiles of gridded data along the digitized
+FZ and doing an extensive analysis per profile to determine the exact FZ
+location.  This step is done by fzanalyzer.  Given the output of fzanalyzer
+you can construct optimal FZ traces by blending between the digitized and
+modeled traces using fzblender.  You can use the scripts fzinformer,
+fzmapper, fzmodeler and fzprofiler to make plots of these traces with
+along-track statistical summary plots, map views, build synthetic profiles,
+or plot cross-section profiles, respectively.
+In addition, mlconverter can convert OGR/GMT data files with magnetic picks
+and replace chron strings with ages given specified magnetic time scale.
+
+To build the gsfml supplement requires the GMT 6 or newer version.
+Follow these instructions.  The cmake directory comes with a basic
+ConfigUser.cmake file and while you should not have to make any edits,
+you can poke around if things fails:
+
+1. Run "make all".  This will run the cmake configuration and build
+   the GSFML plugin library and bash scripts.
+2. To access the scripts and the plugin from gmt, run "make install"
+   (You may have to run via sudo if install into system directories).
+   This will install the scripts and the plugin into the GMT bin
+   and plugin directories, respectively.
+3. Try it out to see if your modules can be accessed, e.g.,
+
+	gmt fzanalyzer
+	gmt fzblender
+	fzmapper
+
+#--------------------------------------------------------------------------
+This directory contains several files.  Note that the man pages have not
+been reformatted to rst as the rest of GMT.  You can find Unix man pages
+and PDF versions in the share directory.
+
+README.gsfml		: This document
+README.CMake		: Information about CMake
+Makefile		: Makefile that runs the installation
+CMakeLists.txt		: CMake file for this GMT supplement
+src/CMakeLists.txt	: CMake file for this GMT supplement src dir
+src/fzblender.c		: C module code for FZ blending
+src/fzanalyzer.c	: C module code for FZ analyzing
+src/mlconverter.c	: C module code for ML converting
+src/fz_analysis.h	: gsfml C include file
+src/*.h			: gsfml Magnetic Time Scale include files
+src/fzinformer		: gsfml along-FZ statistical plot script
+src/fzmapper		: gsfml map maker script
+src/fzmodeler		: gsfml synthetic cross-profile maker script
+src/fzprofiler		: gsfml cross-profile plot script
+src/fz_funcs.sh		: Include file with functions for the above scripts
+cmake			: Directory with cmake modules and settings
+share			: Directory with UNIX man and PDF documentation
+#--------------------------------------------------------------------------
+
+For more information, see:
+
+Wessel, P., K. J. Matthews, R. D. Müller, A. Mazzoni, J. M. Whittaker,
+  R. Myhill, and M. T. Chandler, 2015, Semiautomatic fracture zone tracking,
+  Geochemistry, Geophysics, Geosystems, 10.1002/2015GC005853,
+  http://dx.doi.org/10.1002/2015gc005853.

@@ -1,0 +1,623 @@
+# @VGMT1.0 @GPOINT
+# @R156.3657/164.767/-59.887/-46.7206                                     
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.017453292519943295]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC18n.2n|o|1|PU9301|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+162.171	-47.0415
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+157.2057	-50.2885
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+157.7795	-49.5595
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+158.1765	-49.101
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+158.67	-48.75
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+157.5001	-50.1748
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+156.3657	-50.3924
+# @DC18n.2n|o|1|ggl29|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+156.5134	-50.3728
+# @DC18n.2n|o|1|rs124|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+159.3196	-48.4701
+# @DC18n.2n|o|1|rs124|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.141	-47.7711
+# @DC18n.2n|o|1|elt34|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+160.1524	-48.3813
+# @DC18n.2n|o|1|elt53|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+160.7123	-48.1896
+# @DC18n.2n|o|1|elt44|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.12	-47.7976
+# @DC18n.2n|o|1|elt44|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.167	-47.7321
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+158.7223	-48.7326
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+158.6223	-48.7695
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+158.2205	-49.0778
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+158.135	-49.1282
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+157.8184	-49.5411
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+157.7247	-49.5866
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+157.5464	-50.1578
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+157.4491	-50.191
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+157.1539	-50.3248
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+157.2547	-50.283
+# @DC18n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+159.3708	-48.4489
+# @DC18n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+159.2527	-48.4972
+# @DC18n.2n|o|1|th91b|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+162.435	-55.8789
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+162.3541	-56.364
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+162.3566	-56.3272
+# @DC18n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|40.13|"Abyssal Hill"
+162.3568	-56.4072
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.3528	-59.2754
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.7395	-59.645
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.5285	-59.4615
+# @DC18n.2n|o|1|ew9513|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.9496	-57.4951
+# @DC18n.2n|o|1|th92b|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+161.867	-57.6481
+# @DC18n.2n|o|1|th91b|Keller_2004_PhD|N/A|40.13|"Magnetic Anomaly"
+162.776	-55.3006
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+157.4975	-50.5975
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+158.0974	-49.8974
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+158.5366	-49.421
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+157.7772	-50.5256
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+156.7499	-50.802
+# @DC17n.1n|o|1|ggl29|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+157.4729	-50.5371
+# @DC17n.1n|o|1|rs124|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+159.6489	-48.8491
+# @DC17n.1n|o|1|rs124|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+161.335	-48.0157
+# @DC17n.1n|o|1|elt34|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+160.1433	-48.6955
+# @DC17n.1n|o|1|elt53|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+160.5437	-48.6251
+# @DC17n.1n|o|1|elt44|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+161.43	-47.9694
+# @DC17n.1n|o|1|EL40A|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+163.598	-46.7745
+# @DC17n.1n|o|1|NBP0007B|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+163.195	-46.8981
+# @DC17n.1n|o|1|PU9301|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+163.673	-46.7685
+# @DC17n.1n|o|1|PU9301|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+162.495	-47.135
+# @DC17n.1n|o|1|PU9301|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+163.495	-46.7761
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+158.5793	-49.4009
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+158.4885	-49.4454
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+158.1291	-49.8822
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+158.0484	-49.9193
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+157.8252	-50.5162
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+157.7262	-50.5361
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+157.4601	-50.6297
+# @DC17n.1n|o|1|ew9513mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+157.553	-50.5948
+# @DC17n.1n|o|1|rigsismb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+159.6974	-48.8268
+# @DC17n.1n|o|1|rigsismb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+159.5837	-48.8818
+# @DC17n.1n|o|1|gnzmb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+163.6716	-46.7633
+# @DC17n.1n|o|1|gnzmb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+163.8847	-46.7206
+# @DC17n.1n|o|1|np0007mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+163.1443	-46.931
+# @DC17n.1n|o|1|np0007mb|Keller_2004_PhD|N/A|37.473|"Abyssal Hill"
+163.2342	-46.8871
+# @DC17n.1n|o|1|th92b|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+161.551	-57.4438
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+160.9759	-59.618
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+161.0197	-59.4176
+# @DC17n.1n|o|1|ew9513|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+161.6037	-57.3481
+# @DC17n.1n|o|1|th92b|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+161.551	-57.4438
+# @DC17n.1n|o|1|th91b|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+162.372	-55.015
+# @DC17n.1n|o|1|th91b|Keller_2004_PhD|N/A|37.473|"Magnetic Anomaly"
+162.109	-55.4025
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+157.7258	-50.8258
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+158.2411	-50.0511
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+158.6645	-49.5645
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+159.0578	-49.1717
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+157.9995	-50.7363
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+157.0427	-51.1121
+# @DC16n.2n|o|1|rs124|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+159.7924	-49.0136
+# @DC16n.2n|o|1|rs124|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+161.414	-48.1134
+# @DC16n.2n|o|1|elt34|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+160.1387	-48.9711
+# @DC16n.2n|o|1|elt53|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+160.4524	-48.8493
+# @DC16n.2n|o|1|elt34|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+162.053	-47.7139
+# @DC16n.2n|o|1|elt44|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+161.554	-48.0374
+# @DC16n.2n|o|1|EL40A|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+163.827	-46.8899
+# @DC16n.2n|o|1|NBP0007B|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+163.301	-47.0062
+# @DC16n.2n|o|1|PU9301|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+163.837	-46.8761
+# @DC16n.2n|o|1|PU9301|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+162.858	-47.2119
+# @DC16n.2n|o|1|PU9301|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+162.141	-47.6727
+# @DC16n.2n|o|1|PU9301|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+163.556	-46.9712
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+159.0983	-49.1535
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+159.0051	-49.1925
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+158.7095	-49.5469
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+158.6125	-49.5864
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+158.2783	-50.0362
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+158.1908	-50.0713
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+158.0437	-50.7247
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+157.952	-50.7528
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+157.6807	-50.8539
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+157.7693	-50.8211
+# @DC16n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+159.8396	-48.995
+# @DC16n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+159.7173	-49.0385
+# @DC16n.2n|o|1|gnzmb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+163.6861	-46.9593
+# @DC16n.2n|o|1|np0007mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+163.2625	-47.0433
+# @DC16n.2n|o|1|np0007mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+163.3438	-47
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+160.3982	-59.12
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+160.6893	-59.5431
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+160.7537	-59.3582
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+161.5446	-56.1353
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+161.4418	-56.6551
+# @DC16n.2n|o|1|ew9513|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+161.298	-57.2147
+# @DC16n.2n|o|1|elt16|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+161.3372	-57.6747
+# @DC16n.2n|o|1|th91b|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+162.203	-54.8955
+# @DC16n.2n|o|1|th91b|Keller_2004_PhD|N/A|36.341|"Magnetic Anomaly"
+161.933	-55.091
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+161.542	-56.0954
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+161.5436	-56.1793
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+160.6634	-59.5736
+# @DC16n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|36.341|"Abyssal Hill"
+160.7241	-59.5144
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+157.968	-51.068
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+158.4062	-50.2243
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+158.8714	-49.8113
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+159.3066	-49.4449
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+158.2371	-50.9614
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+157.2749	-51.3555
+# @DC15n|o|1|elt44|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+158.1174	-50.9993
+# @DC15n|o|1|rs124|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.0218	-49.2752
+# @DC15n|o|1|rs124|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+161.567	-48.3084
+# @DC15n|o|1|elt34|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.1346	-49.2854
+# @DC15n|o|1|elt53|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.378	-49.1545
+# @DC15n|o|1|elt34|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+162.253	-47.7962
+# @DC15n|o|1|elt44|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+161.79	-48.1658
+# @DC15n|o|1|elt44|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+162.102	-48.0277
+# @DC15n|o|1|EL40A|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+164.042	-47.0029
+# @DC15n|o|1|NBP0007B|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+163.428	-47.1351
+# @DC15n|o|1|GEODYNZ2|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+163.826	-47.0628
+# @DC15n|o|1|PU9301|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+164.026	-46.997
+# @DC15n|o|1|PU9301|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+163.139	-47.2707
+# @DC15n|o|1|PU9301|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+162.217	-47.8112
+# @DC15n|o|1|PU9301|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+163.592	-47.0869
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+159.3523	-49.4284
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+159.2521	-49.472
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+158.9135	-49.7891
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+158.8287	-49.8364
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+158.4452	-50.2084
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+158.3603	-50.2423
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+158.2791	-50.9456
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+158.1871	-50.9781
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+157.913	-51.0885
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+158.0053	-51.0551
+# @DC15n|o|1|rigsismb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+160.0623	-49.2517
+# @DC15n|o|1|rigsismb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+159.9513	-49.304
+# @DC15n|o|1|rigsismb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+161.4786	-48.3483
+# @DC15n|o|1|rigsismb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+161.6296	-48.2908
+# @DC15n|o|1|gnzmb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+163.7402	-47.1177
+# @DC15n|o|1|gnzmb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+163.9255	-47.0332
+# @DC15n|o|1|np0007mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+163.3796	-47.1655
+# @DC15n|o|1|np0007mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+163.4615	-47.1285
+# @DC15n|o|1|th92b|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.913	-57.0341
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.0101	-59.0108
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.1744	-59.3875
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+161.0038	-59.8628
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.2905	-59.251
+# @DC15n|o|1|ew9513|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.8818	-57.0306
+# @DC15n|o|1|elt16|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+161.0443	-57.5382
+# @DC15n|o|1|th92b|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+160.913	-57.0341
+# @DC15n|o|1|th91b|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+161.977	-54.7284
+# @DC15n|o|1|th91b|Keller_2004_PhD|N/A|34.94|"Magnetic Anomaly"
+161.806	-54.8528
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+160.9769	-59.887
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+161.0306	-59.8371
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+160.1446	-59.4176
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+160.1983	-59.3607
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+160.0316	-58.9858
+# @DC15n|o|1|ew9513mb|Keller_2004_PhD|N/A|34.94|"Abyssal Hill"
+159.9797	-59.0347
+# @DC13n|o|1|elt34|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.1212	-49.5455
+# @DC13n|o|1|elt53|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.2626	-49.4841
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+158.182	-51.282
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+158.6115	-50.4315
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+159.0471	-50.0156
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+159.4925	-49.6525
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+158.4618	-51.1719
+# @DC13n|o|1|elt44|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+158.4955	-51.1531
+# @DC13n|o|1|rs124|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.2046	-49.4746
+# @DC13n|o|1|rs124|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+161.752	-48.5291
+# @DC13n|o|1|th91b|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+158.527	-50.4614
+# @DC13n|o|1|elt34|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+162.542	-47.9123
+# @DC13n|o|1|EL40A|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+164.257	-47.1039
+# @DC13n|o|1|ELT16|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+162.011	-48.4445
+# @DC13n|o|1|NBP0007B|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+163.608	-47.3186
+# @DC13n|o|1|GEODYNZ2|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+164.049	-47.1548
+# @DC13n|o|1|GEODYNZ2|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+164.294	-47.0632
+# @DC13n|o|1|PU9301|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+164.177	-47.093
+# @DC13n|o|1|PU9301|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+163.535	-47.3518
+# @DC13n|o|1|PU9301|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+162.314	-47.9841
+# @DC13n|o|1|PU9301|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+163.655	-47.2894
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.5389	-49.6323
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.4476	-49.673
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.0864	-49.9988
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.0031	-50.0358
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+158.6453	-50.4177
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+158.5621	-50.4522
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+158.5018	-51.1536
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+158.4167	-51.1903
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+158.1182	-51.3028
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+158.2221	-51.2654
+# @DC13n|o|1|rigsismb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.2503	-49.4508
+# @DC13n|o|1|rigsismb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.1326	-49.5031
+# @DC13n|o|1|rigsismb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+161.6575	-48.5766
+# @DC13n|o|1|rigsismb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+161.8079	-48.5144
+# @DC13n|o|1|gnzmb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+163.924	-47.2208
+# @DC13n|o|1|np0007mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+163.5508	-47.3446
+# @DC13n|o|1|np0007mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+163.6463	-47.3152
+# @DC13n|o|1|th92b|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.619	-56.8493
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+159.5078	-58.8678
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+159.61	-59.2171
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.5392	-59.7397
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+159.8618	-59.1238
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+159.7655	-58.6286
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.5104	-58.5261
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.7612	-55.8227
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.8266	-56.4192
+# @DC13n|o|1|ew9513|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.5413	-56.8827
+# @DC13n|o|1|elt16|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.6774	-57.3676
+# @DC13n|o|1|th92b|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+160.619	-56.8493
+# @DC13n|o|1|th91b|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+161.691	-54.5275
+# @DC13n|o|1|th91b|Keller_2004_PhD|N/A|33.545|"Magnetic Anomaly"
+161.638	-54.5459
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.7924	-55.7952
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.7313	-55.8495
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.4975	-59.7607
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.5778	-59.7162
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.5888	-59.2477
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.6486	-59.1921
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.4802	-58.8906
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+159.5335	-58.8453
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.538	-58.5015
+# @DC13n|o|1|ew9513mb|Keller_2004_PhD|N/A|33.545|"Abyssal Hill"
+160.4757	-58.5543
+# @DC12n|o|1|elt34|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.0685	-50.1593
+# @DC12n|o|1|elt53|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.2705	-50.1668
+# @DC12n|o|1|ew9513|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+158.9325	-50.7925
+# @DC12n|o|1|ew9513|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+159.3696	-50.3896
+# @DC12n|o|1|ew9513|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+159.665	-50.2
+# @DC12n|o|1|ggl29|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+159.2355	-50.7834
+# @DC12n|o|1|rs124|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.3326	-50.1094
+# @DC12n|o|1|rs124|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+162.016	-48.8618
+# @DC12n|o|1|elt34|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.0775	-50.1457
+# @DC12n|o|1|elt53|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.2489	-50.1424
+# @DC12n|o|1|th91b|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+159.011	-50.7794
+# @DC12n|o|1|elt34|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+163.051	-48.1156
+# @DC12n|o|1|elt44|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+162.645	-48.5907
+# @DC12n|o|1|elt44|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+162.89	-48.3132
+# @DC12n|o|1|NBP0007B|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+163.926	-47.6398
+# @DC12n|o|1|PU9301|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+164.616	-47.3366
+# @DC12n|o|1|PU9301|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+164.194	-47.484
+# @DC12n|o|1|PU9301|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+162.847	-48.2603
+# @DC12n|o|1|PU9301|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+163.785	-47.7014
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+159.4127	-50.3763
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+159.3167	-50.4101
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+158.971	-50.7763
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+158.8874	-50.8089
+# @DC12n|o|1|rigsismb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+160.3982	-50.0834
+# @DC12n|o|1|rigsismb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+160.2418	-50.1371
+# @DC12n|o|1|rigsismb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+161.9246	-48.9073
+# @DC12n|o|1|rigsismb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+162.0768	-48.8468
+# @DC12n|o|1|gnzmb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+164.0887	-47.5719
+# @DC12n|o|1|np0007mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+163.8754	-47.6639
+# @DC12n|o|1|np0007mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+163.9598	-47.6315
+# @DC12n|o|1|th92b|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+159.938	-56.4052
+# @DC12n|o|1|ew9513|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.2123	-55.6023
+# @DC12n|o|1|ew9513|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.1665	-56.1328
+# @DC12n|o|1|ew9513|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+159.5342	-56.4218
+# @DC12n|o|1|elt16|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+160.1148	-57.106
+# @DC12n|o|1|th92b|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+159.938	-56.4052
+# @DC12n|o|1|th91b|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+161.08	-54.0854
+# @DC12n|o|1|th91b|Keller_2004_PhD|N/A|30.939|"Magnetic Anomaly"
+161.362	-54.0039
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+159.5704	-56.4024
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+159.4979	-56.4507
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+160.1932	-56.1032
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+160.1314	-56.1575
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+160.2402	-55.5744
+# @DC12n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.939|"Abyssal Hill"
+160.1835	-55.6337
+# @DC11n.2n|o|1|PU9301|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+164.767	-47.4166
+# @DC11n.2n|o|1|PU9301|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+164.446	-47.5331
+# @DC11n.2n|o|1|PU9301|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+163.834	-47.8531
+# @DC11n.2n|o|1|elt53|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+160.3746	-50.2828
+# @DC11n.2n|o|1|ew9513|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+159.0682	-50.9573
+# @DC11n.2n|o|1|rs124|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+160.3334	-50.2563
+# @DC11n.2n|o|1|rs124|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+162.117	-48.9868
+# @DC11n.2n|o|1|elt34|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+160.065	-50.3075
+# @DC11n.2n|o|1|elt53|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+160.3685	-50.2769
+# @DC11n.2n|o|1|th91b|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+159.202	-50.9015
+# @DC11n.2n|o|1|elt34|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+163.231	-48.1885
+# @DC11n.2n|o|1|NBP0007B|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+164.042	-47.7571
+# @DC11n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+159.1015	-50.9429
+# @DC11n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+159.0202	-50.9744
+# @DC11n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+160.3935	-50.2317
+# @DC11n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+160.2538	-50.2863
+# @DC11n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+162.0276	-49.0464
+# @DC11n.2n|o|1|rigsismb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+162.1939	-48.9844
+# @DC11n.2n|o|1|np0007mb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+163.9905	-47.7797
+# @DC11n.2n|o|1|np0007mb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+164.0762	-47.7489
+# @DC11n.2n|o|1|th92b|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+159.74	-56.2846
+# @DC11n.2n|o|1|ew9513|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+160.0126	-56.0361
+# @DC11n.2n|o|1|elt16|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+159.8241	-56.9708
+# @DC11n.2n|o|1|th92b|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+159.74	-56.2846
+# @DC11n.2n|o|1|th91b|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+160.915	-53.97
+# @DC11n.2n|o|1|th91b|Keller_2004_PhD|N/A|30.098|"Magnetic Anomaly"
+161.214	-53.766
+# @DC11n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+160.0475	-56.0155
+# @DC11n.2n|o|1|ew9513mb|Keller_2004_PhD|N/A|30.098|"Abyssal Hill"
+159.9854	-56.0635

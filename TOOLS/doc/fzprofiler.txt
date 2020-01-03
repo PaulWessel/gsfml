@@ -1,0 +1,79 @@
+#include "common_options.txt"
+.TH FZPROFILER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.SH NAME
+fzprofiler \- Plot one or all FZ cross-profiles
+.SH SYNOPSIS
+BD(fzprofiler) [ OPT(H)IT(height)[BD(c)|BD(i)] ] 
+[ OPT(I)IT(profile) ] [ OPT(L)IT(inc) ] [ OPT(N)IT(ncols) ] [ OPT(T)IT(prefix) ] [ OPT(V) ] [ OPT(W)IT(width)[BD(c)|BD(i)] ]
+.SH DESCRIPTION
+BD(fzprofiler) is a script developed as part of the Global Seafloor Fabric
+and Magnetic Lineation Project [see www.soest.hawaii.edu/PT/GSFML for a full
+description of the project].  It plots the cross-profiles and the information produced by BD(gmt fzanalyzer).
+All plots are combined into one plot using
+whatever custom page size is needed to fit the individual plots given
+their specifications.
+.SH OPTIONS
+No space between the option flag and the associated arguments.
+.TP
+OPT(H)IT(height)[BD(c)|BD(i)]
+Sets the plot height of an individual profile.  Unless the measure unit BD(i)(nch)
+or BD(c)(m) is appended the unit is assumed to be whatever the GMT default
+BD(PROJ_LENGTH_UNIT) is currently set to.
+.TP
+OPT(I)IT(profile)
+By default we plot all the cross-profiles in one stack.  To select a single
+profile only, append the running number of the profile, where 0 is the first profile.
+.TP
+OPT(L)IT(inc)
+Determines which profiles to plot.  By default we plot every profile (IT(in) = 1).
+Use OPT(L) to plot every IT(inc) profile instead [1].
+.TP
+OPT(N)IT(ncols)
+Spread profiles across IT(ncols) columns.  If IT(ncols) = 1
+then all profiles are stacked vertically in one long panel; if IT(ncols) = 2
+then we split the profiles evenly between two columns, etc.
+.TP
+OPT(T)IT(prefix)
+Sets the file name prefix used for all input files as produced by
+BD(gmt fzanalyzer).  The default is fztrack. The files are IT(prefix)_cross.txt, IT(prefix)_analysis.txt,
+IT(prefix)_par.txt as well as the resampled output from BD(gmt grdtrack) which
+should be called IT(prefix)_resampled.txt.
+.TP
+OPT(W)IT(width)[BD(c)|BD(i)]
+Similarly sets the plot width of an individual profile.  For units, see OPT(H)IT(height).
+.TP
+OPT(V)
+Reports plotting progress [quiet].
+.SH PLOT FEATURES
+BD(fzprofiler) packs much information into each plot by using different symbols and
+colors.  The cross-profile VGG data are plotted as red circles connected by a faint
+red dotted line.  The central corridor set with BD(gmt fzanalyzer) OPT(D) is shown in light
+blue.  Black line is the best symmetric
+trough model; inverted triangle indicates the best location of the FZ (trough) and
+its error bars reflect the half-width.  Blue line is the best asymmetric blend model;
+circle shows the best location of the maximum VGG slope.  Finally, the inverted
+red triangle and half-width error bar shows the best empirical trough location.  Dashed
+orange line shows the crustal age variations.  Profile orientation is
+indicated by the W-E or S-N letters, with vertical scale shown on the left (VGG) and
+right (age).  Finally, each panel prints the best blend parameters.
+.SH EXAMPLES
+To look at the cross-profiles and the best-fit models and optimal FZ locations on
+a per-profiles basis, with the prefix used previously as "traces", and placing the
+profiles into two columns, each 6 inches wide with individual plots 2 inches tall,
+try
+.br
+.sp
+fzprofiler -Ttraces -W6i -H2i -N2 -V
+.br
+.sp
+The final plot will be named IT(prefix)_cross.pdf.  To see the same profiles in map
+view, use BD(fzmapper).  To plot a synthetic profile, see BD(fzmodeler).
+.SH "SEE ALSO"
+.IR fzanalyzer (1),
+.IR fzblender (1),
+.IR fzinformer (1),
+.IR fzmapper (1),
+.IR fzmodeler (1),
+.IR gmt (1),
+.IR grdtrack (1)
+.IR mlconverter (1)

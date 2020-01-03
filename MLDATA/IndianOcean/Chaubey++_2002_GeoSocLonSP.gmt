@@ -1,0 +1,1201 @@
+# @VGMT1.0 @GPOINT
+# @R53.029957/71.378891/-4.870671/19.505308                               
+# @Jp"+proj=longlat +datum=WGS84 +no_defs "
+# @Jw"GEOGCS[\"GCS_WGS_1984\",DATUM[\"WGS_1984\",SPHEROID[\"WGS_84\",6378137.0,298.257223563]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]]"
+# @NChron|AnomalyEnd|AnomEndQua|CruiseName|Reference|DOI|GeeK2007|IDMethod
+# @Tstring|string|integer|string|string|string|double|string
+# FEATURE_DATA
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+60.51263	0.50093
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+60.91531	0.32616
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+61.38425	0.13083
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+61.63911	0.00746
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+61.92456	-0.12619
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+61.99082	-0.15189
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+63.07143	-0.57853
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+63.31099	-0.68133
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+55.61933	5.55022
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+56.47566	5.16128
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+60.47695	0.41868
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+60.88473	0.25934
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+60.9408	0.2542
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+61.86339	-0.21871
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+63.02045	-0.65563
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+63.27531	-0.76357
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+60.36991	0.16167
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+60.70633	-0.02852
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+60.9459	-0.15189
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+61.71048	-0.51171
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+61.92456	-0.60423
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+62.81147	-0.97944
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+55.6117	5.55323
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+56.47851	5.16096
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+60.26287	-0.12619
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+60.53302	-0.27526
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+61.46581	-0.71731
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+61.55246	-0.80469
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+61.80222	-0.90234
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+62.80127	-1.30835
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+55.5276	5.17186
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+56.21738	4.92963
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+60.13034	-0.43461
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+60.34442	-0.59395
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+60.95609	-0.86637
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+61.40464	-1.09251
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+61.69518	-1.27238
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+62.29665	-1.56015
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+62.40369	-1.59612
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+55.46926	4.90714
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+55.96677	4.67402
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+60.23738	-0.83553
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+61.17527	-1.34947
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+61.26702	-1.37002
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+61.59324	-1.56015
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+62.0265	-1.72971
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+62.24058	-1.83247
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+62.65345	-2.01228
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+55.40015	4.56718
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+55.6805	4.3827
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+60.95609	-1.68861
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+61.04274	-1.77595
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+61.45052	-1.99173
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+61.58305	-2.05337
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+61.95004	-2.27425
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+62.0214	-2.29993
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+62.25078	-2.37697
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+55.27272	4.13153
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+55.3186	4.09564
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+55.36447	4.07
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+55.38486	4.04437
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+56.08318	3.74693
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+56.16473	3.70589
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+56.29216	3.62382
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+60.84395	-2.13556
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+60.98157	-2.17666
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+61.26192	-2.33588
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+61.3027	-2.39751
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+61.51678	-2.47968
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+61.74616	-2.60293
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+61.93475	-2.71076
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+54.72732	3.98796
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+55.07902	3.82899
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+55.25743	3.73154
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+55.41034	3.66486
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+55.52758	3.55712
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+55.864	3.41346
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+55.92516	3.38268
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+56.18512	3.22359
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+56.84775	2.96696
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+61.16507	-2.77751
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+61.51678	-2.94692
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+61.78693	-3.07525
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+54.18702	4.05462
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+54.70693	3.82899
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+54.95159	3.68537
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+55.14529	3.59817
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+55.44093	3.45451
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+55.73656	3.27492
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+55.75695	3.27492
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+56.13924	3.08502
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+56.85795	2.7616
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+54.2176	3.89566
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+54.64067	3.68537
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+54.83946	3.59817
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+55.05864	3.49043
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+55.45112	3.3211
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+55.61933	3.16714
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+55.64481	3.1774
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+55.65501	3.14661
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+56.85795	2.60243
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+54.55911	3.46477
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+54.65086	3.4186
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+54.90572	3.31597
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+55.45622	3.05935
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+55.497	3.02342
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+55.56326	3.00289
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+56.35332	2.53567
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+56.87324	2.35079
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+57.49509	2.0426
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+53.69769	2.43296
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+54.10036	2.24293
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+54.18192	2.17616
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+54.45717	2.01178
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+54.7681	1.83711
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+54.86494	1.796
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+55.74676	1.36952
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+56.14944	1.15368
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+56.82736	0.871
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+57.18927	0.68083
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+57.3014	0.63457
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+57.58175	0.48551
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+58.65216	0.22335
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+58.72861	0.18737
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+58.7592	0.18737
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+58.90192	0.13597
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+53.4887	2.25834
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+53.94235	2.06829
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+53.96784	2.05287
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+54.17173	1.92444
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+54.30425	1.85766
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+54.38581	1.81655
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+54.64576	1.69324
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+54.70184	1.66242
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+55.65501	1.22563
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+55.96084	1.02519
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+56.82227	0.63971
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+57.01596	0.52149
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+57.20965	0.4341
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+57.54097	0.2799
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+58.61648	-0.66591
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+59.56965	-1.73999
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+54.32974	1.19993
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+55.38486	0.70139
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+55.40525	0.63971
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+56.59289	0.09484
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+56.99048	-0.10048
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+57.4849	-0.83553
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+57.73976	-0.89206
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+57.95384	-1
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+58.0354	-1.04625
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+58.08127	-1.07709
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+58.16793	-1.09251
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+58.3973	-1.21585
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+58.62157	-1.98145
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+55.3084	0.55233
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+56.44508	0.00746
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+56.54192	-0.0645
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+56.90382	-0.20329
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+57.87738	-1.11306
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+57.94875	-1.13876
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+58.02011	-1.19016
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+58.10676	-1.19016
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+58.59609	-2.1407
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+53.02996	1.12798
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+53.36127	0.96352
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+53.40205	0.92754
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+53.96784	0.63457
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+54.62349	0.14263
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+55.3186	-1.42655
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+55.58365	-1.54987
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+55.82321	-1.66806
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+56.24119	-1.92494
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+56.32784	-1.96604
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+56.67445	-2.57212
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+56.86304	-2.69536
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+56.97518	-2.86992
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+57.02615	-2.90586
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+57.19436	-3.05985
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+57.46774	-3.8558
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+57.81874	-4.32248
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+58.03849	-4.67844
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+53.25613	0.84991
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+53.34159	0.83452
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+55.61423	-1.68861
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+55.83341	-1.83761
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+56.08318	-1.99687
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+56.26667	-2.0842
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+56.5827	-2.65428
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+56.84266	-2.80831
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+57.13319	-3.17277
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+57.34498	-3.90084
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+57.6624	-4.34602
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+57.90962	-4.71424
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+58.01034	-4.87067
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+65.22858	8.12298
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+66.63984	7.04993
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+66.83131	7.03625
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+66.93387	7.026
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+67.09114	7.03284
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+67.12534	7.02942
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+67.53902	7.0089
+# @DC20n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|42.536|"Magnetic Anomaly"
+69.54709	6.85842
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+63.08562	9.38318
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+63.62596	8.84806
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+65.31768	8.25351
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+66.68694	7.18516
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+66.82029	7.1749
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+67.02884	7.16123
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+67.15534	7.17148
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+67.21346	7.15781
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+67.58955	7.13388
+# @DC20n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|43.789|"Magnetic Anomaly"
+69.511	6.94165
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+63.11405	9.63724
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+63.79527	9.16668
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+64.51667	9.05443
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+65.45992	8.4813
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+66.03089	8.45404
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+66.77964	7.46308
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+66.82066	7.4665
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+67.26513	7.446
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+67.35744	7.41867
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+67.42582	7.4255
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+67.67882	7.41525
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+68.43441	7.33097
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+68.65322	7.31047
+# @DC21n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|46.264|"Magnetic Anomaly"
+69.37804	7.24554
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+63.10009	9.62173
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+63.66421	9.50283
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+63.95824	9.45186
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+63.11405	9.91931
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+64.50719	9.38318
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+64.8806	9.32422
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+65.6548	8.80599
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+66.07533	8.76854
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+66.82561	7.87583
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+66.94185	7.869
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+67.4034	7.82805
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+67.83078	7.7632
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+67.9436	7.75978
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+68.42909	7.70858
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+68.49063	7.70516
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+69.19836	7.65888
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+69.54025	7.65205
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+61.82899	10.3278
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+61.96575	10.3278
+# @DC21n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|47.906|"Magnetic Anomaly"
+62.36577	10.30747
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+61.03863	11.21594
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+63.10654	10.60143
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+63.36296	10.59128
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+64.2139	9.88919
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+64.47033	9.83828
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+65.23959	9.7602
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+67.09418	8.31165
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+67.56599	8.26392
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+67.84635	8.23324
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+68.00704	8.22983
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+68.29423	8.17868
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+68.42757	8.16845
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+68.51305	8.16163
+# @DC22n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.037|"Magnetic Anomaly"
+69.03311	8.12108
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+61.25727	11.60534
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+62.19824	11.20127
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+62.56065	11.21141
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+63.1054	10.85415
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+63.59089	10.844
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+64.62093	10.4827
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+65.43333	9.99965
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+65.99404	9.98269
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+66.31542	9.94536
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+67.22296	8.62325
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+67.6811	8.58578
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+67.98881	8.51764
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+68.12215	8.51423
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+68.17343	8.50742
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+68.49139	8.48357
+# @DC22n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|49.714|"Magnetic Anomaly"
+68.92256	8.44003
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+59.52576	12.7669
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+59.81979	12.81393
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+60.05228	12.81729
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+61.76214	12.61083
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+61.82026	12.61756
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+62.928	12.12522
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+63.18442	12.10164
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+63.26533	11.71929
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+63.9476	11.3364
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+64.44677	11.33978
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+64.63139	11.32289
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+64.94936	11.306
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+65.36951	11.24557
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+65.50969	11.2253
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+66.01911	10.88384
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+66.17638	10.87369
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+66.36481	10.52618
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+66.67251	10.52618
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+67.08962	10.43811
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+67.40417	10.41101
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+67.82774	9.1202
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+67.87218	9.1236
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+67.9474	9.11339
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+68.31323	9.1338
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+68.42606	9.1236
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+68.61752	9.09298
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+68.73034	9.10999
+# @DC23n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|50.778|"Magnetic Anomaly"
+71.1616	5.53482
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+59.53411	13.2699
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+60.38202	13.29374
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+60.42646	13.30044
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+61.65121	13.33136
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+62.0102	13.10334
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+63.17226	12.58207
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+63.80819	12.54509
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+63.80173	12.54621
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+64.11627	12.51931
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+64.41904	12.13121
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+64.69256	12.07732
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+64.83957	12.03353
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+65.16779	11.72379
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+65.80714	11.71704
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+65.99176	11.71367
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+66.36101	11.64958
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+66.37848	11.27898
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+66.5084	11.26884
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+66.90158	11.22492
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+67.09304	11.22154
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+67.14774	11.20127
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+67.31376	10.7658
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+67.61462	10.75564
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+67.8266	10.7218
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+68.08606	9.6806
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+68.38351	9.64664
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+68.42112	9.63645
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+68.59206	9.62965
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+68.67754	9.63645
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+68.7083	9.60248
+# @DC23n.2n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|51.743|"Magnetic Anomaly"
+71.12855	5.95608
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+59.64373	13.84826
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+59.81502	13.8315
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+60.68291	13.80358
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+60.74	13.79241
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+60.77426	13.80358
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+61.5565	13.75889
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+62.28165	13.68625
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+63.06388	13.46262
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+63.17237	13.46821
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+63.65199	13.42905
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+63.72622	13.41787
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+64.49133	12.89139
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+65.03947	12.83532
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+65.35351	12.80167
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+65.42773	12.78484
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+65.47913	12.77362
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+65.60474	12.77362
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+65.74178	12.7568
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+66.01182	12.30548
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+66.34885	12.2827
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+66.39671	12.27597
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+66.86853	12.04363
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+66.97794	12.03353
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+67.07709	12.02342
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+67.0976	12.00658
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+67.79507	11.11904
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+67.84635	11.1089
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+68.26005	11.08185
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+68.3421	11.06833
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+68.63271	11.02776
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+68.83594	9.93217
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+69.783	9.91181
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+70.98913	6.61588
+# @DC24n.1n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.364|"Magnetic Anomaly"
+71.08486	6.59534
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+59.76934	13.98782
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+60.2147	13.98224
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+60.80852	13.9934
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+60.89988	13.98224
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+60.99123	13.98224
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+61.52224	13.91526
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+62.39584	13.92642
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+63.16666	13.87059
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+63.33796	13.66949
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+63.7148	13.63596
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+63.84042	13.61919
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+63.87468	13.61919
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+64.27436	13.58564
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+64.33717	13.57446
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+64.51988	13.55769
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+65.09086	13.03152
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+65.35351	12.97548
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+65.5248	12.96427
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+65.67326	12.94746
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+65.85597	12.90261
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+66.00442	12.92503
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+66.8095	12.22892
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+66.97509	12.18957
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+66.99222	12.20081
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+67.08357	12.16708
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+67.19777	12.15021
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+67.24916	12.16146
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+67.7973	11.28849
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+67.98001	11.24336
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+68.32831	11.21515
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+68.48247	11.19258
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+69.68723	10.11849
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+71.06016	6.83448
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+71.23453	6.80027
+# @DC24n.1n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.663|"Magnetic Anomaly"
+71.33369	6.75579
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+59.87783	14.12172
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+60.87133	14.11057
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+61.01407	14.12172
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+62.46436	14.0492
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+63.33224	14.0492
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+63.74335	13.78124
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+63.97174	13.74213
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+64.30862	13.73654
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+64.38284	13.70302
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+64.50846	13.68066
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+65.1137	13.64713
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+65.3478	13.13237
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+65.57619	13.09316
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+65.77603	13.07635
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+65.9302	13.06514
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+66.02155	13.06514
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+66.34701	13.02032
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+66.99792	12.30761
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+67.07787	12.30761
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+67.31767	12.28513
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+67.70594	12.18957
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+68.0314	11.42384
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+68.29404	11.35617
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+68.39111	11.36181
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+69.6073	10.28268
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+70.01269	10.2657
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+71.04649	7.0051
+# @DC24n.3n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|52.903|"Magnetic Anomaly"
+71.37889	6.9006
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+59.65302	14.35948
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+61.02549	14.36143
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+61.19108	14.35586
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+62.58426	14.30571
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+63.03534	14.28899
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+63.34367	14.28899
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+63.86896	14.26669
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+64.11449	14.25555
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+64.20584	14.2444
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+64.4742	13.97108
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+64.50275	13.9655
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+64.69118	13.97108
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+65.12511	13.90968
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+65.25645	13.89851
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+65.35351	13.89293
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+65.5191	13.89293
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+65.9359	13.84267
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+66.0501	13.82033
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+66.29562	13.27796
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+66.46692	13.24437
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+67.1007	13.18838
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+67.13496	13.18838
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+67.449	12.47615
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+67.66597	12.4593
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+67.81442	12.46491
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+67.87152	12.4593
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+68.23695	11.62674
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+68.28263	11.62674
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+68.57954	11.62674
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+69.53307	10.4694
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+69.79001	10.47506
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+69.9556	10.46374
+# @DC24n.3n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|53.347|"Magnetic Anomaly"
+71.02826	7.23719
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+61.01978	15.79962
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+61.23676	15.79962
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+61.35666	15.79409
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+61.57934	15.78302
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+62.03612	15.81069
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+62.29306	15.81622
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+62.93256	15.78855
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+63.2466	15.76088
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+63.54922	15.74981
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+63.69196	15.73874
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+63.85184	15.73874
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.16016	15.73321
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.25152	15.74428
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.26865	15.74428
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.47991	15.76642
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.51417	15.77195
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.59982	15.75535
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.81108	15.72767
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+64.83963	15.90473
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+65.01663	15.91579
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+65.17651	15.92685
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+65.19363	15.91579
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+65.39918	15.87708
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+65.51338	15.88261
+# @DC25n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|55.904|"Magnetic Anomaly"
+65.67326	15.8992
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+61.26221	16.07014
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+62.23661	16.02049
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+62.44175	16.02711
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+62.99638	16.01277
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+63.32118	16.00284
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+63.41007	16.00615
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+63.62888	15.99291
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+63.687	15.99953
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+63.93317	16.01277
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+64.23746	15.97635
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+64.30241	15.98629
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+64.33319	15.99622
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+64.82893	16.15322
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+64.91441	16.16645
+# @DC25n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|56.391|"Magnetic Anomaly"
+65.22212	16.10029
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+60.47281	16.77042
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+61.04377	16.73415
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+62.64726	16.65608
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+61.89167	16.72096
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+63.23342	16.68907
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+63.37018	16.67918
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+63.43514	16.66928
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+63.53771	16.65938
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+63.69156	16.65938
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+63.82832	16.67588
+# @DC26n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.554|"Magnetic Anomaly"
+64.10867	16.64289
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+60.9412	16.93411
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+61.11557	16.89787
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+62.00792	16.84184
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+62.76617	16.7946
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+63.26533	16.80449
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+63.40893	16.80119
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+63.45338	16.7979
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+63.56278	16.788
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+63.60039	16.78141
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+63.69954	16.7913
+# @DC26n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|57.911|"Magnetic Anomaly"
+64.35864	16.88688
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+63.41767	17.83415
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+63.60229	17.82104
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+63.7117	17.82104
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+63.87239	17.77514
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+63.98521	17.77514
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.19719	17.76202
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.38371	17.45058
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.52389	17.45058
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.57859	17.43087
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.64697	17.44073
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.69826	17.4013
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.73244	17.37173
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+64.9239	17.37501
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+65.02647	17.37173
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+65.00596	17.25009
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+65.09486	17.21391
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+65.194	17.20733
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+65.4641	17.1843
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+65.49829	17.17772
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+66.02481	16.65242
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+66.10003	16.63592
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+66.18208	16.60292
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+66.24362	16.56662
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+66.51372	16.39821
+# @DC27n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|60.92|"Magnetic Anomaly"
+66.74279	16.32551
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+63.52251	17.96776
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+63.65243	17.97432
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+63.74475	17.98087
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+63.93279	17.95139
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+64.03878	17.9219
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+64.23708	17.8793
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+64.30546	17.86948
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+64.40118	17.88914
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+64.66141	17.57975
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+65.11651	17.52503
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+65.52071	17.29028
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+65.82157	17.21464
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+65.86944	17.162
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+65.95149	17.14226
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+66.01645	16.8294
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+66.12586	16.8228
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+66.28997	16.76016
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+66.41989	16.67111
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+66.58362	16.57359
+# @DC27n|o|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|61.276|"Magnetic Anomaly"
+66.88448	16.45803
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+61.35262	19.50531
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+61.76631	19.38518
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+61.86888	19.26822
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+62.3897	18.93057
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+62.60852	18.74157
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+62.79314	18.7057
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+62.92648	18.71222
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+63.15555	18.66982
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+63.2923	18.6372
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+63.37778	18.67634
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+64.25151	18.45838
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+64.39511	18.45512
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+64.4669	18.43552
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+64.5387	18.45512
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+64.67888	18.42572
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+64.78145	18.41265
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+64.9353	18.41592
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+65.17805	18.41265
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+65.24985	18.36037
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+65.69887	18.00052
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+65.86982	17.95466
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+65.93819	17.94484
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+65.9929	17.91535
+# @DC28n|y|1|N/A|Chaubey++_2002_GeoSocLonSP|10.1144/GSL.SP.2002.195.01.05|62.499|"Magnetic Anomaly"
+66.0476	17.89569
