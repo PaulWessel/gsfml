@@ -60,7 +60,7 @@ static struct Gmt_moduleinfo g_gsfml_module[] = {
 void gmtlib_gsfml_module_show_all (void *V_API) {
 	unsigned int module_id = 0;
 	char message[256];
-	GMT_Message (V_API, GMT_TIME_NONE, "\n=== " "GMT gsfml: Tools for the GSFML project" " ===\n", GSFML_PACKAGE_VERSION);
+	GMT_Message (V_API, GMT_TIME_NONE, "\n=== " "GMT gsfml: Tools for the GSFML project" " ===\n");
 	while (g_gsfml_module[module_id].name != NULL) {
 		if (module_id == 0 || strcmp (g_gsfml_module[module_id-1].component, g_gsfml_module[module_id].component)) {
 			/* Start of new supplemental group */

@@ -536,7 +536,7 @@ static int usage (struct GMTAPI_CTRL *API, int level) {
 	GMT_Message (API, GMT_TIME_NONE, "\t[-A<min>/<max>/<inc>] [-D<corrwidth>] [-I<FZ>[/<profile>]]\n"); 
 	GMT_Message (API, GMT_TIME_NONE, "\t[-S[c]] [-T<prefix>] [%s] [-W<min>/<max>/<inc>]\n", GMT_V_OPT);
 	GMT_Message (API, GMT_TIME_NONE, "\t[%s] [%s] [%s]\n\n", GMT_colon_OPT, GMT_b_OPT, GMT_i_OPT);
-	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n", GSFML_PACKAGE_VERSION);
+	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n\n", GSFML_PACKAGE_VERSION);
 
 	if (level == GMT_SYNOPSIS) return (EXIT_FAILURE);
 
@@ -702,8 +702,7 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	if (mode == GMT_MODULE_PURPOSE) return (usage (API, GMT_MODULE_PURPOSE));	/* Return the purpose of program */
 	options = GMT_Create_Options (API, mode, args);	if (API->error) return (API->error);	/* Set or get option list */
 
-	if (!options || options->option == GMT_OPT_USAGE) bailout (usage (API, GMT_USAGE));	/* Return the usage message */
-	if (options->option == GMT_OPT_SYNOPSIS) bailout (usage (API, GMT_SYNOPSIS));	/* Return the synopsis */
+	if ((error = gmt_report_usage (API, options, 0, usage)) != GMT_NOERROR) bailout (error);	/* Give usage if requested */
 
 	/* Parse the program-specific arguments */
 

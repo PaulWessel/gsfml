@@ -139,7 +139,7 @@ static int usage (struct GMTAPI_CTRL *API, int level) {
 	if (level == GMT_MODULE_PURPOSE) return (GMT_NOERROR);
 	GMT_Message (API, GMT_TIME_NONE, "usage: fzblender [-F<primaryfilter>] [-D] [-E<sEcondaryfilter>] [-I<FZid>]\n"); 
 	GMT_Message (API, GMT_TIME_NONE, "\t[-Q<qmin>/<qmax>] [-Sbdetu[<weight>]] [-T<prefix>] [%s] [-Z<amp/var/F/width>]\n\n", GMT_V_OPT);
-	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n", GSFML_PACKAGE_VERSION);
+	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n\n", GSFML_PACKAGE_VERSION);
 
 	if (level == GMT_SYNOPSIS) return (EXIT_FAILURE);
 
@@ -390,8 +390,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	if (mode == GMT_MODULE_PURPOSE) return (usage (API, GMT_MODULE_PURPOSE));	/* Return the purpose of program */
 	options = GMT_Create_Options (API, mode, args);	if (API->error) return (API->error);	/* Set or get option list */
 
-	if (!options || options->option == GMT_OPT_USAGE) bailout (usage (API, GMT_USAGE));	/* Return the usage message */
-	if (options->option == GMT_OPT_SYNOPSIS) bailout (usage (API, GMT_SYNOPSIS));	/* Return the synopsis */
+	if ((error = gmt_report_usage (API, options, 0, usage)) != GMT_NOERROR) bailout (error);	/* Give usage if requested */
 
 	/* Parse the program-specific arguments */
 
