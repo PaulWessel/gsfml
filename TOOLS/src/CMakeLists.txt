@@ -46,5 +46,15 @@ set (SUPPL_LIB_SRCS ${SUPPL_PROGS_SRCS} gsfml_module.c)
 #	If not set, the supplement package will be built into GMT's supplements.so.
 set (SUPPL_LIB_NAME gsfml)
 
+# GSFML SPECIFIC SETTINGS
+
+set (GSFML_PACKAGE_VERSION "2.0.0")
+
 configure_file (gsfml_config.h.in gsfml_config.h)
 configure_file (fz_funcs.sh.in fz_funcs.sh)
+
+# Install Bourne scripts to share/tools
+install (PROGRAMS fzinformer fzmapper fzmodeler fzprofiler
+	${CMAKE_CURRENT_BINARY_DIR}/fz_funcs.sh
+	DESTINATION ${GMT_DATADIR}/tools
+	COMPONENT Runtime)

@@ -8,8 +8,8 @@ the Free Software Foundation; version 3 or any later version.
 Author:		Paul Wessel (pwessel@hawaii.edu)
 		SOEST, University of Hawaii
 		http://www.soest.hawaii.edu/PT/GSFML
-Date:		July 1, 2018
-Version:	2.0 (for GMT 6/trunk version).
+Date:		May 1, 2020
+Version:	2.0 (for GMT 6.1 version).
 ------------------------------------------------------
 
 The gsfml supplement to GMT allows for the analysis of fracture zone (FZ)
@@ -24,18 +24,19 @@ or plot cross-section profiles, respectively.
 In addition, mlconverter can convert OGR/GMT data files with magnetic picks
 and replace chron strings with ages given specified magnetic time scale.
 
-To build the gsfml supplement requires the GMT 6 or newer version.
+To build the gsfml supplement requires the GMT 6.1 or newer version.
 Follow these instructions.  The cmake directory comes with a basic
 ConfigUser.cmake file and while you should not have to make any edits,
 you can poke around if things fails:
 
-1. Run "make all".  This will run the cmake configuration and build
-   the GSFML plugin library and bash scripts.
-2. To access the scripts and the plugin from gmt, run "make install"
-   (You may have to run via sudo if install into system directories).
-   This will install the scripts and the plugin into the GMT bin
-   and plugin directories, respectively.
-3. Try it out to see if your modules can be accessed, e.g.,
+1. Run "make all".  This will create the needed include files and docs.
+2. In your GMT distribution src dir, add a symbolic link called newsuppl
+   that points to the TOOLS/src dir of GSML and add newsuppl to the list
+   of supplements in SUPPL_EXTRA_DIRS in cmake/ConfigUserAdvanced.cmake.
+3. Build GMT and it builds the GSFML plugin library and bash scripts.
+   The plugin is placed with the other supplemental plug ins and the
+   bash scripts are added to share/tools.
+3. Try it out to see if your modules and scripts can be accessed, e.g.,
 
 	gmt fzanalyzer
 	gmt fzblender

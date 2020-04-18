@@ -9,7 +9,7 @@
 #
 #	Author:	Paul Wessel, SOEST, University of Hawaii
 #
-#	Date:		5-MAY-2017
+#	Date:		1-MAY-2020
 #-------------------------------------------------------------------------------
 sinclude build/src/config.mk
 include Makefile
@@ -19,7 +19,7 @@ help::
 		@grep '^#!' GNUmakefile | cut -c3-
 #!---------------- MAKE HELP FOR GSFML GURUS ----------------
 #!
-#!update    : Get the latest GSFML source via svn
+#!update    : Get the latest GSFML source via git
 #!includes  : Create includes needed to build TOOLS
 #!archive   : Create a tar ball of the TOOLS source codes
 #!man       : Create UNIX and PDF versions of manpages
@@ -43,7 +43,7 @@ includes:	src/Chron_Normal.h src/Chron_Reverse.h src/Geek2007n.h  \
 		src/Geek2007r.h src/CK1995n.h src/CK1995r.h src/GST2004n.h src/GST2004r.h
 
 update:
-		svn update
+		git pull
 
 # These builds the various include files used in TOOLS.
 # Should timescales.txt be updated then the software will adapt accordingly.
