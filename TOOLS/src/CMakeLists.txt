@@ -1,7 +1,7 @@
 #
 # $Id: CMakeLists.txt 11838 2013-06-28 06:49:32Z pwessel $
 #
-# Copyright (c) 1991-2018 by P. Wessel, W. H. F. Smith, R. Scharroo, J. Luis, and F. Wobbe
+# Copyright (c) 1991-2020 by GMT Team (https://www.generic-mapping-tools.org/team.html)
 # See LICENSE.TXT file for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -35,7 +35,7 @@ set (SUPPL_LIB_SRCS ${SUPPL_PROGS_SRCS} gsfml_module.c)
 
 # SUPPL_EXAMPLE_FILES [optional]
 #	README and other example files
-#set (SUPPL_EXAMPLE_FILES README.seis)
+#set (SUPPL_EXAMPLE_FILES README.gsfml)
 
 # SUPPL_EXAMPLE_PROGS [optional]
 #	example scripts
