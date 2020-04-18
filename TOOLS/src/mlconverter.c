@@ -249,7 +249,7 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 	Cname2[ML_REVERSE] = Chron_Reverse2;
 	
 	GMT->current.setting.io_header[GMT_OUT] = true;	/* To allow writing of headers */
-	Out = gmt_new_record (GMT, Ctrl->G.active ? record : NULL, Ctrl->G.active ? GMT->current.io.record : NULL);
+	Out = gmt_new_record (GMT, Ctrl->G.active ? GMT->current.io.record.data : NULL, Ctrl->G.active ? record : NULL);
 	
 	/* We know which columns are geographical */
 	GMT->current.io.col_type[GMT_IN][GMT_X] = GMT->current.io.col_type[GMT_OUT][GMT_X] = GMT_IS_LON;
@@ -261,7 +261,7 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 	if ((error = GMT_Begin_IO (API, GMT_IS_DATASET, GMT_OUT, GMT_HEADER_ON))) Return (error);	/* Enables data output and sets access mode */
 
 	do {	/* Keep returning records until we reach EOF */
-		if ((In = GMT_Get_Record (API, GMT_READ_DOUBLE, NULL)) == NULL) {	/* Read next record, get NULL if special case */
+		if ((In = GMT_Get_Record (API, GMT_READ_DATA, NULL)) == NULL) {	/* Read next record, get NULL if special case */
 			if (gmt_M_rec_is_error (GMT)) 		/* Bail if there are any read errors */
 				Return (GMT_RUNTIME_ERROR);
 			if (gmt_M_rec_is_any_header (GMT)) 	/* Skip all headers */

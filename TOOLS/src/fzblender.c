@@ -286,33 +286,33 @@ static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct G
 
 static void fzblender_FZ_fit_quality (struct GMT_CTRL *GMT, struct GMT_DATASEGMENT *S, int r, double a, double v, double f, double w, double *Q)
 {	/* Return Q[B_MODEL]=Q[E_MODEL] for blend, Q[T_MODEL] for trough model, Q[E_MODEL] and Q[FZ_EMP] for empirical trough model for this segment's row r */
-	if (S->coord[POS_AB][r] > a && S->coord[POS_VB][r] > v && S->coord[POS_FB][r] > f)
+	if (S->data[POS_AB][r] > a && S->data[POS_VB][r] > v && S->data[POS_FB][r] > f)
 		Q[B_MODEL] = 4.0;
-	else if (S->coord[POS_AB][r] > a && S->coord[POS_VB][r] > v)
+	else if (S->data[POS_AB][r] > a && S->data[POS_VB][r] > v)
 		Q[B_MODEL] = 3.0;
-	else if (S->coord[POS_VB][r] > v)
+	else if (S->data[POS_VB][r] > v)
 		Q[B_MODEL] = 2.0;
-	else if (S->coord[POS_AB][r] > a)
+	else if (S->data[POS_AB][r] > a)
 		Q[B_MODEL] = 1.0;
 	else
 		Q[B_MODEL] = 0.0;
-	if (gmt_M_is_dnan (S->coord[POS_AB][r])) Q[B_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	if (gmt_M_is_dnan (S->data[POS_AB][r])) Q[B_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	Q[E_MODEL] = Q[B_MODEL];
-	if (S->coord[T_MODEL][r] > a && S->coord[POS_VT][r] > v && S->coord[POS_FT][r] > f)
+	if (S->data[T_MODEL][r] > a && S->data[POS_VT][r] > v && S->data[POS_FT][r] > f)
 		Q[T_MODEL] = 4.0;
-	else if (S->coord[POS_AT][r] > a && S->coord[POS_VT][r] > v)
+	else if (S->data[POS_AT][r] > a && S->data[POS_VT][r] > v)
 		Q[T_MODEL] = 3.0;
-	else if (S->coord[POS_VT][r] > v)
+	else if (S->data[POS_VT][r] > v)
 		Q[T_MODEL] = 2.0;
-	else if (S->coord[POS_AT][r] > a)
+	else if (S->data[POS_AT][r] > a)
 		Q[T_MODEL] = 1.0;
 	else
 		Q[T_MODEL] = 0.0;
-	if (gmt_M_is_dnan (S->coord[POS_AT][r])) Q[T_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	if (gmt_M_is_dnan (S->data[POS_AT][r])) Q[T_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	/* For Empirical quality, we only have width and amplitude. Quality should increase with amp and decrease with width.
 	 * We form the ratio (amplitude/amp_cut) over (width/width_cut), take atan and scale the result from 0-4, truncated to int */
-	Q[D_MODEL] = irint (8.0 * atan ((S->coord[POS_AD][r] / a) / (S->coord[POS_WD][r]/ w)) / M_PI);
-	if (gmt_M_is_dnan (S->coord[POS_AD][r]) || gmt_M_is_dnan (S->coord[POS_WD][r])) Q[D_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	Q[D_MODEL] = irint (8.0 * atan ((S->data[POS_AD][r] / a) / (S->data[POS_WD][r]/ w)) / M_PI);
+	if (gmt_M_is_dnan (S->data[POS_AD][r]) || gmt_M_is_dnan (S->data[POS_WD][r])) Q[D_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	Q[U_MODEL] = 0.0;	/* This will depend on the others selected */
 }
 
@@ -325,7 +325,7 @@ static void fzblender_ensure_continuous_longitudes (struct GMTAPI_CTRL *API, str
 	char *txt[2] = {"-180 to +180", "0 to 360"};
 	for (fz = 0; fz < T->n_segments; fz++) {	/* For each FZ to determine */
 		for (row = 0; row < T->segment[fz]->n_rows; row++)
-			gmt_quad_add (API->GMT, Q, T->segment[fz]->coord[GMT_X][row]);	/* Consider this longitude, the one along the fZ */
+			gmt_quad_add (API->GMT, Q, T->segment[fz]->data[GMT_X][row]);	/* Consider this longitude, the one along the fZ */
 	}
 	way = gmt_quad_finalize (API->GMT, Q);
 	GMT_Report (API, GMT_MSG_VERBOSE, "Range finder %g to %g, selecting longitude formatting for range %s\n", Q[0].min[way], Q[0].max[way], txt[way]);
@@ -335,7 +335,7 @@ static void fzblender_ensure_continuous_longitudes (struct GMTAPI_CTRL *API, str
 		for (row = 0; row < T->segment[fz]->n_rows; row++) {
 			for (k = 0; k < N_LONG_COL; k++) {
 				col = loncol[k];
-				gmt_lon_range_adjust (Q->range[way], &T->segment[fz]->coord[col][row]);
+				gmt_lon_range_adjust (Q->range[way], &T->segment[fz]->data[col][row]);
 			}
 		}
 	}
@@ -354,7 +354,7 @@ struct TREND {	/* Holds slope and intercept for each segment column we need to d
 
 int GMT_fzblender (void *V_API, int mode, void *args) {
 	unsigned int fz, row;
-	int error = 0, in_ID, out_ID, n_d, n_g, k, n, item, status, ndig;
+	int error = 0, n_d, n_g, k, n, item, status, ndig;
 	int col[N_BLEND_COLS][N_BLENDS] =	/* Columns in the analysis file for b,d,e,t,u trace parameters */
 	{
 		{POS_XB0, POS_XD0, POS_XE0, POS_XT0, POS_XR},	/* FZ longitudes */
@@ -370,7 +370,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	};
 	int tcols[N_TCOLS] = {POS_XR, POS_YR, POS_XB0, POS_YB0, POS_SB, POS_WB, POS_XBL, POS_YBL, POS_XBR, POS_YBR};
 	
-	char p_in_string[GMT_LEN256], p_out_string[GMT_LEN256], buffer[BUFSIZ], run_cmd[BUFSIZ], *cmd = NULL;
+	char p_in_string[GMT_VF_LEN], p_out_string[GMT_VF_LEN], buffer[BUFSIZ], run_cmd[BUFSIZ], *cmd = NULL;
+	char s_in_string[GMT_VF_LEN], s_out_string[GMT_VF_LEN];
 	
 	double Q[N_BLENDS], P[N_BLENDS], q_weight[N_BLENDS], sum_P, sum_w, sum_q, i_q_range, q_model;
 	
@@ -379,6 +380,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	struct TREND *trend = NULL;
 	struct GMT_DATASET *Fin = NULL, *Fout = NULL;
 	struct GMT_DATATABLE *Tin = NULL, *Tout = NULL;
+	struct GMT_DATASEGMENT_HIDDEN *SH = NULL;
 	struct GMT_CTRL *GMT = NULL, *GMT_cpy = NULL;
 	struct GMTAPI_CTRL *API = gmt_get_api_ptr (V_API);	/* Cast from void to GMTAPI_CTRL pointer */
 	
@@ -419,7 +421,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			GMT_Report (API, GMT_MSG_VERBOSE, "Detrend FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 			if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) continue;	/* Skip all but selected profile */
 			for (k = 0; k < N_TCOLS; k++) {	/* Detrend key columns */
-				gmtlib_detrend (GMT, Tin->segment[fz]->coord[POS_DR], Tin->segment[fz]->coord[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], -1);
+				gmtlib_detrend (GMT, Tin->segment[fz]->data[POS_DR], Tin->segment[fz]->data[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], -1);
 			}
 		}
 		if (Ctrl->D.active) {
@@ -430,10 +432,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		}
 		
 		/* Register output for filter1d results */
-		if ((in_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_IN, NULL, Fin)) == GMT_NOTSET) Return (EXIT_FAILURE);
-		GMT_Encode_ID (API, p_in_string, in_ID);	/* Make filename with embedded object ID for input */
-		if ((out_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_OUT, NULL, NULL)) == GMT_NOTSET) Return (EXIT_FAILURE);
-		GMT_Encode_ID (API, p_out_string, out_ID);	/* Make filename with embedded object ID */
+		if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN, Fin, p_in_string) != GMT_NOERROR) Return (EXIT_FAILURE);
+		if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT, NULL, p_out_string) != GMT_NOERROR) Return (EXIT_FAILURE);
 		
 		GMT_Report (API, GMT_MSG_NORMAL, "Perform primary filtering\n");
 		//sprintf (buffer, "-F%s -E -N%d %s ->%s", Ctrl->F.args, POS_DR, p_in_string, p_out_string);
@@ -448,9 +448,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		
 		if (Ctrl->E.active) {	/* Now apply the secondary filter */
 			struct GMT_DATASET *D = NULL;
-			char s_in_string[GMT_LEN256], s_out_string[GMT_LEN256];
 			/* Retrieve the primary filtering results */
-			if ((D = GMT_Retrieve_Data (API, out_ID)) == NULL) {
+			if ((D = GMT_Read_VirtualFile (API, p_out_string)) == NULL) {
 				Return (API->error);
 			}
 			if (Ctrl->D.active) {
@@ -460,10 +459,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 				if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, D) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
 			}
 			/* Setup in/out for secondary filter */
-			if ((in_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_IN, NULL, D)) == GMT_NOTSET) Return (EXIT_FAILURE);
-			GMT_Encode_ID (API, s_in_string, in_ID);	/* Make filename with embedded object ID for input */
-			if ((out_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_OUT, NULL, NULL)) == GMT_NOTSET) Return (EXIT_FAILURE);
-			GMT_Encode_ID (API, s_out_string, out_ID);	/* Make filename with embedded object ID for output */
+			if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN, D, s_in_string) != GMT_NOERROR) Return (EXIT_FAILURE);
+			if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT, NULL, s_out_string) != GMT_NOERROR) Return (EXIT_FAILURE);
 			//sprintf (buffer, "-F%s -E -N%d %s ->%s", Ctrl->E.args, POS_DR, s_in_string, s_out_string);
 			sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->E.args, POS_DR, s_in_string, s_out_string);
 			GMT_Report (API, GMT_MSG_DEBUG, "Args to secondary filter1d: %s\n", buffer);
@@ -474,7 +471,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			GMT_Destroy_Data (API, &D);
 		}
 		/* Retrieve the final filtering results */
-		if ((Fin = GMT_Retrieve_Data (API, out_ID)) == NULL) {
+		if ((Fin = GMT_Read_VirtualFile (API, s_out_string)) == NULL) {
 			Return (API->error);
 		}
 		if (Ctrl->D.active && Ctrl->E.active) {
@@ -493,7 +490,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			GMT_Report (API, GMT_MSG_VERBOSE, "Restore trends for FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 			if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) continue;	/* Skip all but selected profile */
 			for (k = 0; k < N_TCOLS; k++) {	/* Restore trend to key columns */
-				gmtlib_detrend (GMT, Tin->segment[fz]->coord[POS_DR], Tin->segment[fz]->coord[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], +1);
+				gmtlib_detrend (GMT, Tin->segment[fz]->data[POS_DR], Tin->segment[fz]->data[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], +1);
 			}
 		}
 		gmt_M_free (GMT, trend);
@@ -541,7 +538,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		GMT_Report (API, GMT_MSG_NORMAL, "Process FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 		
 		if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) {	/* Skip all but selected profile */
-			Tout->segment[fz]->mode = GMT_WRITE_SKIP;	/* Ignore on output */
+			SH = gmt_get_DS_hidden (Tout->segment[fz]);
+			SH->mode = GMT_WRITE_SKIP;	/* Ignore on output */
 			continue;
 		}
 	
@@ -563,15 +561,15 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			
 			for (item = 0; item < N_BLEND_COLS; item++) {
 				if (item == OUT_DIST) {	/* No blending, just pass on along-track distance */
-					Tout->segment[fz]->coord[item][row] = Tin->segment[fz]->coord[POS_DR][row];
+					Tout->segment[fz]->data[item][row] = Tin->segment[fz]->data[POS_DR][row];
 					continue;
 				}
 				if (item == OUT_QWHT) {	/* Store the quality weight for model */
-					Tout->segment[fz]->coord[item][row] = q_model;
+					Tout->segment[fz]->data[item][row] = q_model;
 					continue;
 				}
 				/* Get the 4 candidates for blending */
-				for (k = 0; k < N_BLENDS; k++) P[k] = Tin->segment[fz]->coord[col[item][k]][row];
+				for (k = 0; k < N_BLENDS; k++) P[k] = Tin->segment[fz]->data[col[item][k]][row];
 				if (item == OUT_SHFT) P[N_BLENDS-1] = 0.0;	/* Digitized trace defines origin so offset == 0 */
 				if (item == OUT_LON0 || item == OUT_LONL || item == OUT_LONR) {	/* Must be careful with longitudes */
 					for (k = n_g = n_d = 0; k < N_BLENDS; k++) {	/* Determine if we have longs across Greenwich */
@@ -586,7 +584,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 					sum_P += P[k] * q_weight[k] * Ctrl->S.weight[k];
 					sum_w += q_weight[k] * Ctrl->S.weight[k];
 				}
-				Tout->segment[fz]->coord[item][row] = sum_P / sum_w;
+				Tout->segment[fz]->data[item][row] = sum_P / sum_w;
 			}
 		}
 	

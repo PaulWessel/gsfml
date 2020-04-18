@@ -30,7 +30,7 @@
  *   const char * gmtlib_gsfml_module_keys (void *API, char *candidate);
  */
 
-#include "gmt.h"
+#include "gmt_dev.h"
 #include "gsfml_config.h"
 #include "gsfml_module.h"
 #include <string.h>
