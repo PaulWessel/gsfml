@@ -1,7 +1,7 @@
 /*
  * $Id: gsfml_module.c 429 2018-07-01 00:54:37Z pwessel $
  *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-20120 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -22,12 +22,12 @@
  * display all module purposes:
  *
  * This function will be called by gmt --help :
- *   void gmt_gsfml_module_show_all (void *API);
+ *   void gmtlib_gsfml_module_show_all (void *API);
  * This function will be called by gmt --showmodules :
- *   void gmt_gsfml_module_list_all (void *API);
- * Thess functions are used by GMT_Encode_Options [API] :
- *   const char * gmt_gsfml_module_group (void *API, char *candidate);
- *   const char * gmt_gsfml_module_keys (void *API, char *candidate);
+ *   void gmtlib_gsfml_module_list_all (void *API);
+ * These functions are used by GMT_Encode_Options [API] :
+ *   const char * gmtlib_gsfml_module_group (void *API, char *candidate);
+ *   const char * gmtlib_gsfml_module_keys (void *API, char *candidate);
  */
 
 #include "gmt.h"
@@ -57,7 +57,7 @@ static struct Gmt_moduleinfo g_gsfml_module[] = {
 };
 
 /* Pretty print all GMT gsfml module names and their purposes */
-void gmt_gsfml_module_show_all (void *V_API) {
+void gmtlib_gsfml_module_show_all (void *V_API) {
 	unsigned int module_id = 0;
 	char message[256];
 	GMT_Message (V_API, GMT_TIME_NONE, "\n=== " "GMT gsfml: Tools for the GSFML project" " ===\n", GSFML_PACKAGE_VERSION);
@@ -76,7 +76,7 @@ void gmt_gsfml_module_show_all (void *V_API) {
 }
 
 /* Produce single list on stdout of all GMT gsfml module names for gmt --show-modules */
-void gmt_gsfml_module_list_all (void *API) {
+void gmtlib_gsfml_module_list_all (void *API) {
 	unsigned int module_id = 0;
 	GMT_UNUSED(API);
 	while (g_gsfml_module[module_id].name != NULL) {
@@ -86,7 +86,7 @@ void gmt_gsfml_module_list_all (void *API) {
 }
 
 /* Lookup module id by name, return option keys pointer (for external API developers) */
-const char *gmt_gsfml_module_keys (void *API, char *candidate) {
+const char *gmtlib_gsfml_module_keys (void *API, char *candidate) {
 	int module_id = 0;
 	gmt_M_unused(API);
 
@@ -100,7 +100,7 @@ const char *gmt_gsfml_module_keys (void *API, char *candidate) {
 }
 
 /* Lookup module id by name, return group char name (for external API developers) */
-const char *gmt_gsfml_module_group (void *API, char *candidate) {
+const char *gmtlib_gsfml_module_group (void *API, char *candidate) {
 	int module_id = 0;
 	gmt_M_unused(API);
 

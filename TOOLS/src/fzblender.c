@@ -1,7 +1,7 @@
 /*
  * $Id: fzblender.c 429 2018-07-01 00:54:37Z pwessel $
  *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2020 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -284,7 +284,7 @@ static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct G
 	return (n_errors ? GMT_PARSE_ERROR : GMT_OK);
 }
 
-static void FZ_fit_quality (struct GMT_CTRL *GMT, struct GMT_DATASEGMENT *S, int r, double a, double v, double f, double w, double *Q)
+static void fzblender_FZ_fit_quality (struct GMT_CTRL *GMT, struct GMT_DATASEGMENT *S, int r, double a, double v, double f, double w, double *Q)
 {	/* Return Q[B_MODEL]=Q[E_MODEL] for blend, Q[T_MODEL] for trough model, Q[E_MODEL] and Q[FZ_EMP] for empirical trough model for this segment's row r */
 	if (S->coord[POS_AB][r] > a && S->coord[POS_VB][r] > v && S->coord[POS_FB][r] > f)
 		Q[B_MODEL] = 4.0;
@@ -316,7 +316,7 @@ static void FZ_fit_quality (struct GMT_CTRL *GMT, struct GMT_DATASEGMENT *S, int
 	Q[U_MODEL] = 0.0;	/* This will depend on the others selected */
 }
 
-static void Ensure_Continuous_Longitudes (struct GMTAPI_CTRL *API, struct GMT_DATASET *D)
+static void fzblender_ensure_continuous_longitudes (struct GMTAPI_CTRL *API, struct GMT_DATASET *D)
 {
 	struct GMT_DATATABLE *T = D->table[0];	/* Since there is only input one table */
 	struct GMT_QUAD *Q = gmt_quad_init (API->GMT, 1);
@@ -355,7 +355,7 @@ struct TREND {	/* Holds slope and intercept for each segment column we need to d
 int GMT_fzblender (void *V_API, int mode, void *args) {
 	unsigned int fz, row;
 	int error = 0, in_ID, out_ID, n_d, n_g, k, n, item, status, ndig;
-	int col[N_BLEND_COLS][N_BLENDS] =	/* Columns in the analyzis file for b,d,e,t,u trace parameters */
+	int col[N_BLEND_COLS][N_BLENDS] =	/* Columns in the analysis file for b,d,e,t,u trace parameters */
 	{
 		{POS_XB0, POS_XD0, POS_XE0, POS_XT0, POS_XR},	/* FZ longitudes */
 		{POS_YB0, POS_YD0, POS_YE0, POS_YT0, POS_YR},	/* FZ latitudes */
@@ -407,7 +407,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	GMT_Report (API, GMT_MSG_NORMAL, "Read FZ analysis file %s\n", Ctrl->In.file);
 	if ((Fin = GMT_Read_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, GMT_READ_NORMAL, NULL, Ctrl->In.file, NULL)) == NULL) Return ((error = GMT_DATA_READ_ERROR));
 	
-	Ensure_Continuous_Longitudes (API, Fin);	/* Set longitude to 0-360 or -180/180 so there are no jumps */
+	fzblender_ensure_continuous_longitudes (API, Fin);	/* Set longitude to 0-360 or -180/180 so there are no jumps */
 	
 	/* Set up the primary GMT_filter1d_cmd call */
 	
@@ -549,7 +549,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		
 		for (row = 0; row < Tin->segment[fz]->n_rows; row++) {	/* Process each point along digitized FZ trace */
 			
-			FZ_fit_quality (GMT, Tin->segment[fz], row, Ctrl->Z.amp_cut, Ctrl->Z.var_cut, Ctrl->Z.f_cut, Ctrl->Z.w_cut, Q);	/* Compute quality indeces for blend, trough, empirical models */
+			fzblender_FZ_fit_quality (GMT, Tin->segment[fz], row, Ctrl->Z.amp_cut, Ctrl->Z.var_cut, Ctrl->Z.f_cut, Ctrl->Z.w_cut, Q);	/* Compute quality indeces for blend, trough, empirical models */
 			for (k = n = 0, sum_q = 0.0; k < N_BLENDS-1; k++) {	/* Compute quality weights for each model trace */
 				if (!Ctrl->S.mode[k]) continue;
 				q_weight[k] = (Q[k] - Ctrl->Q.min) * i_q_range;

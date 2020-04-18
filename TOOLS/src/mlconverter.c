@@ -1,7 +1,7 @@
 /*
  * $Id: mlconverter.c 429 2018-07-01 00:54:37Z pwessel $
  *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2020 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -159,7 +159,7 @@ struct ML_CHRON {	/* Holds chron and young/old ages */
 	double young, old;
 };
 
-static int ML_lookup (char *chron, char *names[])
+static int mlconverter_lookup (char *chron, char *names[])
 {
 	int k = 0;
 	while (names[k] && strcmp (chron, names[k])) k++;
@@ -288,12 +288,12 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 		c = GMT->current.io.OGR->tvalue[0][strlen(GMT->current.io.OGR->tvalue[0])-1];
 		polarity = (c == 'n' || c == 'N') ? ML_NORMAL : ML_REVERSE;
 		strcpy (chron, GMT->current.io.OGR->tvalue[0]);
-		k = ML_lookup (chron, Cname[polarity]);	/* Try exact name standard */
+		k = mlconverter_lookup (chron, Cname[polarity]);	/* Try exact name standard */
 		if (k == -1) {	/* Did not find this.  Try again without any dots or hyphens */
 			k = j = 0; while ((c = GMT->current.io.OGR->tvalue[0][k++])) if (!(c == '.' || c == '-')) chron[j++] = c;
 			chron[j] = 0;
 			gmt_str_toupper (chron);
-			k = ML_lookup (chron, Cname2[polarity]);	/* Try lax standard */
+			k = mlconverter_lookup (chron, Cname2[polarity]);	/* Try lax standard */
 			if (k >= 0) {	/* Report the problem  */
 				strcpy (chron, Cname[polarity][k]);
 				if (Ctrl->S.active) {	/* Refuse to convert a lax chron */

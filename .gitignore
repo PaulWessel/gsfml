@@ -1,0 +1,11 @@
+build
+?build
+?build-mp
+.*~
+**/gmt.history
+.DS_Store
+TOOLS/src/*_Normal*.h
+TOOLS/src/*_Reverse*.h
+TOOLS/src/*1995*.h
+TOOLS/src/*2004*.h
+TOOLS/src/*2007*.h

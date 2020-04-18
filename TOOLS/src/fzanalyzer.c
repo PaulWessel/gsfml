@@ -1,7 +1,7 @@
 /*
  * $Id: fzanalyzer.c 429 2018-07-01 00:54:37Z pwessel $
  *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2020 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -171,7 +171,7 @@ typedef void (*PFV) (double *d, int nd, double d0, double width, int way, double
 	by the asymmetry parameter a (0-1).  We also model a linear trend m + qx.
 */
 
-static void FZ_gaussian0 (double *d, int nd, double d0, double width, int i, double *vgg)
+static void fzanalyzer_FZ_gaussian0 (double *d, int nd, double d0, double width, int i, double *vgg)
 {	/* G0: Fake VGG signal over a trough [The "Atlantic" signal]. Here,
 	 * d0 is position of FZ (the trough) and width is the Gaussian width.
 	 * The signal is normalized to give unit amplitude.
@@ -187,7 +187,7 @@ static void FZ_gaussian0 (double *d, int nd, double d0, double width, int i, dou
 	}
 }
 
-static void FZ_gaussian1 (double *d, int nd, double d0, double width, int way, double *vgg)
+static void fzanalyzer_FZ_gaussian1 (double *d, int nd, double d0, double width, int way, double *vgg)
 {	/* G1: Fake VGG signal over an isostatic edge [The "Pacific" signal]. Here,
 	 * d0 is position of FZ (steepest VGG gradient) and width is the peak-to-trough distance.
 	 * The signal is normalized to give unit peak-to-trough amplitude.
@@ -206,7 +206,7 @@ static void FZ_gaussian1 (double *d, int nd, double d0, double width, int way, d
 	}
 }
 
-static void FZ_gaussian2 (double *d, int nd, double d0, double width, int i, double *vgg)
+static void fzanalyzer_FZ_gaussian2 (double *d, int nd, double d0, double width, int i, double *vgg)
 {	/* G2: Fake VGG signal over an FZ in compression (which raises bulges). Here,
 	 * d0 is position of FZ (the trough) and width is the Gaussian width.
 	 * The signal is normalized to give unit peak-to-trough amplitude.
@@ -224,7 +224,7 @@ static void FZ_gaussian2 (double *d, int nd, double d0, double width, int i, dou
 	}
 }
 
-static void FZ_blendmodel (double *G0, double *G1, double *G2, double *combo, int n, double a, double c, double A)
+static void fzanalyzer_FZ_blendmodel (double *G0, double *G1, double *G2, double *combo, int n, double a, double c, double A)
 {	/* Blend the two models using a (0-1), and c (>=0), normalize, then scale to given amplitude A */
 	int i;
 	double one_minus_a, min = DBL_MAX, max = -DBL_MAX, scale;
@@ -238,7 +238,7 @@ static void FZ_blendmodel (double *G0, double *G1, double *G2, double *combo, in
 	for (i = 0; i < n; i++) combo[i] *= scale;
 }
 
-static int FZ_solution (struct GMT_CTRL *GMT, double *dist, double *data, double d0, double *model, int n, double *par)
+static int fzanalyzer_FZ_solution (struct GMT_CTRL *GMT, double *dist, double *data, double d0, double *model, int n, double *par)
 {	/* LS solution for par[0] + par[1]*(dist-d0) + par[2] * model, ignoring NaNs */
 	int i, m;
 	double d, N[9];
@@ -263,7 +263,7 @@ static int FZ_solution (struct GMT_CTRL *GMT, double *dist, double *data, double
 	return (gmt_gaussjordan (GMT, N, 3U, par));	/* Return solution via par */
 }
 
-static double FZ_get_variance (double *z, int n)
+static double fzanalyzer_FZ_get_variance (double *z, int n)
 {	/* Compute sum of squares, skipping NaNs */
 	int i;
 	double var = 0.0;
@@ -271,13 +271,13 @@ static double FZ_get_variance (double *z, int n)
 	return (var);
 }
 
-static void FZ_residuals (double *dist, double *data, double d0, double *model, double *residual, int n, double par[])
+static void fzanalyzer_FZ_residuals (double *dist, double *data, double d0, double *model, double *residual, int n, double par[])
 {	/* Return residuals after removing best-fitting FZ shape */
 	int i;
 	for (i = 0; i < n; i++) residual[i] = data[i] - (par[0] + par[1] * (dist[i] - d0) + par[2] * model[i]);
 }
 
-static void FZ_trend (double *x, double *y, int n, double *intercept, double *slope, int remove)
+static void fzanalyzer_FZ_trend (double *x, double *y, int n, double *intercept, double *slope, int remove)
 {	/* Fits a LS line, but ignore points with NaNs in y[] */
 	double sum_x, sum_xx, sum_y, sum_xy, xx, dx = 0.0;
 	int i, m, equidistant = 0;
@@ -308,7 +308,7 @@ static void FZ_trend (double *x, double *y, int n, double *intercept, double *sl
 	}
 }
 
-static int FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, double corridor, double *width, int n_widths, double *asym, int n_asym, double *comp, int n_comp, double *results, PFV *FZshape)
+static int fzanalyzer_FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, double corridor, double *width, int n_widths, double *asym, int n_asym, double *comp, int n_comp, double *results, PFV *FZshape)
 {
 	/* d	   = distance along crossing profile in km, with d = 0 the nominal FZ location given by digitized line.
 	 * vgg	   = observed (resampled) VGG along crossing profile, possibly with NaNs at end.
@@ -338,10 +338,10 @@ static int FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, do
 	for (m = 0; m < N_SHAPES; m++) vgg_comp[m] = gmt_M_memory (GMT, NULL, n, double);
 	predicted_vgg = gmt_M_memory (GMT, NULL, n, double);
 	gmt_M_memcpy (d_vgg, vgg, n, double);	/* Make copy of vgg */
-	FZ_trend (d, d_vgg, n, &intercept, &slope, 1);		/* Find and remove linear trend just for data variance calculation */
+	fzanalyzer_FZ_trend (d, d_vgg, n, &intercept, &slope, 1);		/* Find and remove linear trend just for data variance calculation */
 	/* So trend = d * slope + intercept; the shift of FZ location does not change this calculation (i.e. d is original d) */
 	
-	var_data = FZ_get_variance (d_vgg, n);	/* Compute sum of squares for the detrended data */
+	var_data = fzanalyzer_FZ_get_variance (d_vgg, n);	/* Compute sum of squares for the detrended data */
 	min_var_b = min_var_t = DBL_MAX;
 	got_trough = (gmt_M_is_zero (asym[0]));
 	for (way = -1; way < 2; way += 2) {	/* Must use normal and reversed model since we dont know which side is young (-1 means old is to the left or negative d) */
@@ -352,14 +352,14 @@ static int FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, do
 				for (ic = 0; ic < n_comp; ic++) {	/* Search for best compression factor */
 					for (row = 0; row < n_asym; row++) {	/* Search for optimal asymmetry parameter asym */
 						n_fits++;
-						FZ_blendmodel (vgg_comp[FZ_G0], vgg_comp[FZ_G1], vgg_comp[FZ_G2], predicted_vgg, n, asym[row], comp[ic], 1.0);	/* a blend, with unit amplitude */
-						if (FZ_solution  (GMT, d, vgg, d[col0], predicted_vgg, n, par)) {	/* LS solution for trend + scaled shape */
+						fzanalyzer_FZ_blendmodel (vgg_comp[FZ_G0], vgg_comp[FZ_G1], vgg_comp[FZ_G2], predicted_vgg, n, asym[row], comp[ic], 1.0);	/* a blend, with unit amplitude */
+						if (fzanalyzer_FZ_solution  (GMT, d, vgg, d[col0], predicted_vgg, n, par)) {	/* LS solution for trend + scaled shape */
 							n_sing++;
 							continue;		/* Return 1 if singular */
 						}
 						if (par[2] < 0.0) continue;	/* Do not consider negative amplitudes since we have way to handle reversals */
-						FZ_residuals (d, vgg, d[col0], predicted_vgg, res, n, par);	/* Return residuals after removing best-fitting FZ shape */
-						var_model = FZ_get_variance (res, n);				/* Compute sum of squares */
+						fzanalyzer_FZ_residuals (d, vgg, d[col0], predicted_vgg, res, n, par);	/* Return residuals after removing best-fitting FZ shape */
+						var_model = fzanalyzer_FZ_get_variance (res, n);				/* Compute sum of squares */
 						if (var_model < min_var_b) {		/* A better fit was obtained, update parameters */
 							min_var_b = var_model;
 							results[BEST_MODEL_B] = asym[row];
@@ -403,7 +403,7 @@ static int FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, do
 	return ((int)irint (100.0 * n_sing / n_fits));	/* Return percentage of singular solutions as a measure of trouble */
 }
 
-static void FZ_get_envelope (struct GMT_CTRL *GMT, double *pd, double *px, double *py, double *pz, int np, double *best_loc, int k, double *results)
+static void fzanalyzer_FZ_get_envelope (struct GMT_CTRL *GMT, double *pd, double *px, double *py, double *pz, int np, double *best_loc, int k, double *results)
 {	/* Find the lon/lat of the points +/- 1-sigma from the FZ-crossing */
 	int il, ir;
 	double sigma3, pe[3], threshold;
@@ -443,7 +443,7 @@ static void FZ_get_envelope (struct GMT_CTRL *GMT, double *pd, double *px, doubl
 	gmt_intpol (GMT, pd, pz, np, 3, pe, &results[BEST_ZE_1], 1);	/* Returns three data values starting at BEST_ZE_1 location */
 }
 
-static int FZ_trough_location (struct GMT_CTRL *GMT, double *dist, double *vgg_obs, double *vgg_blend, int np, double corr_width, double locations[])
+static int fzanalyzer_FZ_trough_location (struct GMT_CTRL *GMT, double *dist, double *vgg_obs, double *vgg_blend, int np, double corr_width, double locations[])
 {	/* Return minimum locations of observed and best-blend profiles */
 	int i, o_min = -1, b_min = -1;
 	double vo_min = DBL_MAX, vb_min = DBL_MAX;
@@ -464,7 +464,7 @@ static int FZ_trough_location (struct GMT_CTRL *GMT, double *dist, double *vgg_o
 	return (o_min);
 }
 
-static void FZ_get_ages (struct GMT_CTRL *GMT, double *dist, double *age, int np, double d0, double A[])
+static void fzanalyzer_FZ_get_ages (struct GMT_CTRL *GMT, double *dist, double *age, int np, double d0, double A[])
 {	/* Return the age on left and right side of FZ.  FZ is a distance d0 */
 	/* LS solution for par[0] + par[1]*(dist-d0) + par[2] * H(dist-d0), ignoring NaNs and points within DEF_FZ_GAP km of origin d0.
 	 * We skip this gap since ages often spline from one side to the other and we seek to avoid fitting this ramp */
@@ -730,7 +730,7 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	GMT->current.io.col_type[GMT_OUT][POS_XER] = GMT_IS_LON;	GMT->current.io.col_type[GMT_OUT][POS_YER] = GMT_IS_LAT;
 	
 	/* Assign pointer array to the three basic shapes */
-	FZshape[FZ_G0] = FZ_gaussian0;	FZshape[FZ_G1] = FZ_gaussian1;	FZshape[FZ_G2] = FZ_gaussian2;
+	FZshape[FZ_G0] = fzanalyzer_FZ_gaussian0;	FZshape[FZ_G1] = fzanalyzer_FZ_gaussian1;	FZshape[FZ_G2] = fzanalyzer_FZ_gaussian2;
 
 	/* Read in the resampled FZ track lines */
 	
@@ -850,24 +850,24 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 			/* Find best fit shift, width, and amplitude plus various quality factors */
 
 			gmt_M_memset (results, N_RESULTS, double);
-			n_sing = FZ_fit_model (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], np_cross, corridor_half_width, FZ_width, n_FZ_widths, FZ_asym, n_FZ_asym, FZ_comp, n_FZ_comp, results, FZshape);
+			n_sing = fzanalyzer_FZ_fit_model (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], np_cross, corridor_half_width, FZ_width, n_FZ_widths, FZ_asym, n_FZ_asym, FZ_comp, n_FZ_comp, results, FZshape);
 			if (n_sing) GMT_Report (API, GMT_MSG_NORMAL, "Warning: Cross profile %s generated %ld %% singular solutions\n", S->label, n_sing);
 	
 			/* Evaluate the best model predictions */
 			FZshape[FZ_G0] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G0]);	/* Just need G0 & G2 for building trough model (asymmetry = 0) */
 			FZshape[FZ_G2] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G2]);
-			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_T], np_cross, 0.0, results[BEST_FLANK_T], results[BEST_AMPLT_T]);	/* Best trough model (T) without the linear trend */
+			fzanalyzer_FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_T], np_cross, 0.0, results[BEST_FLANK_T], results[BEST_AMPLT_T]);	/* Best trough model (T) without the linear trend */
 			way = irint (results[BEST_WAY_B]);	/* Old side on negative distance (-1) or positive distances (+1) */
 			for (m = 0; m < N_SHAPES; m++) FZshape[m] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_B], results[BEST_WIDTH_B], way, comp[m]);	/* Evaluate all three shapes given blend parameters */
-			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_B], np_cross, results[BEST_MODEL_B], results[BEST_FLANK_B], results[BEST_AMPLT_B]);	/* Best blend (B) without the linear trend */
-			m = FZ_trough_location (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], S->coord[XPOS_B], np_cross, corridor_half_width, best_loc);	/* Determine the LOC_DATA and LOC_BLEND_T estimates of FZ location */
+			fzanalyzer_FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_B], np_cross, results[BEST_MODEL_B], results[BEST_FLANK_B], results[BEST_AMPLT_B]);	/* Best blend (B) without the linear trend */
+			m = fzanalyzer_FZ_trough_location (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], S->coord[XPOS_B], np_cross, corridor_half_width, best_loc);	/* Determine the LOC_DATA and LOC_BLEND_T estimates of FZ location */
 			best_loc[LOC_TROUGH] = results[BEST_FZLOC_T];		/* The 2nd best FZ location estimate is from the trough model */
 			best_loc[LOC_BLEND_E] = results[BEST_FZLOC_B];		/* The 3rd best FZ location estimate is from the blend model */
 
 			/* Determine the +/- 1-sigma corridor around the best FZ trace */
-			FZ_get_envelope (GMT, S->coord[XPOS_D], S->coord[XPOS_X], S->coord[XPOS_Y], S->coord[XPOS_Z], np_cross, best_loc, m, results);
+			fzanalyzer_FZ_get_envelope (GMT, S->coord[XPOS_D], S->coord[XPOS_X], S->coord[XPOS_Y], S->coord[XPOS_Z], np_cross, best_loc, m, results);
 			/* Determine ages on left (d < 0) and right (d > 0) sides (if -A) */
-			FZ_get_ages (GMT, S->coord[XPOS_D], S->coord[XPOS_C], np_cross, 0.0, ages);
+			fzanalyzer_FZ_get_ages (GMT, S->coord[XPOS_D], S->coord[XPOS_C], np_cross, 0.0, ages);
 	
 			/* Copy the results for this cross-profile analysis to the output data set */
 			F->segment[fz]->coord[POS_TL][row] = ages[0];			/* Crustal age to left of FZ */
