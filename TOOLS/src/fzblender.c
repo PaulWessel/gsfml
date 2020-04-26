@@ -22,7 +22,8 @@
  * Date:	5-MAY-2017 (Requires GMT >= 5.2)
  */
 
-#define THIS_MODULE_NAME	"fzblender"
+#define THIS_MODULE_CLASSIC_NAME	"fzblender"
+#define THIS_MODULE_MODERN_NAME	"fzblender"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Produce a smooth blended FZ trace"
 #define THIS_MODULE_KEYS	"<DI,>DO"

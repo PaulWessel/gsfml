@@ -24,7 +24,8 @@
  * Date:	5-MAY-2017 (Requires GMT >= 5.2)
  */
 
-#define THIS_MODULE_NAME	"mlconverter"
+#define THIS_MODULE_CLASSIC_NAME	"mlconverter"
+#define THIS_MODULE_MODERN_NAME	"mlconverter"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Convert chrons to ages using selected magnetic timescale"
 #define THIS_MODULE_KEYS	"<DI,>DO"

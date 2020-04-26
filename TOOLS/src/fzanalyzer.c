@@ -22,7 +22,8 @@
  * Date:	5-MAY-2017 (Requires GMT >= 5.2)
  */
 
-#define THIS_MODULE_NAME	"fzanalyzer"
+#define THIS_MODULE_CLASSIC_NAME	"fzanalyzer"
+#define THIS_MODULE_MODERN_NAME	"fzanalyzer"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Analysis of fracture zones using crossing profiles"
 #define THIS_MODULE_KEYS	"<DI,>DO"
