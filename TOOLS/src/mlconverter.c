@@ -80,7 +80,7 @@ static void Free_Ctrl (struct GMT_CTRL *GMT, struct MLCONVERTER_CTRL *C) {	/* De
 
 static int usage (struct GMTAPI_CTRL *API, int level)
 {
-	gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_NAME, THIS_MODULE_PURPOSE);
+	gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_CLASSIC_NAME, THIS_MODULE_PURPOSE);
 	if (level == GMT_MODULE_PURPOSE) return (GMT_NOERROR);
 	GMT_Message (API, GMT_TIME_NONE, "usage: mlconverter [<ML_data>] [-A] [-G] [-S] [-Tc|g|s] [%s]\n", GMT_V_OPT);
 	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n\n", GSFML_PACKAGE_VERSION);
@@ -223,7 +223,7 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 
 	/* Parse the program-specific arguments */
 
-	GMT = gmt_begin_module (API, THIS_MODULE_LIB, THIS_MODULE_NAME, &GMT_cpy); /* Save current state */
+	GMT = gmt_begin_module (API, THIS_MODULE_LIB, THIS_MODULE_CLASSIC_NAME, &GMT_cpy); /* Save current state */
 	if (GMT_Parse_Common (API, THIS_MODULE_OPTIONS, options)) Return (API->error);
 	Ctrl = New_Ctrl (GMT);	/* Allocate and initialize a new control structure */
 	if ((error = parse (API, Ctrl, options))) Return (error);
