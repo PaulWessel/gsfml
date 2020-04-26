@@ -27,7 +27,7 @@ set (SUPPL_PROGS_SRCS gsfml_config.h fz_analysis.h fzanalyzer.c
 
 # SUPPL_LIB_SRCS [required]
 #	list of C source codes for supplemental library
-set (SUPPL_LIB_SRCS ${SUPPL_PROGS_SRCS} gsfml_module.c)
+set (SUPPL_LIB_SRCS ${SUPPL_PROGS_SRCS})
 
 # SUPPL_HEADERS [optional]
 #	header files. Will be installed if BUILD_DEVELOPER is TRUE
