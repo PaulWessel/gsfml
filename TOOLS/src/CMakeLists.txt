@@ -21,9 +21,10 @@ set (SUPPL_NAME gsfml)
 
 # SUPPL_PROGS_SRCS [required]
 #	list of C source codes for supplemental modules
-set (SUPPL_PROGS_SRCS gsfml_config.h fz_analysis.h fzanalyzer.c
+set (SUPPL_PROGS_SRCS fz_analysis.h fzanalyzer.c
 	fzblender.c mlconverter.c Chron_Normal.h Chron_Reverse.h
-	Geek2007n.h Geek2007r.h CK1995n.h CK1995r.h GST2004n.h GST2004r.h)
+	Geek2007n.h Geek2007r.h CK1995n.h CK1995r.h GST2004n.h GST2004r.h
+	${CMAKE_CURRENT_BINARY_DIR}/gsfml_config.h)
 
 # SUPPL_LIB_SRCS [required]
 #	list of C source codes for supplemental library
