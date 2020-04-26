@@ -15,9 +15,10 @@
 #
 # Contact info: http://www.soest.hawaii.edu/PT/GSFML
 #-------------------------------------------------------------------------------
-# SUPPL_NAME [required]
+# SHARED_LIB_NAME [required]
 #	name of the supplement package. It can be different from the directory name.
-set (SUPPL_NAME gsfml)
+#   If not given then the modules are added to the supplements library
+set (SHARED_LIB_NAME gsfml)
 
 # SUPPL_PROGS_SRCS [required]
 #	list of C source codes for supplemental modules
@@ -50,6 +51,7 @@ set (SUPPL_LIB_NAME gsfml)
 
 set (GSFML_PACKAGE_VERSION "2.0.0")
 
+configure_file (../gmt_glue.c.in gmt_gsfml_glue.c)
 configure_file (gsfml_config.h.in gsfml_config.h)
 configure_file (fz_funcs.sh.in fz_funcs.sh)
 
