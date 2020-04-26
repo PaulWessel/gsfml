@@ -15,11 +15,11 @@
 #
 # Contact info: http://www.soest.hawaii.edu/PT/GSFML
 #-------------------------------------------------------------------------------
-# SHARED_LIB_NAME [required]
+# SUPPL_LIB_NAME [required]
 #	name of the supplement package. It can be different from the directory name.
 #   If not given then the modules are added to the supplements library
-set (SHARED_LIB_NAME gsfml)
-set (SHARED_LIB_PURPOSE "GMT gsfml: Tools for the GSFML project")
+set (SUPPL_LIB_NAME gsfml)
+set (SUPPL_LIB_PURPOSE "GMT gsfml: Tools for the GSFML project")
 
 # SUPPL_PROGS_SRCS [required]
 #	list of C source codes for supplemental modules
@@ -27,13 +27,13 @@ set (SUPPL_PROGS_SRCS fzanalyzer.c fzblender.c mlconverter.c)
 
 # SUPPL_LIB_SRCS [required]
 #	list of C source codes for supplemental library
-set (SUPPL_LIB_SRCS ${SUPPL_PROGS_SRCS} ${CMAKE_CURRENT_BINARY_DIR}/gmt_gsfml_glue.c)
+set (SUPPL_LIB_SRCS ${SUPPL_PROGS_SRCS})
 
 # SUPPL_HEADERS [optional]
 #	header files. Will be installed if BUILD_DEVELOPER is TRUE
 set (SUPPL_HEADERS fz_analysis.h Chron_Normal.h Chron_Reverse.h
 	Geek2007n.h Geek2007r.h CK1995n.h CK1995r.h GST2004n.h GST2004r.h
-	gmt_gsfml_moduleinfo.h ${CMAKE_CURRENT_BINARY_DIR}/gsfml_config.h)
+	${CMAKE_CURRENT_BINARY_DIR}/gsfml_config.h)
 
 # SUPPL_EXAMPLE_FILES [optional]
 #	README and other example files
@@ -52,7 +52,6 @@ set (SUPPL_LIB_NAME gsfml)
 
 set (GSFML_PACKAGE_VERSION "2.0.0")
 
-configure_file (../gmt_glue.c.in gmt_gsfml_glue.c)
 configure_file (gsfml_config.h.in gsfml_config.h)
 configure_file (fz_funcs.sh.in fz_funcs.sh)
 
