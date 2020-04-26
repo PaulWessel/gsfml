@@ -19,7 +19,7 @@
 #	name of the supplement package. It can be different from the directory name.
 #   If not given then the modules are added to the supplements library
 set (SHARED_LIB_NAME gsfml)
-set (SHARED_LIB_PURPOSE "GSFML: Manipulating the GSFML data")
+set (SHARED_LIB_PURPOSE "GMT gsfml: Tools for the GSFML project")
 
 # SUPPL_PROGS_SRCS [required]
 #	list of C source codes for supplemental modules
