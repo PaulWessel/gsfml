@@ -263,11 +263,12 @@ static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct G
 				break;
 			case 'Z':
 				Ctrl->Z.active = 1;
-				sscanf (opt->arg, "%[^/]/%[^/]/%[^/]/%s", ta, tb, tc, td); 
-				Ctrl->Z.amp_cut = atof (ta); 
-				Ctrl->Z.var_cut = atof (tb); 
-				Ctrl->Z.f_cut   = atof (tc); 
-				Ctrl->Z.w_cut   = atof (td); 
+				sscanf (opt->arg, "%[^/]/%[^/]/%[^/]/%s", ta, tb, tc, td);
+				Ctrl->Z.amp_cut = atof (ta);
+				Ctrl->Z.var_cut = atof (tb);
+				Ctrl->Z.f_cut   = atof (tc);
+				Ctrl->Z.w_cut   = atof (td);
+				break;
 
 			default:	/* Report bad options */
 				n_errors += gmt_default_error (GMT, opt->option);
@@ -355,7 +356,7 @@ struct TREND {	/* Holds slope and intercept for each segment column we need to d
 
 int GMT_fzblender (void *V_API, int mode, void *args) {
 	unsigned int fz, row;
-	int error = 0, n_d, n_g, k, n, item, status, ndig;
+	int error = 0, n_d, n_g, k, n, item, status;
 	int col[N_BLEND_COLS][N_BLENDS] =	/* Columns in the analysis file for b,d,e,t,u trace parameters */
 	{
 		{POS_XB0, POS_XD0, POS_XE0, POS_XT0, POS_XR},	/* FZ longitudes */
@@ -543,8 +544,6 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			continue;
 		}
 	
-		ndig = irint (floor (log10 ((double)Tin->segment[fz]->n_rows))) + 1;	/* Determine how many decimals are needed for largest FZ id */
-		
 		for (row = 0; row < Tin->segment[fz]->n_rows; row++) {	/* Process each point along digitized FZ trace */
 			
 			fzblender_FZ_fit_quality (GMT, Tin->segment[fz], row, Ctrl->Z.amp_cut, Ctrl->Z.var_cut, Ctrl->Z.f_cut, Ctrl->Z.w_cut, Q);	/* Compute quality indeces for blend, trough, empirical models */
