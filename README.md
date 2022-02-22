@@ -2,7 +2,7 @@
 
 This information is for those who wish to look around and use GSFML.
 It is mostly for gurus as regular users can obtain data from the
-GSFML website and install supplemental tools from GMT.
+[GSFML website](http://www.soest.hawaii.edu/PT/GSFML/) and install supplemental tools from GMT.
 
 To check out the GSFML project from the subversion server, run
 
