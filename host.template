@@ -1,0 +1,7 @@
+# Location-specific settings for hosting GSFML
+# Use this template to create host.gsfml in the
+# current directory which is then used by Makefile
+# Note: host.gsfml is not in the repo but is in .gitignore
+
+DIR	=	path-to-local-directory
+HOST	=	webserver

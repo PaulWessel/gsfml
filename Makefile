@@ -1,7 +1,8 @@
 # Global Seafloor Fabric and Magnetic Lineations
 # Makefile for SFDATA, MLDATA, and HELLDATA directories
-DIR	=	/export/imina2/httpd/htdocs/PT/GSFML
-HOST	=	imina.soest.hawaii.edu
+
+# Set the host file
+include host.gsfml
 
 help::
 	@grep '^#!' Makefile | cut -c3-

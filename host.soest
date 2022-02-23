@@ -1,0 +1,4 @@
+# Global Seafloor Fabric and Magnetic Lineations
+# Settings for hosting at SOEST, UH Manoa, USA
+DIR	=	/export/imina2/httpd/htdocs/PT/GSFML
+HOST	=	imina.soest.hawaii.edu
