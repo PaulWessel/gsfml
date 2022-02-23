@@ -1,7 +1,5 @@
 /*
- * $Id: fzblender.c 429 2018-07-01 00:54:37Z pwessel $
- *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2022 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -25,6 +23,7 @@
 #define THIS_MODULE_NAME	"fzblender"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Produce a smooth blended FZ trace"
+#define THIS_MODULE_LIB_PURPOSE	"GMT supplemental modules for GSFML"
 #define THIS_MODULE_KEYS	"<DI,>DO"
 #define THIS_MODULE_NEEDS       ""
 #define THIS_MODULE_OPTIONS	"-Vh>"
@@ -286,33 +285,33 @@ static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct G
 
 static void FZ_fit_quality (struct GMT_CTRL *GMT, struct GMT_DATASEGMENT *S, int r, double a, double v, double f, double w, double *Q)
 {	/* Return Q[B_MODEL]=Q[E_MODEL] for blend, Q[T_MODEL] for trough model, Q[E_MODEL] and Q[FZ_EMP] for empirical trough model for this segment's row r */
-	if (S->coord[POS_AB][r] > a && S->coord[POS_VB][r] > v && S->coord[POS_FB][r] > f)
+	if (S->data[POS_AB][r] > a && S->data[POS_VB][r] > v && S->data[POS_FB][r] > f)
 		Q[B_MODEL] = 4.0;
-	else if (S->coord[POS_AB][r] > a && S->coord[POS_VB][r] > v)
+	else if (S->data[POS_AB][r] > a && S->data[POS_VB][r] > v)
 		Q[B_MODEL] = 3.0;
-	else if (S->coord[POS_VB][r] > v)
+	else if (S->data[POS_VB][r] > v)
 		Q[B_MODEL] = 2.0;
-	else if (S->coord[POS_AB][r] > a)
+	else if (S->data[POS_AB][r] > a)
 		Q[B_MODEL] = 1.0;
 	else
 		Q[B_MODEL] = 0.0;
-	if (gmt_M_is_dnan (S->coord[POS_AB][r])) Q[B_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	if (gmt_M_is_dnan (S->data[POS_AB][r])) Q[B_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	Q[E_MODEL] = Q[B_MODEL];
-	if (S->coord[T_MODEL][r] > a && S->coord[POS_VT][r] > v && S->coord[POS_FT][r] > f)
+	if (S->data[T_MODEL][r] > a && S->data[POS_VT][r] > v && S->data[POS_FT][r] > f)
 		Q[T_MODEL] = 4.0;
-	else if (S->coord[POS_AT][r] > a && S->coord[POS_VT][r] > v)
+	else if (S->data[POS_AT][r] > a && S->data[POS_VT][r] > v)
 		Q[T_MODEL] = 3.0;
-	else if (S->coord[POS_VT][r] > v)
+	else if (S->data[POS_VT][r] > v)
 		Q[T_MODEL] = 2.0;
-	else if (S->coord[POS_AT][r] > a)
+	else if (S->data[POS_AT][r] > a)
 		Q[T_MODEL] = 1.0;
 	else
 		Q[T_MODEL] = 0.0;
-	if (gmt_M_is_dnan (S->coord[POS_AT][r])) Q[T_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	if (gmt_M_is_dnan (S->data[POS_AT][r])) Q[T_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	/* For Empirical quality, we only have width and amplitude. Quality should increase with amp and decrease with width.
 	 * We form the ratio (amplitude/amp_cut) over (width/width_cut), take atan and scale the result from 0-4, truncated to int */
-	Q[D_MODEL] = irint (8.0 * atan ((S->coord[POS_AD][r] / a) / (S->coord[POS_WD][r]/ w)) / M_PI);
-	if (gmt_M_is_dnan (S->coord[POS_AD][r]) || gmt_M_is_dnan (S->coord[POS_WD][r])) Q[D_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	Q[D_MODEL] = irint (8.0 * atan ((S->data[POS_AD][r] / a) / (S->data[POS_WD][r]/ w)) / M_PI);
+	if (gmt_M_is_dnan (S->data[POS_AD][r]) || gmt_M_is_dnan (S->data[POS_WD][r])) Q[D_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	Q[U_MODEL] = 0.0;	/* This will depend on the others selected */
 }
 
@@ -325,7 +324,7 @@ static void Ensure_Continuous_Longitudes (struct GMTAPI_CTRL *API, struct GMT_DA
 	char *txt[2] = {"-180 to +180", "0 to 360"};
 	for (fz = 0; fz < T->n_segments; fz++) {	/* For each FZ to determine */
 		for (row = 0; row < T->segment[fz]->n_rows; row++)
-			gmt_quad_add (API->GMT, Q, T->segment[fz]->coord[GMT_X][row]);	/* Consider this longitude, the one along the fZ */
+			gmt_quad_add (API->GMT, Q, T->segment[fz]->data[GMT_X][row]);	/* Consider this longitude, the one along the fZ */
 	}
 	way = gmt_quad_finalize (API->GMT, Q);
 	GMT_Report (API, GMT_MSG_VERBOSE, "Range finder %g to %g, selecting longitude formatting for range %s\n", Q[0].min[way], Q[0].max[way], txt[way]);
@@ -335,7 +334,7 @@ static void Ensure_Continuous_Longitudes (struct GMTAPI_CTRL *API, struct GMT_DA
 		for (row = 0; row < T->segment[fz]->n_rows; row++) {
 			for (k = 0; k < N_LONG_COL; k++) {
 				col = loncol[k];
-				gmt_lon_range_adjust (Q->range[way], &T->segment[fz]->coord[col][row]);
+				gmt_lon_range_adjust (Q->range[way], &T->segment[fz]->data[col][row]);
 			}
 		}
 	}
@@ -419,7 +418,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			GMT_Report (API, GMT_MSG_VERBOSE, "Detrend FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 			if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) continue;	/* Skip all but selected profile */
 			for (k = 0; k < N_TCOLS; k++) {	/* Detrend key columns */
-				gmtlib_detrend (GMT, Tin->segment[fz]->coord[POS_DR], Tin->segment[fz]->coord[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], -1);
+				gmtlib_detrend (GMT, Tin->segment[fz]->data[POS_DR], Tin->segment[fz]->data[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], -1);
 			}
 		}
 		if (Ctrl->D.active) {
@@ -493,7 +492,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			GMT_Report (API, GMT_MSG_VERBOSE, "Restore trends for FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 			if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) continue;	/* Skip all but selected profile */
 			for (k = 0; k < N_TCOLS; k++) {	/* Restore trend to key columns */
-				gmtlib_detrend (GMT, Tin->segment[fz]->coord[POS_DR], Tin->segment[fz]->coord[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], +1);
+				gmtlib_detrend (GMT, Tin->segment[fz]->data[POS_DR], Tin->segment[fz]->data[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], +1);
 			}
 		}
 		gmt_M_free (GMT, trend);
@@ -563,15 +562,15 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			
 			for (item = 0; item < N_BLEND_COLS; item++) {
 				if (item == OUT_DIST) {	/* No blending, just pass on along-track distance */
-					Tout->segment[fz]->coord[item][row] = Tin->segment[fz]->coord[POS_DR][row];
+					Tout->segment[fz]->data[item][row] = Tin->segment[fz]->data[POS_DR][row];
 					continue;
 				}
 				if (item == OUT_QWHT) {	/* Store the quality weight for model */
-					Tout->segment[fz]->coord[item][row] = q_model;
+					Tout->segment[fz]->data[item][row] = q_model;
 					continue;
 				}
 				/* Get the 4 candidates for blending */
-				for (k = 0; k < N_BLENDS; k++) P[k] = Tin->segment[fz]->coord[col[item][k]][row];
+				for (k = 0; k < N_BLENDS; k++) P[k] = Tin->segment[fz]->data[col[item][k]][row];
 				if (item == OUT_SHFT) P[N_BLENDS-1] = 0.0;	/* Digitized trace defines origin so offset == 0 */
 				if (item == OUT_LON0 || item == OUT_LONL || item == OUT_LONR) {	/* Must be careful with longitudes */
 					for (k = n_g = n_d = 0; k < N_BLENDS; k++) {	/* Determine if we have longs across Greenwich */
@@ -586,7 +585,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 					sum_P += P[k] * q_weight[k] * Ctrl->S.weight[k];
 					sum_w += q_weight[k] * Ctrl->S.weight[k];
 				}
-				Tout->segment[fz]->coord[item][row] = sum_P / sum_w;
+				Tout->segment[fz]->data[item][row] = sum_P / sum_w;
 			}
 		}
 	

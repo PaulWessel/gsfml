@@ -1,7 +1,5 @@
 /*
- * $Id: fzanalyzer.c 429 2018-07-01 00:54:37Z pwessel $
- *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2022 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -25,6 +23,7 @@
 #define THIS_MODULE_NAME	"fzanalyzer"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Analysis of fracture zones using crossing profiles"
+#define THIS_MODULE_LIB_PURPOSE	"GMT supplemental modules for GSFML"
 #define THIS_MODULE_KEYS	"<DI,>DO"
 #define THIS_MODULE_NEEDS       ""
 #define THIS_MODULE_OPTIONS	"-Vb:hios>"
@@ -813,8 +812,8 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 		"YB0\tYBR\tZBL\tZB0\tZBR\tXEL\tXE0\tXER\tYEL\tYE0\tYER\tZEL\tZE0\tZER");
 
 	n_half_cross = (np_cross - 1) / 2;	/* Number of points in a cross-profile on either side of the FZ (center point) */
-	threshold = -0.1 * (X->segment[0]->coord[XPOS_D][1] - X->segment[0]->coord[XPOS_D][0]);	/* 10% threshold lets us skip through tiny negative FZ dist steps due to round-off */
-	cross_length = X->segment[0]->coord[XPOS_D][np_cross-1] - X->segment[0]->coord[XPOS_D][0];	/* Length of a cross-profile */
+	threshold = -0.1 * (X->segment[0]->data[XPOS_D][1] - X->segment[0]->data[XPOS_D][0]);	/* 10% threshold lets us skip through tiny negative FZ dist steps due to round-off */
+	cross_length = X->segment[0]->data[XPOS_D][np_cross-1] - X->segment[0]->data[XPOS_D][0];	/* Length of a cross-profile */
 	
 	for (fz = xseg = 0; fz < F->n_segments; fz++) {	/* For each FZ segment */
 
@@ -834,8 +833,8 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 			/* Must determine if parts of the crossection is closer to a neighbor FZ; we then truncate the data. */
 			start = stop = -1;
 			for (ku = 0, left = n_half_cross - 1, right = n_half_cross + 1; ku < n_half_cross; ku++, right++, left--) {	/* March outwards from the center point which should have the smallest pn */
-				if (start == -1 && !gmt_M_is_dnan (S->coord[XPOS_S][left])  && (fz_inc = S->coord[XPOS_S][left]  - S->coord[XPOS_S][left+1])  < threshold) start = left  + 1;
-				if (stop  == -1 && !gmt_M_is_dnan (S->coord[XPOS_S][right]) && (fz_inc = S->coord[XPOS_S][right] - S->coord[XPOS_S][right-1]) < threshold) stop  = right - 1;
+				if (start == -1 && !gmt_M_is_dnan (S->data[XPOS_S][left])  && (fz_inc = S->data[XPOS_S][left]  - S->data[XPOS_S][left+1])  < threshold) start = left  + 1;
+				if (stop  == -1 && !gmt_M_is_dnan (S->data[XPOS_S][right]) && (fz_inc = S->data[XPOS_S][right] - S->data[XPOS_S][right-1]) < threshold) stop  = right - 1;
 			}
 			/* If neighbor FZs are too close (distances start to decrease) we find the last point with an
 			 * monotonic increase in FZ distance on either side.  If there is no neighbor then start and/or
@@ -843,59 +842,59 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 			if (start == -1) start = 0;
 			if (stop  == -1) stop = np_cross - 1;
 			/* Now set the sampled grid profile to NaN if too close to a neighbor FZ */
-			for (k = 0; k < start; k++) S->coord[XPOS_Z][k] = GMT->session.d_NaN;
-			for (k = np_cross-1; k > stop; k--) S->coord[XPOS_Z][k] = GMT->session.d_NaN;
+			for (k = 0; k < start; k++) S->data[XPOS_Z][k] = GMT->session.d_NaN;
+			for (k = np_cross-1; k > stop; k--) S->data[XPOS_Z][k] = GMT->session.d_NaN;
 			/* It is now possible that the beginning and end of the cross profile will have NaNs */
 			
 			/* Find best fit shift, width, and amplitude plus various quality factors */
 
 			gmt_M_memset (results, N_RESULTS, double);
-			n_sing = FZ_fit_model (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], np_cross, corridor_half_width, FZ_width, n_FZ_widths, FZ_asym, n_FZ_asym, FZ_comp, n_FZ_comp, results, FZshape);
+			n_sing = FZ_fit_model (GMT, S->data[XPOS_D], S->data[XPOS_Z], np_cross, corridor_half_width, FZ_width, n_FZ_widths, FZ_asym, n_FZ_asym, FZ_comp, n_FZ_comp, results, FZshape);
 			if (n_sing) GMT_Report (API, GMT_MSG_NORMAL, "Warning: Cross profile %s generated %ld %% singular solutions\n", S->label, n_sing);
 	
 			/* Evaluate the best model predictions */
-			FZshape[FZ_G0] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G0]);	/* Just need G0 & G2 for building trough model (asymmetry = 0) */
-			FZshape[FZ_G2] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G2]);
-			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_T], np_cross, 0.0, results[BEST_FLANK_T], results[BEST_AMPLT_T]);	/* Best trough model (T) without the linear trend */
+			FZshape[FZ_G0] (S->data[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G0]);	/* Just need G0 & G2 for building trough model (asymmetry = 0) */
+			FZshape[FZ_G2] (S->data[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G2]);
+			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->data[XPOS_T], np_cross, 0.0, results[BEST_FLANK_T], results[BEST_AMPLT_T]);	/* Best trough model (T) without the linear trend */
 			way = irint (results[BEST_WAY_B]);	/* Old side on negative distance (-1) or positive distances (+1) */
-			for (m = 0; m < N_SHAPES; m++) FZshape[m] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_B], results[BEST_WIDTH_B], way, comp[m]);	/* Evaluate all three shapes given blend parameters */
-			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_B], np_cross, results[BEST_MODEL_B], results[BEST_FLANK_B], results[BEST_AMPLT_B]);	/* Best blend (B) without the linear trend */
-			m = FZ_trough_location (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], S->coord[XPOS_B], np_cross, corridor_half_width, best_loc);	/* Determine the LOC_DATA and LOC_BLEND_T estimates of FZ location */
+			for (m = 0; m < N_SHAPES; m++) FZshape[m] (S->data[XPOS_D], np_cross, results[BEST_FZLOC_B], results[BEST_WIDTH_B], way, comp[m]);	/* Evaluate all three shapes given blend parameters */
+			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->data[XPOS_B], np_cross, results[BEST_MODEL_B], results[BEST_FLANK_B], results[BEST_AMPLT_B]);	/* Best blend (B) without the linear trend */
+			m = FZ_trough_location (GMT, S->data[XPOS_D], S->data[XPOS_Z], S->data[XPOS_B], np_cross, corridor_half_width, best_loc);	/* Determine the LOC_DATA and LOC_BLEND_T estimates of FZ location */
 			best_loc[LOC_TROUGH] = results[BEST_FZLOC_T];		/* The 2nd best FZ location estimate is from the trough model */
 			best_loc[LOC_BLEND_E] = results[BEST_FZLOC_B];		/* The 3rd best FZ location estimate is from the blend model */
 
 			/* Determine the +/- 1-sigma corridor around the best FZ trace */
-			FZ_get_envelope (GMT, S->coord[XPOS_D], S->coord[XPOS_X], S->coord[XPOS_Y], S->coord[XPOS_Z], np_cross, best_loc, m, results);
+			FZ_get_envelope (GMT, S->data[XPOS_D], S->data[XPOS_X], S->data[XPOS_Y], S->data[XPOS_Z], np_cross, best_loc, m, results);
 			/* Determine ages on left (d < 0) and right (d > 0) sides (if -A) */
-			FZ_get_ages (GMT, S->coord[XPOS_D], S->coord[XPOS_C], np_cross, 0.0, ages);
+			FZ_get_ages (GMT, S->data[XPOS_D], S->data[XPOS_C], np_cross, 0.0, ages);
 	
 			/* Copy the results for this cross-profile analysis to the output data set */
-			F->segment[fz]->coord[POS_TL][row] = ages[0];			/* Crustal age to left of FZ */
-			F->segment[fz]->coord[POS_TR][row] = ages[1];			/* Crustal age to right of FZ */
-			F->segment[fz]->coord[POS_SD][row] = S->coord[XPOS_D][m];	/* Offset of data trough from digitized FZ location [0] */
-			F->segment[fz]->coord[POS_ST][row] = results[BEST_FZLOC_T];	/* Offset of model (trough) location from digitized FZ location */
-			F->segment[fz]->coord[POS_SB][row] = best_loc[LOC_BLEND_T];	/* Offset of model trough (blend) location from digitized FZ location */
-			F->segment[fz]->coord[POS_SE][row] = results[BEST_FZLOC_B];	/* Offset of model (blend) location from digitized FZ location */
-			F->segment[fz]->coord[POS_BL][row] = results[BEST_MODEL_B];	/* Best blend value at FZ location */
-			F->segment[fz]->coord[POS_OR][row] = results[BEST_WAY_B];
-			F->segment[fz]->coord[POS_WD][row] = results[BEST_WIDTH_D];	/* Best data width at FZ location */
-			F->segment[fz]->coord[POS_WT][row] = results[BEST_WIDTH_T];	/* Best trough model width at FZ location */
-			F->segment[fz]->coord[POS_WB][row] = results[BEST_WIDTH_B];	/* Best blend model width at FZ location */
-			F->segment[fz]->coord[POS_AD][row] = results[BEST_AMPLT_D];	/* Best data amplitude at FZ location */
-			F->segment[fz]->coord[POS_AT][row] = results[BEST_AMPLT_T];	/* Best trough amplitude at FZ location */
-			F->segment[fz]->coord[POS_AB][row] = results[BEST_AMPLT_B];	/* Best blend amplitude at FZ location */
-			F->segment[fz]->coord[POS_UT][row] = results[BEST_FLANK_T];	/* Best trough amplitude at FZ location */
-			F->segment[fz]->coord[POS_UB][row] = results[BEST_FLANK_B];	/* Best blend amplitude at FZ location */
-			F->segment[fz]->coord[POS_VT][row] = results[BEST_VARMD_T];	/* Best trough variance reduction at FZ location */
-			F->segment[fz]->coord[POS_VB][row] = results[BEST_VARMD_B];	/* Best blend variance reduction at FZ location */
-			F->segment[fz]->coord[POS_FT][row] = results[BEST_FSTAT_T];	/* Best trough F statistic at FZ location */
-			F->segment[fz]->coord[POS_FB][row] = results[BEST_FSTAT_B];	/* Best blend F statistic at FZ location */
-			for (ii = BEST_XD_1, k = POS_XDL; ii <= BEST_ZE_2; ii++, k++) F->segment[fz]->coord[k][row] = results[ii];	/* All 9 xyz triplets */
+			F->segment[fz]->data[POS_TL][row] = ages[0];			/* Crustal age to left of FZ */
+			F->segment[fz]->data[POS_TR][row] = ages[1];			/* Crustal age to right of FZ */
+			F->segment[fz]->data[POS_SD][row] = S->data[XPOS_D][m];	/* Offset of data trough from digitized FZ location [0] */
+			F->segment[fz]->data[POS_ST][row] = results[BEST_FZLOC_T];	/* Offset of model (trough) location from digitized FZ location */
+			F->segment[fz]->data[POS_SB][row] = best_loc[LOC_BLEND_T];	/* Offset of model trough (blend) location from digitized FZ location */
+			F->segment[fz]->data[POS_SE][row] = results[BEST_FZLOC_B];	/* Offset of model (blend) location from digitized FZ location */
+			F->segment[fz]->data[POS_BL][row] = results[BEST_MODEL_B];	/* Best blend value at FZ location */
+			F->segment[fz]->data[POS_OR][row] = results[BEST_WAY_B];
+			F->segment[fz]->data[POS_WD][row] = results[BEST_WIDTH_D];	/* Best data width at FZ location */
+			F->segment[fz]->data[POS_WT][row] = results[BEST_WIDTH_T];	/* Best trough model width at FZ location */
+			F->segment[fz]->data[POS_WB][row] = results[BEST_WIDTH_B];	/* Best blend model width at FZ location */
+			F->segment[fz]->data[POS_AD][row] = results[BEST_AMPLT_D];	/* Best data amplitude at FZ location */
+			F->segment[fz]->data[POS_AT][row] = results[BEST_AMPLT_T];	/* Best trough amplitude at FZ location */
+			F->segment[fz]->data[POS_AB][row] = results[BEST_AMPLT_B];	/* Best blend amplitude at FZ location */
+			F->segment[fz]->data[POS_UT][row] = results[BEST_FLANK_T];	/* Best trough amplitude at FZ location */
+			F->segment[fz]->data[POS_UB][row] = results[BEST_FLANK_B];	/* Best blend amplitude at FZ location */
+			F->segment[fz]->data[POS_VT][row] = results[BEST_VARMD_T];	/* Best trough variance reduction at FZ location */
+			F->segment[fz]->data[POS_VB][row] = results[BEST_VARMD_B];	/* Best blend variance reduction at FZ location */
+			F->segment[fz]->data[POS_FT][row] = results[BEST_FSTAT_T];	/* Best trough F statistic at FZ location */
+			F->segment[fz]->data[POS_FB][row] = results[BEST_FSTAT_B];	/* Best blend F statistic at FZ location */
+			for (ii = BEST_XD_1, k = POS_XDL; ii <= BEST_ZE_2; ii++, k++) F->segment[fz]->data[k][row] = results[ii];	/* All 9 xyz triplets */
 
 			/* Update crosstrack profiles with linear trends */
 			for (ii = 0; ii < np_cross; ii++) {	/* Compute the best model fits as trend + scaled prediction shape. Note the trend requires BEST_FZLOC_B/T */
-				S->coord[XPOS_T][ii] += (results[BEST_INTER_T] + results[BEST_SLOPE_T] * (S->coord[XPOS_D][ii] - results[BEST_FZLOC_T]));
-				S->coord[XPOS_B][ii] += (results[BEST_INTER_B] + results[BEST_SLOPE_B] * (S->coord[XPOS_D][ii] - results[BEST_FZLOC_B]));
+				S->data[XPOS_T][ii] += (results[BEST_INTER_T] + results[BEST_SLOPE_T] * (S->data[XPOS_D][ii] - results[BEST_FZLOC_T]));
+				S->data[XPOS_B][ii] += (results[BEST_INTER_B] + results[BEST_SLOPE_B] * (S->data[XPOS_D][ii] - results[BEST_FZLOC_B]));
 			}
 			sprintf (add, " mb=%03.2f rv=%+2d OB=%+05.1f WB=%02g UB=%04.2f AB=%05.1f VB=%2.2d FB=%05.1f OT=%+05.1f WT=%02g UT=%04.2f AT=%05.1f VT=%2.2d FT=%05.1f OD=%+05.1f WD=%02g OE=%+05.1f",
 				results[BEST_MODEL_B], way, best_loc[LOC_BLEND_T], results[BEST_WIDTH_B], results[BEST_FLANK_B], results[BEST_AMPLT_B],

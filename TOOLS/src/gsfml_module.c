@@ -1,6 +1,4 @@
 /*
- * $Id: gsfml_module.c 429 2018-07-01 00:54:37Z pwessel $
- *
  * Copyright (c) 2015-2018 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *

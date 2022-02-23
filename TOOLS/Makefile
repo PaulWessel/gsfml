@@ -15,6 +15,7 @@ help::
 #!
 #!make <target>, where <target> can be:
 #!
+#!config    : Create build dir and run cmake only
 #!all       : Run configuration and build plugin and scripts
 #!install   : Install GSFML shell scripts and plugin into gmt install directories
 #!uninstall : Remove  GSFML shell scripts and plugin from gmt install directories
