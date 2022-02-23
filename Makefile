@@ -1,7 +1,7 @@
 # Global Seafloor Fabric and Magnetic Lineations
 # Makefile for SFDATA, MLDATA, and HELLDATA directories
 
-# Set the host file
+# Set the current host file
 include host.gsfml
 
 help::
@@ -10,20 +10,21 @@ help::
 #!
 #!make <target>, where <target> can be:
 #!
-#!master_fs	: Update the SF master table
-#!map		: Update the GSFML global map
-#!build		: Build the latest SF, ML, HELL files
-#!SF		: Build the latest SF site and distribution files
-#!ML		: Build the latest ML site and distribution files
-#!HELL		: Build the latest HELL site and distribution files
-#!TOOL		: Build the latest TOOLS tarball
-#!latest		: Build the latest test GSFML distribution
-#!release		: Build the latest offical GSFML distribution
-#!place_sf	: Place SF distribution on imina under GSFML
-#!place_ml	: Place ML distribution on imina under GSFML
-#!place_hell	: Place HELL distribution on imina under GSFML
-#!place		: Place GSFML distribution on ftp server PT dir
-#!clean		: Remove GSFML distribution from directory
+#!site       : Update the top-level web page directory
+#!master_fs  : Update the SF master table
+#!map        : Update the GSFML global map
+#!build      : Build the latest SF, ML, HELL files
+#!SF         : Build the latest SF site and distribution files
+#!ML         : Build the latest ML site and distribution files
+#!HELL       : Build the latest HELL site and distribution files
+#!TOOL       : Build the latest TOOLS tarball
+#!latest     : Build the latest test GSFML distribution
+#!release    : Build the latest offical GSFML distribution
+#!place_sf   : Place SF distribution on imina under GSFML
+#!place_ml   : Place ML distribution on imina under GSFML
+#!place_hell : Place HELL distribution on imina under GSFML
+#!place      : Place GSFML distribution on ftp server PT dir
+#!clean      : Remove GSFML distribution from directory
 #!---------------------------------------------------------------
 # Build the master SFtable
 
@@ -43,6 +44,12 @@ spotless:	clean
 map:
 		cd ADMIN; sh gsfml_map.sh
 		scp ADMIN/GSFML_map.pdf ADMIN/GSFML_map_small.jpg $(HOST):$(DIR)
+
+site:
+		scp ADMIN/EarthByte_*.png $(HOST):$(DIR)
+		scp ADMIN/GSFML.png $(HOST):$(DIR)
+		scp ADMIN/{FZ,HELL,ML}.png $(HOST):$(DIR)
+		scp ADMIN/*.html $(HOST):$(DIR)
 
 place:		place_sf place_ml place_hell
 

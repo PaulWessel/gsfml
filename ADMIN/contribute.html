@@ -1,0 +1,154 @@
+<HTML>
+<!--  Instructions for how to contribute to GSFML $  -->
+<TITLE>GSFML Participation</TITLE>
+<BODY bgcolor="#ffffff">
+<CENTER><H2>GSFML Participation</H2>
+</CENTER>
+<HR>
+<H3>How to participate</H3>
+<H4>A) Magnetic Picks</H4>
+When you publish a paper that depends on a set of magnetic picks, we
+suggest you submit the data to us for distribution on our site.  That
+way others may get the most up-to-date data set in a common format.
+We will help with getting the data into the correct format.  For each
+pick location you need to supply the following meta data:
+<HR>
+
+<table border=0 cellspacing=2 cellpadding=4>
+<tr>
+  <td>Name</td>
+  <td>Description</td>
+</tr>
+<tr><td>Chron:</td><td>The chron name [e.g., C13n]</td></tr>
+<tr><td>AnomalyEnd:</td><td>End of anomaly being picked, i.e., young (y), old (o),
+		or center (c).</td></tr>
+<tr><td>AnomEndQua:</td><td>Confidence in the anomaly end assignment.  Ranges from
+		1 = anomaly end clearly listed in the original paper;
+		2 = some problem exist from original paper but there is
+		    confidence in the anomaly end assignment
+		3 = anomaly end unclear in the original paper and the end
+		    has been inferred by the data assembler.</td></tr>
+<tr><td>CruiseName:</td><td>Cruise name designation (NGDC) if known, otherwise N/A.</td></tr>
+<tr><td>Reference:</td><td>The publication reference [e.g., Cande++_1988_JGR]</td></tr>
+<tr><td>GeeK2007:</td><td>The assigned age based on the Gee and Kent [2007] time scale.
+		Note: Other time scales can be used via the Chron name.</td></tr>
+<tr><td>IDMethod:</td><td>Typically "Magnetic Anomaly" but could be other identifiers
+		such as "Abyssal Hill".</td></tr>
+</table>
+<HR>
+
+If you prefer to assemble this data using Arcinfo then you may consider this
+<A HREF="MagPick_Database_GSFML.zip">GSFML template for magnetic pics</A>. 
+We will build OGR/GMT data from your submission, from which we can build
+KML files and shapefiles.  See our <A HREF="../GSFML/ML/index.html" target="_blank">Magnetic Lineations</A> page for examples.
+Submit your data via email to <A HREF="mailto:gsfml@soest.hawaii.edu?subject=GSFML contribution">The GSFML Project</A>.
+
+<H4>B) Hellinger parameters and models</H4>
+
+For published plate tectonic rotations we suggest you contribute your Hellinger input
+files.  In addition, if you wish you may also send us the Hellinger output files and
+any document describing the data and solutions.    See our <A HREF="../GSFML/HELL/index.html" target="_blank">Hellinger</A> page for examples.
+
+<H4>C) Seafloor Fabric</H4>
+If you want to play the FZ game and contribute to the digitization
+of the world's fracture zones and other lineations, here is how: Examine the JPG image of the
+current FZ collection (below) and see if your area of interest needs to be digitized.
+If features are already available, but you think you can do a better job,
+then go ahead and digitize new lines.  To make sure we all play the same game
+there are a few rules you need to comply with:
+<OL>
+<LI>You will use the free <A HREF="http://earth.google.com/" target="_blank">
+	Google Earth</A> (GE) tool to digitize the features.
+<LI>You will use the latest VGG tiles from Sandwell and Smith, available
+	from Sandwell's website via this
+	<A HREF="ftp://topex.ucsd.edu/pub/global_grav_1min/global_grav_gradient.kmz">
+	VGG KMZ</A> file.  Open this file in GE.
+<LI>When you click the <I>New Path</I> button <IMG SRC="GE_addpath.jpg"> in GE,
+	a dialog box opens up.
+	If you know the name of the FZ, supply it as the name; otherwise leave
+	name as the default "untitled path".  In the description field, please
+	give your name, institution, and email on a single line (e.g.,
+	P. Wessel, SOEST, p.wessel@hawaii.edu).
+<LI>Digitize by following the FZ trough (usually black in the images).
+<LI>If you do more than one FZ, organize the lines into a folder under Places.
+	<LI>We currently maintain seven feature types as defined by Matthews et al., 2011 [link]:
+	<OL>
+		<LI>FZ: Clear Fracture Zones</LI>
+		<LI>FZLC: Less Clear Fracture Zones</LI>
+		<LI>DZ: Discordant Zones</LI>
+		<LI>PR: Propagating Ridges</LI>
+		<LI>ER: Extinct Ridges</LI>
+		<LI>VANOM: V-Anomalies</LI>
+		<LI>UNCV: Unclassified V-Anomalies</LI>
+	</OL>
+	Please make sure you identify the category of each digitized feature.	
+</OL>
+Before you digitize, consider these points:
+<UL>
+<LI>Your anchor points will be the beginning and end points of the FZ.
+	Take some time to determine the identifiable extent of the FZ.
+<LI>Do not over-digitize the FZ but supply "guide" points along the features
+	at a moderate interval, typically picking very clear points in the FZ
+	trough.  The tracking software will determine the actual path of the
+	FZ by using these points, and it will not look beyond your anchor
+	points.  It assumes the guide points are approximate and may not
+	necessarily lie exactly on the FZ track.  The clearer the FZ trace
+	in the VGG image, the further apart your guide points may be.
+<LI>FZ sometimes split into strands; supply a guide point at any such forks.
+<LI>To draw lines where the FZ is poorly represented in the VGG (and you base
+	your digitization on other data or your intuition), use a denser
+	digitization interval and supply some information about what you
+	did (see below). 
+</UL>
+To submit your data, right-click on the Folder entry in GE's Places and
+send the KMZ file via email to <A HREF="mailto:gsfml@soest.hawaii.edu?subject=GSFML contribution">The GSFML Project</A>.
+Please provide acknowledgment information (name, institution, funding if appropriate), and
+any metadata relevant to your effort, and use "GSFML contribution" for the subject line (otherwise
+it may not be processed).
+<P>
+While we will keep all KMZ submissions in the database, we will use our judgment
+in presenting only one version of each feature as "the best" on the website.
+This version is what will be available to the general user.
+<HR>
+<H3>Who can participate?</H3>
+Scientists and graduate students in marine geophysics whose research makes use of
+fracture zones.  Those involved in plate tectonic reconstructions are the main
+potential users of this site and best prepared to know what to digitize.
+<HR>
+<H3>Why should I participate?</H3>
+This project is similar to open source software projects in that the final
+product (a global compilation of fracture zones lineaments) will
+be available at no cost to anybody.  However, those who participate and make a
+contribution will get preferential treatment via access to our geospatial FZ data base
+from which more specific queries will be possible.  You will also be acknowledged
+on the site as a contributor. 
+<HR>
+<H3>Additional Google Earth KML tiles</H3>
+While we rely mostly on the VGG tiles for digitization, it is very convenient to be able to switch
+between different representations (e.g., examining the free-air anomalies), look at the bathymetry,
+the crustal ages, or the potential tilt [e.g., Miller and Sing, 1994]. Here are links to all the tiles:
+<UL>
+	<LI><A HREF="ftp://topex.ucsd.edu/pub/global_grav_1min/global_grav_gradient.kmz">VGG KMZ</A> The vertical gravity gradient</LI>
+	<LI><A HREF="ftp://topex.ucsd.edu/pub/global_grav_1min/global_grav.kmz">FAA KMZ</A> Free-air anomalies.</LI>
+	<LI><A HREF="ftp://topex.ucsd.edu/pub/srtm30_plus/SRTM30_PLUS.kmz">SRTM KMZ</A> SRTM 30 arc sec relief.</LI>
+	<LI><A HREF="ftp://ftp.soest.hawaii.edu/pwessel/KMZ/Global_Crustal_Ages.kmz">AGE 3.2 KMZ</A> Crustal ages, v.3.2.</LI>
+	<LI><A HREF="ftp://ftp.soest.hawaii.edu/pwessel/KMZ/Global_Potential_Tilt_v16.1.kmz">TILT 16.1 KMZ</A> Potential tilt, derived from v.16.1.</LI>
+</UL>	
+<HR>
+<H3>References</H3>
+<OL>
+	<LI>Matthews, K. J., M&uuml;ller, R. D., Wessel, P. and Whittaker, J. M., 2011,
+		The tectonic fabric of the ocean basins, <I><A HREF="http://dx.doi.org/doi:10.1029/2011JB008413"> J. Geophys. Res., 116(B12109)</A></I>
+	<LI>Miller, H. G., and V. Sing (1994), Potential field tilt - a new concept for location
+		of potential field sources, <I><A HREF="http://dx.doi.org/10.1016/0926-9851(94)90022-1">J. Appl. Geophys., 32</A></I>, 213-217.
+	<LI>Wessel, P., M&uuml;ller, R. D., Matthews, K. J., Whittaker, J. M., Myhill, R., and Chandler, M. T.,
+		The Global Seafloor Fabric and Magnetic Lineation Database Project, <I>Geochem. Geophys. Geosyst.</I>, in prep.</LI>
+	<LI>Wessel, P., Smith, W.H.F., Scharroo, R., and Luis, J., 2013, Generic Mapping Tools: Improved Version Released,
+		<I><A HREF="http://dx.doi.org/10.1002/2013EO450001">EOS Trans. AGU, 94</A></I>, 409-410.
+</OL>
+<HR>
+<I>Maintained by <a href="mailto:pwessel@hawaii.edu?Subject=GSFML%20Project" target="_top">Paul Wessel</a></I><BR>
+<I>Updated June 21, 2016.</I><BR>
+<IMG SRC="../soest_uhm.png" target="_blank" ALT="SOEST" BORDER=0>
+</BODY>
+</HTML>
