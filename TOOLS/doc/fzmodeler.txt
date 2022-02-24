@@ -1,5 +1,5 @@
 #include "common_options.txt"
-.TH FZMODELER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.TH FZMODELER 1 MANDATE "Generic Mapping Tools 6.x [GSFML supplement]"
 .SH NAME
 fzmodeler \- Make and optionally plot a synthetic FZ model profile
 .SH SYNOPSIS

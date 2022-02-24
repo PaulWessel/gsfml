@@ -1,5 +1,5 @@
 #include "common_options.txt"
-.TH MLCONVERTER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.TH MLCONVERTER 1 MANDATE "Generic Mapping Tools 6.x [GSFML supplement]"
 .SH NAME
 mlconverter \- Convert chron strings to ages using a magnetic time scale
 .SH SYNOPSIS
@@ -27,7 +27,7 @@ Append BD(s) to repair any lax chron nomenclature, if needed.
 .TP
 OPT(T)IT(scale)
 Select the magnetic time scale to use.  Choose from BD(g) (Gee and Kent, 2007),
-BD(s) (Gradstein, 2004), or BD(c) (Cande and Kent, 1995) [BD(g)].
+BD(o) (Ogg, 2012), BD(s) (Gradstein, 2004), or BD(c) (Cande and Kent, 1995) [BD(g)].
 .TP
 OPT(V)
 Reports progress [quiet].

@@ -1,5 +1,5 @@
 #include "common_options.txt"
-.TH FZMAPPER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.TH FZMAPPER 1 MANDATE "Generic Mapping Tools 6.x [GSFML supplement]"
 .SH NAME
 fzmapper \- Make Mercator map of FZ traces and cross-profiles
 .SH SYNOPSIS

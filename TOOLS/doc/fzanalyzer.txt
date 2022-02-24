@@ -1,7 +1,7 @@
 #include "common_options.txt"
 #include "fz_analysis.h"
 #define N_C
-.TH FZANALYZER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.TH FZANALYZER 1 MANDATE "Generic Mapping Tools 6.x [GSFML supplement]"
 .SH NAME
 fzanalyzer \- Analysis of fracture zones using crossing profiles
 .SH SYNOPSIS
