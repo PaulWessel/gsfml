@@ -425,21 +425,21 @@ static void FZ_get_envelope (struct GMT_CTRL *GMT, double *pd, double *px, doubl
 	/* Then do trough model estimates */
 	sigma3 = results[BEST_WIDTH_T]/2.0;	/* Treat FZ width a fullwidth = 6sigma */
 	pe[0] = best_loc[LOC_TROUGH] - sigma3;	pe[1] = best_loc[LOC_TROUGH];	pe[2] = best_loc[LOC_TROUGH] + sigma3;
-	gmt_intpol (GMT, pd, px, np, 3, pe, &results[BEST_XT_1], 1);	/* Returns three longitudes starting at BEST_XT_1 location */
-	gmt_intpol (GMT, pd, py, np, 3, pe, &results[BEST_YT_1], 1);	/* Returns three latitudes starting at BEST_YT_1 location  */
-	gmt_intpol (GMT, pd, pz, np, 3, pe, &results[BEST_ZT_1], 1);	/* Returns three data values starting at BEST_ZT_1 location */
+	gmt_intpol (GMT, pd, px, NULL, np, 3, pe, &results[BEST_XT_1], 0.0, 1);	/* Returns three longitudes starting at BEST_XT_1 location */
+	gmt_intpol (GMT, pd, py, NULL, np, 3, pe, &results[BEST_YT_1], 0.0, 1);	/* Returns three latitudes starting at BEST_YT_1 location  */
+	gmt_intpol (GMT, pd, pz, NULL, np, 3, pe, &results[BEST_ZT_1], 0.0, 1);	/* Returns three data values starting at BEST_ZT_1 location */
 	/* Then do blend model (at trough) estimates */
 	sigma3 = results[BEST_WIDTH_B]/2.0;	/* Treat FZ width a fullwidth = 6sigma */
 	pe[0] = best_loc[LOC_BLEND_T] - sigma3;	pe[1] = best_loc[LOC_BLEND_T];	pe[2] = best_loc[LOC_BLEND_T] + sigma3;
-	gmt_intpol (GMT, pd, px, np, 3, pe, &results[BEST_XB_1], 1);	/* Returns three longitudes starting at BEST_XB_1 location */
-	gmt_intpol (GMT, pd, py, np, 3, pe, &results[BEST_YB_1], 1);	/* Returns three latitudes starting at BEST_YB_1 location  */
-	gmt_intpol (GMT, pd, pz, np, 3, pe, &results[BEST_ZB_1], 1);	/* Returns three data values starting at BEST_ZB_1 location */
+	gmt_intpol (GMT, pd, px, NULL, np, 3, pe, &results[BEST_XB_1], 0.0, 1);	/* Returns three longitudes starting at BEST_XB_1 location */
+	gmt_intpol (GMT, pd, py, NULL, np, 3, pe, &results[BEST_YB_1], 0.0, 1);	/* Returns three latitudes starting at BEST_YB_1 location  */
+	gmt_intpol (GMT, pd, pz, NULL, np, 3, pe, &results[BEST_ZB_1], 0.0, 1);	/* Returns three data values starting at BEST_ZB_1 location */
 	/* Last do blend model estimates for maximum slope location */
 	sigma3 = results[BEST_WIDTH_B]/2.0;	/* Treat FZ width a fullwidth = 6sigma */
 	pe[0] = best_loc[LOC_BLEND_E] - sigma3;	pe[1] = best_loc[LOC_BLEND_E];	pe[2] = best_loc[LOC_BLEND_E] + sigma3;
-	gmt_intpol (GMT, pd, px, np, 3, pe, &results[BEST_XE_1], 1);	/* Returns three longitudes starting at BEST_XE_1 location */
-	gmt_intpol (GMT, pd, py, np, 3, pe, &results[BEST_YE_1], 1);	/* Returns three latitudes starting at BEST_YE_1 location  */
-	gmt_intpol (GMT, pd, pz, np, 3, pe, &results[BEST_ZE_1], 1);	/* Returns three data values starting at BEST_ZE_1 location */
+	gmt_intpol (GMT, pd, px, NULL, np, 3, pe, &results[BEST_XE_1], 0.0, 1);	/* Returns three longitudes starting at BEST_XE_1 location */
+	gmt_intpol (GMT, pd, py, NULL, np, 3, pe, &results[BEST_YE_1], 0.0, 1);	/* Returns three latitudes starting at BEST_YE_1 location  */
+	gmt_intpol (GMT, pd, pz, NULL, np, 3, pe, &results[BEST_ZE_1], 0.0, 1);	/* Returns three data values starting at BEST_ZE_1 location */
 }
 
 static int FZ_trough_location (struct GMT_CTRL *GMT, double *dist, double *vgg_obs, double *vgg_blend, int np, double corr_width, double locations[])
@@ -818,8 +818,9 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	for (fz = xseg = 0; fz < F->n_segments; fz++) {	/* For each FZ segment */
 
 		if (Ctrl->I.active && fz != (uint64_t)Ctrl->I.fz) {	/* Skip this FZ */
+			struct GMT_DATASEGMENT_HIDDEN *SH = gmt_get_DS_hidden (F->segment[fz]);
+			SH->mode = GMT_WRITE_SKIP;	/* Ignore on output */
 			xseg += F->segment[fz]->n_rows;		/* Must wind past all the cross-profiles for the skipped FZ */
-			F->segment[fz]->mode = GMT_WRITE_SKIP;	/* Ignore on output */
 			continue;
 		}
 		

@@ -353,7 +353,7 @@ struct TREND {	/* Holds slope and intercept for each segment column we need to d
 
 int GMT_fzblender (void *V_API, int mode, void *args) {
 	unsigned int fz, row;
-	int error = 0, in_ID, out_ID, n_d, n_g, k, n, item, status, ndig;
+	int error = 0, n_d, n_g, k, n, item, status, ndig;
 	int col[N_BLEND_COLS][N_BLENDS] =	/* Columns in the analyzis file for b,d,e,t,u trace parameters */
 	{
 		{POS_XB0, POS_XD0, POS_XE0, POS_XT0, POS_XR},	/* FZ longitudes */
@@ -369,7 +369,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	};
 	int tcols[N_TCOLS] = {POS_XR, POS_YR, POS_XB0, POS_YB0, POS_SB, POS_WB, POS_XBL, POS_YBL, POS_XBR, POS_YBR};
 	
-	char p_in_string[GMT_LEN256], p_out_string[GMT_LEN256], buffer[BUFSIZ], run_cmd[BUFSIZ], *cmd = NULL;
+	char buffer[BUFSIZ], run_cmd[BUFSIZ], *cmd = NULL;
+	char source[GMT_VF_LEN] = {""}, destination[GMT_VF_LEN] = {""};
 	
 	double Q[N_BLENDS], P[N_BLENDS], q_weight[N_BLENDS], sum_P, sum_w, sum_q, i_q_range, q_model;
 	
@@ -408,7 +409,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	
 	Ensure_Continuous_Longitudes (API, Fin);	/* Set longitude to 0-360 or -180/180 so there are no jumps */
 	
-	/* Set up the primary GMT_filter1d_cmd call */
+	/* Set up the primary GMT_filter1d cmd call */
 	
 	if (Ctrl->F.active) {	/* Wants to filter before blending */
 		/* Must remove linear trends from the lon/lat columns before filtering since median fails on sloping lines */
@@ -429,27 +430,38 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		}
 		
 		/* Register output for filter1d results */
-		if ((in_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_IN, NULL, Fin)) == GMT_NOTSET) Return (EXIT_FAILURE);
-		GMT_Encode_ID (API, p_in_string, in_ID);	/* Make filename with embedded object ID for input */
-		if ((out_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_OUT, NULL, NULL)) == GMT_NOTSET) Return (EXIT_FAILURE);
-		GMT_Encode_ID (API, p_out_string, out_ID);	/* Make filename with embedded object ID */
+		/* Create virtual files for using the data in filter1d and another for holding the result */
+		if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN|GMT_IS_REFERENCE, Fin, source) != GMT_NOERROR) {
+			Return (API->error);
+		}
+		if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT|GMT_IS_REFERENCE, NULL, destination) == GMT_NOTSET) {
+			Return (API->error);
+		}
 		
 		GMT_Report (API, GMT_MSG_NORMAL, "Perform primary filtering\n");
 		//sprintf (buffer, "-F%s -E -N%d %s ->%s", Ctrl->F.args, POS_DR, p_in_string, p_out_string);
-		sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->F.args, POS_DR, p_in_string, p_out_string);
+		sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->F.args, POS_DR, source, destination);
 		GMT_Report (API, GMT_MSG_DEBUG, "Args to primary filter1d: %s\n", buffer);
 		if ((status = GMT_Call_Module (API, "filter1d", GMT_MODULE_CMD, buffer))) {
 			GMT_Report (API, GMT_MSG_NORMAL, "GMT SYNTAX ERROR:  Primary filtering failed with exit code %d!\n", status);
 			Return (status);
 		}
 		GMT_Report (API, GMT_MSG_DEBUG, "filter1d completed\n");
+		/* Close the source virtual file and destroy the data set */
+		if (GMT_Close_VirtualFile (GMT->parent, source) != GMT_NOERROR) {
+			Return (API->error);
+		}
 		GMT_Destroy_Data (API, &Fin);
 		
 		if (Ctrl->E.active) {	/* Now apply the secondary filter */
 			struct GMT_DATASET *D = NULL;
 			char s_in_string[GMT_LEN256], s_out_string[GMT_LEN256];
 			/* Retrieve the primary filtering results */
-			if ((D = GMT_Retrieve_Data (API, out_ID)) == NULL) {
+			if ((D = GMT_Read_VirtualFile (API, destination)) == NULL) {
+				Return (API->error);
+			}
+			/* Close the destination virtual file */
+			if (GMT_Close_VirtualFile (GMT->parent, destination) != GMT_NOERROR) {
 				Return (API->error);
 			}
 			if (Ctrl->D.active) {
@@ -459,21 +471,30 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 				if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, D) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
 			}
 			/* Setup in/out for secondary filter */
-			if ((in_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_IN, NULL, D)) == GMT_NOTSET) Return (EXIT_FAILURE);
-			GMT_Encode_ID (API, s_in_string, in_ID);	/* Make filename with embedded object ID for input */
-			if ((out_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_OUT, NULL, NULL)) == GMT_NOTSET) Return (EXIT_FAILURE);
-			GMT_Encode_ID (API, s_out_string, out_ID);	/* Make filename with embedded object ID for output */
+			if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN|GMT_IS_REFERENCE, D, source) != GMT_NOERROR) {
+				Return (API->error);
+			}
+			if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT|GMT_IS_REFERENCE, NULL, destination) == GMT_NOTSET) {
+				Return (API->error);
+			}
 			//sprintf (buffer, "-F%s -E -N%d %s ->%s", Ctrl->E.args, POS_DR, s_in_string, s_out_string);
-			sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->E.args, POS_DR, s_in_string, s_out_string);
+			sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->E.args, POS_DR, source, destination);
 			GMT_Report (API, GMT_MSG_DEBUG, "Args to secondary filter1d: %s\n", buffer);
 			if ((status = GMT_Call_Module (API, "filter1d", GMT_MODULE_CMD, buffer))) {
 				GMT_Report (API, GMT_MSG_NORMAL, "GMT SYNTAX ERROR:  Secondary filtering failed with exit code %d!\n", status);
 				Return (status);
 			}
+			if (GMT_Close_VirtualFile (GMT->parent, source) != GMT_NOERROR) {
+				Return (API->error);
+			}
 			GMT_Destroy_Data (API, &D);
 		}
 		/* Retrieve the final filtering results */
-		if ((Fin = GMT_Retrieve_Data (API, out_ID)) == NULL) {
+		if ((Fin = GMT_Read_VirtualFile (API, destination)) == NULL) {
+			Return (API->error);
+		}
+		/* Close the destination virtual file */
+		if (GMT_Close_VirtualFile (GMT->parent, destination) != GMT_NOERROR) {
 			Return (API->error);
 		}
 		if (Ctrl->D.active && Ctrl->E.active) {
@@ -540,7 +561,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		GMT_Report (API, GMT_MSG_NORMAL, "Process FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 		
 		if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) {	/* Skip all but selected profile */
-			Tout->segment[fz]->mode = GMT_WRITE_SKIP;	/* Ignore on output */
+			struct GMT_DATASEGMENT_HIDDEN *SH = gmt_get_DS_hidden (Tout->segment[fz]);
+			SH->mode = GMT_WRITE_SKIP;	/* Ignore on output */
 			continue;
 		}
 	

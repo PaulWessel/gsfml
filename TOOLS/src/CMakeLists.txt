@@ -74,7 +74,7 @@ include_directories (${CMAKE_CURRENT_BINARY_DIR})
 set(CMAKE_INCLUDE_CURRENT_DIR TRUE)
 
 # Support code for the modules:
-set (CUSTOM_LIB_SRCS ${CMAKE_PROJECT_NAME}_module.c)
+set (CUSTOM_LIB_SRCS ${CMAKE_PROJECT_NAME}_glue.c)
 
 # lib targets
 set (CUSTOM_LIBS gsfmllib)
