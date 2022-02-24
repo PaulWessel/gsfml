@@ -26,7 +26,8 @@
 # ==> Modules in this custom library [add the ones you have]:
 set (CUSTOM_PROGS_SRCS gsfml_config.h fz_analysis.h fzanalyzer.c
 	fzblender.c mlconverter.c Chron_Normal.h Chron_Reverse.h
-	Geek2007n.h Geek2007r.h CK1995n.h CK1995r.h GST2004n.h GST2004r.h)
+	Geek2007n.h Geek2007r.h CK1995n.h CK1995r.h GST2004n.h GST2004r.h
+	GST2012n.h GST2012r.h)
 #=========================================================================
 # Most likely no changes below here
 
@@ -73,7 +74,7 @@ include_directories (${CMAKE_CURRENT_BINARY_DIR})
 #include_directories (${PROJECT_BINARY_DIR})
 set(CMAKE_INCLUDE_CURRENT_DIR TRUE)
 
-# Support code for the modules:
+# Support glue code for the modules:
 set (CUSTOM_LIB_SRCS ${CMAKE_PROJECT_NAME}_glue.c)
 
 # lib targets

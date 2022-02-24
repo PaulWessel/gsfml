@@ -107,7 +107,7 @@ clean::
 	(cd doc; $(MAKE) clean)
 
 spotless::
-	rm -f src/Geek2007n.h src/Geek2007r.h src/CK1995n.h src/CK1995r.h src/GST2004n.h src/GST2004r.h src/GST2012n.h \
+	rm -f src/gsfml_glue.c src/Geek2007n.h src/Geek2007r.h src/CK1995n.h src/CK1995r.h src/GST2004n.h src/GST2004r.h src/GST2012n.h \
 		src/GST2012r.h src/Chron_Normal.h src/Chron_Reverse.h src/Chron_Normal2.h src/Chron_Reverse2.h src/mlconverter.h
 	rm -rf build
 	(cd doc; $(MAKE) spotless)
