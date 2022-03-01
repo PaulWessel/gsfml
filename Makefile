@@ -47,6 +47,7 @@ map:
 
 site:
 		scp ADMIN/EarthByte_*.png $(HOST):$(DIR)
+		scp ADMIN/soest_uhm_transp.png ADMIN/logo-nsf.png $(HOST):$(DIR)
 		scp ADMIN/GSFML.png $(HOST):$(DIR)
 		scp ADMIN/{FZ,HELL,ML}.png $(HOST):$(DIR)
 		scp ADMIN/*.html $(HOST):$(DIR)
