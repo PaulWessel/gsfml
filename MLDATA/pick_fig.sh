@@ -23,7 +23,7 @@ else
 	y=-0.25i
 fi
 gmt pscoast $R $J -Baf $B -Gblack -Da -Slightgray -K --FORMAT_GEO_MAP=dddF > $ps
-gmt psxy -R -J -O -K ridge.txt -W0.5p >> $ps
+gmt psxy -R -J -O -K @ridge.txt -W0.5p >> $ps
 gmt psxy $D -a2=GeeK2007 -R -J -O -K -Sc0.1c -Cmag.cpt >> $ps
 W=`gmt_map_width -R -J`
 X=`gmt math -Q $W 2 DIV =`
