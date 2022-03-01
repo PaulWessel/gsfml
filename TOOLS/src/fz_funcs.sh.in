@@ -1,8 +1,6 @@
 #!/bin/bash
 #--------------------------------------------------------------------
-# $Id: fz_funcs.sh.in 429 2018-07-01 00:54:37Z pwessel $
-#
-# Copyright (c) 2015-2018 by P. Wessel
+# Copyright (c) 2015-2022 by P. Wessel
 # See LICENSE.TXT file for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -17,10 +15,11 @@
 # Contact info: http://www.soest.hawaii.edu/PT/GSFML
 #--------------------------------------------------------------------
 # Functions used by GSFML scripts
-# These do not require GMT5; they do basic stuff with Unix tools only
+# These do not require GMT; they do basic stuff with Unix tools only
 #
 # Author:	Paul Wessel
-# Date:		5-MAY-2017
+# Date:		23-FEB-2022
+# Mode:		GMT classic mode
 #--------------------------------------------------------------------
 
 function fz_get_version

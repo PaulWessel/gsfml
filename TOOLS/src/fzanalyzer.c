@@ -1,7 +1,5 @@
 /*
- * $Id: fzanalyzer.c 429 2018-07-01 00:54:37Z pwessel $
- *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2022 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -19,12 +17,13 @@
  * fzanalyzer analyses a series of profiles across fracture zones
  *
  * Author:	Paul Wessel
- * Date:	5-MAY-2017 (Requires GMT >= 5.2)
+ * Date:	23-FEB-2022 (Requires GMT >= 6)
  */
 
 #define THIS_MODULE_NAME	"fzanalyzer"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Analysis of fracture zones using crossing profiles"
+#define THIS_MODULE_LIB_PURPOSE	"GMT supplemental modules for GSFML"
 #define THIS_MODULE_KEYS	"<DI,>DO"
 #define THIS_MODULE_NEEDS       ""
 #define THIS_MODULE_OPTIONS	"-Vb:hios>"
@@ -171,7 +170,7 @@ typedef void (*PFV) (double *d, int nd, double d0, double width, int way, double
 	by the asymmetry parameter a (0-1).  We also model a linear trend m + qx.
 */
 
-static void FZ_gaussian0 (double *d, int nd, double d0, double width, int i, double *vgg)
+GMT_LOCAL void FZ_gaussian0 (double *d, int nd, double d0, double width, int i, double *vgg)
 {	/* G0: Fake VGG signal over a trough [The "Atlantic" signal]. Here,
 	 * d0 is position of FZ (the trough) and width is the Gaussian width.
 	 * The signal is normalized to give unit amplitude.
@@ -187,7 +186,7 @@ static void FZ_gaussian0 (double *d, int nd, double d0, double width, int i, dou
 	}
 }
 
-static void FZ_gaussian1 (double *d, int nd, double d0, double width, int way, double *vgg)
+GMT_LOCAL void FZ_gaussian1 (double *d, int nd, double d0, double width, int way, double *vgg)
 {	/* G1: Fake VGG signal over an isostatic edge [The "Pacific" signal]. Here,
 	 * d0 is position of FZ (steepest VGG gradient) and width is the peak-to-trough distance.
 	 * The signal is normalized to give unit peak-to-trough amplitude.
@@ -206,7 +205,7 @@ static void FZ_gaussian1 (double *d, int nd, double d0, double width, int way, d
 	}
 }
 
-static void FZ_gaussian2 (double *d, int nd, double d0, double width, int i, double *vgg)
+GMT_LOCAL void FZ_gaussian2 (double *d, int nd, double d0, double width, int i, double *vgg)
 {	/* G2: Fake VGG signal over an FZ in compression (which raises bulges). Here,
 	 * d0 is position of FZ (the trough) and width is the Gaussian width.
 	 * The signal is normalized to give unit peak-to-trough amplitude.
@@ -224,7 +223,7 @@ static void FZ_gaussian2 (double *d, int nd, double d0, double width, int i, dou
 	}
 }
 
-static void FZ_blendmodel (double *G0, double *G1, double *G2, double *combo, int n, double a, double c, double A)
+GMT_LOCAL void FZ_blendmodel (double *G0, double *G1, double *G2, double *combo, int n, double a, double c, double A)
 {	/* Blend the two models using a (0-1), and c (>=0), normalize, then scale to given amplitude A */
 	int i;
 	double one_minus_a, min = DBL_MAX, max = -DBL_MAX, scale;
@@ -238,7 +237,7 @@ static void FZ_blendmodel (double *G0, double *G1, double *G2, double *combo, in
 	for (i = 0; i < n; i++) combo[i] *= scale;
 }
 
-static int FZ_solution (struct GMT_CTRL *GMT, double *dist, double *data, double d0, double *model, int n, double *par)
+GMT_LOCAL int FZ_solution (struct GMT_CTRL *GMT, double *dist, double *data, double d0, double *model, int n, double *par)
 {	/* LS solution for par[0] + par[1]*(dist-d0) + par[2] * model, ignoring NaNs */
 	int i, m;
 	double d, N[9];
@@ -263,7 +262,7 @@ static int FZ_solution (struct GMT_CTRL *GMT, double *dist, double *data, double
 	return (gmt_gaussjordan (GMT, N, 3U, par));	/* Return solution via par */
 }
 
-static double FZ_get_variance (double *z, int n)
+GMT_LOCAL double FZ_get_variance (double *z, int n)
 {	/* Compute sum of squares, skipping NaNs */
 	int i;
 	double var = 0.0;
@@ -271,13 +270,13 @@ static double FZ_get_variance (double *z, int n)
 	return (var);
 }
 
-static void FZ_residuals (double *dist, double *data, double d0, double *model, double *residual, int n, double par[])
+GMT_LOCAL void FZ_residuals (double *dist, double *data, double d0, double *model, double *residual, int n, double par[])
 {	/* Return residuals after removing best-fitting FZ shape */
 	int i;
 	for (i = 0; i < n; i++) residual[i] = data[i] - (par[0] + par[1] * (dist[i] - d0) + par[2] * model[i]);
 }
 
-static void FZ_trend (double *x, double *y, int n, double *intercept, double *slope, int remove)
+GMT_LOCAL void FZ_trend (double *x, double *y, int n, double *intercept, double *slope, int remove)
 {	/* Fits a LS line, but ignore points with NaNs in y[] */
 	double sum_x, sum_xx, sum_y, sum_xy, xx, dx = 0.0;
 	int i, m, equidistant = 0;
@@ -308,7 +307,7 @@ static void FZ_trend (double *x, double *y, int n, double *intercept, double *sl
 	}
 }
 
-static int FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, double corridor, double *width, int n_widths, double *asym, int n_asym, double *comp, int n_comp, double *results, PFV *FZshape)
+GMT_LOCAL int FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, double corridor, double *width, int n_widths, double *asym, int n_asym, double *comp, int n_comp, double *results, PFV *FZshape)
 {
 	/* d	   = distance along crossing profile in km, with d = 0 the nominal FZ location given by digitized line.
 	 * vgg	   = observed (resampled) VGG along crossing profile, possibly with NaNs at end.
@@ -403,7 +402,7 @@ static int FZ_fit_model (struct GMT_CTRL *GMT, double *d, double *vgg, int n, do
 	return ((int)irint (100.0 * n_sing / n_fits));	/* Return percentage of singular solutions as a measure of trouble */
 }
 
-static void FZ_get_envelope (struct GMT_CTRL *GMT, double *pd, double *px, double *py, double *pz, int np, double *best_loc, int k, double *results)
+GMT_LOCAL void FZ_get_envelope (struct GMT_CTRL *GMT, double *pd, double *px, double *py, double *pz, int np, double *best_loc, int k, double *results)
 {	/* Find the lon/lat of the points +/- 1-sigma from the FZ-crossing */
 	int il, ir;
 	double sigma3, pe[3], threshold;
@@ -426,24 +425,24 @@ static void FZ_get_envelope (struct GMT_CTRL *GMT, double *pd, double *px, doubl
 	/* Then do trough model estimates */
 	sigma3 = results[BEST_WIDTH_T]/2.0;	/* Treat FZ width a fullwidth = 6sigma */
 	pe[0] = best_loc[LOC_TROUGH] - sigma3;	pe[1] = best_loc[LOC_TROUGH];	pe[2] = best_loc[LOC_TROUGH] + sigma3;
-	gmt_intpol (GMT, pd, px, np, 3, pe, &results[BEST_XT_1], 1);	/* Returns three longitudes starting at BEST_XT_1 location */
-	gmt_intpol (GMT, pd, py, np, 3, pe, &results[BEST_YT_1], 1);	/* Returns three latitudes starting at BEST_YT_1 location  */
-	gmt_intpol (GMT, pd, pz, np, 3, pe, &results[BEST_ZT_1], 1);	/* Returns three data values starting at BEST_ZT_1 location */
+	gmt_intpol (GMT, pd, px, NULL, np, 3, pe, &results[BEST_XT_1], 0.0, 1);	/* Returns three longitudes starting at BEST_XT_1 location */
+	gmt_intpol (GMT, pd, py, NULL, np, 3, pe, &results[BEST_YT_1], 0.0, 1);	/* Returns three latitudes starting at BEST_YT_1 location  */
+	gmt_intpol (GMT, pd, pz, NULL, np, 3, pe, &results[BEST_ZT_1], 0.0, 1);	/* Returns three data values starting at BEST_ZT_1 location */
 	/* Then do blend model (at trough) estimates */
 	sigma3 = results[BEST_WIDTH_B]/2.0;	/* Treat FZ width a fullwidth = 6sigma */
 	pe[0] = best_loc[LOC_BLEND_T] - sigma3;	pe[1] = best_loc[LOC_BLEND_T];	pe[2] = best_loc[LOC_BLEND_T] + sigma3;
-	gmt_intpol (GMT, pd, px, np, 3, pe, &results[BEST_XB_1], 1);	/* Returns three longitudes starting at BEST_XB_1 location */
-	gmt_intpol (GMT, pd, py, np, 3, pe, &results[BEST_YB_1], 1);	/* Returns three latitudes starting at BEST_YB_1 location  */
-	gmt_intpol (GMT, pd, pz, np, 3, pe, &results[BEST_ZB_1], 1);	/* Returns three data values starting at BEST_ZB_1 location */
+	gmt_intpol (GMT, pd, px, NULL, np, 3, pe, &results[BEST_XB_1], 0.0, 1);	/* Returns three longitudes starting at BEST_XB_1 location */
+	gmt_intpol (GMT, pd, py, NULL, np, 3, pe, &results[BEST_YB_1], 0.0, 1);	/* Returns three latitudes starting at BEST_YB_1 location  */
+	gmt_intpol (GMT, pd, pz, NULL, np, 3, pe, &results[BEST_ZB_1], 0.0, 1);	/* Returns three data values starting at BEST_ZB_1 location */
 	/* Last do blend model estimates for maximum slope location */
 	sigma3 = results[BEST_WIDTH_B]/2.0;	/* Treat FZ width a fullwidth = 6sigma */
 	pe[0] = best_loc[LOC_BLEND_E] - sigma3;	pe[1] = best_loc[LOC_BLEND_E];	pe[2] = best_loc[LOC_BLEND_E] + sigma3;
-	gmt_intpol (GMT, pd, px, np, 3, pe, &results[BEST_XE_1], 1);	/* Returns three longitudes starting at BEST_XE_1 location */
-	gmt_intpol (GMT, pd, py, np, 3, pe, &results[BEST_YE_1], 1);	/* Returns three latitudes starting at BEST_YE_1 location  */
-	gmt_intpol (GMT, pd, pz, np, 3, pe, &results[BEST_ZE_1], 1);	/* Returns three data values starting at BEST_ZE_1 location */
+	gmt_intpol (GMT, pd, px, NULL, np, 3, pe, &results[BEST_XE_1], 0.0, 1);	/* Returns three longitudes starting at BEST_XE_1 location */
+	gmt_intpol (GMT, pd, py, NULL, np, 3, pe, &results[BEST_YE_1], 0.0, 1);	/* Returns three latitudes starting at BEST_YE_1 location  */
+	gmt_intpol (GMT, pd, pz, NULL, np, 3, pe, &results[BEST_ZE_1], 0.0, 1);	/* Returns three data values starting at BEST_ZE_1 location */
 }
 
-static int FZ_trough_location (struct GMT_CTRL *GMT, double *dist, double *vgg_obs, double *vgg_blend, int np, double corr_width, double locations[])
+GMT_LOCAL int FZ_trough_location (struct GMT_CTRL *GMT, double *dist, double *vgg_obs, double *vgg_blend, int np, double corr_width, double locations[])
 {	/* Return minimum locations of observed and best-blend profiles */
 	int i, o_min = -1, b_min = -1;
 	double vo_min = DBL_MAX, vb_min = DBL_MAX;
@@ -464,7 +463,7 @@ static int FZ_trough_location (struct GMT_CTRL *GMT, double *dist, double *vgg_o
 	return (o_min);
 }
 
-static void FZ_get_ages (struct GMT_CTRL *GMT, double *dist, double *age, int np, double d0, double A[])
+GMT_LOCAL void FZ_get_ages (struct GMT_CTRL *GMT, double *dist, double *age, int np, double d0, double A[])
 {	/* Return the age on left and right side of FZ.  FZ is a distance d0 */
 	/* LS solution for par[0] + par[1]*(dist-d0) + par[2] * H(dist-d0), ignoring NaNs and points within DEF_FZ_GAP km of origin d0.
 	 * We skip this gap since ages often spline from one side to the other and we seek to avoid fitting this ramp */
@@ -530,45 +529,56 @@ static void Free_Ctrl (struct GMT_CTRL *GMT, struct FZMODELER_CTRL *C) {	/* Deal
 }
 
 static int usage (struct GMTAPI_CTRL *API, int level) {
-	gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_NAME, THIS_MODULE_PURPOSE);
+	const char *name = gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_NAME, THIS_MODULE_PURPOSE);
 	if (level == GMT_MODULE_PURPOSE) return (GMT_NOERROR);
-	GMT_Message (API, GMT_TIME_NONE, "usage: fzanalyzer <FZcrossprofiles> -F<FZlines> [-C<min>/<max>/<inc>]\n"); 
-	GMT_Message (API, GMT_TIME_NONE, "\t[-A<min>/<max>/<inc>] [-D<corrwidth>] [-I<FZ>[/<profile>]]\n"); 
-	GMT_Message (API, GMT_TIME_NONE, "\t[-S[c]] [-T<prefix>] [%s] [-W<min>/<max>/<inc>]\n", GMT_V_OPT);
-	GMT_Message (API, GMT_TIME_NONE, "\t[%s] [%s] [%s]\n\n", GMT_colon_OPT, GMT_b_OPT, GMT_i_OPT);
-	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n", GSFML_PACKAGE_VERSION);
+	GMT_Usage (API, 0, "usage: %s <FZcrossprofiles> -F<FZlines> [-C<min>/<max>/<inc>] "
+		"[-A<min>/<max>/<inc>] [-D<corrwidth>] [-I<FZ>[/<profile>]] "
+		"-S[c]] [-T<prefix>] [%s] [-W<min>/<max>/<inc>] "
+		"%s] [%s] [%s]", name, GMT_V_OPT, GMT_colon_OPT, GMT_b_OPT, GMT_i_OPT);
 
-	if (level == GMT_SYNOPSIS) return (EXIT_FAILURE);
+	if (level == GMT_SYNOPSIS) return (GMT_MODULE_SYNOPSIS);
 
-	GMT_Message (API, GMT_TIME_NONE, "\t<FZcrossprofiles> is a multi-segment file with (lon,lat,dist,az,data,nn,age) in the first\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   7 columns.  It is obtained via grdtrack -C based on the original track lines.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-F <FZlines> is the file with resampled track lines from grdtrack -D.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\n\tOPTIONS:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-A specifies how FZ blend modeling between symmetric and asymmetric parts is to be done:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   <min>: Minimum asymmetry value [%g].\n", DEF_M_MIN);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <max>: Maximum asymmetry value [%g].\n", DEF_M_MAX);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <inc>: Increment used for blend search [%g].\n", DEF_M_INC);
-	GMT_Message (API, GMT_TIME_NONE, "\t   To only use a single asymmetry value, only give the <min> argument.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-C specifies how FZ compression modeling is to be done:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   <min>: Minimum compression value [%g].\n", DEF_L_MIN);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <max>: Maximum compression value [%g].\n", DEF_L_MAX);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <inc>: Increment used for compression search [%g].\n", DEF_L_INC);
-	GMT_Message (API, GMT_TIME_NONE, "\t   To only use a single compression value, only give the <min> argument.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-D <corrwidth>: Sets width (in km) of central cross-profile wherein FZ shifts may be sought [%g].\n", DEF_D_WIDTH);
-	GMT_Message (API, GMT_TIME_NONE, "\t-I Specify a particular <FZ> id (first FZ is 0) to analyze\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   [Default analyzes the cross-profiles of all FZs].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Optionally, append the id of a particular profile in that FZ.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-S Writes out a parameter file with settings needed for Bourne scripts.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Give -Sc to use csh/tcsh syntax instead.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-T Set file prefix for all output files [fztrack].\n");
+	GMT_Message (API, GMT_TIME_NONE, "  REQUIRED ARGUMENTS:\n");
+	GMT_Usage (API, 1, "\n<FZcrossprofiles>");
+	GMT_Usage (API, -2, "<FZcrossprofiles> is a multi-segment file with (lon,lat,dist,az,data,nn,age) in the first "
+		"7 columns.  It is obtained via grdtrack -C based on the original track lines.");
+	GMT_Usage (API, 1, "\n-F<FZlines>");
+	GMT_Usage (API, -2, "<FZlines> is the file with resampled track lines from grdtrack -D.");
+
+	GMT_Message (API, GMT_TIME_NONE, "\n  OPTIONAL ARGUMENTS:\n");
+
+	GMT_Usage (API, 1, "\n-A<min>/<max>/<inc>");
+	GMT_Usage (API, -2, "Specify how FZ blend modeling between symmetric and asymmetric parts is to be done:");
+	GMT_Usage (API, 3, "%s <min>: Minimum asymmetry value [%g].", GMT_LINE_BULLET, DEF_M_MIN);
+	GMT_Usage (API, 3, "%s <max>: Maximum asymmetry value [%g].", GMT_LINE_BULLET, DEF_M_MAX);
+	GMT_Usage (API, 3, "%s <inc>: Increment used for blend search [%g].", GMT_LINE_BULLET, DEF_M_INC);
+	GMT_Usage (API, -2, "To only use a single asymmetry value, only give the <min> argument.");
+	GMT_Usage (API, 1, "\n-C<min>/<max>/<inc>]");
+	GMT_Usage (API, -2, "Specify how FZ compression modeling is to be done:");
+	GMT_Usage (API, 3, "%s <min>: Minimum compression value [%g].", GMT_LINE_BULLET, DEF_L_MIN);
+	GMT_Usage (API, 3, "%s <max>: Maximum compression value [%g].", GMT_LINE_BULLET, DEF_L_MAX);
+	GMT_Usage (API, 3, "%s <inc>: Increment used for compression search [%g].", GMT_LINE_BULLET, DEF_L_INC);
+	GMT_Usage (API, -2, "To only use a single compression value, only give the <min> argument.");
+	GMT_Usage (API, 1, "\n-D<corrwidth>");
+	GMT_Usage (API, -2, "Sets width (in km) of central cross-profile wherein FZ shifts may be sought [%g].", DEF_D_WIDTH);
+	GMT_Usage (API, 1, "\n-I<FZ>[/<profile>]");
+	GMT_Usage (API, -2, "Specify a particular <FZ> id (first FZ is 0) to analyze "
+		"[Default analyzes the cross-profiles of all FZs]. "
+		"Optionally, append the id of a particular profile in that FZ.");
+	GMT_Usage (API, 1, "\n-S[c]");
+	GMT_Usage (API, -2, "Write out a parameter file with settings needed for Bourne scripts. "
+		"Append c to use csh/tcsh syntax instead.");
+	GMT_Usage (API, 1, "\n-T<prefix>");
+	GMT_Usage (API, -2, "Set file prefix for all output files [fztrack].");
 	GMT_Option (API, "V");
-	GMT_Message (API, GMT_TIME_NONE, "\t-W specifies parameters that control how FZ width is determined:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   <min>: Minimum FZ signal width (in km) for nonlinear width search [%g].\n", DEF_W_MIN);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <max>: Maximum FZ signal width (in km) for nonlinear width search [%g].\n", DEF_W_MAX);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <inc>: Increment (in km) used for width search [%g].\n", DEF_W_INC);
+	GMT_Usage (API, 1, "\n-W<min>/<max>/<inc>");
+	GMT_Usage (API, -2, "Specify parameters that control how FZ width is determined:");
+	GMT_Usage (API, 3, "%s <min>: Minimum FZ signal width (in km) for nonlinear width search [%g].", GMT_LINE_BULLET, DEF_W_MIN);
+	GMT_Usage (API, 3, "%s <max>: Maximum FZ signal width (in km) for nonlinear width search [%g].", GMT_LINE_BULLET, DEF_W_MAX);
+	GMT_Usage (API, 3, "%s <inc>: Increment (in km) used for width search [%g].", GMT_LINE_BULLET, DEF_W_INC);
 	GMT_Option (API, ":,b7i,.");
 
-	return (EXIT_FAILURE);
+	return (GMT_MODULE_USAGE);
 }
 
 static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct GMT_OPTION *options) {
@@ -668,13 +678,13 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 	n_errors += gmt_M_check_condition (GMT, GMT->common.b.active[GMT_IN] && GMT->current.setting.io_header[GMT_IN], "GMT SYNTAX ERROR.  Binary input data cannot have header -h.\n");
 	n_errors += gmt_M_check_condition (GMT, GMT->common.b.active[GMT_IN] && GMT->common.b.ncol[GMT_IN] < 7, "GMT SYNTAX ERROR.  Binary input data (-bi) must have at least 7 columns.\n");
 
-	return (n_errors ? GMT_PARSE_ERROR : GMT_OK);
+	return (n_errors ? GMT_PARSE_ERROR : GMT_NOERROR);
 }
 
 #define bailout(code) {gmt_M_free_options (mode); return (code);}
 #define Return(code) {Free_Ctrl (GMT, Ctrl); gmt_end_module (GMT, GMT_cpy); bailout (code);}
 
-int GMT_fzanalyzer (void *V_API, int mode, void *args) {
+EXTERN_MSC int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	int error = FALSE, k, start, stop, left, right;
 	int n_sing, way, m;
 	uint64_t n_FZ_widths, n_FZ_asym, n_FZ_comp, np_cross, n_half_cross, ii;
@@ -734,7 +744,7 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 
 	/* Read in the resampled FZ track lines */
 	
-	if (GMT_Init_IO (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN, GMT_ADD_DEFAULT, 0, options) != GMT_OK) {	/* Establishes data input */
+	if (GMT_Init_IO (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN, GMT_ADD_DEFAULT, 0, options) != GMT_NOERROR) {	/* Establishes data input */
 		Return (API->error);
 	}
 	if ((error = GMT_Begin_IO (API, GMT_IS_DATASET, GMT_IN, GMT_HEADER_ON))) Return (error);	/* Enables data input and sets access mode */
@@ -782,7 +792,7 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	sprintf (run_cmd, "# %s %s", GMT->init.module_name, cmd);	/* Build command line argument string */
 	gmt_M_free (GMT, cmd);
 
-	if (GMT_Init_IO (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT, GMT_ADD_DEFAULT, 0, options) != GMT_OK) {	/* Establishes data output */
+	if (GMT_Init_IO (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT, GMT_ADD_DEFAULT, 0, options) != GMT_NOERROR) {	/* Establishes data output */
 		Return (API->error);
 	}
 	if ((error = GMT_Begin_IO (API, GMT_IS_DATASET, GMT_OUT, GMT_HEADER_ON))) Return (error);	/* Enables data output and sets access mode */
@@ -813,14 +823,15 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 		"YB0\tYBR\tZBL\tZB0\tZBR\tXEL\tXE0\tXER\tYEL\tYE0\tYER\tZEL\tZE0\tZER");
 
 	n_half_cross = (np_cross - 1) / 2;	/* Number of points in a cross-profile on either side of the FZ (center point) */
-	threshold = -0.1 * (X->segment[0]->coord[XPOS_D][1] - X->segment[0]->coord[XPOS_D][0]);	/* 10% threshold lets us skip through tiny negative FZ dist steps due to round-off */
-	cross_length = X->segment[0]->coord[XPOS_D][np_cross-1] - X->segment[0]->coord[XPOS_D][0];	/* Length of a cross-profile */
+	threshold = -0.1 * (X->segment[0]->data[XPOS_D][1] - X->segment[0]->data[XPOS_D][0]);	/* 10% threshold lets us skip through tiny negative FZ dist steps due to round-off */
+	cross_length = X->segment[0]->data[XPOS_D][np_cross-1] - X->segment[0]->data[XPOS_D][0];	/* Length of a cross-profile */
 	
 	for (fz = xseg = 0; fz < F->n_segments; fz++) {	/* For each FZ segment */
 
 		if (Ctrl->I.active && fz != (uint64_t)Ctrl->I.fz) {	/* Skip this FZ */
+			struct GMT_DATASEGMENT_HIDDEN *SH = gmt_get_DS_hidden (F->segment[fz]);
+			SH->mode = GMT_WRITE_SKIP;	/* Ignore on output */
 			xseg += F->segment[fz]->n_rows;		/* Must wind past all the cross-profiles for the skipped FZ */
-			F->segment[fz]->mode = GMT_WRITE_SKIP;	/* Ignore on output */
 			continue;
 		}
 		
@@ -834,8 +845,8 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 			/* Must determine if parts of the crossection is closer to a neighbor FZ; we then truncate the data. */
 			start = stop = -1;
 			for (ku = 0, left = n_half_cross - 1, right = n_half_cross + 1; ku < n_half_cross; ku++, right++, left--) {	/* March outwards from the center point which should have the smallest pn */
-				if (start == -1 && !gmt_M_is_dnan (S->coord[XPOS_S][left])  && (fz_inc = S->coord[XPOS_S][left]  - S->coord[XPOS_S][left+1])  < threshold) start = left  + 1;
-				if (stop  == -1 && !gmt_M_is_dnan (S->coord[XPOS_S][right]) && (fz_inc = S->coord[XPOS_S][right] - S->coord[XPOS_S][right-1]) < threshold) stop  = right - 1;
+				if (start == -1 && !gmt_M_is_dnan (S->data[XPOS_S][left])  && (fz_inc = S->data[XPOS_S][left]  - S->data[XPOS_S][left+1])  < threshold) start = left  + 1;
+				if (stop  == -1 && !gmt_M_is_dnan (S->data[XPOS_S][right]) && (fz_inc = S->data[XPOS_S][right] - S->data[XPOS_S][right-1]) < threshold) stop  = right - 1;
 			}
 			/* If neighbor FZs are too close (distances start to decrease) we find the last point with an
 			 * monotonic increase in FZ distance on either side.  If there is no neighbor then start and/or
@@ -843,59 +854,59 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 			if (start == -1) start = 0;
 			if (stop  == -1) stop = np_cross - 1;
 			/* Now set the sampled grid profile to NaN if too close to a neighbor FZ */
-			for (k = 0; k < start; k++) S->coord[XPOS_Z][k] = GMT->session.d_NaN;
-			for (k = np_cross-1; k > stop; k--) S->coord[XPOS_Z][k] = GMT->session.d_NaN;
+			for (k = 0; k < start; k++) S->data[XPOS_Z][k] = GMT->session.d_NaN;
+			for (k = np_cross-1; k > stop; k--) S->data[XPOS_Z][k] = GMT->session.d_NaN;
 			/* It is now possible that the beginning and end of the cross profile will have NaNs */
 			
 			/* Find best fit shift, width, and amplitude plus various quality factors */
 
 			gmt_M_memset (results, N_RESULTS, double);
-			n_sing = FZ_fit_model (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], np_cross, corridor_half_width, FZ_width, n_FZ_widths, FZ_asym, n_FZ_asym, FZ_comp, n_FZ_comp, results, FZshape);
+			n_sing = FZ_fit_model (GMT, S->data[XPOS_D], S->data[XPOS_Z], np_cross, corridor_half_width, FZ_width, n_FZ_widths, FZ_asym, n_FZ_asym, FZ_comp, n_FZ_comp, results, FZshape);
 			if (n_sing) GMT_Report (API, GMT_MSG_NORMAL, "Warning: Cross profile %s generated %ld %% singular solutions\n", S->label, n_sing);
 	
 			/* Evaluate the best model predictions */
-			FZshape[FZ_G0] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G0]);	/* Just need G0 & G2 for building trough model (asymmetry = 0) */
-			FZshape[FZ_G2] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G2]);
-			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_T], np_cross, 0.0, results[BEST_FLANK_T], results[BEST_AMPLT_T]);	/* Best trough model (T) without the linear trend */
+			FZshape[FZ_G0] (S->data[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G0]);	/* Just need G0 & G2 for building trough model (asymmetry = 0) */
+			FZshape[FZ_G2] (S->data[XPOS_D], np_cross, results[BEST_FZLOC_T], results[BEST_WIDTH_T], 0, comp[FZ_G2]);
+			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->data[XPOS_T], np_cross, 0.0, results[BEST_FLANK_T], results[BEST_AMPLT_T]);	/* Best trough model (T) without the linear trend */
 			way = irint (results[BEST_WAY_B]);	/* Old side on negative distance (-1) or positive distances (+1) */
-			for (m = 0; m < N_SHAPES; m++) FZshape[m] (S->coord[XPOS_D], np_cross, results[BEST_FZLOC_B], results[BEST_WIDTH_B], way, comp[m]);	/* Evaluate all three shapes given blend parameters */
-			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->coord[XPOS_B], np_cross, results[BEST_MODEL_B], results[BEST_FLANK_B], results[BEST_AMPLT_B]);	/* Best blend (B) without the linear trend */
-			m = FZ_trough_location (GMT, S->coord[XPOS_D], S->coord[XPOS_Z], S->coord[XPOS_B], np_cross, corridor_half_width, best_loc);	/* Determine the LOC_DATA and LOC_BLEND_T estimates of FZ location */
+			for (m = 0; m < N_SHAPES; m++) FZshape[m] (S->data[XPOS_D], np_cross, results[BEST_FZLOC_B], results[BEST_WIDTH_B], way, comp[m]);	/* Evaluate all three shapes given blend parameters */
+			FZ_blendmodel (comp[FZ_G0], comp[FZ_G1], comp[FZ_G2], S->data[XPOS_B], np_cross, results[BEST_MODEL_B], results[BEST_FLANK_B], results[BEST_AMPLT_B]);	/* Best blend (B) without the linear trend */
+			m = FZ_trough_location (GMT, S->data[XPOS_D], S->data[XPOS_Z], S->data[XPOS_B], np_cross, corridor_half_width, best_loc);	/* Determine the LOC_DATA and LOC_BLEND_T estimates of FZ location */
 			best_loc[LOC_TROUGH] = results[BEST_FZLOC_T];		/* The 2nd best FZ location estimate is from the trough model */
 			best_loc[LOC_BLEND_E] = results[BEST_FZLOC_B];		/* The 3rd best FZ location estimate is from the blend model */
 
 			/* Determine the +/- 1-sigma corridor around the best FZ trace */
-			FZ_get_envelope (GMT, S->coord[XPOS_D], S->coord[XPOS_X], S->coord[XPOS_Y], S->coord[XPOS_Z], np_cross, best_loc, m, results);
+			FZ_get_envelope (GMT, S->data[XPOS_D], S->data[XPOS_X], S->data[XPOS_Y], S->data[XPOS_Z], np_cross, best_loc, m, results);
 			/* Determine ages on left (d < 0) and right (d > 0) sides (if -A) */
-			FZ_get_ages (GMT, S->coord[XPOS_D], S->coord[XPOS_C], np_cross, 0.0, ages);
+			FZ_get_ages (GMT, S->data[XPOS_D], S->data[XPOS_C], np_cross, 0.0, ages);
 	
 			/* Copy the results for this cross-profile analysis to the output data set */
-			F->segment[fz]->coord[POS_TL][row] = ages[0];			/* Crustal age to left of FZ */
-			F->segment[fz]->coord[POS_TR][row] = ages[1];			/* Crustal age to right of FZ */
-			F->segment[fz]->coord[POS_SD][row] = S->coord[XPOS_D][m];	/* Offset of data trough from digitized FZ location [0] */
-			F->segment[fz]->coord[POS_ST][row] = results[BEST_FZLOC_T];	/* Offset of model (trough) location from digitized FZ location */
-			F->segment[fz]->coord[POS_SB][row] = best_loc[LOC_BLEND_T];	/* Offset of model trough (blend) location from digitized FZ location */
-			F->segment[fz]->coord[POS_SE][row] = results[BEST_FZLOC_B];	/* Offset of model (blend) location from digitized FZ location */
-			F->segment[fz]->coord[POS_BL][row] = results[BEST_MODEL_B];	/* Best blend value at FZ location */
-			F->segment[fz]->coord[POS_OR][row] = results[BEST_WAY_B];
-			F->segment[fz]->coord[POS_WD][row] = results[BEST_WIDTH_D];	/* Best data width at FZ location */
-			F->segment[fz]->coord[POS_WT][row] = results[BEST_WIDTH_T];	/* Best trough model width at FZ location */
-			F->segment[fz]->coord[POS_WB][row] = results[BEST_WIDTH_B];	/* Best blend model width at FZ location */
-			F->segment[fz]->coord[POS_AD][row] = results[BEST_AMPLT_D];	/* Best data amplitude at FZ location */
-			F->segment[fz]->coord[POS_AT][row] = results[BEST_AMPLT_T];	/* Best trough amplitude at FZ location */
-			F->segment[fz]->coord[POS_AB][row] = results[BEST_AMPLT_B];	/* Best blend amplitude at FZ location */
-			F->segment[fz]->coord[POS_UT][row] = results[BEST_FLANK_T];	/* Best trough amplitude at FZ location */
-			F->segment[fz]->coord[POS_UB][row] = results[BEST_FLANK_B];	/* Best blend amplitude at FZ location */
-			F->segment[fz]->coord[POS_VT][row] = results[BEST_VARMD_T];	/* Best trough variance reduction at FZ location */
-			F->segment[fz]->coord[POS_VB][row] = results[BEST_VARMD_B];	/* Best blend variance reduction at FZ location */
-			F->segment[fz]->coord[POS_FT][row] = results[BEST_FSTAT_T];	/* Best trough F statistic at FZ location */
-			F->segment[fz]->coord[POS_FB][row] = results[BEST_FSTAT_B];	/* Best blend F statistic at FZ location */
-			for (ii = BEST_XD_1, k = POS_XDL; ii <= BEST_ZE_2; ii++, k++) F->segment[fz]->coord[k][row] = results[ii];	/* All 9 xyz triplets */
+			F->segment[fz]->data[POS_TL][row] = ages[0];			/* Crustal age to left of FZ */
+			F->segment[fz]->data[POS_TR][row] = ages[1];			/* Crustal age to right of FZ */
+			F->segment[fz]->data[POS_SD][row] = S->data[XPOS_D][m];	/* Offset of data trough from digitized FZ location [0] */
+			F->segment[fz]->data[POS_ST][row] = results[BEST_FZLOC_T];	/* Offset of model (trough) location from digitized FZ location */
+			F->segment[fz]->data[POS_SB][row] = best_loc[LOC_BLEND_T];	/* Offset of model trough (blend) location from digitized FZ location */
+			F->segment[fz]->data[POS_SE][row] = results[BEST_FZLOC_B];	/* Offset of model (blend) location from digitized FZ location */
+			F->segment[fz]->data[POS_BL][row] = results[BEST_MODEL_B];	/* Best blend value at FZ location */
+			F->segment[fz]->data[POS_OR][row] = results[BEST_WAY_B];
+			F->segment[fz]->data[POS_WD][row] = results[BEST_WIDTH_D];	/* Best data width at FZ location */
+			F->segment[fz]->data[POS_WT][row] = results[BEST_WIDTH_T];	/* Best trough model width at FZ location */
+			F->segment[fz]->data[POS_WB][row] = results[BEST_WIDTH_B];	/* Best blend model width at FZ location */
+			F->segment[fz]->data[POS_AD][row] = results[BEST_AMPLT_D];	/* Best data amplitude at FZ location */
+			F->segment[fz]->data[POS_AT][row] = results[BEST_AMPLT_T];	/* Best trough amplitude at FZ location */
+			F->segment[fz]->data[POS_AB][row] = results[BEST_AMPLT_B];	/* Best blend amplitude at FZ location */
+			F->segment[fz]->data[POS_UT][row] = results[BEST_FLANK_T];	/* Best trough amplitude at FZ location */
+			F->segment[fz]->data[POS_UB][row] = results[BEST_FLANK_B];	/* Best blend amplitude at FZ location */
+			F->segment[fz]->data[POS_VT][row] = results[BEST_VARMD_T];	/* Best trough variance reduction at FZ location */
+			F->segment[fz]->data[POS_VB][row] = results[BEST_VARMD_B];	/* Best blend variance reduction at FZ location */
+			F->segment[fz]->data[POS_FT][row] = results[BEST_FSTAT_T];	/* Best trough F statistic at FZ location */
+			F->segment[fz]->data[POS_FB][row] = results[BEST_FSTAT_B];	/* Best blend F statistic at FZ location */
+			for (ii = BEST_XD_1, k = POS_XDL; ii <= BEST_ZE_2; ii++, k++) F->segment[fz]->data[k][row] = results[ii];	/* All 9 xyz triplets */
 
 			/* Update crosstrack profiles with linear trends */
 			for (ii = 0; ii < np_cross; ii++) {	/* Compute the best model fits as trend + scaled prediction shape. Note the trend requires BEST_FZLOC_B/T */
-				S->coord[XPOS_T][ii] += (results[BEST_INTER_T] + results[BEST_SLOPE_T] * (S->coord[XPOS_D][ii] - results[BEST_FZLOC_T]));
-				S->coord[XPOS_B][ii] += (results[BEST_INTER_B] + results[BEST_SLOPE_B] * (S->coord[XPOS_D][ii] - results[BEST_FZLOC_B]));
+				S->data[XPOS_T][ii] += (results[BEST_INTER_T] + results[BEST_SLOPE_T] * (S->data[XPOS_D][ii] - results[BEST_FZLOC_T]));
+				S->data[XPOS_B][ii] += (results[BEST_INTER_B] + results[BEST_SLOPE_B] * (S->data[XPOS_D][ii] - results[BEST_FZLOC_B]));
 			}
 			sprintf (add, " mb=%03.2f rv=%+2d OB=%+05.1f WB=%02g UB=%04.2f AB=%05.1f VB=%2.2d FB=%05.1f OT=%+05.1f WT=%02g UT=%04.2f AT=%05.1f VT=%2.2d FT=%05.1f OD=%+05.1f WD=%02g OE=%+05.1f",
 				results[BEST_MODEL_B], way, best_loc[LOC_BLEND_T], results[BEST_WIDTH_B], results[BEST_FLANK_B], results[BEST_AMPLT_B],
@@ -914,14 +925,14 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	/* Save crosstrack profiles and models to file */
 	sprintf (buffer, "%s_cross.txt", Ctrl->T.prefix);
 	file = strdup (buffer);
-	if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, file, Xin) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
+	if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, file, Xin) != GMT_NOERROR) Return ((error = GMT_DATA_WRITE_ERROR));
 	GMT_Destroy_Data (API, &Xin);
 	free (file);
 
 	/* Store FZ trace analysis  */
 	sprintf (buffer, "%s_analysis.txt", Ctrl->T.prefix);
 	file = strdup (buffer);
-	if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, file, Fin) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
+	if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, file, Fin) != GMT_NOERROR) Return ((error = GMT_DATA_WRITE_ERROR));
 	GMT_Destroy_Data (API, &Fin);
 	free (file);
 
@@ -966,5 +977,5 @@ int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	gmt_M_free (GMT, FZ_asym);
 	gmt_M_free (GMT, FZ_comp);
 
-	Return (GMT_OK);
+	Return (GMT_NOERROR);
 }

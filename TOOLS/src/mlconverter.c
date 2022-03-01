@@ -1,7 +1,5 @@
 /*
- * $Id: mlconverter.c 429 2018-07-01 00:54:37Z pwessel $
- *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2022 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -21,12 +19,13 @@
  * ML_*.gmt files distributed by the GSFML project.
  *
  * Author:	Paul Wessel
- * Date:	5-MAY-2017 (Requires GMT >= 5.2)
+ * Date:	12-FEB-2022 (Requires GMT >= 6)
  */
 
 #define THIS_MODULE_NAME	"mlconverter"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Convert chrons to ages using selected magnetic timescale"
+#define THIS_MODULE_LIB_PURPOSE	"GMT supplemental modules for GSFML"
 #define THIS_MODULE_KEYS	"<DI,>DO"
 #define THIS_MODULE_NEEDS       ""
 #define THIS_MODULE_OPTIONS	"-:>RVabfghior"
@@ -37,6 +36,7 @@
 #define ML_GEEK2007	0
 #define ML_CK1995	1
 #define ML_GST2004	2
+#define ML_GST2012	3
 
 #define ML_NORMAL	0
 #define ML_REVERSE	1
@@ -79,25 +79,27 @@ static void Free_Ctrl (struct GMT_CTRL *GMT, struct MLCONVERTER_CTRL *C) {	/* De
 
 static int usage (struct GMTAPI_CTRL *API, int level)
 {
-	gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_NAME, THIS_MODULE_PURPOSE);
+	const char *name = gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_NAME, THIS_MODULE_PURPOSE);
 	if (level == GMT_MODULE_PURPOSE) return (GMT_NOERROR);
-	GMT_Message (API, GMT_TIME_NONE, "usage: mlconverter [<ML_data>] [-A] [-G] [-S] [-Tc|g|s] [%s]\n", GMT_V_OPT);
-	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n", GSFML_PACKAGE_VERSION);
+	GMT_Usage (API, 0, "usage: %s [<ML_data>] [-A] [-G[s]] [-S] [-Tc|g|o|s] [%s]\n", name, GMT_V_OPT);
 
-	if (level == GMT_SYNOPSIS) return (EXIT_FAILURE);
+	if (level == GMT_SYNOPSIS) return (GMT_MODULE_SYNOPSIS);
 
-	GMT_Message (API, GMT_TIME_NONE, "\n\tOPTIONS:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-A Append metadata to data record as extra columns [Only write lon lat age].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-G Generate an extended OGR/GMT table by appending the crustal age.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Append s to repair any lax chron nomenclature, if needed.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-S Strict chron nomenclature expected; report any lax use [do the best we can].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-T Select a magnetic time scale:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   g: Gee and Kent, 2007 [Default].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   s: Gradstein, 2004.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   c: Cande and Kent, 1995.\n");
+	GMT_Message (API, GMT_TIME_NONE, "  OPTIONAL ARGUMENTS:\n");
+
+	GMT_Usage (API, 1, "\n-A Append metadata to data record as extra columns [Only write lon lat age].");
+	GMT_Usage (API, 1, "\n-G Generate an extended OGR/GMT table by appending the crustal age. "
+		"Append s to repair any lax chron nomenclature, if needed.");
+	GMT_Usage (API, 1, "\n-S Strict chron nomenclature expected; report any lax use [do the best we can]");
+	GMT_Usage (API, 1, "\n-Tc|g|o|s]");
+	GMT_Usage (API, -2, "Select a magnetic time scale:");
+	GMT_Usage (API, 3, "c: Cande and Kent, 1995.");
+	GMT_Usage (API, 3, "g: Gee and Kent, 2007 [Default].");
+	GMT_Usage (API, 3, "o: Ogg, 2012.");
+	GMT_Usage (API, 3, "s: Gradstein, 2004.");
 	GMT_Option (API, "V,.");
 
-	return (EXIT_FAILURE);
+	return (GMT_MODULE_USAGE);
 }
 
 static int parse (struct GMTAPI_CTRL *API, struct MLCONVERTER_CTRL *Ctrl, struct GMT_OPTION *options) {
@@ -133,9 +135,10 @@ static int parse (struct GMTAPI_CTRL *API, struct MLCONVERTER_CTRL *Ctrl, struct
 			case 'T':
 				Ctrl->T.active = 1;
 				switch (opt->arg[0]) {
+					case 'c': Ctrl->T.mode = ML_CK1995;   break;
 					case 'g': Ctrl->T.mode = ML_GEEK2007; break;
-					case 'c': Ctrl->T.mode = ML_CK1995; break;
-					case 's': Ctrl->T.mode = ML_GST2004; break;
+					case 'o': Ctrl->T.mode = ML_GST2012;  break;
+					case 's': Ctrl->T.mode = ML_GST2004;  break;
 					default:
 						GMT_Message (API, GMT_TIME_NONE, "Error: Not a valid time scale for option -T [%c].\n", (int)opt->arg[0]);
 						n_errors++;
@@ -149,8 +152,8 @@ static int parse (struct GMTAPI_CTRL *API, struct MLCONVERTER_CTRL *Ctrl, struct
 		}
 	}
 	
-        n_errors += gmt_M_check_condition (API->GMT, Ctrl->A.active && Ctrl->G.active, "GMT SYNTAX ERROR:  Cannot use both -A and -E.\n");
-	return (n_errors ? GMT_PARSE_ERROR : GMT_OK);
+	n_errors += gmt_M_check_condition (API->GMT, Ctrl->A.active && Ctrl->G.active, "GMT SYNTAX ERROR:  Cannot use both -A and -G.\n");
+	return (n_errors ? GMT_PARSE_ERROR : GMT_NOERROR);
 }
 
 #define Return(code) {Free_Ctrl (GMT, Ctrl); gmt_end_module (GMT, GMT_cpy); return (code);}
@@ -204,6 +207,12 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 	static struct ML_CHRON GST2004r[] = {
 #include "GST2004r.h"
 	};
+	static struct ML_CHRON GST2012n[] = {
+#include "GST2012n.h"
+	};
+	static struct ML_CHRON GST2012r[] = {
+#include "GST2012r.h"
+	};
 	struct ML_CHRON *M[2] = {NULL, NULL};
 	struct GMT_RECORD *In = NULL, *Out = NULL;
 	struct MLCONVERTER_CTRL *Ctrl = NULL;
@@ -242,14 +251,18 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 			M[ML_NORMAL]  = GST2004n;	
 			M[ML_REVERSE] = GST2004r;
 			break;
+		case ML_GST2012:
+			M[ML_NORMAL]  = GST2012n;	
+			M[ML_REVERSE] = GST2012r;
+			break;
 	}
-	Cname[ML_NORMAL] = Chron_Normal;	/* Set pointer to the two timescale chron nwith strict names */
-	Cname[ML_REVERSE] = Chron_Reverse;
-	Cname2[ML_NORMAL] = Chron_Normal2;	/* Set pointer to the two timescale chron with uppercase/no period/hyphen names */
+	Cname[ML_NORMAL]   = Chron_Normal;	/* Set pointer to the two timescale chron nwith strict names */
+	Cname[ML_REVERSE]  = Chron_Reverse;
+	Cname2[ML_NORMAL]  = Chron_Normal2;	/* Set pointer to the two timescale chron with uppercase/no period/hyphen names */
 	Cname2[ML_REVERSE] = Chron_Reverse2;
 	
 	GMT->current.setting.io_header[GMT_OUT] = true;	/* To allow writing of headers */
-	Out = gmt_new_record (GMT, Ctrl->G.active ? record : NULL, Ctrl->G.active ? GMT->current.io.record : NULL);
+	Out = gmt_new_record (GMT, NULL, record);
 	
 	/* We know which columns are geographical */
 	GMT->current.io.col_type[GMT_IN][GMT_X] = GMT->current.io.col_type[GMT_OUT][GMT_X] = GMT_IS_LON;
@@ -259,9 +272,10 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 	if ((error = GMT_Init_IO (API, GMT_IS_DATASET, GMT_IS_TEXT, GMT_OUT, GMT_ADD_DEFAULT, 0, options))) Return (error);	/* Establishes data output */
 	if ((error = GMT_Begin_IO (API, GMT_IS_DATASET, GMT_IN, GMT_HEADER_ON))) Return (error);	/* Enables data input and sets access mode */
 	if ((error = GMT_Begin_IO (API, GMT_IS_DATASET, GMT_OUT, GMT_HEADER_ON))) Return (error);	/* Enables data output and sets access mode */
+	if ((error = GMT_Set_Columns (API, GMT_OUT, 0, GMT_COL_FIX)) != GMT_NOERROR) Return (error);	/* Only text records here */
 
 	do {	/* Keep returning records until we reach EOF */
-		if ((In = GMT_Get_Record (API, GMT_READ_DOUBLE, NULL)) == NULL) {	/* Read next record, get NULL if special case */
+		if ((In = GMT_Get_Record (API, GMT_READ_DATA, NULL)) == NULL) {	/* Read next record, get NULL if special case */
 			if (gmt_M_rec_is_error (GMT)) 		/* Bail if there are any read errors */
 				Return (GMT_RUNTIME_ERROR);
 			if (gmt_M_rec_is_any_header (GMT)) 	/* Skip all headers */
@@ -351,5 +365,5 @@ int GMT_mlconverter (void *V_API, int mode, void *args) {
 	if (n_bad) GMT_Report (API, GMT_MSG_NORMAL, "Encountered %ld chrons that could not be converted to age with current timescale\n", n_bad);
 	if (n_lax) GMT_Report (API, GMT_MSG_NORMAL, "Encountered %ld chrons that failed to conform to strict chron nomenclature\n", n_lax);
 
-	Return (EXIT_SUCCESS);
+	Return (GMT_NOERROR);
 }

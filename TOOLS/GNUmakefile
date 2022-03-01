@@ -9,7 +9,7 @@
 #
 #	Author:	Paul Wessel, SOEST, University of Hawaii
 #
-#	Date:		5-MAY-2017
+#	Date:		23-FEB-2022
 #-------------------------------------------------------------------------------
 sinclude build/src/config.mk
 include Makefile
@@ -39,8 +39,11 @@ archive:	man includes config
 man:
 		(cd doc; $(MAKE) doc)
 
+prep:	includes src/gsfml_glue.c
+
 includes:	src/Chron_Normal.h src/Chron_Reverse.h src/Geek2007n.h  \
-		src/Geek2007r.h src/CK1995n.h src/CK1995r.h src/GST2004n.h src/GST2004r.h
+		src/Geek2007r.h src/CK1995n.h src/CK1995r.h src/GST2004n.h \
+		src/GST2004r.h src/GST2012n.h src/GST2012r.h
 
 update:
 		svn update
@@ -57,9 +60,9 @@ src/Chron_Normal.h:	../MLDATA/timescales.txt
 	echo NULL >> src/Chron_Normal2.h
 
 src/Chron_Reverse.h:	../MLDATA/timescales.txt
-	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "\"%s\",\n", $$8}' | sed -e s/CM/M/g > src/Chron_Reverse.h
+	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "\"%s\",\n", $$10}' | sed -e s/CM/M/g > src/Chron_Reverse.h
 	echo NULL >> src/Chron_Reverse.h
-	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "\"%s\",\n", $$8}' | sed -e s/CM/M/g -e "s/\.//g" | tr 'a-z' 'A-Z' > src/Chron_Reverse2.h
+	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "\"%s\",\n", $$10}' | sed -e s/CM/M/g -e "s/\.//g" | tr 'a-z' 'A-Z' > src/Chron_Reverse2.h
 	echo NULL >> src/Chron_Reverse2.h
 
 # We use -999.0 to indicate end of the chron lists
@@ -68,7 +71,7 @@ src/Geek2007n.h:	../MLDATA/timescales.txt
 	echo { -999.0, -999.0} >> src/Geek2007n.h
 
 src/Geek2007r.h:	../MLDATA/timescales.txt
-	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$9, $$10}' | sed -e sBN/AB-1.0Bg > src/Geek2007r.h
+	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$11, $$12}' | sed -e sBN/AB-1.0Bg > src/Geek2007r.h
 	echo { -999.0, -999.0} >> src/Geek2007r.h
 
 src/CK1995n.h:	../MLDATA/timescales.txt
@@ -76,7 +79,7 @@ src/CK1995n.h:	../MLDATA/timescales.txt
 	echo { -999.0, -999.0} >> src/CK1995n.h
 
 src/CK1995r.h:	../MLDATA/timescales.txt
-	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$11, $$12}' | sed -e sBN/AB-1.0Bg > src/CK1995r.h
+	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$13, $$14}' | sed -e sBN/AB-1.0Bg > src/CK1995r.h
 	echo { -999.0, -999.0} >> src/CK1995r.h
 
 src/GST2004n.h:	../MLDATA/timescales.txt
@@ -84,15 +87,28 @@ src/GST2004n.h:	../MLDATA/timescales.txt
 	echo { -999.0, -999.0} >> src/GST2004n.h
 
 src/GST2004r.h:	../MLDATA/timescales.txt
-	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$13, $$14}' | sed -e sBN/AB-1.0Bg > src/GST2004r.h
+	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$15, $$16}' | sed -e sBN/AB-1.0Bg > src/GST2004r.h
 	echo { -999.0, -999.0} >> src/GST2004r.h
+
+src/GST2012n.h:	../MLDATA/timescales.txt
+	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$8, $$9}' | sed -e sBN/AB-1.0Bg > src/GST2012n.h
+	echo { -999.0, -999.0} >> src/GST2012n.h
+
+src/GST2012r.h:	../MLDATA/timescales.txt
+	grep -v '^#' ../MLDATA/timescales.txt | awk '{printf "{ %s, %s },\n", $$17, $$18}' | sed -e sBN/AB-1.0Bg > src/GST2012r.h
+	echo { -999.0, -999.0} >> src/GST2012r.h
+
+src/gsfml_glue.c: FORCE
+	(cd src; rm -f gsfml_glue.c; gmt --new-glue=gsfml > gsfml_glue.c)
+
+FORCE:
 
 clean::
 	(cd doc; $(MAKE) clean)
 
 spotless::
-	rm -f src/Geek2007n.h src/Geek2007r.h src/CK1995n.h src/CK1995r.h src/GST2004n.h src/GST2004r.h src/Chron_Normal.h \
-		src/Chron_Reverse.h src/Chron_Normal2.h src/Chron_Reverse2.h src/mlconverter.h
+	rm -f src/gsfml_glue.c src/Geek2007n.h src/Geek2007r.h src/CK1995n.h src/CK1995r.h src/GST2004n.h src/GST2004r.h src/GST2012n.h \
+		src/GST2012r.h src/Chron_Normal.h src/Chron_Reverse.h src/Chron_Normal2.h src/Chron_Reverse2.h src/mlconverter.h
 	rm -rf build
 	(cd doc; $(MAKE) spotless)
 	rm -rf share

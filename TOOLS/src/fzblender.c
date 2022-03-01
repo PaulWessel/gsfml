@@ -1,7 +1,5 @@
 /*
- * $Id: fzblender.c 429 2018-07-01 00:54:37Z pwessel $
- *
- * Copyright (c) 2015-2018 by P. Wessel
+ * Copyright (c) 2015-2022 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -19,12 +17,13 @@
  * fzblender reads a FZ analysis file and produces a smooth, blended trace.
  *
  * Author:	Paul Wessel
- * Date:	5-MAY-2017 (Requires GMT >= 5.2)
+ * Date:	23-FEB-2022 (Requires GMT >= 6)
  */
 
 #define THIS_MODULE_NAME	"fzblender"
 #define THIS_MODULE_LIB		"gsfml"
 #define THIS_MODULE_PURPOSE	"Produce a smooth blended FZ trace"
+#define THIS_MODULE_LIB_PURPOSE	"GMT supplemental modules for GSFML"
 #define THIS_MODULE_KEYS	"<DI,>DO"
 #define THIS_MODULE_NEEDS       ""
 #define THIS_MODULE_OPTIONS	"-Vh>"
@@ -135,60 +134,67 @@ static void Free_Ctrl (struct GMT_CTRL *GMT, struct FZBLENDER_CTRL *C) {	/* Deal
 }
 
 static int usage (struct GMTAPI_CTRL *API, int level) {
-	gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_NAME, THIS_MODULE_PURPOSE);
+	const char *name = gmt_show_name_and_purpose (API, THIS_MODULE_LIB, THIS_MODULE_NAME, THIS_MODULE_PURPOSE);
 	if (level == GMT_MODULE_PURPOSE) return (GMT_NOERROR);
-	GMT_Message (API, GMT_TIME_NONE, "usage: fzblender [-F<primaryfilter>] [-D] [-E<sEcondaryfilter>] [-I<FZid>]\n"); 
-	GMT_Message (API, GMT_TIME_NONE, "\t[-Q<qmin>/<qmax>] [-Sbdetu[<weight>]] [-T<prefix>] [%s] [-Z<amp/var/F/width>]\n\n", GMT_V_OPT);
-	GMT_Message (API, GMT_TIME_NONE, "\t[This is GSMFL Version %s]\n", GSFML_PACKAGE_VERSION);
+	GMT_Usage (API, 0, "usage: %s [-F<primaryfilter>] [-D] [-E<sEcondaryfilter>] [-I<FZid>] "
+		"[-Q<qmin>/<qmax>] [-Sbdetu[<weight>]] [-T<prefix>] [%s] [-Z<amp/var/F/width>]\n\n", GMT_V_OPT);
 
-	if (level == GMT_SYNOPSIS) return (EXIT_FAILURE);
+	if (level == GMT_SYNOPSIS) return (GMT_MODULE_SYNOPSIS);
 
-	GMT_Message (API, GMT_TIME_NONE, "\n\tOPTIONS:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-D Save filtered data to <prefix>_filtered_{P|S}.txt. [Delete filtered files].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-E sets sEcondary filter.  See -F for selection. [No secondary filtering].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-F Sets primary filter.  Choose from convolution and non-convolution filters\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   and append full filter <width> (6-sigma width) in km.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Convolution filters:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     b: Boxcar : Weights are equal.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     c: Cosine arch : Weights given by cosine arch.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     g: Gaussian : Weights given by Gaussian function.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     f<name>: Custom : Weights given in one-column file <name>.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Non-convolution filters:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     m: Median : Return the median value.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     p: Maximum likelihood probability (mode) estimator : Return the mode.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t        By default, we return the average mode if more than one is found.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t        Append - or + to the width to return the smallest or largest mode instead.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     l: Lower  : Return minimum of all points.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     L: Lower+ : Return minimum of all positive points.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     u: Upper  : Return maximum of all points.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t     U: Upper- : Return maximum of all negative points.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Upper case type B, C, G, M, P, F will use robust filter versions,\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   i.e., replace outliers (2.5 L1 scale off median) with median during filtering.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-I Specify a particular <FZid> id (first FZ is 0) to model\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   [Default models all FZ traces].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-Q specifies how FZ blend modeling is to be done:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   <qmin>: Minimum blend value [%g].\n", DEF_Q_MIN);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <qmax>: Maximum blend value [%g].\n", DEF_Q_MAX);
-	GMT_Message (API, GMT_TIME_NONE, "\t   Points whose quality index is below <qmin> is given zero weight.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Points whose quality index is above <qmax> is given unity weight.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-S Select the FZ estimates to blend by appending the desired code:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   Repeatable; optionally, append a custom weight [1].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   b selects the optional trough/edge blend minimum.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   d selects the empirical data minimum.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   e selects the maximum slope blend model location.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   t selects the optional trough model mimimum.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   u selects the user's digitized original locations.\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-T Set file prefix for all input/output files [fztrack].\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t-  Note that no files are give on command line.\n");
+	GMT_Message (API, GMT_TIME_NONE, "  OPTIONAL ARGUMENTS:\n");
+
+	GMT_Usage (API, 1, "\n-D Save filtered data to <prefix>_filtered_{P|S}.txt. [Delete filtered files].");
+	GMT_Usage (API, 1, "\n-E<sEcondaryfilter>");
+	GMT_Usage (API, -2, "Sets sEcondary filter.  See -F for filter selections. [No secondary filtering].");
+	GMT_Usage (API, 1, "\n-F<primaryfilter>");
+	GMT_Usage (API, -2, "Sets primary filter.  Choose from convolution and non-convolution filters "
+		"and append full filter <width> (6-sigma width) in km.");
+	GMT_Usage (API, -2, "Convolution filters:");
+	GMT_Usage (API, 3, "b: Boxcar : Weights are equal.");
+	GMT_Usage (API, 3, "c: Cosine arch : Weights given by cosine arch.");
+	GMT_Usage (API, 3, "g: Gaussian : Weights given by Gaussian function.");
+	GMT_Usage (API, 3, "f: Custom : Weights given in one-column file <name>.");
+	GMT_Usage (API, -2, "Non-convolution filters:");
+	GMT_Usage (API, 3, "m: Median : Return the median value.");
+	GMT_Usage (API, 3, "p: Maximum likelihood probability (mode) estimator : Return the mode:");
+	GMT_Usage (API, 4, "+l Return the lowest mode if multiple modes are found [return average mode].");
+	GMT_Usage (API, 4, "+u Return the uppermost mode if multiple modes are found [return average mode].");
+	GMT_Usage (API, 3, "l: Lower : Return minimum of all points.");
+	GMT_Usage (API, 3, "L: Lower+ : Return minimum of all positive points.");
+	GMT_Usage (API, 3, "u: Upper : Return maximum of all points.n");
+	GMT_Usage (API, 3, "U: Upper- : Return maximum of all negative points.");
+	GMT_Usage (API, -2, "Upper case type B, C, G, M, P, F will use robust filter versions, "
+		"i.e., replace outliers (2.5 L1 scale (MAD) of median) with median during filtering.");
+	GMT_Usage (API, 1, "\n-I<FZid>");
+	GMT_Usage (API, -2, "Specify a particular <FZid> id (first FZ is 0) to model "
+		"[Default models all FZ traces].");
+	GMT_Usage (API, 1, "\n-Q<qmin>/<qmax>");
+	GMT_Usage (API, -2, "Specifies how FZ blend modeling is to be done:");
+	GMT_Usage (API, 3, "%s <qmin>: Minimum blend value [%g].", GMT_LINE_BULLET, DEF_Q_MIN);
+	GMT_Usage (API, 3, "%s <qmax>: Maximum blend value [%g].", GMT_LINE_BULLET, DEF_Q_MAX);
+	GMT_Usage (API, -2, "Points whose quality index is below <qmin> is given zero weight, "
+		"while points whose quality index is above <qmax> is given unity weight.");
+	GMT_Usage (API, 1, "\n-Sbdetu[<weight>]");
+	GMT_Usage (API, -2, "Select the FZ estimates to blend by appending the desired code; "
+		"Repeatable; optionally, append a custom weight [1]:");
+	GMT_Usage (API, 3, "b: Selects the optional trough/edge blend minimum.");
+	GMT_Usage (API, 3, "d: Selects the empirical data minimum.");
+	GMT_Usage (API, 3, "e: Selects the maximum slope blend model location.");
+	GMT_Usage (API, 3, "t: Selects the optional trough model mimimum.");
+	GMT_Usage (API, 3, "u: Selects the user's digitized original locations.");
+	GMT_Usage (API, 1, "\n--T<prefix>");
+	GMT_Usage (API, -2, "Set file prefix for all input/output files [fztrack]. "
+		"Note: no files are give on the command line.");
 	GMT_Option (API, "V");
-	GMT_Message (API, GMT_TIME_NONE, "\t-Z specifies four threshold values used to determine quality of fit:\n");
-	GMT_Message (API, GMT_TIME_NONE, "\t   <amp> is the minimum amplitude value [%g].\n", DEF_Z_AMP_CUT);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <var> is the minimum variance reduction value (in %%) [%g].\n", DEF_Z_VAR_CUT);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <F> is the minimum F value [%g].\n", DEF_Z_F_CUT);
-	GMT_Message (API, GMT_TIME_NONE, "\t   <width> is the typical FZ width (in km) [%g].\n", DEF_Z_W_CUT);
+	GMT_Usage (API, 1, "\n-Z<amp/var/F/width>");
+	GMT_Usage (API, -2, "Specify four threshold values used to determine quality of fit:");
+	GMT_Usage (API, 3, "%s <amp> is the minimum amplitude value [%g].", GMT_LINE_BULLET, DEF_Z_AMP_CUT);
+	GMT_Usage (API, 3, "%s <var> is the minimum variance reduction value (in %%).", GMT_LINE_BULLET, DEF_Z_VAR_CUT);
+	GMT_Usage (API, 3, "%s <F> is the minimum F value [%g].", GMT_LINE_BULLET, DEF_Z_F_CUT);
+	GMT_Usage (API, 3, "%s <width> is the typical FZ width (in km) [%g].", GMT_LINE_BULLET, DEF_Z_AMP_CUT);
 	GMT_Option (API, ".");
 
-	return (EXIT_FAILURE);
+	return (GMT_MODULE_USAGE);
 }
 
 static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct GMT_OPTION *options) {
@@ -281,42 +287,42 @@ static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct G
 	n_errors += gmt_M_check_condition (GMT, Ctrl->E.active && !Ctrl->F.active, "GMT SYNTAX ERROR -E:  Cannot have secondary without primary filter.\n");
 	n_errors += gmt_M_check_condition (GMT, !Ctrl->S.active || Ctrl->S.n_blend == 0, "GMT SYNTAX ERROR -S:  No traces have been selected for blending.\n");
 
-	return (n_errors ? GMT_PARSE_ERROR : GMT_OK);
+	return (n_errors ? GMT_PARSE_ERROR : GMT_NOERROR);
 }
 
-static void FZ_fit_quality (struct GMT_CTRL *GMT, struct GMT_DATASEGMENT *S, int r, double a, double v, double f, double w, double *Q)
+GMT_LOCAL void FZ_fit_quality (struct GMT_CTRL *GMT, struct GMT_DATASEGMENT *S, int r, double a, double v, double f, double w, double *Q)
 {	/* Return Q[B_MODEL]=Q[E_MODEL] for blend, Q[T_MODEL] for trough model, Q[E_MODEL] and Q[FZ_EMP] for empirical trough model for this segment's row r */
-	if (S->coord[POS_AB][r] > a && S->coord[POS_VB][r] > v && S->coord[POS_FB][r] > f)
+	if (S->data[POS_AB][r] > a && S->data[POS_VB][r] > v && S->data[POS_FB][r] > f)
 		Q[B_MODEL] = 4.0;
-	else if (S->coord[POS_AB][r] > a && S->coord[POS_VB][r] > v)
+	else if (S->data[POS_AB][r] > a && S->data[POS_VB][r] > v)
 		Q[B_MODEL] = 3.0;
-	else if (S->coord[POS_VB][r] > v)
+	else if (S->data[POS_VB][r] > v)
 		Q[B_MODEL] = 2.0;
-	else if (S->coord[POS_AB][r] > a)
+	else if (S->data[POS_AB][r] > a)
 		Q[B_MODEL] = 1.0;
 	else
 		Q[B_MODEL] = 0.0;
-	if (gmt_M_is_dnan (S->coord[POS_AB][r])) Q[B_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	if (gmt_M_is_dnan (S->data[POS_AB][r])) Q[B_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	Q[E_MODEL] = Q[B_MODEL];
-	if (S->coord[T_MODEL][r] > a && S->coord[POS_VT][r] > v && S->coord[POS_FT][r] > f)
+	if (S->data[T_MODEL][r] > a && S->data[POS_VT][r] > v && S->data[POS_FT][r] > f)
 		Q[T_MODEL] = 4.0;
-	else if (S->coord[POS_AT][r] > a && S->coord[POS_VT][r] > v)
+	else if (S->data[POS_AT][r] > a && S->data[POS_VT][r] > v)
 		Q[T_MODEL] = 3.0;
-	else if (S->coord[POS_VT][r] > v)
+	else if (S->data[POS_VT][r] > v)
 		Q[T_MODEL] = 2.0;
-	else if (S->coord[POS_AT][r] > a)
+	else if (S->data[POS_AT][r] > a)
 		Q[T_MODEL] = 1.0;
 	else
 		Q[T_MODEL] = 0.0;
-	if (gmt_M_is_dnan (S->coord[POS_AT][r])) Q[T_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	if (gmt_M_is_dnan (S->data[POS_AT][r])) Q[T_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	/* For Empirical quality, we only have width and amplitude. Quality should increase with amp and decrease with width.
 	 * We form the ratio (amplitude/amp_cut) over (width/width_cut), take atan and scale the result from 0-4, truncated to int */
-	Q[D_MODEL] = irint (8.0 * atan ((S->coord[POS_AD][r] / a) / (S->coord[POS_WD][r]/ w)) / M_PI);
-	if (gmt_M_is_dnan (S->coord[POS_AD][r]) || gmt_M_is_dnan (S->coord[POS_WD][r])) Q[D_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
+	Q[D_MODEL] = irint (8.0 * atan ((S->data[POS_AD][r] / a) / (S->data[POS_WD][r]/ w)) / M_PI);
+	if (gmt_M_is_dnan (S->data[POS_AD][r]) || gmt_M_is_dnan (S->data[POS_WD][r])) Q[D_MODEL] = GMT->session.d_NaN;	/* Flag as undetermined */
 	Q[U_MODEL] = 0.0;	/* This will depend on the others selected */
 }
 
-static void Ensure_Continuous_Longitudes (struct GMTAPI_CTRL *API, struct GMT_DATASET *D)
+GMT_LOCAL void Ensure_Continuous_Longitudes (struct GMTAPI_CTRL *API, struct GMT_DATASET *D)
 {
 	struct GMT_DATATABLE *T = D->table[0];	/* Since there is only input one table */
 	struct GMT_QUAD *Q = gmt_quad_init (API->GMT, 1);
@@ -325,7 +331,7 @@ static void Ensure_Continuous_Longitudes (struct GMTAPI_CTRL *API, struct GMT_DA
 	char *txt[2] = {"-180 to +180", "0 to 360"};
 	for (fz = 0; fz < T->n_segments; fz++) {	/* For each FZ to determine */
 		for (row = 0; row < T->segment[fz]->n_rows; row++)
-			gmt_quad_add (API->GMT, Q, T->segment[fz]->coord[GMT_X][row]);	/* Consider this longitude, the one along the fZ */
+			gmt_quad_add (API->GMT, Q, T->segment[fz]->data[GMT_X][row]);	/* Consider this longitude, the one along the fZ */
 	}
 	way = gmt_quad_finalize (API->GMT, Q);
 	GMT_Report (API, GMT_MSG_VERBOSE, "Range finder %g to %g, selecting longitude formatting for range %s\n", Q[0].min[way], Q[0].max[way], txt[way]);
@@ -335,7 +341,7 @@ static void Ensure_Continuous_Longitudes (struct GMTAPI_CTRL *API, struct GMT_DA
 		for (row = 0; row < T->segment[fz]->n_rows; row++) {
 			for (k = 0; k < N_LONG_COL; k++) {
 				col = loncol[k];
-				gmt_lon_range_adjust (Q->range[way], &T->segment[fz]->coord[col][row]);
+				gmt_lon_range_adjust (Q->range[way], &T->segment[fz]->data[col][row]);
 			}
 		}
 	}
@@ -352,9 +358,9 @@ struct TREND {	/* Holds slope and intercept for each segment column we need to d
 
 #define N_TCOLS	10	/* Number of columns to detrend before filtering */
 
-int GMT_fzblender (void *V_API, int mode, void *args) {
+EXTERN_MSC int GMT_fzblender (void *V_API, int mode, void *args) {
 	unsigned int fz, row;
-	int error = 0, in_ID, out_ID, n_d, n_g, k, n, item, status, ndig;
+	int error = 0, n_d, n_g, k, n, item, status, ndig;
 	int col[N_BLEND_COLS][N_BLENDS] =	/* Columns in the analyzis file for b,d,e,t,u trace parameters */
 	{
 		{POS_XB0, POS_XD0, POS_XE0, POS_XT0, POS_XR},	/* FZ longitudes */
@@ -370,7 +376,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	};
 	int tcols[N_TCOLS] = {POS_XR, POS_YR, POS_XB0, POS_YB0, POS_SB, POS_WB, POS_XBL, POS_YBL, POS_XBR, POS_YBR};
 	
-	char p_in_string[GMT_LEN256], p_out_string[GMT_LEN256], buffer[BUFSIZ], run_cmd[BUFSIZ], *cmd = NULL;
+	char buffer[BUFSIZ], run_cmd[BUFSIZ], *cmd = NULL;
+	char source[GMT_VF_LEN] = {""}, destination[GMT_VF_LEN] = {""};
 	
 	double Q[N_BLENDS], P[N_BLENDS], q_weight[N_BLENDS], sum_P, sum_w, sum_q, i_q_range, q_model;
 	
@@ -409,7 +416,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	
 	Ensure_Continuous_Longitudes (API, Fin);	/* Set longitude to 0-360 or -180/180 so there are no jumps */
 	
-	/* Set up the primary GMT_filter1d_cmd call */
+	/* Set up the primary GMT_filter1d cmd call */
 	
 	if (Ctrl->F.active) {	/* Wants to filter before blending */
 		/* Must remove linear trends from the lon/lat columns before filtering since median fails on sloping lines */
@@ -419,62 +426,82 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			GMT_Report (API, GMT_MSG_VERBOSE, "Detrend FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 			if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) continue;	/* Skip all but selected profile */
 			for (k = 0; k < N_TCOLS; k++) {	/* Detrend key columns */
-				gmtlib_detrend (GMT, Tin->segment[fz]->coord[POS_DR], Tin->segment[fz]->coord[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], -1);
+				gmtlib_detrend (GMT, Tin->segment[fz]->data[POS_DR], Tin->segment[fz]->data[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], -1);
 			}
 		}
 		if (Ctrl->D.active) {
 			/* Save the detrended temporary file */
 			sprintf (buffer, "%s_detrended.txt", Ctrl->T.prefix);
 			GMT_Report (API, GMT_MSG_VERBOSE, "Save detrended data to temporary file %s\n", buffer);
-			if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, Fin) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
+			if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, Fin) != GMT_NOERROR) Return ((error = GMT_DATA_WRITE_ERROR));
 		}
 		
 		/* Register output for filter1d results */
-		if ((in_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_IN, NULL, Fin)) == GMT_NOTSET) Return (EXIT_FAILURE);
-		GMT_Encode_ID (API, p_in_string, in_ID);	/* Make filename with embedded object ID for input */
-		if ((out_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_OUT, NULL, NULL)) == GMT_NOTSET) Return (EXIT_FAILURE);
-		GMT_Encode_ID (API, p_out_string, out_ID);	/* Make filename with embedded object ID */
+		/* Create virtual files for using the data in filter1d and another for holding the result */
+		if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN|GMT_IS_REFERENCE, Fin, source) != GMT_NOERROR) {
+			Return (API->error);
+		}
+		if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT|GMT_IS_REFERENCE, NULL, destination) == GMT_NOTSET) {
+			Return (API->error);
+		}
 		
 		GMT_Report (API, GMT_MSG_NORMAL, "Perform primary filtering\n");
 		//sprintf (buffer, "-F%s -E -N%d %s ->%s", Ctrl->F.args, POS_DR, p_in_string, p_out_string);
-		sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->F.args, POS_DR, p_in_string, p_out_string);
+		sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->F.args, POS_DR, source, destination);
 		GMT_Report (API, GMT_MSG_DEBUG, "Args to primary filter1d: %s\n", buffer);
 		if ((status = GMT_Call_Module (API, "filter1d", GMT_MODULE_CMD, buffer))) {
 			GMT_Report (API, GMT_MSG_NORMAL, "GMT SYNTAX ERROR:  Primary filtering failed with exit code %d!\n", status);
 			Return (status);
 		}
 		GMT_Report (API, GMT_MSG_DEBUG, "filter1d completed\n");
+		/* Close the source virtual file and destroy the data set */
+		if (GMT_Close_VirtualFile (GMT->parent, source) != GMT_NOERROR) {
+			Return (API->error);
+		}
 		GMT_Destroy_Data (API, &Fin);
 		
 		if (Ctrl->E.active) {	/* Now apply the secondary filter */
 			struct GMT_DATASET *D = NULL;
 			char s_in_string[GMT_LEN256], s_out_string[GMT_LEN256];
 			/* Retrieve the primary filtering results */
-			if ((D = GMT_Retrieve_Data (API, out_ID)) == NULL) {
+			if ((D = GMT_Read_VirtualFile (API, destination)) == NULL) {
+				Return (API->error);
+			}
+			/* Close the destination virtual file */
+			if (GMT_Close_VirtualFile (GMT->parent, destination) != GMT_NOERROR) {
 				Return (API->error);
 			}
 			if (Ctrl->D.active) {
 				/* Save the primary filtered file */
 				sprintf (buffer, "%s_primary_filter_P.txt", Ctrl->T.prefix);
 				GMT_Report (API, GMT_MSG_VERBOSE, "Save primary filtered detrended data to temporary file %s\n", buffer);
-				if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, D) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
+				if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, D) != GMT_NOERROR) Return ((error = GMT_DATA_WRITE_ERROR));
 			}
 			/* Setup in/out for secondary filter */
-			if ((in_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_IN, NULL, D)) == GMT_NOTSET) Return (EXIT_FAILURE);
-			GMT_Encode_ID (API, s_in_string, in_ID);	/* Make filename with embedded object ID for input */
-			if ((out_ID = GMT_Register_IO (API, GMT_IS_DATASET, GMT_IS_DUPLICATE, GMT_IS_LINE, GMT_OUT, NULL, NULL)) == GMT_NOTSET) Return (EXIT_FAILURE);
-			GMT_Encode_ID (API, s_out_string, out_ID);	/* Make filename with embedded object ID for output */
+			if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_IN|GMT_IS_REFERENCE, D, source) != GMT_NOERROR) {
+				Return (API->error);
+			}
+			if (GMT_Open_VirtualFile (API, GMT_IS_DATASET, GMT_IS_LINE, GMT_OUT|GMT_IS_REFERENCE, NULL, destination) == GMT_NOTSET) {
+				Return (API->error);
+			}
 			//sprintf (buffer, "-F%s -E -N%d %s ->%s", Ctrl->E.args, POS_DR, s_in_string, s_out_string);
-			sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->E.args, POS_DR, s_in_string, s_out_string);
+			sprintf (buffer, "-F%s -N%d %s ->%s", Ctrl->E.args, POS_DR, source, destination);
 			GMT_Report (API, GMT_MSG_DEBUG, "Args to secondary filter1d: %s\n", buffer);
 			if ((status = GMT_Call_Module (API, "filter1d", GMT_MODULE_CMD, buffer))) {
 				GMT_Report (API, GMT_MSG_NORMAL, "GMT SYNTAX ERROR:  Secondary filtering failed with exit code %d!\n", status);
 				Return (status);
 			}
+			if (GMT_Close_VirtualFile (GMT->parent, source) != GMT_NOERROR) {
+				Return (API->error);
+			}
 			GMT_Destroy_Data (API, &D);
 		}
 		/* Retrieve the final filtering results */
-		if ((Fin = GMT_Retrieve_Data (API, out_ID)) == NULL) {
+		if ((Fin = GMT_Read_VirtualFile (API, destination)) == NULL) {
+			Return (API->error);
+		}
+		/* Close the destination virtual file */
+		if (GMT_Close_VirtualFile (GMT->parent, destination) != GMT_NOERROR) {
 			Return (API->error);
 		}
 		if (Ctrl->D.active && Ctrl->E.active) {
@@ -483,7 +510,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			char *str = (Ctrl->E.active) ? "secondary" : "primary";
 			sprintf (buffer, "%s_primary_filter_%c.txt", Ctrl->T.prefix, F);
 			GMT_Report (API, GMT_MSG_VERBOSE, "Save %s filtered detrended data to temporary file %s\n", str, buffer);
-			if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, Fin) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
+			if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, buffer, Fin) != GMT_NOERROR) Return ((error = GMT_DATA_WRITE_ERROR));
 		}
 			
 		/* Now restore original trends */
@@ -493,7 +520,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			GMT_Report (API, GMT_MSG_VERBOSE, "Restore trends for FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 			if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) continue;	/* Skip all but selected profile */
 			for (k = 0; k < N_TCOLS; k++) {	/* Restore trend to key columns */
-				gmtlib_detrend (GMT, Tin->segment[fz]->coord[POS_DR], Tin->segment[fz]->coord[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], +1);
+				gmtlib_detrend (GMT, Tin->segment[fz]->data[POS_DR], Tin->segment[fz]->data[tcols[k]], Tin->segment[fz]->n_rows, 0.0, &trend[fz].icp[k], &trend[fz].slp[k], +1);
 			}
 		}
 		gmt_M_free (GMT, trend);
@@ -511,7 +538,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		sprintf (buffer, "%s_filtered.txt", Ctrl->T.prefix);
 		Ctrl->D.file = strdup (buffer);
 		GMT_Report (API, GMT_MSG_NORMAL, "Filtered analysis results saved to %s\n", Ctrl->D.file);
-		if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, Ctrl->D.file, Fin) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
+		if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, Ctrl->D.file, Fin) != GMT_NOERROR) Return ((error = GMT_DATA_WRITE_ERROR));
 	}
 	
 	/* Specify geographic columns where needed for blend output */
@@ -541,7 +568,8 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 		GMT_Report (API, GMT_MSG_NORMAL, "Process FZ %s [segment %ld]\n", Tin->segment[fz]->label, fz);
 		
 		if (Ctrl->I.profile >= 0 || fz == (unsigned int)Ctrl->I.profile) {	/* Skip all but selected profile */
-			Tout->segment[fz]->mode = GMT_WRITE_SKIP;	/* Ignore on output */
+			struct GMT_DATASEGMENT_HIDDEN *SH = gmt_get_DS_hidden (Tout->segment[fz]);
+			SH->mode = GMT_WRITE_SKIP;	/* Ignore on output */
 			continue;
 		}
 	
@@ -563,15 +591,15 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 			
 			for (item = 0; item < N_BLEND_COLS; item++) {
 				if (item == OUT_DIST) {	/* No blending, just pass on along-track distance */
-					Tout->segment[fz]->coord[item][row] = Tin->segment[fz]->coord[POS_DR][row];
+					Tout->segment[fz]->data[item][row] = Tin->segment[fz]->data[POS_DR][row];
 					continue;
 				}
 				if (item == OUT_QWHT) {	/* Store the quality weight for model */
-					Tout->segment[fz]->coord[item][row] = q_model;
+					Tout->segment[fz]->data[item][row] = q_model;
 					continue;
 				}
 				/* Get the 4 candidates for blending */
-				for (k = 0; k < N_BLENDS; k++) P[k] = Tin->segment[fz]->coord[col[item][k]][row];
+				for (k = 0; k < N_BLENDS; k++) P[k] = Tin->segment[fz]->data[col[item][k]][row];
 				if (item == OUT_SHFT) P[N_BLENDS-1] = 0.0;	/* Digitized trace defines origin so offset == 0 */
 				if (item == OUT_LON0 || item == OUT_LONL || item == OUT_LONR) {	/* Must be careful with longitudes */
 					for (k = n_g = n_d = 0; k < N_BLENDS; k++) {	/* Determine if we have longs across Greenwich */
@@ -586,7 +614,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 					sum_P += P[k] * q_weight[k] * Ctrl->S.weight[k];
 					sum_w += q_weight[k] * Ctrl->S.weight[k];
 				}
-				Tout->segment[fz]->coord[item][row] = sum_P / sum_w;
+				Tout->segment[fz]->data[item][row] = sum_P / sum_w;
 			}
 		}
 	
@@ -601,7 +629,7 @@ int GMT_fzblender (void *V_API, int mode, void *args) {
 	sprintf (buffer, "%s_blend.txt", Ctrl->T.prefix);
 	Ctrl->T.file = strdup (buffer);
 	GMT_Report (API, GMT_MSG_NORMAL, "Save FZ blend results to %s\n", Ctrl->T.file);
-	if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, Ctrl->T.file, Fout) != GMT_OK) Return ((error = GMT_DATA_WRITE_ERROR));
+	if (GMT_Write_Data (API, GMT_IS_DATASET, GMT_IS_FILE, GMT_IS_LINE, 0, NULL, Ctrl->T.file, Fout) != GMT_NOERROR) Return ((error = GMT_DATA_WRITE_ERROR));
 
-	Return (EXIT_SUCCESS);
+	Return (GMT_NOERROR);
 }

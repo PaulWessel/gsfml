@@ -1,5 +1,5 @@
 #include "common_options.txt"
-.TH FZPROFILER 1 MANDATE "Generic Mapping Tools 5.4 [GSFML supplement]"
+.TH FZPROFILER 1 MANDATE "Generic Mapping Tools 6.x [GSFML supplement]"
 .SH NAME
 fzprofiler \- Plot one or all FZ cross-profiles
 .SH SYNOPSIS
