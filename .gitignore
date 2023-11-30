@@ -8,3 +8,6 @@ TOOLS/src/GST2004?.h
 TOOLS/src/GST2012?.h
 TOOLS/src/Geek2007?.h
 TOOLS/src/gsfml_glue.c
+TOOLS/build
+TOOLS/cmake/ConfigUser.cmake
+TOOLS/cmake/ConfigUserAdvanced.cmake
