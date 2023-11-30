@@ -1,7 +1,7 @@
 ////
 
-Copyright (c) 2015-2018 by P. Wessel
-See LICENSE.TXT file for copying and redistribution conditions.
+# Copyright (c) 1991-2023 by the GMT Team (https://www.generic-mapping-tools.org/team.html)
+# See LICENSE.TXT file for copying and redistribution conditions.
 
 Contact info: http://www.soest.hawaii.edu/PT/GSFML
 ////
@@ -12,7 +12,7 @@ CMake User Guide
 Build and runtime prerequisites
 -------------------------------
 
-You need CMake (>=2.8.5) and a working installation of GMT (>=6).
+You need CMake (>=2.8.12) and a working installation of GMT (>=6).
 
 Information for building gsfml tools with CMake
 -----------------------------------------------

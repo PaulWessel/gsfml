@@ -8,8 +8,8 @@ the Free Software Foundation; version 3 or any later version.
 Author:		Paul Wessel (pwessel@hawaii.edu)
 		SOEST, University of Hawaii
 		http://www.soest.hawaii.edu/PT/GSFML
-Date:		July 1, 2018
-Version:	2.0 (for GMT 6/trunk version).
+Date:		Dec 1, 2023
+Version:	2.0 (for GMT 6.5 version).
 ------------------------------------------------------
 
 The gsfml supplement to GMT allows for the analysis of fracture zone (FZ)
