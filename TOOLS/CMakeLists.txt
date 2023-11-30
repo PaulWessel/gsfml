@@ -1,5 +1,5 @@
 #
-# Copyright (c) 1991-2017 by P. Wessel, W. H. F. Smith, R. Scharroo, J. Luis, and F. Wobbe
+# Copyright (c) 1991-2023 by the GMT Team (https://www.generic-mapping-tools.org/team.html)
 # See LICENSE.TXT file for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -46,11 +46,15 @@ if (${srcdir} STREQUAL ${bindir})
 endif (${srcdir} STREQUAL ${bindir})
 
 # Use NEW behavior with newer CMake releases
-foreach(p
+foreach (p
 		CMP0025 # CMake 3.0: Compiler id for Apple Clang is now AppleClang
+		CMP0026 # CMake 3.0: Disallow use of the LOCATION target property
+		CMP0058 # CMake 3.3: Ninja requires custom command byproducts to be explicit
+		CMP0074	# CMake 3.12: find_package uses PackageName_ROOT variables
+		CMP0115 # CMake 3.20: Source file extensions must be explicit.
 		)
-	if(POLICY ${p})
-		cmake_policy(SET ${p} NEW)
+	if (POLICY ${p})
+		cmake_policy (SET ${p} NEW)
 	endif()
 endforeach()
 
@@ -64,7 +68,7 @@ foreach(p
 endforeach()
 
 # Define minimum CMake version required
-cmake_minimum_required (VERSION 2.8.5)
+cmake_minimum_required (VERSION 2.8.12)
 
 # Where to find our CMake modules (this variable is visible in subdirectories).
 set (CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake/modules/"
@@ -78,7 +82,7 @@ include (FindUnixCommands)
 
 # Add subdirectories
 add_subdirectory (src)
-#add_subdirectory (cmake/dist) # make distribution bundles (always last)
+add_subdirectory (cmake/dist) # make distribution bundles (always last)
 get_property(GMT_CUSTOM_LIB_PATH TARGET gsfmllib PROPERTY LOCATION)
 GET_FILENAME_COMPONENT (GMT_CUSTOM_LIB_NAME ${GMT_CUSTOM_LIB_PATH} NAME)
 

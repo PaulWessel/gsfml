@@ -1,7 +1,7 @@
 #
 # $Id: CMakeLists.txt 11838 2013-06-28 06:49:32Z pwessel $
 #
-# Copyright (c) 1991-2018 by P. Wessel, W. H. F. Smith, R. Scharroo, J. Luis, and F. Wobbe
+# Copyright (c) 1991-2023 by the GMT Team (https://www.generic-mapping-tools.org/team.html)
 # See LICENSE.TXT file for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -13,7 +13,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU Lesser General Public License for more details.
 #
-# Contact info: http://www.soest.hawaii.edu/PT/GSFML
+# Contact info: www.generic-mapping-tools.org
 #-------------------------------------------------------------------------------
 #
 # 1. To modify the cmake process: Edit your cmake/ConfigUser.cmake file
@@ -60,7 +60,7 @@ if (GDAL_FOUND)
 	list (APPEND GMT_OPTIONAL_LIBRARIES ${GDAL_LIBRARIES})
 endif (GDAL_FOUND)
 
-find_package (Threads)
+#find_package (Threads)
 
 # check for math and POSIX functions
 include(ConfigureChecks)
