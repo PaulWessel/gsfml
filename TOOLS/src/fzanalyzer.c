@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015-2022 by P. Wessel
+ * Copyright (c) 2015-2023 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -17,7 +17,7 @@
  * fzanalyzer analyses a series of profiles across fracture zones
  *
  * Author:	Paul Wessel
- * Date:	23-FEB-2022 (Requires GMT >= 6)
+ * Date:	01-DEC-2023 (Requires GMT >= 6)
  */
 
 #define THIS_MODULE_NAME	"fzanalyzer"
@@ -41,40 +41,40 @@
 
 struct FZMODELER_CTRL {
 	struct In {
-		unsigned int active;
+		bool active;
 		char *file;
 	} In;
 	struct A {	/* -A<min_asymmetry>/<max_asymmetry>/<inc_asymmetry> */
-		unsigned int active;
+		bool active;
 		double min, max, inc;
 	} A;
 	struct C {	/* -C<min_compression>/<max_compression>/<inc_compression> */
-		unsigned int active;
+		bool active;
 		double min, max, inc;
 	} C;
 	struct D {	/* -Dcorr_width */
-		unsigned int active;
+		bool active;
 		double corr_width;
 	} D;
 	struct F {	/* -F<fzlines> */
-		unsigned int active;
+		bool active;
 		char *file;
 	} F;
 	struct I {	/* -I<FZ>[/<profile>] */
-		unsigned int active;
+		bool active;
 		int64_t fz;
 		int profile;
 	} I;
 	struct S {	/* -S */
-		unsigned int active;
+		bool active;
 		int mode;	/* 0 = bash/sh, 1 = csh/tcsh syntax */
 	} S;
 	struct T {	/* -T<tag> */
-		unsigned int active;
+		bool active;
 		char *prefix;
 	} T;
 	struct W {	/* -W<min_width>/<max_width>/<inc_width> */
-		unsigned int active;
+		bool active;
 		double min, max, inc;
 	} W;
 };
@@ -504,7 +504,7 @@ static void *New_Ctrl (struct GMT_CTRL *GMT) {	/* Allocate and initialize a new 
 	
 	C = gmt_M_memory (GMT, NULL, 1, struct FZMODELER_CTRL);
 	
-	/* Initialize values whose defaults are not 0/FALSE/NULL */
+	/* Initialize values whose defaults are not 0/false/NULL */
 	C->D.corr_width = DEF_D_WIDTH;	/* Only use center corridor */
 	C->I.profile = -1;				/* Use all profiles from current FZ */
 	C->C.min = DEF_L_MIN;			/* Min compression  */
@@ -598,7 +598,7 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 		switch (opt->option) {
 
 			case '<':	/* Skip input files */
-				Ctrl->In.active = TRUE;
+				Ctrl->In.active = true;
 				if (n_files == 0) Ctrl->In.file = strdup (opt->arg);
 				n_files++;
 				break;
@@ -606,7 +606,7 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 			/* Processes program-specific parameters */
 
 			case 'A':
-				Ctrl->A.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->D.active);
 				j = sscanf (opt->arg, "%[^/]/%[^/]/%s", ta, tb, tc); 
 				Ctrl->A.min = atof (ta); 
 				Ctrl->A.max = atof (tb); 
@@ -617,7 +617,7 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 				}
 				break;
 			case 'C':
-				Ctrl->C.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->C.active);
 				j = sscanf (opt->arg, "%[^/]/%[^/]/%s", ta, tb, tc); 
 				Ctrl->C.min = atof (ta); 
 				Ctrl->C.max = atof (tb); 
@@ -628,15 +628,15 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 				}
 				break;
 			case 'D':
-				Ctrl->D.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->D.active);
 				Ctrl->D.corr_width = atof (opt->arg); 
 				break;
 			case 'F':
-				Ctrl->F.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->F.active);
 				Ctrl->F.file = strdup (opt->arg);
 				break;
 			case 'I':	/* Just pick a single profile for analysis */
-				Ctrl->I.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->I.active);
 				j = sscanf (opt->arg, "%[^/]/%s", ta, tb);
 				if (j == 2) {	/* Got both FZ and profile numbers */
 					Ctrl->I.fz = atoi (ta);
@@ -646,16 +646,16 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 					Ctrl->I.fz = atoi (opt->arg);
 				break;
 			case 'S':
-				Ctrl->S.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->S.active);
 				if (opt->arg[0] == 'c') Ctrl->S.mode = 1;
 				break;
 			case 'T':
-				Ctrl->T.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->T.active);
 				free (Ctrl->T.prefix);
 				Ctrl->T.prefix = strdup (opt->arg);
 				break;
 			case 'W':
-				Ctrl->W.active = TRUE;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->W.active);
 				sscanf (opt->arg, "%[^/]/%[^/]/%s", ta, tb, tc); 
 				Ctrl->W.min = atof (ta); 
 				Ctrl->W.max = atof (tb); 
@@ -668,7 +668,7 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 		}
 	}
 
-        if (GMT->common.b.active[GMT_IN] && GMT->common.b.ncol[GMT_IN] == 0) GMT->common.b.ncol[GMT_IN] = 7;
+	if (GMT->common.b.active[GMT_IN] && GMT->common.b.ncol[GMT_IN] == 0) GMT->common.b.ncol[GMT_IN] = 7;
 	n_errors += gmt_M_check_condition (GMT, !Ctrl->In.active, "GMT SYNTAX ERROR:  No input file specified\n");
 	n_errors += gmt_M_check_condition (GMT, n_files > 1, "GMT SYNTAX ERROR:  Only specify one input file\n");
 	n_errors += gmt_M_check_condition (GMT, Ctrl->C.active && Ctrl->C.min < 0.0, "GMT SYNTAX ERROR -C:  Values must be >= 0 (typically in 0-1 range)\n");
@@ -685,7 +685,7 @@ static int parse (struct GMTAPI_CTRL *API, struct FZMODELER_CTRL *Ctrl, struct G
 #define Return(code) {Free_Ctrl (GMT, Ctrl); gmt_end_module (GMT, GMT_cpy); bailout (code);}
 
 EXTERN_MSC int GMT_fzanalyzer (void *V_API, int mode, void *args) {
-	int error = FALSE, k, start, stop, left, right;
+	int error = 0, k, start, stop, left, right;
 	int n_sing, way, m;
 	uint64_t n_FZ_widths, n_FZ_asym, n_FZ_comp, np_cross, n_half_cross, ii;
 	uint64_t fz, ku, row, col, xseg;
@@ -797,7 +797,7 @@ EXTERN_MSC int GMT_fzanalyzer (void *V_API, int mode, void *args) {
 	}
 	if ((error = GMT_Begin_IO (API, GMT_IS_DATASET, GMT_OUT, GMT_HEADER_ON))) Return (error);	/* Enables data output and sets access mode */
 
-	GMT->current.setting.io_header[GMT_OUT] = TRUE;	/* To ensure writing of headers */
+	GMT->current.setting.io_header[GMT_OUT] = true;	/* To ensure writing of headers */
 	
 	/* Extend the dataset of cross profiles to hold more columns */
 	gmt_adjust_dataset (GMT, Xin, N_CROSS_COLS);	/* Same table length as X, but with N_CROSS_COLS columns */

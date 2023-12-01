@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015-2022 by P. Wessel
+ * Copyright (c) 2015-2023 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -17,7 +17,7 @@
  * fzblender reads a FZ analysis file and produces a smooth, blended trace.
  *
  * Author:	Paul Wessel
- * Date:	23-FEB-2022 (Requires GMT >= 6)
+ * Date:	01-DEC-2023 (Requires GMT >= 6)
  */
 
 #define THIS_MODULE_NAME	"fzblender"
@@ -60,42 +60,42 @@
 
 struct FZBLENDER_CTRL {
 	struct In {
-		unsigned int active;
+		bool active;
 		char *file;
 	} In;
 	struct I {	/* -I<profile_ID> */
-		unsigned int active;
+		bool active;
 		int profile;
 	} I;
 	struct D {	/* -D */
-		unsigned int active;
+		bool active;
 		char *file;
 	} D;
 	struct E {	/* -E<type><width>[<mode>] sEcondary filter */
-		unsigned int active;
+		bool active;
 		char *args;	/* Full filter args for filter1d */
 	} E;
 	struct F {	/* -F<type><width>[<mode>] Primary filter */
-		unsigned int active;
+		bool active;
 		char *args;	/* Full filter args for filter1d */
 	} F;
 	struct Q {	/* -Q<min_q>/<max_q> */
-		unsigned int active;
+		bool active;
 		double min, max;
 	} Q;
 	struct S {	/* -S[b][d][t][u][<weight>] */
-		unsigned int active;
+		bool active;
 		int mode[N_BLENDS];
 		int n_blend;
 		double weight[N_BLENDS];
 	} S;
 	struct T {	/* -T<tag> */
-		unsigned int active;
+		bool active;
 		char *prefix;
 		char *file;
 	} T;
 	struct Z {	/* -Z<acut>/<vcut>/<fcut>] */
-		unsigned int active;
+		bool active;
 		double amp_cut, var_cut, f_cut, w_cut;
 	} Z;
 };
@@ -221,28 +221,28 @@ static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct G
 			/* Processes program-specific parameters */
 
 			case 'D':	/* Save intermediate filtered results */
-				Ctrl->D.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->D.active);
 				break;
 			case 'E':
-				Ctrl->E.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->E.active);
 				Ctrl->E.args = strdup (opt->arg);
 				break;
 			case 'F':
-				Ctrl->F.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->F.active);
 				Ctrl->F.args = strdup (opt->arg);
 				break;
 			case 'I':	/* Just pick a single profile for analysis */
-				Ctrl->I.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->I.active);
 				Ctrl->I.profile = atoi (opt->arg);
 				break;
 			case 'Q':
-				Ctrl->Q.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->Q.active);
 				j = sscanf (opt->arg, "%[^/]/%s", ta, tb); 
 				Ctrl->Q.min = atof (ta); 
 				Ctrl->Q.max = atof (tb); 
 				break;
 			case 'S':
-				Ctrl->S.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->S.active);
 				switch (opt->arg[0]) {
 					case 'b': j = B_MODEL; break;
 					case 'd': j = D_MODEL; break;
@@ -262,12 +262,12 @@ static int parse (struct GMTAPI_CTRL *API, struct FZBLENDER_CTRL *Ctrl, struct G
 				}
 				break;
 			case 'T':
-				Ctrl->T.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->T.active);
 				free (Ctrl->T.prefix);
 				Ctrl->T.prefix = strdup (opt->arg);
 				break;
 			case 'Z':
-				Ctrl->Z.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->Z.active);
 				sscanf (opt->arg, "%[^/]/%[^/]/%[^/]/%s", ta, tb, tc, td); 
 				Ctrl->Z.amp_cut = atof (ta); 
 				Ctrl->Z.var_cut = atof (tb); 

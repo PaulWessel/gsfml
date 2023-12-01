@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #--------------------------------------------------------------------
-# Copyright (c) 2015-2022 by P. Wessel
+# Copyright (c) 2015-2023 by P. Wessel
 # See LICENSE.TXT file for copying and redistribution conditions.
 #
 # This program is free software; you can redistribute it and/or modify
@@ -18,24 +18,24 @@
 # of all cross profiles for a given FZ segment.
 #
 # Author:	Paul Wessel
-# Date:		23-FEB-2022 (Requires GMT >= 6)
+# Date:		01-DEC-2023 (Requires GMT >= 6)
 # Mode:		GMT classic mode
 #--------------------------------------------------------------------
 
 . fz_funcs.sh			# Load in FZ-specific shell functions
-IMG=curv.18.1.img
+VGG=@earth_vgg_01m
 SCL=0.1
 if [ $# -eq 0 ]; then
 	version=`fz_get_version`
 cat << EOF >&2
 	fzmapper $version - Make Mercator map of FZ traces and cross-profiles
 	
-	Usage: fzmapper [-A] [-F<origfile>] [-G<img>] [-L<labelint>] [-O] [-S] [-T<prefix>] [-V] [-W<width>[c|i]]
+	Usage: fzmapper [-A] [-F<origfile>] [-G<grid>] [-L<labelint>] [-O] [-S] [-T<prefix>] [-V] [-W<width>[c|i]]
 
 		OPTIONS:
 		-A Plot the analysis results from fzanalysis, if available [no results].
 		-F <origfile> contains the original FZ track(s).
-		-G <img> is name of global img file [$IMG].
+		-G <grid> is name of global grid file [$VGG].
 		-L <labelint> sets how often to annotate profiles [1].
 		-O Run as GMT overlay (i.e., pass -O -K) and send to stdout.
 		   No PDF is made.
@@ -69,7 +69,7 @@ while [ ! x"$1" = x ]; do
 			shift;;
 		-F*)	ORIG=`fz_get_arg $1`;		# Original unsampled tracks
 			shift;;
-		-G*)	IMG=`fz_get_arg $1`;		# Name of img file
+		-G*)	VGG=`fz_get_arg $1`;		# Name of grid file
 			shift;;
 		-L*)	N=`fz_get_arg $1`;		# Annotate every N'th profile
 			shift;;
@@ -87,12 +87,8 @@ while [ ! x"$1" = x ]; do
 	esac
 done
 
-# make sure we convert to inches
+# Make sure we convert to inches
 #-----------------------------------------
-if [ ! -f $IMG ]; then					# Cannot do it yet anyway
-	echo "$0: VGG file $IMG not found - cannot make plot" >&2
-	exit
-fi
 CFILE=${prefix}_resampled.txt				# The resampled tracks from grdtrack -D
 if [ ! -f $CFILE ]; then				# Cannot do it yet anyway
 	anal=0
@@ -126,7 +122,7 @@ fi
 #------------------------------------------------------------------------------------------------------
 ymargin=0.75						# Bottom margin
 xmargin=1						# Left margin
-gmt set PROJ_ELLIPSOID Sphere				# Since we are plotting IMG
+gmt set PROJ_ELLIPSOID Sphere				# Since we are plotting VGG
 n_cross=`gmt convert -L $XFILE | wc -l`			# Number of cross-profiles
 ndig=`gmt math -Q $n_cross LOG10 FLOOR 1 ADD =`		# Number of digits to use for running numbers
 gmt info $XFILE -C -I2/2/2/5/10/10/10/10/10 -fg > $$.info	# Get clean multiples of min/max for each column
@@ -136,10 +132,6 @@ ymin=`cut -f3 $$.info`					# South boundary
 ymax=`cut -f4 $$.info`					# North boundary
 width2=`gmt math -Q $W 2 $xmargin MUL ADD =`		# Width of entire plot including margins
 R=-R$xmin/$xmax/$ymin/$ymax				# Region -R option
-gmt img2grd $R -M -C $IMG -T1 -S${SCL} -Gvgg.i2=bs
-R=`gmt grdinfo vgg.i2=bs | grep Remark | awk '{print $NF}'`
-ymin=`echo $R | cut -d/ -f3`				# Reset south due to img roundoff
-ymax=`echo $R | cut -d/ -f4`				# Reset snorth due to img roundoff
 height=`echo $xmax $ymax | gmt mapproject $R -JM${W}i -Di | cut -f2`	# Map height
 height2=`gmt math -Q $height 2 $ymargin MUL ADD =`	# Plot height including margins
 #------------------------------------------------------------------------------------------------------
@@ -156,8 +148,8 @@ fi
 gmt makecpt -Cgray -T-60/60/5 -Z > $$.cpt		# Make basic -60 to + 60 Eotvos grayscale CPT
 xu=`gmt math -Q -0.75 1 $xmargin SUB ADD =`		# Placement x for -U logo and label
 yu=`gmt math -Q -0.75 1 $ymargin SUB ADD =`		# Placement y for -U logo and label
-# Lay down IMG image
-gmt grdimage vgg.i2=bs -C$$.cpt -JX${W}i/${height}i $PSargs >| $PS
+# Lay down VGG image
+gmt grdimage ${VGG} -C$$.cpt $R -JX${W}i/${height}i $PSargs >| $PS
 # Overlay geographic basemap and set -U label
 gmt  psbasemap $R -JM${W}i -O -B5f1g90 -BWSne -K -U/${xu}i/${yu}i/"${prefix}: Map view" >> $PS
 # Draw resampled FZ tracks as blue solid line
