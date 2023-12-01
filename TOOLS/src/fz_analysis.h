@@ -1,5 +1,5 @@
 /*
-  * Copyright (c) 2015-2022 by P. Wessel
+  * Copyright (c) 2015-2023 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -17,7 +17,7 @@
  * Named indices for output table for fzanalyzer trace analysis.
  *
  * Author:	Paul Wessel
- * Date:	May-2017 (requires GMT >= 5.2)
+ * Date:	01-DEC-2023 (requires GMT >= 6)
  */
 
 #ifndef _FZ_ANALYSIS_H

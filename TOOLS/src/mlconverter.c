@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015-2022 by P. Wessel
+ * Copyright (c) 2015-2023 by P. Wessel
  * See LICENSE.TXT file for copying and redistribution conditions.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -19,7 +19,7 @@
  * ML_*.gmt files distributed by the GSFML project.
  *
  * Author:	Paul Wessel
- * Date:	12-FEB-2022 (Requires GMT >= 6)
+ * Date:	01-DEC-2023 (Requires GMT >= 6)
  */
 
 #define THIS_MODULE_NAME	"mlconverter"
@@ -45,17 +45,17 @@
 
 struct MLCONVERTER_CTRL {
 	struct A {	/* -A */
-		unsigned int active;
+		bool active;
 	} A;
 	struct G {	/* -G */
-		unsigned int active;
+		bool active;
 		unsigned int mode;
 	} G;
 	struct S {	/* -S */
-		unsigned int active;
+		bool active;
 	} S;
 	struct T {	/* -T[g|c|s] */
-		unsigned int active;
+		bool active;
 		unsigned int mode;
 	} T;
 };
@@ -123,17 +123,17 @@ static int parse (struct GMTAPI_CTRL *API, struct MLCONVERTER_CTRL *Ctrl, struct
 			/* Processes program-specific parameters */
 
 			case 'A':
-				Ctrl->A.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->A.active);
 				break;
 			case 'G':
-				Ctrl->G.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->G.active);
 				if (opt->arg[0] == 's') Ctrl->G.mode = 1;
 				break;
 			case 'S':
-				Ctrl->S.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->S.active);
 				break;
 			case 'T':
-				Ctrl->T.active = 1;
+				n_errors += gmt_M_repeated_module_option (API, Ctrl->T.active);
 				switch (opt->arg[0]) {
 					case 'c': Ctrl->T.mode = ML_CK1995;   break;
 					case 'g': Ctrl->T.mode = ML_GEEK2007; break;
